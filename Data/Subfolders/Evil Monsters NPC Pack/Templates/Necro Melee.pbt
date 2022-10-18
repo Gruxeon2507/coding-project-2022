@@ -7,7 +7,7 @@ Assets {
       RootId: 15102611556327554999
       Objects {
         Id: 15102611556327554999
-        Name: "Blackskull Melee"
+        Name: "Necro Melee"
         Transform {
           Scale {
             X: 1
@@ -26,7 +26,7 @@ Assets {
           }
           Overrides {
             Name: "cs:Team"
-            Int: 2
+            Int: 1
           }
           Overrides {
             Name: "cs:CurrentState"

@@ -10,9 +10,9 @@ Assets {
         Name: "Beastbone Boss - Wendigo"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 2
+            Y: 2
+            Z: 2
           }
         }
         ParentId: 4781671109827199097
@@ -34,27 +34,27 @@ Assets {
           }
           Overrides {
             Name: "cs:CurrentHealth"
-            Float: 5000
+            Float: 10000
           }
           Overrides {
             Name: "cs:MoveSpeed"
-            Float: 400
+            Float: 2000
           }
           Overrides {
             Name: "cs:TurnSpeed"
-            Float: 3
+            Float: 10
           }
           Overrides {
             Name: "cs:LogicalPeriod"
-            Float: 0.5
+            Float: 0.2
           }
           Overrides {
             Name: "cs:ReturnToSpawn"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "cs:VisionHalfAngle"
-            Float: 85
+            Float: 103
           }
           Overrides {
             Name: "cs:VisionRadius"
@@ -86,19 +86,19 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackMinAngle"
-            Float: 30
+            Float: 90
           }
           Overrides {
             Name: "cs:AttackCast"
-            Float: 0.5
+            Float: 0.1
           }
           Overrides {
             Name: "cs:AttackRecovery"
-            Float: 1
+            Float: 0.5
           }
           Overrides {
             Name: "cs:AttackCooldown"
-            Float: 1.5
+            Float: 0.5
           }
           Overrides {
             Name: "cs:IsPushable"
@@ -110,11 +110,11 @@ Assets {
           }
           Overrides {
             Name: "cs:RewardResourceAmount"
-            Int: 1
+            Int: 100
           }
           Overrides {
             Name: "cs:LootId"
-            String: "Common"
+            String: "Rare"
           }
           Overrides {
             Name: "cs:CurrentState:isrep"
@@ -1064,12 +1064,24 @@ Assets {
           Overrides {
             Name: "ma:0:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6346309621400470765
+              Id: 16115256768435341761
             }
           }
           Overrides {
             Name: "ma:0:Shared_BaseMaterial:smart"
             Bool: false
+          }
+          Overrides {
+            Name: "ma:0:Shared_Detail1:id"
+            AssetReference {
+              Id: 2259439896562680418
+            }
+          }
+          Overrides {
+            Name: "ma:0:Shared_Detail2:id"
+            AssetReference {
+              Id: 1861718381371180932
+            }
           }
         }
         Collidable_v2 {
@@ -1103,7 +1115,7 @@ Assets {
               ShouldLoop: true
             }
             SkinnedMeshes {
-              Id: 11460482838132526847
+              Id: 136779986275450410
             }
             SkinnedMeshes {
               Id: 841534158063459245
@@ -7552,11 +7564,11 @@ Assets {
           }
           Overrides {
             Name: "cs:DamageToPlayers"
-            Int: 15
+            Int: 100
           }
           Overrides {
             Name: "cs:DamageToNPCs"
-            Float: 20
+            Float: 200
           }
           Overrides {
             Name: "cs:ProjectileBody"
@@ -7584,11 +7596,11 @@ Assets {
           }
           Overrides {
             Name: "cs:ProjectileLifeSpan"
-            Float: 0.11
+            Float: 0.2
           }
           Overrides {
             Name: "cs:ProjectileSpeed"
-            Float: 50
+            Float: 1000
           }
           Overrides {
             Name: "cs:ProjectileGravity"
@@ -7802,12 +7814,12 @@ Assets {
       }
     }
     Assets {
-      Id: 11460482838132526847
-      Name: "Humanoid 2 Zed"
+      Id: 136779986275450410
+      Name: "Humanoid 2 Minh"
       PlatformAssetType: 26
       PrimaryAsset {
         AssetType: "SkinnedMeshAssetRef"
-        AssetId: "npc_human_guy_head_basic_005_ref"
+        AssetId: "npc_human_guy_head_basic_002_ref"
       }
     }
     Assets {

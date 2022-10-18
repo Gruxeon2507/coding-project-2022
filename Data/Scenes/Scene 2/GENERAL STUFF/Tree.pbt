@@ -209,58 +209,6 @@ Objects {
   }
 }
 Objects {
-  Id: 5726195536289027586
-  Name: "Shift to Sprint"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11171777541144714955
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 9282214366166580901
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Shift to Sprint"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "cs:WalkSpeed"
-          Float: 1000
-        }
-        Overrides {
-          Name: "cs:RunSpeed"
-          Float: 2000
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 2692604387192946033
-    }
-  }
-}
-Objects {
   Id: 14504469766934732177
   Name: "ItemSystems"
   Transform {

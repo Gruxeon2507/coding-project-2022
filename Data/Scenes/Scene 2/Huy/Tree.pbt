@@ -1,6 +1,40 @@
 Name: "Huy"
 RootId: 15918870263925965377
 Objects {
+  Id: 6778773877952685914
+  Name: "Shift to Sprint"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15918870263925965377
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9282214366166580901
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Shift to Sprint"
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 2692604387192946033
+    }
+  }
+}
+Objects {
   Id: 4368566441190286707
   Name: "LEVEL AND STAT SHEET"
   Transform {

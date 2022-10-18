@@ -1,0 +1,92 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "ad0cd8d1cf4342debbcf279dd0c5c9f1"
+  OwnerAccountId: "ae760112444d4911920145e902e5ec74"
+  OwnerName: "DreadwoodGames"
+  Version: "1.4.0"
+}
+AssetIdsOriginalToNew {
+  key: 944973206458505671
+  value: 3963432317852292661
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 14809829146051518887
+}
+AssetIdsOriginalToNew {
+  key: 1515853368098842355
+  value: 3173719051158634658
+}
+AssetIdsOriginalToNew {
+  key: 1583226035276894740
+  value: 11049189280667390727
+}
+AssetIdsOriginalToNew {
+  key: 4828630106005547914
+  value: 1877002803251632285
+}
+AssetIdsOriginalToNew {
+  key: 5174372417370106694
+  value: 11445159153180207895
+}
+AssetIdsOriginalToNew {
+  key: 5878194158176070237
+  value: 7059464611563636033
+}
+AssetIdsOriginalToNew {
+  key: 6438512053645462559
+  value: 12004894501198792531
+}
+AssetIdsOriginalToNew {
+  key: 6544263138387382217
+  value: 10726148122493347876
+}
+AssetIdsOriginalToNew {
+  key: 6579964783895625807
+  value: 12566055581590491673
+}
+AssetIdsOriginalToNew {
+  key: 6855500067471853765
+  value: 17323743720043972972
+}
+AssetIdsOriginalToNew {
+  key: 7285404279635533362
+  value: 5394524559491389118
+}
+AssetIdsOriginalToNew {
+  key: 7513724076507678210
+  value: 16593220640100584504
+}
+AssetIdsOriginalToNew {
+  key: 9173788725853632151
+  value: 5316985967974379025
+}
+AssetIdsOriginalToNew {
+  key: 13464592805115399461
+  value: 6858699776477976856
+}
+AssetIdsOriginalToNew {
+  key: 14322467177085527410
+  value: 1709603359314651961
+}
+AssetIdsOriginalToNew {
+  key: 15021943554396979670
+  value: 15466849535604249867
+}
+AssetIdsOriginalToNew {
+  key: 16086579207183892604
+  value: 11052091609688116551
+}
+AssetIdsOriginalToNew {
+  key: 16583926991835636081
+  value: 12860261889472079623
+}
+AssetIdsOriginalToNew {
+  key: 17212542324053040903
+  value: 3681412024627304026
+}
+AssetIdsOriginalToNew {
+  key: 18384064466233727869
+  value: 15816672914000831199
+}
+HasDirtyManifestAssets: true

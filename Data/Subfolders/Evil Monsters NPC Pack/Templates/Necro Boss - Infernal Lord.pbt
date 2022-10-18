@@ -10,9 +10,9 @@ Assets {
         Name: "Necro Boss - Infernal Lord"
         Transform {
           Scale {
-            X: 1
-            Y: 1
-            Z: 1
+            X: 3.25000024
+            Y: 3.25000024
+            Z: 3.25000024
           }
         }
         ParentId: 4781671109827199097
@@ -26,7 +26,7 @@ Assets {
           }
           Overrides {
             Name: "cs:Team"
-            Int: 2
+            Int: 1
           }
           Overrides {
             Name: "cs:CurrentState"
@@ -34,11 +34,11 @@ Assets {
           }
           Overrides {
             Name: "cs:CurrentHealth"
-            Float: 5000
+            Float: 50000
           }
           Overrides {
             Name: "cs:MoveSpeed"
-            Float: 400
+            Float: 2000
           }
           Overrides {
             Name: "cs:TurnSpeed"
@@ -82,23 +82,23 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackRange"
-            Float: 1000
+            Float: 2000
           }
           Overrides {
             Name: "cs:AttackMinAngle"
-            Float: 30
+            Float: 90
           }
           Overrides {
             Name: "cs:AttackCast"
-            Float: 0.5
+            Float: 0.3
           }
           Overrides {
             Name: "cs:AttackRecovery"
-            Float: 1
+            Float: 0.3
           }
           Overrides {
             Name: "cs:AttackCooldown"
-            Float: 1.5
+            Float: 0.3
           }
           Overrides {
             Name: "cs:IsPushable"
@@ -110,11 +110,11 @@ Assets {
           }
           Overrides {
             Name: "cs:RewardResourceAmount"
-            Int: 1
+            Int: 1000
           }
           Overrides {
             Name: "cs:LootId"
-            String: "Common"
+            String: "Legendary"
           }
           Overrides {
             Name: "cs:CurrentState:isrep"
@@ -9234,11 +9234,11 @@ Assets {
           }
           Overrides {
             Name: "cs:DamageToPlayers"
-            Int: 15
+            Int: 1000
           }
           Overrides {
             Name: "cs:DamageToNPCs"
-            Float: 20
+            Float: 500
           }
           Overrides {
             Name: "cs:ProjectileBody"
@@ -9266,11 +9266,11 @@ Assets {
           }
           Overrides {
             Name: "cs:ProjectileSpeed"
-            Float: 1300
+            Float: 2000
           }
           Overrides {
             Name: "cs:ProjectileHoming"
-            Bool: false
+            Bool: true
           }
           Overrides {
             Name: "cs:ProjectileGravity"

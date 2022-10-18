@@ -1,9 +1,25 @@
 Entries {
   Key {
-    StringVar: "hasJoinedBefore"
+    StringVar: "ammo_556"
   }
   SimpleValue {
-    BoolVar: true
+    IntVar: 30
+  }
+}
+Entries {
+  Key {
+    StringVar: "reqxp"
+  }
+  SimpleValue {
+    IntVar: 120
+  }
+}
+Entries {
+  Key {
+    StringVar: "basic_rifle"
+  }
+  SimpleValue {
+    IntVar: 1
   }
 }
 Entries {
@@ -17,26 +33,10 @@ Entries {
           StringVar: "experience"
         }
         SimpleValue {
-          IntVar: 13034871
+          IntVar: 13035214
         }
       }
     }
-  }
-}
-Entries {
-  Key {
-    StringVar: "reqxp"
-  }
-  SimpleValue {
-    IntVar: 120
-  }
-}
-Entries {
-  Key {
-    StringVar: "ammo_556"
-  }
-  SimpleValue {
-    IntVar: 30
   }
 }
 Entries {
@@ -49,6 +49,55 @@ Entries {
 }
 Entries {
   Key {
+    StringVar: "hasJoinedBefore"
+  }
+  SimpleValue {
+    BoolVar: true
+  }
+}
+Entries {
+  Key {
+    StringVar: "QSinventory"
+  }
+  SimpleValue {
+    StringVar: "P"
+  }
+}
+Entries {
+  Key {
+    StringVar: "equipment"
+  }
+  SimpleValue {
+    Table {
+      Entries {
+        Key {
+          StringVar: "root"
+        }
+        SimpleValue {
+          StringVar: "EC66191293D0FE26"
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "right_prop"
+        }
+        SimpleValue {
+          StringVar: "0AA4BA006486C06E"
+        }
+      }
+    }
+  }
+}
+Entries {
+  Key {
+    StringVar: "inventoryHash"
+  }
+  SimpleValue {
+    StringVar: "P"
+  }
+}
+Entries {
+  Key {
     StringVar: "Coins"
   }
   SimpleValue {
@@ -57,10 +106,75 @@ Entries {
 }
 Entries {
   Key {
-    StringVar: "basic_rifle"
+    StringVar: "resources"
   }
   SimpleValue {
-    IntVar: 1
+    Table {
+      Entries {
+        Key {
+          StringVar: "Level"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "ItemSystems_Level"
+        }
+        SimpleValue {
+          IntVar: 99
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "B35B740BE2E9D803"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "XP"
+        }
+        SimpleValue {
+          IntVar: 14
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Coins"
+        }
+        SimpleValue {
+          IntVar: 2
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "474D247C054278D3"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "EC66191293D0FE26"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "ItemSystems_XP"
+        }
+        SimpleValue {
+          IntVar: 13034885
+        }
+      }
+    }
   }
 }
 Entries {
@@ -69,13 +183,5 @@ Entries {
   }
   SimpleValue {
     IntVar: 8
-  }
-}
-Entries {
-  Key {
-    StringVar: "inventoryHash"
-  }
-  SimpleValue {
-    StringVar: "P<EMainHand>P01363751B18F333D|baaa|b|b|#Attack=Oaaa&Haste=haaa|<0>;<EOffHand>P3B964691CA80BECE|baaa|b|b|#Defense=qaaa|<0>;<EHead>PB89BAC64867D1636|baaa|b|b|#CritChance=haaa#Defense=gaaa#Magic=faaa|<0>;<EAccessory>P4FD5CAE728769758|baaa|b|b|#CritChance=haaa|<0>;<Bb>P4116D7300D52F2CC|ibaa|b|b||<0>;<Bc>P01363751B18F333D|baaa|b|b|#Attack=Maaa&Magic=jaaa|<0>;<Bd>P2907515507F6C871|baaa|b|b|#CritChance=gaaa#Defense=kaaa#Magic=jaaa|<0>;<Be>P01363751B18F333D|baaa|b|b|#Attack=Qaaa&Haste=kaaa|<0>;<Bf>PB89BAC64867D1636|baaa|b|b|#CritChance=iaaa#Defense=kaaa#Magic=gaaa|<0>;"
   }
 }

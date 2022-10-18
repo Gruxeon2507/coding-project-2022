@@ -34,15 +34,15 @@ Assets {
           }
           Overrides {
             Name: "cs:CurrentHealth"
-            Float: 300
+            Float: 10000
           }
           Overrides {
             Name: "cs:MoveSpeed"
-            Float: 650
+            Float: 10000
           }
           Overrides {
             Name: "cs:TurnSpeed"
-            Float: 2
+            Float: 10
           }
           Overrides {
             Name: "cs:LogicalPeriod"
@@ -82,11 +82,11 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackRange"
-            Float: 250
+            Float: 150
           }
           Overrides {
             Name: "cs:AttackMinAngle"
-            Float: 25
+            Float: 90
           }
           Overrides {
             Name: "cs:AttackCast"
@@ -94,11 +94,11 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackRecovery"
-            Float: 1
+            Float: 0.2
           }
           Overrides {
             Name: "cs:AttackCooldown"
-            Float: 1.5
+            Float: 0.2
           }
           Overrides {
             Name: "cs:IsPushable"
@@ -386,7 +386,7 @@ Assets {
           }
           Overrides {
             Name: "cs:DamageToPlayers"
-            Int: 20
+            Int: 300
           }
           Overrides {
             Name: "cs:DamageToNPCs"
@@ -418,11 +418,11 @@ Assets {
           }
           Overrides {
             Name: "cs:ProjectileLifeSpan"
-            Float: 0.11
+            Float: 5
           }
           Overrides {
             Name: "cs:ProjectileSpeed"
-            Float: 50
+            Float: 5000
           }
           Overrides {
             Name: "cs:ProjectileGravity"
@@ -538,16 +538,16 @@ Assets {
         Name: "Collider"
         Transform {
           Location {
-            X: -41.3066406
-            Z: 72.4538574
+            X: -263.47525
+            Z: 108.137146
           }
           Rotation {
-            Pitch: -65.27005
+            Pitch: -85.2704163
           }
           Scale {
-            X: 1.04660988
+            X: 1.50000167
             Y: 1.07596874
-            Z: 1.11260498
+            Z: 2.75
           }
         }
         ParentId: 16661545407737424176

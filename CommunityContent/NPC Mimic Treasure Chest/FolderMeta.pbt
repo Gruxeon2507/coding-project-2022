@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "9261d14bc08a4dd7b331d81cf8487070"
+  OwnerAccountId: "e6df8617a8e94a57aae55ade80a7981f"
+  OwnerName: "marious0423"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 16210781611692740986
+}
+AssetIdsOriginalToNew {
+  key: 1188219882784263318
+  value: 4968696529477287406
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 1121468926507733185
+}
+AssetIdsOriginalToNew {
+  key: 2003752736780784297
+  value: 17456413306871958106
+}
+AssetIdsOriginalToNew {
+  key: 5875676865760816467
+  value: 14671926832605179766
+}
+AssetIdsOriginalToNew {
+  key: 7122375044304300527
+  value: 8918089961709851515
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 8615157085386582984
+}
+AssetIdsOriginalToNew {
+  key: 8371916764649167341
+  value: 3350209602479920937
+}
+AssetIdsOriginalToNew {
+  key: 9188812799491219244
+  value: 1800635859528621235
+}
+AssetIdsOriginalToNew {
+  key: 9260761643993631462
+  value: 15885391538620330582
+}
+AssetIdsOriginalToNew {
+  key: 9398794471660757162
+  value: 16617035455256923558
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 11959476807558271896
+}
+AssetIdsOriginalToNew {
+  key: 13567893298430297292
+  value: 2888619269519369063
+}
+AssetIdsOriginalToNew {
+  key: 13810219444517492482
+  value: 11420682399721890671
+}
+AssetIdsOriginalToNew {
+  key: 13985674848852715304
+  value: 8589086195928231845
+}
+AssetIdsOriginalToNew {
+  key: 14158473588369519568
+  value: 4963066148003488607
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 2903592821396776532
+}
+AssetIdsOriginalToNew {
+  key: 14617106236208410332
+  value: 16417651531662360295
+}
+AssetIdsOriginalToNew {
+  key: 14738801728775667993
+  value: 6263795951009101299
+}
+AssetIdsOriginalToNew {
+  key: 15636749404113921442
+  value: 11646758236440182465
+}
+AssetIdsOriginalToNew {
+  key: 16015389280450496348
+  value: 8756645236439948793
+}
+AssetIdsOriginalToNew {
+  key: 17367449922255341506
+  value: 2541845406079705035
+}
