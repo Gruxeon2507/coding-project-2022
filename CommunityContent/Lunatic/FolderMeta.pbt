@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "7efdca6801574622a8a4133614ec8710"
+  OwnerAccountId: "07dfa34fc6c7469f84bc2e5898d6cf15"
+  OwnerName: "neekorin"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 544293475886835733
+  value: 11175278724012418215
+}
+AssetIdsOriginalToNew {
+  key: 818044419053614111
+  value: 504510695556867937
+}
+AssetIdsOriginalToNew {
+  key: 2351067389433231005
+  value: 14180262570263323658
+}
+AssetIdsOriginalToNew {
+  key: 3875830725285389341
+  value: 14701904309349350580
+}
+AssetIdsOriginalToNew {
+  key: 3908110495107565482
+  value: 9347389699237115930
+}
+AssetIdsOriginalToNew {
+  key: 4007231169639194229
+  value: 11564066928023697241
+}
+AssetIdsOriginalToNew {
+  key: 4929294834701092945
+  value: 11008903712021610827
+}
+AssetIdsOriginalToNew {
+  key: 4954804318961862534
+  value: 6395270172745688354
+}
+AssetIdsOriginalToNew {
+  key: 5136117059034551451
+  value: 3019862648462317863
+}
+AssetIdsOriginalToNew {
+  key: 10525299099476369280
+  value: 4065596158744225993
+}
+AssetIdsOriginalToNew {
+  key: 10827641354523305530
+  value: 13690240403627043692
+}
+AssetIdsOriginalToNew {
+  key: 10951275910953693011
+  value: 12483579131104909045
+}
+AssetIdsOriginalToNew {
+  key: 11215280290514908357
+  value: 2620149387055218886
+}
+AssetIdsOriginalToNew {
+  key: 11216124620981812404
+  value: 1573591128571505893
+}
+AssetIdsOriginalToNew {
+  key: 12126985467516093192
+  value: 15454085981410523904
+}
+AssetIdsOriginalToNew {
+  key: 12195494719487305863
+  value: 7877561113438028218
+}
+AssetIdsOriginalToNew {
+  key: 12781626252870395351
+  value: 14399996001392734800
+}
+AssetIdsOriginalToNew {
+  key: 13383740722643461760
+  value: 15547620731299719071
+}
+AssetIdsOriginalToNew {
+  key: 15956992778243584172
+  value: 1858979171017383697
+}
+AssetIdsOriginalToNew {
+  key: 16513550655107483601
+  value: 18173532476091581609
+}
+AssetIdsOriginalToNew {
+  key: 17915540088449756746
+  value: 7406942788989818045
+}
+AssetIdsOriginalToNew {
+  key: 17932197088580689494
+  value: 9044868387877273723
+}

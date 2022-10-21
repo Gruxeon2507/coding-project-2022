@@ -1,5 +1,5 @@
 Assets {
-  Id: 12864463004505186941
+  Id: 15300086084714398366
   Name: "SFX_Denied"
   PlatformAssetType: 5
   TemplateAsset {

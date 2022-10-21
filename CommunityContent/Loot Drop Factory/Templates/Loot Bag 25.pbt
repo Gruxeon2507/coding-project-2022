@@ -1,5 +1,5 @@
 Assets {
-  Id: 12055143883982222474
+  Id: 14574872451239973475
   Name: "Loot Bag 25"
   PlatformAssetType: 5
   TemplateAsset {
@@ -41,13 +41,13 @@ Assets {
           Overrides {
             Name: "cs:AbilityPickupLoot"
             AssetReference {
-              Id: 5308137621895145721
+              Id: 7060127576884107883
             }
           }
           Overrides {
             Name: "cs:AbilityPickupLootHigh"
             AssetReference {
-              Id: 9694772164071968744
+              Id: 10186701404182078936
             }
           }
           Overrides {
@@ -57,7 +57,7 @@ Assets {
           Overrides {
             Name: "cs:PickupFX"
             AssetReference {
-              Id: 13625239944947009635
+              Id: 3524569284386338021
             }
           }
         }
@@ -110,7 +110,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10200672048528069488
+            Id: 3757857400070737639
           }
         }
         NetworkRelevanceDistance {
@@ -247,7 +247,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7371733325150862439
+            Id: 9478393207087179533
           }
         }
         NetworkRelevanceDistance {

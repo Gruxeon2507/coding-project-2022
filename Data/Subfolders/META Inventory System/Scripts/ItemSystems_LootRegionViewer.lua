@@ -48,16 +48,6 @@ local function OnLootAddedToFolder(_,item)
     lootRegions.AddItemToRegion(item)
 end
 
--- Returns true if the player owns the loot.
--- @param owningPlayer string
--- @param player Player
-local function IsOwner(owningPlayer,player)
-    if owningPlayer == "None" or owningPlayer == player.id then
-        return true
-    end
-    return false
-end
-
 function Tick()
     local playerPos = LOCALPLAYER:GetWorldPosition()
     -- This iterates through the neihboring regions relative to the player to see if there is nearby loot.
@@ -67,11 +57,10 @@ function Tick()
             if #lootPickups > 0 then
                 for _, lootDrop in pairs(lootPickups) do
                     if Object.IsValid(lootDrop) then
-                        local LOOTINFO = lootDrop:GetCustomProperty("LOOTINFO")
-                        local OWNER = lootDrop:GetCustomProperty("OWNER")
+                        local lootInfo = lootDrop:GetCustomProperty("LOOTINFO")
                         -- We must wait for the loot info to populate as the object may exist, but the loot info has not yet.
-                        if LOOTINFO ~= "" and IsOwner(OWNER,LOCALPLAYER) and (lootDrop:GetWorldPosition() - playerPos).size < MAX_DISTANCE then
-                            inventory:RegisterLootItem(LOOTINFO)
+                        if lootInfo ~= "" and (lootDrop:GetWorldPosition() - playerPos).size < MAX_DISTANCE then
+                            inventory:RegisterLootItem(lootInfo)
                             if DEBUG_DISTCHECKS then
                                 CoreDebug.DrawLine(lootDrop:GetWorldPosition(), playerPos, {
                                     duration = 0.01,
@@ -79,8 +68,8 @@ function Tick()
                                     thickness = 5
                                 })
                             end
-                        elseif LOOTINFO ~= "" and OWNER ~= "" then
-                            local id = LOOTINFO:match("^(.*)@(.*)$")
+                        elseif lootInfo ~= "" then
+                            local id = lootInfo:match("^(.*)@(.*)$")
                             inventory:UnRegisterLootItem(id)
                             if DEBUG_DISTCHECKS then
                                 CoreDebug.DrawLine(lootDrop:GetWorldPosition(), playerPos, {

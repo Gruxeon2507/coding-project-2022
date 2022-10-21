@@ -432,8 +432,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "None"
-      AssetId: "None"
+      AssetType: "TemplateAssetRef"
+      AssetId: "Cast_Bar"
     }
   }
   SerializationVersion: 119

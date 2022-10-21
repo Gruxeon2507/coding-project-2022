@@ -1,5 +1,5 @@
 Assets {
-  Id: 10847223752990912447
+  Id: 8924252308785028152
   Name: "Sword Melee Swing Sound"
   PlatformAssetType: 5
   TemplateAsset {

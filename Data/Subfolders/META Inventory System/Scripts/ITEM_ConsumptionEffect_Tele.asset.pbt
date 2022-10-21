@@ -1,5 +1,5 @@
 Assets {
-  Id: 7595924757171764978
+  Id: 13807698830851000862
   Name: "ITEM_ConsumptionEffect_Tele"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:RuntimeContextDetection"
         AssetReference {
-          Id: 518092930446871460
+          Id: 2399726514362504897
         }
       }
     }

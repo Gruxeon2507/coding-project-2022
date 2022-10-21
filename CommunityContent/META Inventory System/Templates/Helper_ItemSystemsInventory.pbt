@@ -1,5 +1,5 @@
 Assets {
-  Id: 1866698664634704217
+  Id: 12164685361815576773
   Name: "Helper_ItemSystemsInventory"
   PlatformAssetType: 5
   TemplateAsset {
@@ -187,7 +187,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10944160507488889379
+            Id: 6478107108871215574
           }
         }
         NetworkRelevanceDistance {
@@ -269,7 +269,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10944160507488889379
+            Id: 6478107108871215574
           }
         }
         NetworkRelevanceDistance {
@@ -311,7 +311,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4755785382926801523
+            Id: 14044622532559284940
           }
         }
         NetworkRelevanceDistance {
@@ -344,13 +344,13 @@ Assets {
           Overrides {
             Name: "cs:ItemSystems_Database"
             AssetReference {
-              Id: 7063384659605169467
+              Id: 12066301023824055680
             }
           }
           Overrides {
             Name: "cs:ItemSystems_Item"
             AssetReference {
-              Id: 7341781791440185537
+              Id: 14049647701082332193
             }
           }
         }
@@ -366,7 +366,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3764922224839892693
+            Id: 4329016305856272826
           }
         }
         NetworkRelevanceDistance {

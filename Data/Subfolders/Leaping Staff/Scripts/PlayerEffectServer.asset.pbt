@@ -1,5 +1,5 @@
 Assets {
-  Id: 11107100668333432703
+  Id: 17307350600087501064
   Name: "PlayerEffectServer"
   PlatformAssetType: 3
   TextAsset {

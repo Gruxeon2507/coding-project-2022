@@ -1,5 +1,5 @@
 Assets {
-  Id: 2274004882370885754
+  Id: 2010145039617200450
   Name: "NPCAttackServer"
   PlatformAssetType: 3
   TextAsset {
@@ -7,13 +7,13 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 7090718798602621757
+          Id: 13336707952543016785
         }
       }
       Overrides {
         Name: "cs:DestructibleManager"
         AssetReference {
-          Id: 1707374049174160095
+          Id: 6030612999120820210
         }
       }
       Overrides {
@@ -84,7 +84,7 @@ Assets {
       Overrides {
         Name: "cs:QUESTDATA"
         AssetReference {
-          Id: 13815302889335263726
+          Id: 2077646138565359701
         }
       }
       Overrides {

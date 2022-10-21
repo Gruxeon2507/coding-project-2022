@@ -1,5 +1,5 @@
 Assets {
-  Id: 7194766551821627634
+  Id: 9601316137296412368
   Name: "Generic Trail"
   PlatformAssetType: 5
   TemplateAsset {

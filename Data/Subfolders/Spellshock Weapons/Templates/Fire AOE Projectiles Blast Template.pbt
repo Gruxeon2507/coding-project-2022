@@ -1,5 +1,5 @@
 Assets {
-  Id: 6476779484149093720
+  Id: 824822947016407409
   Name: "Fire AOE Projectiles Blast Template"
   PlatformAssetType: 5
   TemplateAsset {
@@ -26,7 +26,7 @@ Assets {
           Overrides {
             Name: "cs:Projectile"
             AssetReference {
-              Id: 309064136015498588
+              Id: 2467801199380637699
             }
           }
           Overrides {
@@ -58,13 +58,13 @@ Assets {
           Overrides {
             Name: "cs:ProjectileImpactAligned"
             AssetReference {
-              Id: 16591412426475472113
+              Id: 6943333668856825659
             }
           }
           Overrides {
             Name: "cs:BlastImpactTemplate"
             AssetReference {
-              Id: 232919317319236736
+              Id: 8912368573622694351
             }
           }
           Overrides {
@@ -109,7 +109,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerEffectTemplate"
             AssetReference {
-              Id: 18370607394934692465
+              Id: 7358781774307562864
             }
           }
           Overrides {
@@ -167,13 +167,13 @@ Assets {
           Overrides {
             Name: "cs:API_Damage"
             AssetReference {
-              Id: 11303021471215683506
+              Id: 16915150100797142409
             }
           }
           Overrides {
             Name: "cs:API_Effect"
             AssetReference {
-              Id: 2530223038454916554
+              Id: 11192919480659211898
             }
           }
         }
@@ -189,7 +189,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1463942534513942623
+            Id: 13057608629500595803
           }
         }
         NetworkRelevanceDistance {

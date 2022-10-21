@@ -1,5 +1,5 @@
 Assets {
-  Id: 6019283059881602066
+  Id: 10537156747802639703
   Name: "AOETriggerEffectServer"
   PlatformAssetType: 3
   TextAsset {

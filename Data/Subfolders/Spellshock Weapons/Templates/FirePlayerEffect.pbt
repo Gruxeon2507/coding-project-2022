@@ -1,5 +1,5 @@
 Assets {
-  Id: 18370607394934692465
+  Id: 7358781774307562864
   Name: "FirePlayerEffect"
   PlatformAssetType: 5
   TemplateAsset {
@@ -431,7 +431,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16938719518268482956
+            Id: 7096596955692521783
           }
         }
         NetworkRelevanceDistance {

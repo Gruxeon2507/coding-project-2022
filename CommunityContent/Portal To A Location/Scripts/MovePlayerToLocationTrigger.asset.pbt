@@ -1,5 +1,5 @@
 Assets {
-  Id: 15285545069402530
+  Id: 9315085540111440732
   Name: "MovePlayerToLocationTrigger"
   PlatformAssetType: 3
   TextAsset {

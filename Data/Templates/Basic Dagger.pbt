@@ -185,7 +185,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7746727706869650872
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -220,7 +220,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2169012617440049722
+            Id: 3194930412626622494
           }
         }
         NetworkRelevanceDistance {
@@ -254,7 +254,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11371932781944267792
+            Id: 10251728999306098252
           }
         }
         NetworkRelevanceDistance {
@@ -291,7 +291,7 @@ Assets {
           Overrides {
             Name: "cs:DamageRange"
             Vector2 {
-              X: 9
+              X: 10
               Y: 12
             }
           }
@@ -414,7 +414,7 @@ Assets {
             Name: "cs:DamageRange"
             Vector2 {
               X: 15
-              Y: 18
+              Y: 19
             }
           }
           Overrides {
@@ -507,7 +507,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7862472184676115458
             }
           }
         }
@@ -522,7 +522,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10876654839906312645
+            Id: 10109220941690346490
           }
         }
         NetworkRelevanceDistance {
@@ -604,13 +604,13 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 945745754359355680
+              Id: 14782481216819325752
             }
           }
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 11226981310125063910
+              Id: 16673441874583589830
             }
           }
           Overrides {
@@ -637,7 +637,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -677,13 +677,13 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 11226981310125063910
+              Id: 16673441874583589830
             }
           }
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 945745754359355680
+              Id: 14782481216819325752
             }
           }
           Overrides {
@@ -714,7 +714,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -754,13 +754,13 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 11226981310125063910
+              Id: 16673441874583589830
             }
           }
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 945745754359355680
+              Id: 14782481216819325752
             }
           }
           Overrides {
@@ -781,7 +781,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -814,7 +814,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7862472184676115458
             }
           }
           Overrides {
@@ -877,7 +877,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7862472184676115458
             }
           }
           Overrides {
@@ -940,7 +940,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7862472184676115458
             }
           }
           Overrides {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 5682320459654862508
+  Id: 1031486529084784106
   Name: "LeapAbility"
   PlatformAssetType: 3
   TextAsset {
@@ -11,7 +11,7 @@ Assets {
       Overrides {
         Name: "cs:LeapEffects"
         AssetReference {
-          Id: 1065589251555634244
+          Id: 16680079163587302068
         }
       }
     }

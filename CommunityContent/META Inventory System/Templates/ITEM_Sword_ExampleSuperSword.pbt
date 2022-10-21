@@ -1,5 +1,5 @@
 Assets {
-  Id: 11240383344268469079
+  Id: 274928070905689233
   Name: "ITEM_Sword_ExampleSuperSword"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,19 +25,19 @@ Assets {
           Overrides {
             Name: "cs:PickupSound"
             AssetReference {
-              Id: 16833447902462472830
+              Id: 14166385743305531968
             }
           }
           Overrides {
             Name: "cs:SwingSound"
             AssetReference {
-              Id: 1279613081481984278
+              Id: 5386337246725603434
             }
           }
           Overrides {
             Name: "cs:PlayerImpact"
             AssetReference {
-              Id: 14499441336777091632
+              Id: 9266108870590452830
             }
           }
           Overrides {
@@ -174,7 +174,7 @@ Assets {
           Overrides {
             Name: "cs:SwingEffect"
             AssetReference {
-              Id: 13872833184171081003
+              Id: 3029308120779558577
             }
           }
           Overrides {
@@ -293,7 +293,7 @@ Assets {
           Overrides {
             Name: "cs:SwingEffect"
             AssetReference {
-              Id: 13872833184171081003
+              Id: 3029308120779558577
             }
           }
           Overrides {
@@ -399,6 +399,7 @@ Assets {
           }
         }
         ParentId: 8507313795634817657
+        ChildIds: 17345650183811864363
         ChildIds: 11170441688993912674
         ChildIds: 276815213591476127
         ChildIds: 18214356646281138747
@@ -414,6 +415,48 @@ Assets {
         }
         NetworkContext {
           Type: Server
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 17345650183811864363
+        Name: "EquipmentPickupServer"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 17153366650183265284
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:Trigger"
+            ObjectReference {
+              SelfId: 6907903927183883021
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Script {
+          ScriptAsset {
+            Id: 3519824683183723729
+          }
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -446,7 +489,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6521738371402385830
+            Id: 12077236100393049461
           }
         }
         NetworkRelevanceDistance {
@@ -473,13 +516,13 @@ Assets {
           Overrides {
             Name: "cs:ModuleManager"
             AssetReference {
-              Id: 7880097221962366412
+              Id: 8741131997088438667
             }
           }
           Overrides {
             Name: "cs:PlayerStats_Combat"
             AssetReference {
-              Id: 9903353132635070168
+              Id: 1706060084462002629
             }
           }
         }
@@ -494,7 +537,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3389007982530698819
+            Id: 13568274813977787400
           }
         }
         NetworkRelevanceDistance {
@@ -540,7 +583,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10586218651197243723
+            Id: 17510441623427006527
           }
         }
         NetworkRelevanceDistance {
@@ -1044,7 +1087,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15151453111637241412
+            Id: 14635638575137383892
           }
         }
         NetworkRelevanceDistance {
@@ -1080,7 +1123,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 683788096277079091
+            Id: 18014331327581929998
           }
         }
         NetworkRelevanceDistance {

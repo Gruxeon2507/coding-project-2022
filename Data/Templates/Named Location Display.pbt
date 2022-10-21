@@ -325,7 +325,7 @@ Assets {
           UseParentHeight: true
           Image {
             Brush {
-              Id: 13778967266379385506
+              Id: 16241833908851998054
             }
             Color {
               A: 0.7
@@ -518,7 +518,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 13778967266379385506
+              Id: 16241833908851998054
             }
             Color {
               A: 0.7
@@ -614,7 +614,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13778967266379385506
+      Id: 16241833908851998054
       Name: "BG Flat 001"
       PlatformAssetType: 9
       PrimaryAsset {
@@ -623,8 +623,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "None"
-      AssetId: "None"
+      AssetType: "TemplateAssetRef"
+      AssetId: "Named_Location_Display"
     }
   }
   SerializationVersion: 119

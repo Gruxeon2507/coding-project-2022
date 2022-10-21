@@ -1,5 +1,5 @@
 Assets {
-  Id: 9999652337237154739
+  Id: 7792057523651837049
   Name: "ScreenScoreboardControllerClient"
   PlatformAssetType: 3
   TextAsset {

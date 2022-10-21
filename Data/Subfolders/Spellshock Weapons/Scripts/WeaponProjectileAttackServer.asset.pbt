@@ -1,5 +1,5 @@
 Assets {
-  Id: 2548725528080068699
+  Id: 8574155579504195683
   Name: "WeaponProjectileAttackServer"
   PlatformAssetType: 3
   TextAsset {

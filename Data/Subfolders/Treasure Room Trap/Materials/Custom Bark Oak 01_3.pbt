@@ -1,5 +1,5 @@
 Assets {
-  Id: 10103050774270969581
+  Id: 11091670350877457270
   Name: "Custom Bark Oak 01_3"
   PlatformAssetType: 13
   SerializationVersion: 119

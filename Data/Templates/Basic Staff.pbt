@@ -26,7 +26,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 1674114743300152262
+              Id: 625035735719714076
             }
           }
           Overrides {
@@ -35,7 +35,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 1
+              A: 0.5
             }
           }
         }
@@ -56,16 +56,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 1562652561287603804
+              Id: 3696543723512829738
             }
             MuzzleFlashAssetRef {
-              Id: 17830733444028483327
+              Id: 3691668285842845988
             }
             TrailAssetRef {
-              Id: 6594300760119200196
+              Id: 16943198897384362849
             }
             ImpactAssetRef {
-              Id: 264648714946272960
+              Id: 3731118247202363736
             }
             UseReticle: true
             Muzzle {
@@ -77,10 +77,10 @@ Assets {
             }
             AnimationSet: "2hand_staff_stance"
             OutOfAmmoSfxAssetRef {
-              Id: 5244758831179159233
+              Id: 1518160165269425996
             }
             ReloadSfxAssetRef {
-              Id: 358921963373945693
+              Id: 8321817849622882250
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
@@ -94,7 +94,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 20000
             ImpactPlayerAssetRef {
-              Id: 945745754359355680
+              Id: 14373757464648078715
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -170,7 +170,7 @@ Assets {
           Overrides {
             Name: "cs:BlastImpactTemplate"
             AssetReference {
-              Id: 12422356412161467586
+              Id: 16946794819248017744
             }
           }
         }
@@ -256,7 +256,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11371932781944267792
+            Id: 10251728999306098252
           }
         }
         NetworkRelevanceDistance {
@@ -363,7 +363,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
         }
@@ -378,7 +378,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10876654839906312645
+            Id: 10109220941690346490
           }
         }
         NetworkRelevanceDistance {
@@ -411,16 +411,15 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 3352694274589927462
+              Id: 13957379385831993453
             }
           }
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 1
-              G: 1
-              B: 1
-              A: 1
+              R: 0.265232086
+              B: 0.450000048
+              A: 0.5
             }
           }
         }
@@ -468,7 +467,7 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 6666368025390213643
+              Id: 11830505573971306659
             }
           }
           Overrides {
@@ -477,7 +476,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 1
+              A: 0.5
             }
           }
         }
@@ -943,7 +942,7 @@ Assets {
             IsTargetDataUpdated: true
           }
           CooldownPhaseSettings {
-            Duration: 1
+            Duration: 0.23
             CanMove: true
             CanJump: true
             CanRotate: true
@@ -1012,30 +1011,30 @@ Assets {
       }
     }
     Assets {
-      Id: 1674114743300152262
-      Name: "Fantasy Staff 001"
+      Id: 625035735719714076
+      Name: "Staff"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Weapon_Staff_001"
+        AssetId: "UI_Fantasy_icon_Staff"
       }
     }
     Assets {
-      Id: 3352694274589927462
-      Name: "Fantasy Ability Purple 004"
+      Id: 13957379385831993453
+      Name: "Icon Explosion"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Ability_Purple_004"
+        AssetId: "Icon_Explosion"
       }
     }
     Assets {
-      Id: 6666368025390213643
-      Name: "Fantasy Ability Purple 012"
+      Id: 11830505573971306659
+      Name: "Icon Rotate"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Ability_Purple_012"
+        AssetId: "Icon_ArrowRotate"
       }
     }
     Assets {

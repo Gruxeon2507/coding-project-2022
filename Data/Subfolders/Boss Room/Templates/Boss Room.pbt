@@ -1,5 +1,5 @@
 Assets {
-  Id: 1837766109873661077
+  Id: 1807430077511665204
   Name: "Boss Room"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,7 +25,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 13966693734297469596
+              Id: 15231383384989361935
             }
           }
         }

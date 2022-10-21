@@ -1,5 +1,5 @@
 Assets {
-  Id: 8561370714911821727
+  Id: 1958346074067962323
   Name: "ItemSystem_NPCCombat"
   PlatformAssetType: 3
   TextAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 4494151283433765838
+  Id: 18394002155784329196
   Name: "CrossbowArrowTrail"
   PlatformAssetType: 5
   TemplateAsset {

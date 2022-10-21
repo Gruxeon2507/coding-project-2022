@@ -109,7 +109,4 @@ Assets {
     }
   }
   SerializationVersion: 119
-  VirtualFolderPath: "Weapons"
-  VirtualFolderPath: "Melee"
-  VirtualFolderPath: "Dependecies"
 }

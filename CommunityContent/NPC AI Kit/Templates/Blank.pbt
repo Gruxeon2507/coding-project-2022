@@ -1,5 +1,5 @@
 Assets {
-  Id: 5063043080021025695
+  Id: 3422967148721140849
   Name: "Blank"
   PlatformAssetType: 5
   TemplateAsset {

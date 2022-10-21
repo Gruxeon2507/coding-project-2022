@@ -1,5 +1,5 @@
 Assets {
-  Id: 15830247601454196221
+  Id: 3222042287547308441
   Name: "NPCAIClient"
   PlatformAssetType: 3
   TextAsset {
@@ -20,6 +20,31 @@ Assets {
         }
       }
       Overrides {
+        Name: "cs:Sleeping"
+        ObjectReference {
+        }
+      }
+      Overrides {
+        Name: "cs:Engaging"
+        ObjectReference {
+        }
+      }
+      Overrides {
+        Name: "cs:Attacking"
+        ObjectReference {
+        }
+      }
+      Overrides {
+        Name: "cs:Patrolling"
+        ObjectReference {
+        }
+      }
+      Overrides {
+        Name: "cs:Dead"
+        ObjectReference {
+        }
+      }
+      Overrides {
         Name: "cs:Root:tooltip"
         String: "A reference to the root of the template, where most of the NPC\'s custom properties are set."
       }
@@ -30,6 +55,26 @@ Assets {
       Overrides {
         Name: "cs:GeoRoot:tooltip"
         String: "The group under which is all the artwork for the NPC. At runtime it becomes detached from the whole template to avoid the network jitter and produce smooth movement of the NPC\'s visual parts."
+      }
+      Overrides {
+        Name: "cs:Sleeping:tooltip"
+        String: "Group to keep visibile while the NPC is sleeping."
+      }
+      Overrides {
+        Name: "cs:Engaging:tooltip"
+        String: "Group to keep visibile while the NPC is moving towards and engaging an enemy."
+      }
+      Overrides {
+        Name: "cs:Attacking:tooltip"
+        String: "Group to keep visibile while the NPC is executing an attack."
+      }
+      Overrides {
+        Name: "cs:Patrolling:tooltip"
+        String: "Group to keep visibile while the NPC is patrolling between waypoints."
+      }
+      Overrides {
+        Name: "cs:Dead:tooltip"
+        String: "Group to keep visibile while the NPC is dying."
       }
     }
   }

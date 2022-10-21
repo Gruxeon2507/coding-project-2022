@@ -1,5 +1,5 @@
 Assets {
-  Id: 13596010993404500492
+  Id: 17825795057437356572
   Name: "Hammer Blast Edge Material"
   PlatformAssetType: 13
   SerializationVersion: 119

@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 11770017086520875513
+    BaseMaterialId: 17985044124906445811
     ParameterOverrides {
       Overrides {
         Name: "u_tiles"
@@ -92,7 +92,7 @@ Assets {
       }
     }
     Assets {
-      Id: 11770017086520875513
+      Id: 17985044124906445811
       Name: "Dragon Scales 01"
       PlatformAssetType: 2
       PrimaryAsset {

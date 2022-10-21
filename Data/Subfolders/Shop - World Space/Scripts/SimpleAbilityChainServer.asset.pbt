@@ -1,5 +1,5 @@
 Assets {
-  Id: 6796969267533693484
+  Id: 8373416620123088091
   Name: "SimpleAbilityChainServer"
   PlatformAssetType: 3
   TextAsset {

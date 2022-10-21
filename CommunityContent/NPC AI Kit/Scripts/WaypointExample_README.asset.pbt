@@ -1,5 +1,5 @@
 Assets {
-  Id: 5886132240695774379
+  Id: 12073321368713778252
   Name: "WaypointExample_README"
   PlatformAssetType: 3
   TextAsset {

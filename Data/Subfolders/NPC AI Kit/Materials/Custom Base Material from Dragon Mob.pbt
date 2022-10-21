@@ -1,5 +1,5 @@
 Assets {
-  Id: 3040509751564106722
+  Id: 3998518825028915673
   Name: "Custom Base Material from Dragon Mob"
   PlatformAssetType: 13
   SerializationVersion: 119

@@ -1,5 +1,5 @@
 Assets {
-  Id: 17494347084763479858
+  Id: 6462419740326481285
   Name: "NPCHealthBarDataProviderClient"
   PlatformAssetType: 3
   TextAsset {
@@ -12,7 +12,7 @@ Assets {
       Overrides {
         Name: "cs:HealthBarTemplate"
         AssetReference {
-          Id: 1444866233500208857
+          Id: 12779325614014453268
         }
       }
       Overrides {

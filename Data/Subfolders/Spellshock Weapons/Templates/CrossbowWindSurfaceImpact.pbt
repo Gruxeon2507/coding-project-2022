@@ -1,5 +1,5 @@
 Assets {
-  Id: 6396976091867665853
+  Id: 11501218222304219488
   Name: "CrossbowWindSurfaceImpact"
   PlatformAssetType: 5
   TemplateAsset {

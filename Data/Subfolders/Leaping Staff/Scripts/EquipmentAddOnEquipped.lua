@@ -11,7 +11,7 @@ local function OnEquipped(whichEquipment, player)
     if Object.IsValid(newEquipRef) then
         newEquipRef.socket = propSocket
         newEquipRef:Equip(player)
-        newEquipRef.visibility = Visibility.INHERIT
+        newEquipRef.visibility = Visibility.FORCE_ON
     end
 end
 

@@ -31,7 +31,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 16491613473146445688
+              Id: 15201232689808388272
             }
           }
           Overrides {
@@ -185,7 +185,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7746727706869650872
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -220,7 +220,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2169012617440049722
+            Id: 3194930412626622494
           }
         }
         NetworkRelevanceDistance {
@@ -256,7 +256,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11371932781944267792
+            Id: 10251728999306098252
           }
         }
         NetworkRelevanceDistance {
@@ -509,7 +509,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
         }
@@ -524,7 +524,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10876654839906312645
+            Id: 10109220941690346490
           }
         }
         NetworkRelevanceDistance {
@@ -606,7 +606,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 10877422977956800599
+              Id: 9899579869725936103
             }
           }
           Overrides {
@@ -618,7 +618,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 1482078494010751229
+              Id: 17134926086803901810
             }
           }
         }
@@ -633,7 +633,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -673,13 +673,13 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 1482078494010751229
+              Id: 17134926086803901810
             }
           }
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 10877422977956800599
+              Id: 9899579869725936103
             }
           }
           Overrides {
@@ -699,7 +699,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -739,13 +739,13 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 3515487707158558225
+              Id: 3713011879827708848
             }
           }
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 10877422977956800599
+              Id: 9899579869725936103
             }
           }
           Overrides {
@@ -766,7 +766,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -799,22 +799,16 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 1
-              G: 1
+              R: 0.209999979
+              G: 0.827350616
               B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "cs:Icon"
-            AssetReference {
-              Id: 15618348210172860107
+              A: 0.5
             }
           }
         }
@@ -862,22 +856,16 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 1
-              G: 1
+              R: 0.209999979
+              G: 0.827350616
               B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "cs:Icon"
-            AssetReference {
-              Id: 15618348210172860107
+              A: 0.5
             }
           }
         }
@@ -925,22 +913,16 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 1
-              G: 1
+              R: 0.209999979
+              G: 0.827350616
               B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "cs:Icon"
-            AssetReference {
-              Id: 15618348210172860107
+              A: 0.5
             }
           }
         }
@@ -1321,7 +1303,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 1595424494571725060
+              Id: 5624783377100454583
             }
           }
         }
@@ -1496,7 +1478,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 1595424494571725060
+              Id: 5624783377100454583
             }
           }
         }
@@ -1551,7 +1533,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 8047241700942925622
+              Id: 16148253225801908446
             }
           }
         }
@@ -1664,7 +1646,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6552462114035484549
+              Id: 17777965235899846507
             }
           }
         }
@@ -1719,7 +1701,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2468352970036491080
+              Id: 7413726224480865410
             }
           }
         }
@@ -2080,21 +2062,12 @@ Assets {
       }
     }
     Assets {
-      Id: 16491613473146445688
-      Name: "Fantasy Sword 016"
+      Id: 15201232689808388272
+      Name: "Icon Weapon Sword"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Weapon_Sword_016"
-      }
-    }
-    Assets {
-      Id: 15618348210172860107
-      Name: "Fantasy Ability Blue 049"
-      PlatformAssetType: 9
-      PrimaryAsset {
-        AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Ability_Blue_049"
+        AssetId: "Icon_WeaponSword"
       }
     }
     Assets {

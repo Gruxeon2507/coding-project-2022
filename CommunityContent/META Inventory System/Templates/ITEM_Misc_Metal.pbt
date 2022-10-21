@@ -1,5 +1,5 @@
 Assets {
-  Id: 1966989491363813225
+  Id: 17642253619392002747
   Name: "ITEM_Misc_Metal"
   PlatformAssetType: 5
   TemplateAsset {

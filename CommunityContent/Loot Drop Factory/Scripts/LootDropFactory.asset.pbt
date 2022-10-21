@@ -1,5 +1,5 @@
 Assets {
-  Id: 5205218031741355744
+  Id: 1463369150430745040
   Name: "LootDropFactory"
   PlatformAssetType: 3
   TextAsset {

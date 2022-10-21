@@ -1,5 +1,5 @@
 Assets {
-  Id: 5219357586570062712
+  Id: 10576917061578179719
   Name: "SFX_InventorySalvageConfirm"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 15208321297274815436
+  Id: 4964867811819012946
   Name: "AbilityVFXTriggerClient"
   PlatformAssetType: 3
   TextAsset {

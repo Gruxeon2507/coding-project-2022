@@ -1,5 +1,5 @@
 Assets {
-  Id: 15204145168453569907
+  Id: 10928657730810150471
   Name: "NPCManager"
   PlatformAssetType: 3
   TextAsset {

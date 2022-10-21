@@ -1,25 +1,64 @@
 Assets {
-  Id: 162304785043233588
+  Id: 9244387159200779854
   Name: "Spellshock Weapons"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 3505339511984760028
+      RootId: 13629831540437135195
       Objects {
-        Id: 3505339511984760028
-        Name: "TemplateBundleDummy"
+        Id: 13629831540437135195
+        Name: "Spellshock Weapons"
         Transform {
-          Location {
-          }
-          Rotation {
-          }
           Scale {
             X: 1
             Y: 1
             Z: 1
           }
         }
+        ParentId: 4781671109827199097
         UnregisteredParameters {
+          Overrides {
+            Name: "cs:EffectSystem"
+            AssetReference {
+              Id: 10245160804268536417
+            }
+          }
+          Overrides {
+            Name: "cs:EffectAnnouncer"
+            AssetReference {
+              Id: 7569250083106348559
+            }
+          }
+          Overrides {
+            Name: "cs:Staff"
+            AssetReference {
+              Id: 7175519561590650902
+            }
+          }
+          Overrides {
+            Name: "cs:Hammer"
+            AssetReference {
+              Id: 4458580768398494614
+            }
+          }
+          Overrides {
+            Name: "cs:Sword"
+            AssetReference {
+              Id: 16111917116547356858
+            }
+          }
+          Overrides {
+            Name: "cs:Crossbow"
+            AssetReference {
+              Id: 5557866332852270145
+            }
+          }
+          Overrides {
+            Name: "cs:Gauntlet"
+            AssetReference {
+              Id: 17414648537596347188
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -31,38 +70,7 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Folder {
-          BundleDummy {
-            ReferencedAssets {
-              Id: 5157441794244084999
-            }
-            ReferencedAssets {
-              Id: 9205253801439045225
-            }
-            ReferencedAssets {
-              Id: 15226276888366481017
-            }
-            ReferencedAssets {
-              Id: 3618376411630669820
-            }
-            ReferencedAssets {
-              Id: 9843481057900503205
-            }
-            ReferencedAssets {
-              Id: 13055597126637799723
-            }
-            ReferencedAssets {
-              Id: 17233709696959151651
-            }
-            ReferencedAssets {
-              Id: 13178922886967865351
-            }
-            ReferencedAssets {
-              Id: 17343093733596226004
-            }
-            ReferencedAssets {
-              Id: 10387838499723091162
-            }
-          }
+          IsFilePartition: true
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -75,12 +83,6 @@ Assets {
       AssetId: "None"
     }
   }
-  Marketplace {
-    Id: "f384412791ca433fbfa60015906eec3f"
-    OwnerAccountId: "6d62c19885084f168ec78ce5f6111ac5"
-    OwnerName: "blackdheart"
-    Version: "1.0.0"
-    Description: "Bundle of all the magical weapons from Spellshock game.\r\nThis package is a neat example of advanced use of Weapon system in Core.\r\nYou are free to grab, edit, and put these weapons into your games.\r\n\r\nNote: To see how to setup the weapons, put the template \"_Spellshock Weapons Example Setup\" into the hierarchy\r\nand play with the weapons. \r\n\r\nWhat\'s Included:\r\n- Weapons: Fire Staff, Ice Sword, Poison Crossbow, Lightning Gauntlet and Rock Hammer\r\n- Objects: Effect System, Effect Annoncer and Abilities UI\r\n- Example setup template"
-  }
   SerializationVersion: 119
+  DirectlyPublished: true
 }

@@ -1,9 +1,6 @@
 local StatSheet = require(script:GetCustomProperty("StatSheet"))
 local COMPONENT = script:GetCustomProperty("COMPONENT"):WaitForObject()
 
-local WRITE_TO_RESOURCE = script:GetCustomProperty("WriteToResource")
-local SHARED_STORAGE_KEY = script:GetCustomProperty("SharedStorageKey")
-
 ---------------------------------------------------------------------------------------------------------
 local OWNER = nil
 while not OWNER do
@@ -33,10 +30,6 @@ local function ServerReplicateStatSheet()
     -- Experience.
     local experience = OWNER.serverUserData.statSheet:GetExperience()
     COMPONENT:SetNetworkedCustomProperty("XP", experience)
-    if WRITE_TO_RESOURCE then
-        OWNER:SetResource("ItemSystems_XP",experience)
-        OWNER:SetResource("ItemSystems_Level",OWNER.serverUserData.statSheet:GetLevel())
-    end
     -- Combat stats.
     for _,statName in ipairs(StatSheet.STATS) do
         local prop = STAT_PROPS[statName]
@@ -44,8 +37,8 @@ local function ServerReplicateStatSheet()
         local isDebuffed = OWNER.serverUserData.statSheet:IsStatDebuffed(statName)
         local addValue = OWNER.serverUserData.statSheet:GetStatTotalModifierAdd(statName)
         local mulValue = OWNER.serverUserData.statSheet:GetStatTotalModifierMul(statName)
-        COMPONENT:SetNetworkedCustomProperty(prop.."A", math.ceil(addValue))
-        COMPONENT:SetNetworkedCustomProperty(prop.."M", math.ceil(mulValue))
+        COMPONENT:SetNetworkedCustomProperty(prop.."A", addValue)
+        COMPONENT:SetNetworkedCustomProperty(prop.."M", mulValue)
     end
     -- Hitpoints.
     local oldMaxHitPoints = OWNER.maxHitPoints
@@ -60,35 +53,14 @@ local function ServerReplicateStatSheet()
 end
 
 local function ServerSaveStatSheet()
-    local playerData = nil
-    if tostring(SHARED_STORAGE_KEY) ~= "Unknown NetReference" then
-        playerData = Storage.GetSharedPlayerData(SHARED_STORAGE_KEY,OWNER)
-        if not playerData.STATS then
-            playerData = Storage.GetPlayerData(OWNER)
-        end
-    else
-        playerData = Storage.GetPlayerData(OWNER)
-    end
+    local playerData = Storage.GetPlayerData(OWNER)
     playerData.STATS = playerData.STATS or {}
     playerData.STATS.experience = OWNER.serverUserData.statSheet:GetExperience()
-    if tostring(SHARED_STORAGE_KEY) ~= "Unknown NetReference" then
-        Storage.SetSharedPlayerData(SHARED_STORAGE_KEY, OWNER, playerData)
-    else
-        Storage.SetPlayerData(OWNER, playerData)
-    end
-
+    Storage.SetPlayerData(OWNER, playerData)
 end
 
 local function ServerLoadStatSheet()
-    local playerData = nil
-    if tostring(SHARED_STORAGE_KEY) ~= "Unknown NetReference" then
-        playerData = Storage.GetSharedPlayerData(SHARED_STORAGE_KEY,OWNER)
-        if not playerData.STATS then
-            playerData = Storage.GetPlayerData(OWNER)
-        end
-    else
-        playerData = Storage.GetPlayerData(OWNER)
-    end
+    local playerData = Storage.GetPlayerData(OWNER)
     OWNER.serverUserData.statSheet = StatSheet.New()
     OWNER.serverUserData.statSheet:SetExperience(playerData.STATS and playerData.STATS.experience or 0)
     -- Replicate the server-side statsheet to clients.
@@ -105,18 +77,16 @@ end
 ---------------------------------------------------------------------------------------------------------
 local function ClientUpdateStatSheet(statSheet, modifiers)
     -- Combat stats.
-    
-    -- for statName,prop in pairs(STAT_PROPS) do
-    --     modifiers[statName] = modifiers[statName] or {
-    --         add = statSheet:NewStatModifierAdd(statName, 0),
-    --         mul = statSheet:NewStatModifierMul(statName, 1),
-    --     }
-    --     local addValue = COMPONENT:GetCustomProperty(prop.."A")
-    --     local mulValue = COMPONENT:GetCustomProperty(prop.."M")
-    --     modifiers[statName].add.addend     = tonumber(addValue)
-    --     modifiers[statName].mul.multiplier = tonumber(mulValue)
-    -- end
-
+    for statName,prop in pairs(STAT_PROPS) do
+        modifiers[statName] = modifiers[statName] or {
+            add = statSheet:NewStatModifierAdd(statName, 0),
+            mul = statSheet:NewStatModifierMul(statName, 1),
+        }
+        local addValue = COMPONENT:GetCustomProperty(prop.."A")
+        local mulValue = COMPONENT:GetCustomProperty(prop.."M")
+        modifiers[statName].add.addend     = tonumber(addValue)
+        modifiers[statName].mul.multiplier = tonumber(mulValue)
+    end
     -- Experience.
     local experience = COMPONENT:GetCustomProperty("XP")
     statSheet:SetExperience(tonumber(experience) or 0)

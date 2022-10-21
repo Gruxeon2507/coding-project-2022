@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 7090718798602621757
+          Id: 9770511928359673738
         }
       }
       Overrides {

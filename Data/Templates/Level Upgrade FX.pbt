@@ -98,7 +98,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 3096700893524267361
+            Id: 16790669563743783923
           }
           TeamSettings {
           }
@@ -155,7 +155,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3096700893524267361
+      Id: 16790669563743783923
       Name: "Level Up VFX"
       PlatformAssetType: 8
       PrimaryAsset {

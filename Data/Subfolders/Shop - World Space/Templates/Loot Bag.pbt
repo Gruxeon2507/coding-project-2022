@@ -1,5 +1,5 @@
 Assets {
-  Id: 5485364302961744871
+  Id: 688898839468674784
   Name: "Loot Bag"
   PlatformAssetType: 5
   TemplateAsset {
@@ -41,13 +41,13 @@ Assets {
           Overrides {
             Name: "cs:AbilityPickupLoot"
             AssetReference {
-              Id: 5378211576885491039
+              Id: 3550955863263179344
             }
           }
           Overrides {
             Name: "cs:AbilityPickupLootHigh"
             AssetReference {
-              Id: 558597296313800704
+              Id: 14834974970051433904
             }
           }
           Overrides {
@@ -57,7 +57,7 @@ Assets {
           Overrides {
             Name: "cs:PickupFX"
             AssetReference {
-              Id: 15025266758662009418
+              Id: 16774289890833161144
             }
           }
         }
@@ -110,7 +110,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3119081384398516628
+            Id: 16041550783223191656
           }
         }
         NetworkRelevanceDistance {
@@ -242,7 +242,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14099884452480362152
+            Id: 17597879502931467766
           }
         }
         NetworkRelevanceDistance {
@@ -379,7 +379,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2767917680299914165
+              Id: 9903677087676925748
             }
           }
           Overrides {
@@ -1644,7 +1644,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2767917680299914165
+              Id: 9903677087676925748
             }
           }
           Overrides {
@@ -1722,7 +1722,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2767917680299914165
+              Id: 9903677087676925748
             }
           }
           Overrides {
@@ -1791,7 +1791,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2767917680299914165
+              Id: 9903677087676925748
             }
           }
           Overrides {
@@ -1861,7 +1861,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2767917680299914165
+              Id: 9903677087676925748
             }
           }
           Overrides {
@@ -1931,7 +1931,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2767917680299914165
+              Id: 9903677087676925748
             }
           }
           Overrides {

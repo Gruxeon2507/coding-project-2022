@@ -1,5 +1,5 @@
 Assets {
-  Id: 7173243623095669608
+  Id: 3981611820429407664
   Name: "NPCSpawner"
   PlatformAssetType: 3
   TextAsset {

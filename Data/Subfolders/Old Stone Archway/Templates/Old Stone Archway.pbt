@@ -1,5 +1,5 @@
 Assets {
-  Id: 490218483947008937
+  Id: 10281992081547930444
   Name: "Old Stone Archway"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,7 +25,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 11919704982626523473
+              Id: 8553918266069552663
             }
           }
         }

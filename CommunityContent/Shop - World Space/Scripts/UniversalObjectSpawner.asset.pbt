@@ -1,5 +1,5 @@
 Assets {
-  Id: 17177637990364456002
+  Id: 9194695759569914213
   Name: "UniversalObjectSpawner"
   PlatformAssetType: 3
   TextAsset {

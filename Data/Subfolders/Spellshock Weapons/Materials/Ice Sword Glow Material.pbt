@@ -1,5 +1,5 @@
 Assets {
-  Id: 15401613716864487598
+  Id: 3590465537403386344
   Name: "Ice Sword Glow Material"
   PlatformAssetType: 13
   SerializationVersion: 119

@@ -1,5 +1,5 @@
 Assets {
-  Id: 16199308695619924179
+  Id: 3128719778498830871
   Name: "DestructibleWeaponAOE"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 15095293467304714971
+          Id: 2014393970938486960
         }
       }
       Overrides {
@@ -18,7 +18,7 @@ Assets {
       Overrides {
         Name: "cs:BlastImpactTemplate"
         AssetReference {
-          Id: 12059069995831233525
+          Id: 8998529040595259881
         }
       }
       Overrides {

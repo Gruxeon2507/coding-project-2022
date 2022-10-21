@@ -1,5 +1,5 @@
 Assets {
-  Id: 18351126567903971328
+  Id: 16254078265398526026
   Name: "ShopBuySuccessSound"
   PlatformAssetType: 5
   TemplateAsset {
@@ -116,7 +116,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17823970190675105768
+            Id: 10964890787018480154
           }
         }
         NetworkRelevanceDistance {

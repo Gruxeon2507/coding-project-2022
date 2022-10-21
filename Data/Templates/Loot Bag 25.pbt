@@ -41,13 +41,13 @@ Assets {
           Overrides {
             Name: "cs:AbilityPickupLoot"
             AssetReference {
-              Id: 3992548169955466050
+              Id: 15198582143134764305
             }
           }
           Overrides {
             Name: "cs:AbilityPickupLootHigh"
             AssetReference {
-              Id: 19333852650364421
+              Id: 980980319424508933
             }
           }
           Overrides {
@@ -247,7 +247,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7636511150976454967
+            Id: 635947665660025098
           }
         }
         NetworkRelevanceDistance {
@@ -381,7 +381,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15901016275523999748
+            Id: 10457055295305168447
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -404,7 +404,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15901016275523999748
+      Id: 10457055295305168447
       Name: "Chest Small Closed"
       PlatformAssetType: 1
       PrimaryAsset {

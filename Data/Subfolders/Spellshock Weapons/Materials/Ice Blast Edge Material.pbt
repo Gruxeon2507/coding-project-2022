@@ -1,5 +1,5 @@
 Assets {
-  Id: 300015137808474966
+  Id: 11298485870920045711
   Name: "Ice Blast Edge Material"
   PlatformAssetType: 13
   SerializationVersion: 119

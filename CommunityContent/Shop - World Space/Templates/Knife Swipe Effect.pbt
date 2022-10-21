@@ -1,5 +1,5 @@
 Assets {
-  Id: 15253763679593898202
+  Id: 9780938507762289720
   Name: "Knife Swipe Effect"
   PlatformAssetType: 5
   TemplateAsset {

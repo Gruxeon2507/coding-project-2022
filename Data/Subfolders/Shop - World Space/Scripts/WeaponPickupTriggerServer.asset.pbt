@@ -1,5 +1,5 @@
 Assets {
-  Id: 2863355228234850353
+  Id: 4546991767534503067
   Name: "WeaponPickupTriggerServer"
   PlatformAssetType: 3
   TextAsset {

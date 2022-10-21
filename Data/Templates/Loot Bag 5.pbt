@@ -41,13 +41,13 @@ Assets {
           Overrides {
             Name: "cs:AbilityPickupLoot"
             AssetReference {
-              Id: 3992548169955466050
+              Id: 15198582143134764305
             }
           }
           Overrides {
             Name: "cs:AbilityPickupLootHigh"
             AssetReference {
-              Id: 19333852650364421
+              Id: 980980319424508933
             }
           }
           Overrides {
@@ -247,7 +247,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7636511150976454967
+            Id: 635947665660025098
           }
         }
         NetworkRelevanceDistance {
@@ -383,7 +383,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17074639259213442164
+              Id: 5475761223416488121
             }
           }
           Overrides {
@@ -1660,7 +1660,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17074639259213442164
+              Id: 5475761223416488121
             }
           }
           Overrides {
@@ -1738,7 +1738,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17074639259213442164
+              Id: 5475761223416488121
             }
           }
           Overrides {
@@ -1815,7 +1815,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17074639259213442164
+              Id: 5475761223416488121
             }
           }
           Overrides {
@@ -1893,7 +1893,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17074639259213442164
+              Id: 5475761223416488121
             }
           }
           Overrides {
@@ -1971,7 +1971,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17074639259213442164
+              Id: 5475761223416488121
             }
           }
           Overrides {
@@ -2039,7 +2039,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17074639259213442164
+      Id: 5475761223416488121
       Name: "Fabric Burlap New 01"
       PlatformAssetType: 2
       PrimaryAsset {

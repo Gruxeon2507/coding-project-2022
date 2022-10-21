@@ -1,5 +1,5 @@
 Assets {
-  Id: 8398364430928484561
+  Id: 7936004092476656332
   Name: "NPCHealthBar"
   PlatformAssetType: 5
   TemplateAsset {
@@ -83,7 +83,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9298988268531448516
+            Id: 4672069674103114216
           }
         }
         NetworkRelevanceDistance {
@@ -176,7 +176,6 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableCastShadows: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {
@@ -240,7 +239,6 @@ Assets {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
           }
-          DisableCastShadows: true
           InteractWithTriggers: true
           StaticMesh {
             Physics {

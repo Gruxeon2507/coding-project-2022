@@ -1,5 +1,5 @@
 Assets {
-  Id: 295690972385682702
+  Id: 6288821672702563458
   Name: "LootDropDataEntry"
   PlatformAssetType: 3
   TextAsset {

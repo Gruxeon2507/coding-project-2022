@@ -1,5 +1,5 @@
 Assets {
-  Id: 15834664567427120940
+  Id: 6577815841761833170
   Name: "BasicInventoryDisplayClient"
   PlatformAssetType: 3
   TextAsset {

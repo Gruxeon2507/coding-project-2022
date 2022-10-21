@@ -1,5 +1,5 @@
 Assets {
-  Id: 7731215004577299691
+  Id: 14437917424225860141
   Name: "Legendary_Indicator"
   PlatformAssetType: 5
   TemplateAsset {
@@ -10,9 +10,9 @@ Assets {
         Name: "Legendary_Indicator"
         Transform {
           Scale {
-            X: 0.25
-            Y: 0.25
-            Z: 0.25
+            X: 0.4
+            Y: 0.4
+            Z: 0.4
           }
         }
         ParentId: 4781671109827199097
@@ -23,7 +23,7 @@ Assets {
           }
           Overrides {
             Name: "bp:Upward Velocity"
-            Float: 0.5
+            Float: 3.57122231
           }
           Overrides {
             Name: "bp:Enable Beam"
@@ -36,10 +36,6 @@ Assets {
           Overrides {
             Name: "bp:Emissive Boost"
             Float: 9.35395718
-          }
-          Overrides {
-            Name: "bp:Density"
-            Float: 2.53659463
           }
         }
         Collidable_v2 {

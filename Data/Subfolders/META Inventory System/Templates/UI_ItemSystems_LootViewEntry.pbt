@@ -1,5 +1,5 @@
 Assets {
-  Id: 3801527047006078930
+  Id: 16387227890716503592
   Name: "UI_ItemSystems_LootViewEntry"
   PlatformAssetType: 5
   TemplateAsset {

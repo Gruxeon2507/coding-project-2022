@@ -76,7 +76,7 @@ local function DrawHoverStats(item)
     FRAME_ITEM_HOVER.clientUserData.classification.text = string.format("%s %s", item:GetRarity(), item:GetType())
     FRAME_ITEM_HOVER.clientUserData.description.text = item:GetDescription()
     -- Attributes
-    local stats = item:GetStatsBase()
+    local stats = item:GetStats()
     local entries = EnsureSufficientHoverStatEntries(#stats)
     local offsetYBase = itemLevel and 30 or 0
     local offsetYBonus = itemLevel and 30 or 0

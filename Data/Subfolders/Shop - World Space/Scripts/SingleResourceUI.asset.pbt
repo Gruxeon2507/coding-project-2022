@@ -1,5 +1,5 @@
 Assets {
-  Id: 10553074989233615337
+  Id: 5597678778866825870
   Name: "SingleResourceUI"
   PlatformAssetType: 3
   TextAsset {

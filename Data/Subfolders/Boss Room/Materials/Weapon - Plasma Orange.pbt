@@ -1,5 +1,5 @@
 Assets {
-  Id: 9248144732330575136
+  Id: 18065239825884385906
   Name: "Weapon - Plasma Orange"
   PlatformAssetType: 13
   SerializationVersion: 119

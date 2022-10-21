@@ -1,5 +1,5 @@
 Assets {
-  Id: 4846404743029107272
+  Id: 4796849557792234698
   Name: "SFX_UpgradeUI_ItemSelected"
   PlatformAssetType: 5
   TemplateAsset {

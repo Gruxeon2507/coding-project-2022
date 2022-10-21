@@ -1,5 +1,5 @@
 Assets {
-  Id: 13760367154884081037
+  Id: 14162005454645790252
   Name: "LightningPlayerEffect"
   PlatformAssetType: 5
   TemplateAsset {
@@ -183,7 +183,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16938719518268482956
+            Id: 7096596955692521783
           }
         }
         NetworkRelevanceDistance {

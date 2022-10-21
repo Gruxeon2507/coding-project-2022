@@ -120,7 +120,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11439088547032056283
+            Id: 5109129970559468393
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -185,7 +185,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11439088547032056283
+            Id: 5109129970559468393
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -250,7 +250,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11439088547032056283
+            Id: 5109129970559468393
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -315,7 +315,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11439088547032056283
+            Id: 5109129970559468393
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -436,7 +436,7 @@ Assets {
       }
     }
     Assets {
-      Id: 11439088547032056283
+      Id: 5109129970559468393
       Name: "Cube"
       PlatformAssetType: 1
       PrimaryAsset {

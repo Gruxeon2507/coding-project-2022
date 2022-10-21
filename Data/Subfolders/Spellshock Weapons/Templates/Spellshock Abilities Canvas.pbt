@@ -1,5 +1,5 @@
 Assets {
-  Id: 5157441794244084999
+  Id: 8181510909443663697
   Name: "Spellshock Abilities Canvas"
   PlatformAssetType: 5
   TemplateAsset {
@@ -206,7 +206,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -275,7 +275,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -1075,7 +1075,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -1144,7 +1144,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -1944,7 +1944,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -2013,7 +2013,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -2819,7 +2819,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -2888,7 +2888,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -3693,7 +3693,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -3762,7 +3762,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {

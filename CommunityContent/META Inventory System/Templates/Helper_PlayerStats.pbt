@@ -1,5 +1,5 @@
 Assets {
-  Id: 4228180050383842987
+  Id: 15058342841211686030
   Name: "Helper_PlayerStats"
   PlatformAssetType: 5
   TemplateAsset {
@@ -314,7 +314,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16668095207475155402
+            Id: 3436441097048730373
           }
         }
         NetworkRelevanceDistance {
@@ -395,7 +395,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16668095207475155402
+            Id: 3436441097048730373
           }
         }
         NetworkRelevanceDistance {

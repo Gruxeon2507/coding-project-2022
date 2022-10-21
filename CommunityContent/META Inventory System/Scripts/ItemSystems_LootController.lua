@@ -11,13 +11,11 @@ local Database = require(script:GetCustomProperty("ItemSystems_Database"))
 local LOOT = script:GetCustomProperty("Loot"):WaitForObject()
 local LOOTDESTROY_TIME = script:GetCustomProperty("LootDestroyDelay") -- Time in second till loot is destroyed.
 
--- Wait for the networked propertys to be set.
-while LOOT:GetCustomProperty("LOOTINFO") == "" or
-     LOOT:GetCustomProperty("OWNER") == "" do 
+-- Wait for the networked property to be set.
+while LOOT:GetCustomProperty("LOOTINFO") == "" do 
 Task.Wait() end
 
 local ID, ITEM_HASH = LOOT:GetCustomProperty("LOOTINFO"):match("^(.*)@(.*)$")
-local OWNER = LOOT:GetCustomProperty("OWNER")
 
 -- Rotates a model when it spawns.
 local function ApplyLootRotation(model)
@@ -38,7 +36,7 @@ if script.isServerOnly then
 
     -- Register the loot to everyone
     for _, player in pairs(Game.GetPlayers()) do
-        if Object.IsValid(player) and ( OWNER == player.id or OWNER == "None" ) then
+        if Object.IsValid(player) then
             player.serverUserData.inventory:RegisterLootItem(LOOT:GetCustomProperty("LOOTINFO"), OnLootClaimed)
         end
     end
@@ -51,7 +49,7 @@ if script.isServerOnly then
     -- If it's not claimed for some time we unregister it.
     -- Unregister the loot for everyone
     for _, player in pairs(Game.GetPlayers()) do
-        if Object.IsValid(player) and ( OWNER == player.id or OWNER == "None" ) then
+        if Object.IsValid(player) then
             player.serverUserData.inventory:UnRegisterLootItem(ID)
         end
     end
@@ -62,31 +60,20 @@ else
     local OwningIndicator = script:GetCustomProperty("OwningIndicator"):WaitForObject()
     local LOCAL_PLAYER = Game.GetLocalPlayer()
 
-    if LOCAL_PLAYER.id == OWNER or OWNER == "None" then
-        -- Spawns the rarity for the existing loot item
-        while not LOCAL_PLAYER.clientUserData.inventory do Task.Wait() end
+    -- Spawns the rarity for the existing loot item
+    while not LOCAL_PLAYER.clientUserData.inventory do Task.Wait() end
+    local inventory = LOCAL_PLAYER.clientUserData.inventory
+    local item = Item.FromHash(inventory.database, ITEM_HASH)
+    local rarity = item:GetRarity()
+    local indicator = ItemThemes.GetRarityLootIndicator(rarity)
+    assert(indicator, "Spawned loot does not have rarity indicator")
+    World.SpawnAsset(indicator,{ parent = script.parent })
+    local model = World.SpawnAsset(item:GetMUID(),{ parent = script.parent })
+    ApplyLootRotation(model)
+    -- When the loot is destroyed then unregister it.
+    LOOT.destroyEvent:Connect(function()
         local inventory = LOCAL_PLAYER.clientUserData.inventory
-
-        local item = Item.FromHash(inventory.database, ITEM_HASH)
-        local rarity = item:GetRarity()
-        local indicator = ItemThemes.GetRarityLootIndicator(rarity)
-
-        assert(indicator, "Spawned loot does not have rarity indicator")
-        World.SpawnAsset(indicator,{ parent = script.parent })
-
-        local model = World.SpawnAsset(item:GetMUID(),{ parent = script.parent })
-        ApplyLootRotation(model)
-
-        -- When the loot is destroyed then unregister it.
-        LOOT.destroyEvent:Connect(function()
-            local inventory = LOCAL_PLAYER.clientUserData.inventory
-            inventory:UnRegisterLootItem(ID)
-        end)
-    else
-        -- If the player does not own it then make it less interesting to look at.
-        LOOT.visibility = Visibility.FORCE_OFF
-    end
-
-
+        inventory:UnRegisterLootItem(ID)
+    end)
 end
 

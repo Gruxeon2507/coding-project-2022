@@ -1,5 +1,5 @@
 Assets {
-  Id: 15674859299239807375
+  Id: 13930320270786185551
   Name: "ReliableEvents"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:Deque"
         AssetReference {
-          Id: 11305074197803874962
+          Id: 8170796195151230983
         }
       }
     }

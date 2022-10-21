@@ -1,5 +1,5 @@
 Assets {
-  Id: 4627042224403504681
+  Id: 16708832489102638128
   Name: "Custom Base Material from Coral Table 02"
   PlatformAssetType: 13
   SerializationVersion: 119

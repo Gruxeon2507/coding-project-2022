@@ -1,5 +1,5 @@
 Assets {
-  Id: 14379021396850615885
+  Id: 3864674936362111975
   Name: "APIObjectIcon"
   PlatformAssetType: 3
   TextAsset {

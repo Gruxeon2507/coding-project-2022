@@ -1,6 +1,6 @@
 --[[
 	Spawn Projectiles AOE
-	v1.2
+	v1.1
 	by: standardcombo
 	
 	Similar to Manticore's "SpawnProjectileAbilityServer", but is made to work
@@ -56,9 +56,6 @@ local effectTable = {
 local sourceAbility = nil
 local sourceOwner = nil
 
-local tagData = {type = "AOE"}
-
-
 function Blast(projectile, other, hitResult)
 
     -- Create the position of the blast and find enemies within radius
@@ -104,14 +101,7 @@ function Blast(projectile, other, hitResult)
 		dmg.sourceAbility = sourceAbility
 			
         -- Apply damage to enemy
-		local attackData = {
-			object = enemy,
-			damage = dmg,
-			source = dmg.sourcePlayer,
-			position = enemyPos,
-			tags = tagData
-		}
-		COMBAT().ApplyDamage(attackData)
+		COMBAT().ApplyDamage(enemy, dmg, dmg.sourcePlayer, enemyPos)
 		
         -- Apply effect to enemy
         if APPLY_EFFECT and enemy:IsA("Player") then

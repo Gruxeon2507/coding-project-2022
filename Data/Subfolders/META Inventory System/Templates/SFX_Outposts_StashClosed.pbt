@@ -1,5 +1,5 @@
 Assets {
-  Id: 15948928209967664105
+  Id: 14386106132250730568
   Name: "SFX_Outposts_StashClosed"
   PlatformAssetType: 5
   TemplateAsset {

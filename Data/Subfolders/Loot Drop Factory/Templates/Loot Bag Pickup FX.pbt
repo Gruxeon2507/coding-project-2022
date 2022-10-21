@@ -1,5 +1,5 @@
 Assets {
-  Id: 7634713327821492538
+  Id: 6051208793167499813
   Name: "Loot Bag Pickup FX"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 2604103119278926217
+  Id: 8408692570995140054
   Name: "BasicInventoryServer"
   PlatformAssetType: 3
   TextAsset {

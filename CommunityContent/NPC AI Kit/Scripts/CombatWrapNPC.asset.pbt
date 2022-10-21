@@ -1,5 +1,5 @@
 Assets {
-  Id: 10636436970430819383
+  Id: 13501274582017261716
   Name: "CombatWrapNPC"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 2973176319304872598
+          Id: 10046294994778714584
         }
       }
     }

@@ -1,5 +1,5 @@
 Assets {
-  Id: 13036320488730330735
+  Id: 13505755836898435003
   Name: "Shop - World Space"
   PlatformAssetType: 5
   TemplateAsset {
@@ -31,7 +31,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 11906126496562931289
+              Id: 6762677664341449931
             }
           }
         }
@@ -50,7 +50,7 @@ Assets {
     Id: "f560598015794213a3e49e3ebab7639b"
     OwnerAccountId: "b4c6e32137e54571814b5e8f27aa2fcd"
     OwnerName: "standardcombo"
-    Version: "1.14.0"
+    Version: "1.13.0"
     Description: "(Work in progress)\r\n\r\nA world-space, customizable shop that trades resources for equipment. Currently it works in conjunction with the Basic Inventory system and includes a copy of that, plus a spawner and resource pickups for everything to be functional. See the README for more info."
   }
   SerializationVersion: 119

@@ -1,5 +1,5 @@
 Assets {
-  Id: 10200322433996959803
+  Id: 16439190783618623405
   Name: "Nameplates"
   PlatformAssetType: 5
   TemplateAsset {
@@ -28,7 +28,7 @@ Assets {
           }
           Overrides {
             Name: "cs:ShowOnSelf"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "cs:ShowOnTeammates"
@@ -351,8 +351,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "None"
-      AssetId: "None"
+      AssetType: "TemplateAssetRef"
+      AssetId: "Nameplates"
     }
   }
   SerializationVersion: 119

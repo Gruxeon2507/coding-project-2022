@@ -1,5 +1,5 @@
 Assets {
-  Id: 5252946950208854787
+  Id: 18211866540415457491
   Name: "EquipmentTeamColor"
   PlatformAssetType: 3
   TextAsset {

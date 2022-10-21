@@ -1,5 +1,5 @@
 Assets {
-  Id: 15114256061727017743
+  Id: 5302713705666214149
   Name: "ItemSystems_ItemThemes"
   PlatformAssetType: 3
   TextAsset {
@@ -61,7 +61,7 @@ Assets {
       Overrides {
         Name: "cs:Item"
         AssetReference {
-          Id: 7341781791440185537
+          Id: 14049647701082332193
         }
       }
     }

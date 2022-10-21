@@ -1,6 +1,6 @@
 --[[
 	Shop - World Space
-	v0.5.1
+	v0.5.0
 	by: standardcombo
 	
 	(Work in Progress)
@@ -17,19 +17,4 @@
 	Right now the shop only works with the BasicInventory system and expects all items to be equipment
 	that go onto the primary socket "right_prop". This will change in the future as the shop is improved.
 	A copy of the BasicInventory is included.
-	
-	
-	Multiple Shops
-	==============
-	
-	When adding multiple shops to the hierarchy, note that the template `Shop World Space` is made of
-	several sub-components. There should ever only be one copy of the following in the hierarchy:
-		- Shop Storage
-		- Inventory Example
-		- Single Resource UI
-		
-	Delete any duplicates of the above, as each template comes with its own set of those.
-	The template is expected to operate in a "deinstanced" state (light blue).
-	
 --]]
-

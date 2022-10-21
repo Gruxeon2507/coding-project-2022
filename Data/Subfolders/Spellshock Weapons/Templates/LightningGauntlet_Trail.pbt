@@ -1,5 +1,5 @@
 Assets {
-  Id: 14695691570224016097
+  Id: 365679098034516179
   Name: "LightningGauntlet_Trail"
   PlatformAssetType: 5
   TemplateAsset {
@@ -366,7 +366,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1799739635159145476
+            Id: 14245319352241705725
           }
         }
         NetworkRelevanceDistance {

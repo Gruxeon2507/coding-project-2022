@@ -1,5 +1,5 @@
 Assets {
-  Id: 5528129679120370650
+  Id: 16339426271048786788
   Name: "EquipmentBonusMoveSpeed"
   PlatformAssetType: 3
   TextAsset {

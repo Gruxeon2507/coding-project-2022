@@ -1,5 +1,5 @@
 Assets {
-  Id: 13180939240980207488
+  Id: 4270339374912796494
   Name: "Combat Dependencies"
   PlatformAssetType: 5
   TemplateAsset {
@@ -20,7 +20,6 @@ Assets {
         ChildIds: 4513339989685681768
         ChildIds: 15693643951607791127
         ChildIds: 3305255709801741084
-        ChildIds: 9409702795888361092
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -64,7 +63,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6532914138919879413
+            Id: 12145186844436576557
           }
         }
         NetworkRelevanceDistance {
@@ -100,7 +99,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6137129415276311948
+            Id: 4215859112195530347
           }
         }
         NetworkRelevanceDistance {
@@ -134,7 +133,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16878557585337687098
+            Id: 13396501217959946747
           }
         }
         NetworkRelevanceDistance {
@@ -170,41 +169,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3713337514440268008
-          }
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 9409702795888361092
-        Name: "NPCKitKillFeedAdapter"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 8014650375856875642
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 5629753983733120856
+            Id: 8958324762470824125
           }
         }
         NetworkRelevanceDistance {

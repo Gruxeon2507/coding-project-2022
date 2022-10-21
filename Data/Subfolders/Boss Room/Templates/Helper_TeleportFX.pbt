@@ -1,5 +1,5 @@
 Assets {
-  Id: 6808294010169489995
+  Id: 12982695023593736509
   Name: "Helper_TeleportFX"
   PlatformAssetType: 5
   TemplateAsset {

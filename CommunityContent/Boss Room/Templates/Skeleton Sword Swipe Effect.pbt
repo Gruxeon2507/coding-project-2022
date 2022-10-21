@@ -1,5 +1,5 @@
 Assets {
-  Id: 3278882692790319700
+  Id: 16395904559255042607
   Name: "Skeleton Sword Swipe Effect"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,0 +1,95 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "7efdca6801574622a8a4133614ec8710"
+  OwnerAccountId: "07dfa34fc6c7469f84bc2e5898d6cf15"
+  OwnerName: "neekorin"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 544293475886835733
+  value: 13017726370010117110
+}
+AssetIdsOriginalToNew {
+  key: 818044419053614111
+  value: 6997429230052641856
+}
+AssetIdsOriginalToNew {
+  key: 2351067389433231005
+  value: 10475663390670790929
+}
+AssetIdsOriginalToNew {
+  key: 3875830725285389341
+  value: 4599520128716097553
+}
+AssetIdsOriginalToNew {
+  key: 3908110495107565482
+  value: 3246422599288798899
+}
+AssetIdsOriginalToNew {
+  key: 4007231169639194229
+  value: 17519567917843710015
+}
+AssetIdsOriginalToNew {
+  key: 4929294834701092945
+  value: 12007421318336149773
+}
+AssetIdsOriginalToNew {
+  key: 4954804318961862534
+  value: 8173440633465052116
+}
+AssetIdsOriginalToNew {
+  key: 5136117059034551451
+  value: 12388914990985658680
+}
+AssetIdsOriginalToNew {
+  key: 10525299099476369280
+  value: 18023199505420869179
+}
+AssetIdsOriginalToNew {
+  key: 10827641354523305530
+  value: 7574546877915605750
+}
+AssetIdsOriginalToNew {
+  key: 10951275910953693011
+  value: 9611067016105787571
+}
+AssetIdsOriginalToNew {
+  key: 11215280290514908357
+  value: 10832706869354896179
+}
+AssetIdsOriginalToNew {
+  key: 11216124620981812404
+  value: 10970253577530576435
+}
+AssetIdsOriginalToNew {
+  key: 12126985467516093192
+  value: 13249489430257041773
+}
+AssetIdsOriginalToNew {
+  key: 12195494719487305863
+  value: 12885787992634005520
+}
+AssetIdsOriginalToNew {
+  key: 12781626252870395351
+  value: 4466448245046125417
+}
+AssetIdsOriginalToNew {
+  key: 13383740722643461760
+  value: 10269858316784175705
+}
+AssetIdsOriginalToNew {
+  key: 15956992778243584172
+  value: 13113172795596491789
+}
+AssetIdsOriginalToNew {
+  key: 16513550655107483601
+  value: 4627173728638311547
+}
+AssetIdsOriginalToNew {
+  key: 17915540088449756746
+  value: 12205595024802982395
+}
+AssetIdsOriginalToNew {
+  key: 17932197088580689494
+  value: 16373307522279376433
+}

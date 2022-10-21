@@ -1,5 +1,5 @@
 Assets {
-  Id: 1725684960647020615
+  Id: 9486772894342215429
   Name: "Suit Kustom Metal 2 - Coloured"
   PlatformAssetType: 13
   SerializationVersion: 119

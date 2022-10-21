@@ -1,5 +1,5 @@
 Assets {
-  Id: 17564749094737271902
+  Id: 9394426366931491920
   Name: "SFX_InventoryMove"
   PlatformAssetType: 5
   TemplateAsset {

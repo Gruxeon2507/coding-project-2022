@@ -9,6 +9,8 @@ Assets {
       Overrides {
         Name: "color"
         Color {
+          R: 0.77
+          G: 0.260066211
           A: 1
         }
       }
@@ -46,20 +48,19 @@ Assets {
       }
       Overrides {
         Name: "displacement scale"
-        Float: 0
+        Float: 150
       }
       Overrides {
         Name: "sss"
         Color {
-          R: 0.005
-          G: 0.0012760415
-          B: 0.0012760415
+          R: 0.38
+          G: 0.218940392
           A: 1
         }
       }
       Overrides {
         Name: "tessellation multiplier"
-        Float: 0
+        Float: 2
       }
       Overrides {
         Name: "noise scale"
@@ -67,13 +68,13 @@ Assets {
       }
       Overrides {
         Name: "displacement max"
-        Float: 0
+        Float: 150
       }
       Overrides {
         Name: "hot color"
         Color {
-          R: 30
-          G: 2.68898058
+          R: 0.820000052
+          G: 0.114039734
           A: 1
         }
       }

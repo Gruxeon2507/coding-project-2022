@@ -1,5 +1,5 @@
 Assets {
-  Id: 1400928024815703569
+  Id: 6228100156946913903
   Name: "Fire Rain AOE"
   PlatformAssetType: 5
   TemplateAsset {
@@ -26,7 +26,7 @@ Assets {
           Overrides {
             Name: "cs:Projectile"
             AssetReference {
-              Id: 8297990076752882462
+              Id: 15451787398261296092
             }
           }
           Overrides {
@@ -58,13 +58,13 @@ Assets {
           Overrides {
             Name: "cs:ProjectileImpactAligned"
             AssetReference {
-              Id: 56824117698797614
+              Id: 3335728141100542258
             }
           }
           Overrides {
             Name: "cs:BlastImpactTemplate"
             AssetReference {
-              Id: 2377643648862269433
+              Id: 9855740383078809114
             }
           }
           Overrides {
@@ -109,7 +109,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerEffectTemplate"
             AssetReference {
-              Id: 12338801549419061994
+              Id: 16594660299638137103
             }
           }
           Overrides {
@@ -167,7 +167,7 @@ Assets {
           Overrides {
             Name: "cs:API_Effect"
             AssetReference {
-              Id: 8701973928223059993
+              Id: 6743195931771715459
             }
           }
         }
@@ -183,7 +183,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3686726792217008372
+            Id: 960038274535162473
           }
         }
         NetworkRelevanceDistance {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 16180550453046966548
+  Id: 4987140227369595307
   Name: "Minion Impact Effect"
   PlatformAssetType: 5
   TemplateAsset {

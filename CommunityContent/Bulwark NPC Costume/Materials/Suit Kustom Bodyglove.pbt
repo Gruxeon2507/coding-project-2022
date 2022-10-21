@@ -1,5 +1,5 @@
 Assets {
-  Id: 15688897469244807718
+  Id: 5842269281815738676
   Name: "Suit Kustom Bodyglove"
   PlatformAssetType: 13
   SerializationVersion: 119

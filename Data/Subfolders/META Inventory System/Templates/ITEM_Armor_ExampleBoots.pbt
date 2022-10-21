@@ -1,5 +1,5 @@
 Assets {
-  Id: 11870691472106004473
+  Id: 15333305666491286135
   Name: "ITEM_Armor_ExampleBoots"
   PlatformAssetType: 5
   TemplateAsset {
@@ -17,7 +17,6 @@ Assets {
         }
         ParentId: 4781671109827199097
         ChildIds: 8368475805096733658
-        ChildIds: 3049866284485753115
         UnregisteredParameters {
           Overrides {
             Name: "cs:SOCKET_both_feet"
@@ -50,10 +49,9 @@ Assets {
       }
       Objects {
         Id: 8368475805096733658
-        Name: "left_ankle"
+        Name: "Geo"
         Transform {
           Location {
-            Y: 16.5679836
           }
           Rotation {
           }
@@ -155,7 +153,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 8122387515007658197
+              Id: 18178722470424570323
             }
           }
           Overrides {
@@ -228,7 +226,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -301,7 +299,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -374,7 +372,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -491,7 +489,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -564,7 +562,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -637,7 +635,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 8122387515007658197
+              Id: 18178722470424570323
             }
           }
           Overrides {
@@ -710,7 +708,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 8122387515007658197
+              Id: 18178722470424570323
             }
           }
           Overrides {
@@ -783,7 +781,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -856,7 +854,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 8122387515007658197
+              Id: 18178722470424570323
             }
           }
           Overrides {
@@ -929,7 +927,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -1002,7 +1000,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -1075,7 +1073,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {
@@ -1148,7 +1146,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 8122387515007658197
+              Id: 18178722470424570323
             }
           }
           Overrides {
@@ -1221,1228 +1219,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 15484605620023334162
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 3049866284485753115
-        Name: "right_ankle"
-        Transform {
-          Location {
-            Y: -11.8851509
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 4129509117028474446
-        ChildIds: 626033808079288078
-        ChildIds: 10057763040889692689
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        NetworkContext {
-          MinDetailLevel {
-            Value: "mc:edetaillevel:low"
-          }
-          MaxDetailLevel {
-            Value: "mc:edetaillevel:ultra"
-          }
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 626033808079288078
-        Name: "Armour Set 1  UpperBoot"
-        Transform {
-          Location {
-            X: -10.7690277
-            Y: -0.414668083
-            Z: 30.8335495
-          }
-          Rotation {
-            Yaw: -87.7948608
-            Roll: -3.05175781e-05
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3049866284485753115
-        ChildIds: 11256935674175721568
-        ChildIds: 3216914186671826278
-        ChildIds: 14548582243075760452
-        ChildIds: 6880770176792411515
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 11256935674175721568
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: -0.183349624
-            Y: -3.25977373
-            Z: -15.9425135
-          }
-          Rotation {
-            Pitch: 88.0354614
-            Yaw: 179.999207
-            Roll: -90.0013885
-          }
-          Scale {
-            X: 0.360380858
-            Y: 0.115825363
-            Z: 0.644285
-          }
-        }
-        ParentId: 626033808079288078
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 8122387515007658197
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 10283743880838515553
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 3216914186671826278
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: -0.183268458
-            Y: 1.54155946
-            Z: -10.7884445
-          }
-          Rotation {
-            Pitch: -1.96438956
-            Yaw: -179.999893
-            Roll: -11.250165
-          }
-          Scale {
-            X: 0.193244159
-            Y: 0.252630472
-            Z: 0.239933893
-          }
-        }
-        ParentId: 626033808079288078
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 14333007140866644560
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 14548582243075760452
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: 0.00481225457
-            Y: 7.2678113
-            Z: -21.4284096
-          }
-          Rotation {
-            Pitch: -1.96438956
-            Yaw: 179.999939
-            Roll: 33.750061
-          }
-          Scale {
-            X: 0.1612418
-            Y: 0.210795492
-            Z: 0.14737767
-          }
-        }
-        ParentId: 626033808079288078
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 14333007140866644560
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 6880770176792411515
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: -0.183349609
-            Y: -0.781441152
-            Z: -15.9425144
-          }
-          Rotation {
-            Pitch: -88.0349579
-            Yaw: -0.000896625686
-            Roll: -89.999
-          }
-          Scale {
-            X: 0.360381037
-            Y: 0.252630442
-            Z: 0.644284368
-          }
-        }
-        ParentId: 626033808079288078
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 10283743880838515553
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 10057763040889692689
-        Name: "Armour Set 1  LowerBoot"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Yaw: -87.7948837
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 3049866284485753115
-        ChildIds: 8582975573546923042
-        ChildIds: 780456498173907708
-        ChildIds: 13181574270911885407
-        ChildIds: 2171719428131626381
-        ChildIds: 8422506036825972367
-        ChildIds: 7250191124393595094
-        ChildIds: 2385873973447515598
-        ChildIds: 2355264288601227687
-        ChildIds: 11262499686651036893
-        ChildIds: 13264068838259644447
-        ChildIds: 16424087991732408703
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 8582975573546923042
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: 1.15265709e-06
-            Y: -2.41729689
-            Z: 6.57621479
-          }
-          Rotation {
-            Pitch: -83.619751
-            Yaw: -84.5677948
-            Roll: 173.436295
-          }
-          Scale {
-            X: 0.125617981
-            Y: 0.252632231
-            Z: 0.644285083
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 10283743880838515553
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 780456498173907708
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: 4.21816321e-06
-            Y: -8.84613
-            Z: 0.874810755
-          }
-          Rotation {
-            Pitch: -83.0944138
-            Yaw: 84.9553833
-            Roll: 3.86739922
-          }
-          Scale {
-            X: 0.125617921
-            Y: 0.359684378
-            Z: 0.68178165
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 10283743880838515553
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 13181574270911885407
-        Name: "Crescent - 03"
-        Transform {
-          Location {
-            X: -4.82029236e-06
-            Y: 10.1088867
-            Z: -3.47474217
-          }
-          Rotation {
-            Pitch: 2.04905664e-05
-            Yaw: -89.9998856
-            Roll: -6.48946298e-06
-          }
-          Scale {
-            X: 0.3
-            Y: 0.2
-            Z: 0.0419057496
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 8122387515007658197
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8478482560594155968
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 2171719428131626381
-        Name: "Crescent - 03"
-        Transform {
-          Location {
-            X: -1.99631882e-06
-            Y: 4.18658447
-            Z: -3.47474241
-          }
-          Rotation {
-            Pitch: -4.09811328e-05
-            Yaw: 89.9999619
-            Roll: 1.22624706e-05
-          }
-          Scale {
-            X: 0.496637076
-            Y: 0.2
-            Z: 0.0419057496
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 8122387515007658197
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8478482560594155968
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 8422506036825972367
-        Name: "Thorn"
-        Transform {
-          Location {
-            X: 3.43500847e-06
-            Y: -7.20373535
-            Z: -1.29249251
-          }
-          Rotation {
-            Pitch: -75.0065231
-            Yaw: 90.0106125
-            Roll: -0.00127384905
-          }
-          Scale {
-            X: 0.689653456
-            Y: 0.26872772
-            Z: 0.344444603
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8210514785031040523
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 7250191124393595094
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: 1.15265709e-06
-            Y: -2.41729712
-            Z: 4.87386608
-          }
-          Rotation {
-            Pitch: -83.6258087
-            Yaw: -84.5740128
-            Roll: 173.436844
-          }
-          Scale {
-            X: 0.133723795
-            Y: 0.268933892
-            Z: 0.685859144
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 8122387515007658197
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 10283743880838515553
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 2385873973447515598
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: -5.77326819e-06
-            Y: 12.1074219
-            Z: 6.86347628
-          }
-          Rotation {
-            Pitch: 4.78113216e-05
-            Yaw: 2.09889786e-05
-            Roll: 49.437397
-          }
-          Scale {
-            X: 0.102864183
-            Y: 0.468306154
-            Z: 0.287245631
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 15484605620023334162
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 2355264288601227687
-        Name: "Thorn"
-        Transform {
-          Location {
-            X: -3.09740403e-06
-            Y: 6.49572754
-            Z: -1.57810342
-          }
-          Rotation {
-            Pitch: -90
-            Yaw: 26.565033
-            Roll: 63.4355
-          }
-          Scale {
-            X: 0.484400332
-            Y: 0.263557494
-            Z: 0.235261261
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8210514785031040523
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 11262499686651036893
-        Name: "Thorn"
-        Transform {
-          Location {
-            X: 2.20027846e-06
-            Y: -4.61431885
-            Z: -1.29690337
-          }
-          Rotation {
-            Pitch: -90
-            Yaw: 26.565033
-            Roll: 63.4356232
-          }
-          Scale {
-            X: 0.689653695
-            Y: 0.268731415
-            Z: 0.336292952
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8210514785031040523
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 13264068838259644447
-        Name: "Thorn"
-        Transform {
-          Location {
-            X: 3.07304413e-06
-            Y: -6.44464111
-            Z: -1.92357123
-          }
-          Rotation {
-            Pitch: -75.0067062
-            Yaw: 90.0106888
-            Roll: -0.00126726564
-          }
-          Scale {
-            X: 0.689653456
-            Y: 0.26872772
-            Z: 0.344444603
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 8122387515007658197
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:smart"
-            Bool: false
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:utile"
-            Float: 64
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:vtile"
-            Float: 64
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 8210514785031040523
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 16424087991732408703
-        Name: "Gem - Baguette Polished"
-        Transform {
-          Location {
-            X: -9.61162641e-06
-            Y: 20.1570435
-            Z: -2.70884538
-          }
-          Rotation {
-            Pitch: -65.2729721
-            Yaw: -87.136467
-            Roll: 177.550629
-          }
-          Scale {
-            X: 0.0826881453
-            Y: 0.548395753
-            Z: 0.807826757
-          }
-        }
-        ParentId: 10057763040889692689
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 3332966956988266455
+              Id: 13352016066121387037
             }
           }
           Overrides {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 16481065636278196321
+  Id: 5792844912208294370
   Name: "ITEM_Misc_MagicShard"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 4573150065125777209
+  Id: 17977548762940923427
   Name: "UtilityAttachOnEquip"
   PlatformAssetType: 3
   TextAsset {

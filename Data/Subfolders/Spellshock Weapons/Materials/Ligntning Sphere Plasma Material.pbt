@@ -1,5 +1,5 @@
 Assets {
-  Id: 1761179414234489475
+  Id: 14587921019247066876
   Name: "Ligntning Sphere Plasma Material"
   PlatformAssetType: 13
   SerializationVersion: 119

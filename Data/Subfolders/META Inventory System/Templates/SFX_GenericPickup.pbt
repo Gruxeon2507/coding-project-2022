@@ -1,5 +1,5 @@
 Assets {
-  Id: 2384351008544018596
+  Id: 15822553618156241121
   Name: "SFX_GenericPickup"
   PlatformAssetType: 5
   TemplateAsset {

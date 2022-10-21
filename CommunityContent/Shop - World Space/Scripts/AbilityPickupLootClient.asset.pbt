@@ -1,5 +1,5 @@
 Assets {
-  Id: 9190494362102818999
+  Id: 9602402933323438821
   Name: "AbilityPickupLootClient"
   PlatformAssetType: 3
   TextAsset {

@@ -1,17 +1,20 @@
 --[[
 ---------------------------------------------------------------------------------------------------------------------------------------
     ItemSystems - README
-    v1.19.1 (02/19/2021)
-    
+    v1.0.6
     Creation by: structfoo (Kevin) (Manticore) (https://www.coregames.com/user/b9a4f899f12946f1b467f671f0fc0410)
     Adaptation and Modification by: Coderz (Drake) (META) (https://www.coregames.com/user/d5daea732ee3422fbe85aecb900e73ec)
+
+    Contributions:
+    Testing and Bug fixing by: blaking707 (Blake) (META) (https://www.coregames.com/user/0ea6612ceab7456a8a3a963a94808295)
+    Stash search progress circle by: waffle (Manticore) (https://www.coregames.com/user/581ff579fd864966aec56450754db1fb)
+    Loot Factory adapter by: standardcombo (Manticore) (https://www.coregames.com/user/b4c6e32137e54571814b5e8f27aa2fcd)
 
     Description:
     ItemSystems is a framework for inventory and item management such that you'd find in MMO games.
     It contains a plethora of awesome features to help jump start your RPG-style game. 
     It also removes the hassle of creating an inventory system from scratch. It's easy to use and extendable for programmers.
-    You can find code examples at the very bottom of this readme.
-
+    
     This framework comes with:
         1) Inventory Manager
         2) Loot Spawner
@@ -20,15 +23,11 @@
         6) Consumable Items
         7) Customizable Item Themes
         8) Lootable Stashes
-        9) Personal loot stashes
-        10) Multi loot stashes
-        11) Backpacks
-        12) Roll for loot Mechanic
-        13) Developer Cheats
-        14) Proximity Looting
-        15) Item Upgrading
-        16) Personal Looting
-        17) Shared Stoarge
+        9) Backpacks
+        10) Roll for loot Mechanic
+        11) Developer Cheats
+        12) Proximity Looting
+        13) Item Upgrading
     
     Here are some examples to search for in project content.
     Examples:
@@ -37,8 +36,6 @@
 
     What this framework will get in future updates:
         1) Customizable slots ( Easy add and removing of slots )
-        2) ItemSystems - Lite ( Inventory without stats )
-        3) Leveling and XP feedback system ( Display gained xp and levels )
 
     Dependencies:
         1) Combat Dependencies by standardcombo ( You can find this in Community Content )
@@ -50,7 +47,7 @@ Discord
 --------------------------------------
  
     If you find any bugs or problems with the Item System please direct your questions to
-    my discord: Coderz#0001
+    my discord: Coderz#0441
 
  
     If you have any questions, feel free to join the Core Hub Discord server:
@@ -62,15 +59,11 @@ Discord
 Framework Setup
 --------------------------------------
 
-    1) Search for "ItemSystems" template in project content. Drag and drop ItemSystems template into the hierarchy. ( Make sure ItemSystems is centered in the world. Position should be 0,0,0 )
+    1) Search for "ItemSystems" template in project content. Drag and drop ItemSystems template into the hierarchy.
 
     2) Right-click the template in the hierarchy and select, "Deinstance this Object"
 
     3) Right-click the template once again and select, "Abandon template for entire instance"
-
-    4) Import NPC AI Kit by standardcombo from community content
-
-    5) Drag and drop the Combat Dependencies into the hierarchy
 
     You're all set! You should refer to "Framework usage" section of this README to get started.
 
@@ -135,8 +128,14 @@ Framework usage
 
     ---------------------------------------
 
+    ------ TODO: Creating or Removing Equipment Slots ------
+    --------------------------------------------------------
+
+    ------ TODO: Making Items Upgradable ------
+    -------------------------------------------
+
     ------ Creating Stashes ------
-        In this tutorial you'll create stashes that players can loot in the world.
+        In this tutorial, you'll create stashes that players can loot in the world.
 
         1) Inside the ItemSystems folder search for the "Searchable Loots" folder
 
@@ -147,8 +146,6 @@ Framework usage
         4) Change the LootTable property to match an existing table in the LootTable folder inside ItemRegistry.
 
         5) Change the ItemCountMin, ItemCountMax, and SecondsToSearch property to something different.
-
-        6) Optionally if you want players the player to have personal loot then by adding boolean custom property named "IsPersonal" and having it set to true.
 
         Optionally you can change the SFX
         Now your stash is ready to be looted by players.
@@ -207,36 +204,6 @@ Framework usage
         7) Assign your new template to the Item property of your item in registered items.
 
     ----------------------------------
-
-    --------- Armor attaching to sockets ---------
-        In this tutorial you'll make pieces of armor attach to different sockets on a player.
-        Refer to Core documentation on sockets to you know which strings to use when making your armor.
-        In this tutorial we'll just modify an existing piece of armor.
-        Socket documentation here: https://docs.coregames.com/api/animations/
-
-        1) In project content search for "ITEM_Armor_ExampleChest" and drag and drop it into your scene.
-
-        2) Deinstance the template in the hierarchy by right clicking and selecting "Deinstance This Object".
-
-        2) Inside the template is a single folder called "upper_spine" the name of this folder determines what the folder will attach to on the player.
-        In this case the folder will attach to the upper_spine of the player when this armor is equipped.
-
-        3) Make a new folder that is a child of the template and name it "left_shoulder".
-
-        4) Position the folder so that it's in the center of the left shoulder.
-
-        4) Select all the parts of the left shoulder for the chest piece.
-        To make this easy make sure you enter object mode by changing the option on the top left of your core editor
-        The third button on the top left allows you to switch between group and object mode. Crtl select all your objects that you want
-        the left shoulder to contain.
-
-        5) Once you've selected all your parts drag and drop them into your left_shoulder folder.
-
-        6) Right click and select "Update template From This"
-
-        When you equip this armor you'll have the two folders connect to their coresponding sockets.
-        If the the shoulder armor is not center on your players left shoulder then you may need to adjust the geometry in the folder a bit.
-    ----------------------------------------------
 
     -------- Stats For Weapons or Armor  --------
         In this tutorial you'll add stats to weapons or armor of your choice.
@@ -302,25 +269,16 @@ Framework usage
         local totalAttack = statSheet:GetStatTotalValue("Attack")
         print(totalAttack)
 
-        -- This will print out the entire statSheet
-        print(statSheet)
-
-        ------------------------------------------------------------------
         -- Server Context
         -- You must have a reference to the player.
 
-        -- Wait for the stat sheet to load
+            -- Wait for the stat sheet to load
         while not player.serverUserData.statSheet do Task.Wait() end
         local statSheet = player.serverUserData.statSheet
 
-        Task.Wait()
-
-        -- This will return total stat value for Attack
+            -- This will return total stat value for Attack
         local totalDefense = statSheet:GetStatTotalValue("Defense")
-        print("Defense:",totalDefense)
-
-        -- This will print out the entire statSheet
-        print(statSheet)
+        print(totalDefense)
 
         --------------------------------------------------------------------
         
@@ -374,40 +332,20 @@ Framework usage
         4) Get the trigger property and add this line of code to the script.
  
         yourTriggerPropHere.interactedEvent:Connect(function(_,player)
-            Events.Broadcast("OnDropLoot", "Equipments", player:GetWorldPosition() - Vector3.Up * 100, player)
+            Events.Broadcast("OnDropLoot", "Equipments", player:GetWorldPosition() - Vector3.Up * 100)
         end)
  
         When you use the trigger a random loot will be dropped from the "Equipments" loot table at the player position.
-        And only the player triggering the trigger will be allowed to pickup the loot.
  
         Numerous Events can help you customize your players' looting experience.
         For more events open, the "ItemSystems_LootSpawner" script.
 
         Event used in example below.
         ------------------------------------------------------------------------------------------------
-        Drops a random loot from a loot table at a position in the world with an optional owner that is a player.
-        Events.Broadcast("DropLoot", dropKey : String, worldPosition: Vector3, [owner : Player])
+        Drops a random loot from a loot table at a position in the world.
+        Events.Broadcast("DropLoot", dropKey : String, worldPosition: Vector3)
 
     ----------------------------
-
-    ---------- Shared Storage Setup ----------
-    Shared game storage allows multiple games to utilize the same storage for the inventory.
-    This is great if you want players inventory data to carry over to other games that also use the inventory system.
-
-        1) In the core editor got to the top and go to Window -> Shared Storage
-        2) Click "Create a New Shared Key"
-        3) Name it "ItemSystems_Inventory"
-        4) Click "Create a New Shared Key"
-        5) Name it "PlayerStats_StatSheet"
-        6) Find "ItemSystems_InventoryReplicator" in project content and click on it
-        7) Drag and drop your "ItemSystems_Inventory" key onto the "SharedStorageKey" custom property
-        8) Find "PlayerStats_StatSheetReplicator" in project content and click on it
-        9) Drag and drop your "PlayerStats_StatSheet" key onto the "SharedStorageKey" custom property
-        
-        Once you've done that the inventory will now be saved into shared storage! 
-        You must refer to the shared key into all your games that need to utlizie the same storage.
-
-    ------------------------------------------
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -474,33 +412,17 @@ Framework usage
     --------------------------------------
 
     --------------------------------------
-    Start Items Table Properties
-    --------------------------------------
-        Here is a list of custom properties that need or can be added to a loot table.
-            * is required
-            @ is optional
-            $ is required together
-
-                * Item : CoreObjectReference
-                @ Quantity : Integer
-                @ Slot : Integer (The slot to put this item into. If zero or doesn't exist then then the item will occupy an empty slot.)
-
-    --------------------------------------
-
-    --------------------------------------
     Loot Table Properties
     --------------------------------------
         Here is a list of custom properties that need or can be added to a loot table.
             * is required
             @ is optional
-            $ is required together
 
                 * Item : CoreObjectReference
                 * Likelihood : Integer
-
-                $ MinimumStackWhenDropped : Integer ( Minimum possible stack size when dropping this item ) 
+                @ MinimumStackWhenDropped : Integer ( Minimum possible stack size when dropping this item ) 
                                                 ( Only for items with the MaxStackableSize property )
-                $ MaximumStackWhenDropped : Integer ( Maximum possible stack size when dropping this item ) 
+                @ MaximumStackWhenDropped : Integer ( Maximum possible stack size when dropping this item ) 
                                                 ( Only for items with the MaxStackableSize property )
 
     --------------------------------------
@@ -515,13 +437,10 @@ Framework usage
 
                 * ID : MUID or Integer
                 @ IsStash : Boolean ( When true the stash will save the player's items )
-
-                @ IsPersonal : Boolean ( When true the items from the stash will be personal to the player )
-                @ AllowMultiLooting : Boolean ( A highly experimental feature that allows for multiple players to loot one stash at the same time )
                 
                 @ (Optional, but must be paired.)
                     $ LootTable : String ( Assign an existing loot table name )
-                    $ MinutestoResetLoot : Integer
+                    $ MinuntestoResetLoot : Integer
 
                 @ ItemCountMin : Integer 
                                     ( The minimum amount of items that can generate into the stash )
@@ -539,25 +458,7 @@ Framework usage
 --------------------------------------
 Framework Components Details
 --------------------------------------
-
-    ----- Increasing max stack size for items from 2^12 to 2^24 ----
-    ItemSystems_Item
-
-    Inside project content on ItemSystems_Item there is a custom property "AllowLargeStacksizes".
-    By default the maximum size is 2^12 = 4096. When this option is enabled it will increases maximum allowable stack size
-    to 2^24 = 16777216. The only drawback is that there is a loss of comprehension, because stack sizes will now be
-    4 bytes large compared to 2 bytes.
-    ----------------------------------------------------------------
-
-    ----- Personal Looting -----
-    ItemSystems_NPCAdapter
-
-    Personal looting allows for players to receive loot that nobody else can pickup.
-    This feature is enabled by default and will apply to all enemies.
-    To disable this feature find ItemSystems_NPCAdapter inside project content and disable
-    the "AllLootPersonalized" custom property.
-    ----------------------------
-
+ 
     ----- Item Database -----
     ItemSystems_Database
 
@@ -582,7 +483,7 @@ Framework Components Details
 
     ItemSystems_Inventory script contains the logical representation of an inventory, inventories contain your items.
     The inventory has several public methods that allow you to modify or get information about the inventory.
-    You can access the client or server inventory by getting the player and accessing their userdata
+    You can access the client or server inventory by getting the player and accessing their userdata.
 
     For example: 
 
@@ -597,20 +498,21 @@ Framework Components Details
     You can add an item to the inventory as well. ( Server context example )
 
         local ItemDatabase = require(script:GetCustomProperty("ItemSystems_Database")) -- Requires the database script
-        local goldGemItem = ItemDatabase:GetItemFromName("Gold Gem") -- Creates a single gold gem item.
+        local metalItem = ItemDatabase:GetItemFromName("Metal") -- Creates a single rock item
 
-        inventory:AddItem(goldGemItem,1) -- Adds 1 Metal to the inventory
+        local inventory = player.serverUserData.inventory
+        inventory:AddItem(metalItem) -- Adds 1 Metal to the inventory
 
         Refer to ItemSystems_Inventory script for all methods.
 
     If you want to access information about an item.
 
         local ItemDatabase = require(script:GetCustomProperty("ItemSystems_Database")) -- Requires the database script
-        local goldGemItem = ItemDatabase:GetItemFromName("Gold Gem") -- Creates a single gold gem item.
+        local metalItem = ItemDatabase:GetItemFromName("Metal") -- Creates a single rock item
 
-        local itemName = goldGemItem:GetName() -- Gets the name of the item
+        local itemName = metalItem:GetName() -- Gets the name of the item
 
-        local itemStackSize = goldGemItem:GetStackSize() -- Gets the stack size of the item
+        local itemStackSize = metalItem:GetStackSize() -- Gets the stack size of the item
 
         Refer to ItemSystems_Item script for all methods.
     
@@ -640,176 +542,8 @@ Framework Components Details
     ItemSystems_StashInstance
 
     ItemSystems_StashInstance constructs stashes when attached to a object. The script will
-    look for custom properties on the parent and construct the stash with those properties. Refer to Stash Properties above to
+    look for custom properties on the parent construct itself. Refer to Stash Properties above to
     determine what properties you need for your stash.
     --------------------------
-
---------------------------------------
-Framework Code Examples
---------------------------------------
-
-    For client-side scripts.
-    Refer to ItemSystems_Inventory for all public methods of the inventory object
-
-    Copy and paste the below example into a client script.
-    ---------------------------------------
-    -- Example 1 ( Client Context)        -
-    ---------------------------------------
-    
-    -- In this example we will check to see if the player has wood on them.
-    -- If the player does have wood in their inventory then we will increase the stack size by 10.
-
-    local LOCAL_PLAYER = Game.GetLocalPlayer()
-
-    -- We can't guarentee the inventory will be loaded on the client yet.
-    while not LOCAL_PLAYER.clientUserData.inventory do Task.Wait() end
-    local localInventory = LOCAL_PLAYER.clientUserData.inventory
-
-    -- The iventory may have not populated yet. Let's wait.
-    localInventory:WaitUntilLoaded()
-
-    -- Get the database as that's how we contruct items
-    local ItemDatabase = localInventory.database
-    local itemToCheck = ItemDatabase:GetItemFromName("Wood")
-
-    -- This function returns 3 values, but the 3rd is ignored as it's not important. 
-    -- The first is a boolean if the item exist or not. 
-    -- The second is an integer of the slot index where the item is located. 
-    -- Third is the sum of all of that particular item.
-    local hasItem, slotIndex = localInventory:HasItem(itemToCheck) 
-
-    -- Do we have the item?
-    if hasItem then
-        -- This will get the item from a slot that matches our item we plugged into :HasItem()
-        local slotedItem = localInventory:GetItem(slotIndex)
-
-        -- Now that we have the item we can modify it!
-        -- This will set the item to the slot index and set the quantity of the item to 10.
-        localInventory:SetItemToSlot(slotedItem, 10, slotIndex)
-
-        -- This is just an example. Ignore the previous instruction for this example.
-        -- If you want to increase an items stack size then you may do the following below.
-        local amountOfOurItem = slotedItem:GetStackSize()
-        slotedItem:SetStackSize( amountOfOurItem + 10 )
-
-        -- This will update the inventory with the increased stack size of this item.
-        localInventory:SetItemToSlot(slotedItem, slotedItem:GetStackSize(), slotIndex)
-        print(LOCAL_PLAYER.name, "does have the item!")
-    else
-        print(LOCAL_PLAYER.name, "does not have the item.")
-    end
-
-    ---------------------------------------
-    -- Example 2 ( Server Context)        -
-    ---------------------------------------
-
-    In this example we will remove an item from the players inventory.
-    This tutorial also assumes that you have a valid reference to the player.
-    Make sure you reference a player.
-
-    -- We can't guarentee the inventory will be loaded on the client yet.
-    while not player.serverUserData.inventory do Task.Wait() end
-    local playersInventory = player.serverUserData.inventory
-    playersInventory:WaitUntilLoaded()
-
-    local ItemDatabase = playersInventory.database
-
-    -- We got the database associated with the inventory system. ( ItemSystems_Database )
-    -- We construct the item to pass into our function for checking to see if the item exist! :)
-    local itemToCheck = ItemDatabase:GetItemFromName("Magic Shard")
-    local hasItem, slotIndex = playersInventory:HasItem(itemToCheck)
-
-    -- Does the player have the item?
-    if hasItem then
-        local slotedItem = playersInventory:GetItem(slotIndex)
-        
-        -- This will remove the item from our inventory completely.
-        playersInventory:RemoveItem(slotedItem, slotedItem:GetStackSize())
-        print(player.name,"has the item and it has been removed.")
-    else
-        print(player.name,"does not have the item we want to remove.")
-    end
-
-    ---------------------------------------
-    -- Example 3 ( Client Context)        -
-    ---------------------------------------
-
-    In this example we will add an item to the player's inventory.
-
-    local LOCAL_PLAYER = Game.GetLocalPlayer()
-
-    -- We can't guarentee the inventory will be loaded on the client yet.
-    while not LOCAL_PLAYER.clientUserData.inventory do Task.Wait() end
-    local localInventory = LOCAL_PLAYER.clientUserData.inventory
-    localInventory:WaitUntilLoaded()    
-
-    -- Get the database as that's how we contruct items
-    local ItemDatabase = localInventory.database
-
-    local itemToAdd = ItemDatabase:GetItemFromName("Magic Pearl")
-
-    -- We need to make sure there is enough space for this item to fit into the inventory
-    if localInventory:CanAccommodateItem(itemToAdd) then
-        print(itemToAdd:GetName(),"Can fit into the inventory!")
-
-        localInventory:AddItem(itemToAdd,5) -- Will add 5 Magic Pearls to the inventory
-    else
-        print("Oh no! the item won't fit into the inventory!")
-    end
-
-    ---------------------------------------
-    -- Example 4 ( Client Context)        -
-    ---------------------------------------
-
-    In this example we will get the sum of a specific item in the inventory.
-
-    local LOCAL_PLAYER = Game.GetLocalPlayer()
-
-    -- We can't guarentee the inventory will be loaded on the client yet.
-    while not LOCAL_PLAYER.clientUserData.inventory do Task.Wait() end
-    local localInventory = LOCAL_PLAYER.clientUserData.inventory
-    localInventory:WaitUntilLoaded()
-
-    -- Get the database as that's how we contruct items
-    local ItemDatabase = localInventory.database
-
-    local itemToCheck = ItemDatabase:GetItemFromName("Magic Pearl")
-
-    -- This will return 0 if you have none or the amount of crystal you have.
-    local crystalCount = localInventory:GetItemStackSum(itemToCheck)
-
-    print(LOCAL_PLAYER.name,"Has",crystalCount,"Magic perals in their inventory!")
-
-    ---------------------------------------
-    -- Example 5 ( Client Context)        -
-    ---------------------------------------
-
-    In this example we will get an item and use some of the public methods on the item.
-
-    local LOCAL_PLAYER = Game.GetLocalPlayer()
-
-    -- We can't guarentee the inventory will be loaded on the client yet.
-    while not LOCAL_PLAYER.clientUserData.inventory do Task.Wait() end
-    local localInventory = LOCAL_PLAYER.clientUserData.inventory
-    localInventory:WaitUntilLoaded()
-
-    -- Get the database as that's how we contruct items
-    local ItemDatabase = localInventory.database
-
-    local itemToCheck = ItemDatabase:GetItemFromName("Gold Gem")
-    local hasItem, slotIndex = localInventory:HasItem(itemToCheck)
-
-    if hasItem then
-        -- If we do have the item!
-
-        local ourItem = localInventory:GetItem(slotIndex)
-
-        print("Here is the info about our item!")
-        print( "Name:",ourItem:GetName() ) -- We can now check then name
-        print( "Stack size:",ourItem:GetStackSize() ) -- And we can see the stack size.
-        -- Refer to ItemSystems_Item for all public methods on items! :)
-    else
-        print("Looks like your inventory does not contain any ",itemToCheck:GetName())
-    end
-
+ 
 --]]

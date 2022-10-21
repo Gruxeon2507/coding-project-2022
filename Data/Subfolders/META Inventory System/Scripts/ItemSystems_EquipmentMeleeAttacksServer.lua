@@ -38,7 +38,6 @@ local abilityList = {}
 -- Checks the players within hitbox, and makes sure swipe effects stay at the player's location
 function Tick()
     -- Check for the existence of the equipment or owner before running Tick
-
     if not Object.IsValid(EQUIPMENT) then return end
     if not Object.IsValid(EQUIPMENT.owner) then return end
     if EQUIPMENT.owner.isDead then return end
@@ -82,14 +81,7 @@ function MeleeAttack(other, abilityInfo)
         else
             damage = CombatStats:GetAttackDamage(ability.owner)
         end
-
-        -- Notice. This won't work with older version of A.I kit by standardcombo.
-        -- Please use the latest from community content.
-        COMBAT().ApplyDamage({object = other, 
-                            damage = damage,
-                            source = ability.owner, 
-                            position = other:GetWorldPosition(),
-                            rotation = Rotation.New()})
+        COMBAT().ApplyDamage(other, damage, ability.owner, other:GetWorldPosition(), Rotation.New())
 
         abilityInfo.ignoreList[other] = 1
     end
@@ -110,7 +102,7 @@ end
 -- nil OnEquipped()
 -- Enables collision on player to make the hitbox collidable
 function OnEquipped()
-    while not Object.IsValid(EQUIPMENT) do Task.Wait() end
+    Task.Wait(0.1)
     EQUIPMENT.collision = Collision.INHERIT
 end
 

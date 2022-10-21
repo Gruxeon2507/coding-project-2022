@@ -1,5 +1,5 @@
 Assets {
-  Id: 5111527999120034520
+  Id: 6832016109070210407
   Name: "ShopController"
   PlatformAssetType: 3
   TextAsset {
@@ -7,13 +7,13 @@ Assets {
       Overrides {
         Name: "cs:ShopItemModel"
         AssetReference {
-          Id: 17791218586582919991
+          Id: 17080844728110899801
         }
       }
       Overrides {
         Name: "cs:InventorySystem"
         AssetReference {
-          Id: 16330327685493639022
+          Id: 6841038601625838425
         }
       }
     }

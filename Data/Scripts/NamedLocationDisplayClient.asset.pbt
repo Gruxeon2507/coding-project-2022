@@ -1,6 +1,6 @@
 Assets {
   Id: 4328099993508977076
-  Name: "NamedLocationDisplayClient"
+  Name: "NamedLocationUIClient"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {

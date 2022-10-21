@@ -1,5 +1,5 @@
 Assets {
-  Id: 15438029232811376587
+  Id: 18058972831681142634
   Name: "Leaping Staff Secondary Weapon"
   PlatformAssetType: 5
   TemplateAsset {
@@ -36,16 +36,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 9971244043311100897
+              Id: 14030727207622299725
             }
             MuzzleFlashAssetRef {
-              Id: 1877012517827311828
+              Id: 47468203755323333
             }
             TrailAssetRef {
               Id: 841534158063459245
             }
             ImpactAssetRef {
-              Id: 10820761120044500552
+              Id: 10212694678492452674
             }
             UseReticle: true
             Muzzle {
@@ -60,7 +60,7 @@ Assets {
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
-              Id: 14599093465736583106
+              Id: 9574434208429154099
             }
             BeamAssetRef {
               Id: 841534158063459245
@@ -70,7 +70,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 100000
             ImpactPlayerAssetRef {
-              Id: 17515264083439488067
+              Id: 11111792625303044321
             }
             ReticleType {
               Value: "mc:ereticletype:none"
@@ -130,7 +130,7 @@ Assets {
           Overrides {
             Name: "cs:BlastImpactTemplate"
             AssetReference {
-              Id: 12059069995831233525
+              Id: 8998529040595259881
             }
           }
           Overrides {
@@ -161,7 +161,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16199308695619924179
+            Id: 3128719778498830871
           }
         }
         NetworkRelevanceDistance {
@@ -313,7 +313,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7862472184676115458
             }
           }
           Overrides {
@@ -334,7 +334,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2002578323384590857
+            Id: 1085352293586254498
           }
         }
         NetworkRelevanceDistance {

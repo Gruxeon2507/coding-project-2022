@@ -133,7 +133,7 @@ function ApplyPlayerEffect(player, effectName, effectTable)
 
     -- Do not apply effect if it's a teammate or the owner
     if sourceAbility and sourceAbility.owner then
-        if Teams.AreTeamsFriendly(player.team, sourceAbility.owner.team) or
+        if sourceAbility.owner.team == player.team or
         sourceAbility.owner == player then
             return
         end

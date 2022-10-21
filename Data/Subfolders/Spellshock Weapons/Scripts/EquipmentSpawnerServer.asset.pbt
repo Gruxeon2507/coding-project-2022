@@ -1,5 +1,5 @@
 Assets {
-  Id: 8641429849922463787
+  Id: 14711683230646813950
   Name: "EquipmentSpawnerServer"
   PlatformAssetType: 3
   TextAsset {

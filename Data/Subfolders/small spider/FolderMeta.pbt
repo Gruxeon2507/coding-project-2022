@@ -1,0 +1,99 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "fb4c5b99dbd34cffae8cabbb7b3d100f"
+  OwnerAccountId: "e8e9fff8a33e402bb51f8a8dc44b053c"
+  OwnerName: "justinmcintyre911"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 162151367198570398
+  value: 12410467473533463444
+}
+AssetIdsOriginalToNew {
+  key: 324585489633007530
+  value: 8597074190418702254
+}
+AssetIdsOriginalToNew {
+  key: 1116760160694603255
+  value: 11936261985482466494
+}
+AssetIdsOriginalToNew {
+  key: 1583226035276894740
+  value: 11923088701148587908
+}
+AssetIdsOriginalToNew {
+  key: 1883778736238546551
+  value: 3210501700937058346
+}
+AssetIdsOriginalToNew {
+  key: 2003752736780784297
+  value: 15906790186511608593
+}
+AssetIdsOriginalToNew {
+  key: 2038077216541919415
+  value: 4122504170887506986
+}
+AssetIdsOriginalToNew {
+  key: 3341046359183507528
+  value: 15171693162164456755
+}
+AssetIdsOriginalToNew {
+  key: 5313699487634329017
+  value: 6291035371081558545
+}
+AssetIdsOriginalToNew {
+  key: 5927220524009298293
+  value: 18335658767451431048
+}
+AssetIdsOriginalToNew {
+  key: 7577485333701035703
+  value: 3053689731300016085
+}
+AssetIdsOriginalToNew {
+  key: 9770511928359673738
+  value: 14650716561434359095
+}
+AssetIdsOriginalToNew {
+  key: 11271269196469755384
+  value: 5401383912834391604
+}
+AssetIdsOriginalToNew {
+  key: 13103447746896580627
+  value: 5402795341836173067
+}
+AssetIdsOriginalToNew {
+  key: 13123070934719958091
+  value: 15399703129316823735
+}
+AssetIdsOriginalToNew {
+  key: 13645484765276120961
+  value: 11285164761069979036
+}
+AssetIdsOriginalToNew {
+  key: 14373757464648078715
+  value: 13312305774377909277
+}
+AssetIdsOriginalToNew {
+  key: 15345760362089961606
+  value: 2172909012635947235
+}
+AssetIdsOriginalToNew {
+  key: 15636749404113921442
+  value: 1272874830462009656
+}
+AssetIdsOriginalToNew {
+  key: 16047726153659277645
+  value: 7178498883681883169
+}
+AssetIdsOriginalToNew {
+  key: 17367449922255341506
+  value: 16255093871572762575
+}
+AssetIdsOriginalToNew {
+  key: 17876034834621974685
+  value: 4711364826779534527
+}
+AssetIdsOriginalToNew {
+  key: 17885238841937368370
+  value: 9322689620915072150
+}

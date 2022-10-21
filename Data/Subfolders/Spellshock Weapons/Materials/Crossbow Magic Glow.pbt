@@ -1,5 +1,5 @@
 Assets {
-  Id: 5347990607458893312
+  Id: 3556416912647019080
   Name: "Crossbow Magic Glow"
   PlatformAssetType: 13
   SerializationVersion: 119

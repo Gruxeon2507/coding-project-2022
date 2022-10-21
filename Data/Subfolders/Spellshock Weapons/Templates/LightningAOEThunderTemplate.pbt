@@ -1,5 +1,5 @@
 Assets {
-  Id: 6068171925675717156
+  Id: 7985053823299019551
   Name: "LightningAOEThunderTemplate"
   PlatformAssetType: 5
   TemplateAsset {
@@ -58,7 +58,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerVFX"
             AssetReference {
-              Id: 13760367154884081037
+              Id: 14162005454645790252
             }
           }
           Overrides {
@@ -764,7 +764,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 1761179414234489475
+              Id: 14587921019247066876
             }
           }
         }
@@ -965,7 +965,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 2530223038454916554
+              Id: 11192919480659211898
             }
           }
           Overrides {
@@ -993,7 +993,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6019283059881602066
+            Id: 10537156747802639703
           }
         }
         NetworkRelevanceDistance {

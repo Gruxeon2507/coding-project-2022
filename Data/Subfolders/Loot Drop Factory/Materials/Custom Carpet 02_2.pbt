@@ -1,5 +1,5 @@
 Assets {
-  Id: 1931077816228138665
+  Id: 4558524591367752218
   Name: "Custom Carpet 02_2"
   PlatformAssetType: 13
   SerializationVersion: 119

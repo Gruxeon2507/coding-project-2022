@@ -1,5 +1,5 @@
 Assets {
-  Id: 12995654777246058419
+  Id: 10497982598899388565
   Name: "SFX_ConsumablePickup"
   PlatformAssetType: 5
   TemplateAsset {

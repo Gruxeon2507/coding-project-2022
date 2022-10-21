@@ -1,5 +1,5 @@
 Assets {
-  Id: 8456484013249238506
+  Id: 6796081710811958639
   Name: "Custom Cliff 01"
   PlatformAssetType: 13
   SerializationVersion: 119

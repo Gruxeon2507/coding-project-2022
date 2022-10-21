@@ -1,5 +1,5 @@
 Assets {
-  Id: 11810111430757106154
+  Id: 10400048288636749321
   Name: "ITEM_ConsumptionEffect_RandomLoot"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:RuntimeContextDetection"
         AssetReference {
-          Id: 3494835802235715720
+          Id: 5301006708944219639
         }
       }
     }

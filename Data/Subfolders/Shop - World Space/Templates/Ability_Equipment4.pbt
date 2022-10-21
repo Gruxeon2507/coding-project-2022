@@ -1,5 +1,5 @@
 Assets {
-  Id: 14594771519258759760
+  Id: 12528853427380441761
   Name: "Ability_Equipment4"
   PlatformAssetType: 5
   TemplateAsset {

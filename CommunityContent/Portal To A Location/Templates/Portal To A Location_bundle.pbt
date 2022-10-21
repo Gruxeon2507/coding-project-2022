@@ -1,5 +1,5 @@
 Assets {
-  Id: 693625845733332356
+  Id: 11945660479800888328
   Name: "Portal To A Location"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,7 +25,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 10516338320189441676
+              Id: 12441996404037998195
             }
           }
         }

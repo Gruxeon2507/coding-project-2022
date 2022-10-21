@@ -1,5 +1,5 @@
 Assets {
-  Id: 6314811744764574550
+  Id: 8384671781023506513
   Name: "ItemSystems_LootableContainer"
   PlatformAssetType: 3
   TextAsset {
@@ -7,13 +7,13 @@ Assets {
       Overrides {
         Name: "cs:ItemSystems_Inventory"
         AssetReference {
-          Id: 457614049737358073
+          Id: 581318021349282200
         }
       }
       Overrides {
         Name: "cs:ItemSystems_Database"
         AssetReference {
-          Id: 7063384659605169467
+          Id: 12066301023824055680
         }
       }
     }

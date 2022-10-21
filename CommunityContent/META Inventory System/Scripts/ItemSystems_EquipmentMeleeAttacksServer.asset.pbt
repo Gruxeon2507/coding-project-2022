@@ -1,5 +1,5 @@
 Assets {
-  Id: 3389007982530698819
+  Id: 13568274813977787400
   Name: "ItemSystems_EquipmentMeleeAttacksServer"
   PlatformAssetType: 3
   TextAsset {

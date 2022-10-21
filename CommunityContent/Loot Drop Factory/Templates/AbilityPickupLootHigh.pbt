@@ -1,5 +1,5 @@
 Assets {
-  Id: 9694772164071968744
+  Id: 10186701404182078936
   Name: "AbilityPickupLootHigh"
   PlatformAssetType: 5
   TemplateAsset {
@@ -160,7 +160,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5402153300773852018
+            Id: 13257536914034679211
           }
         }
         NetworkRelevanceDistance {

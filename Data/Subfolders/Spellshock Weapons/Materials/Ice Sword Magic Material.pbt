@@ -1,5 +1,5 @@
 Assets {
-  Id: 4227634799549664634
+  Id: 7466944601940314730
   Name: "Ice Sword Magic Material"
   PlatformAssetType: 13
   SerializationVersion: 119

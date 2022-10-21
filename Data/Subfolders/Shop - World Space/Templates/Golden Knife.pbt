@@ -1,5 +1,5 @@
 Assets {
-  Id: 17058834528121048830
+  Id: 4522985851300578051
   Name: "Golden Knife"
   PlatformAssetType: 5
   TemplateAsset {
@@ -81,7 +81,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 6500536172002361191
+              Id: 3617506905755057848
             }
           }
           Overrides {
@@ -103,7 +103,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2863355228234850353
+            Id: 4546991767534503067
           }
         }
         NetworkRelevanceDistance {
@@ -147,7 +147,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12178638129790121479
+            Id: 5857594197727097530
           }
         }
         NetworkRelevanceDistance {
@@ -192,7 +192,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5528129679120370650
+            Id: 16339426271048786788
           }
         }
         NetworkRelevanceDistance {
@@ -268,7 +268,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6796969267533693484
+            Id: 8373416620123088091
           }
         }
         NetworkRelevanceDistance {
@@ -372,7 +372,7 @@ Assets {
           Overrides {
             Name: "cs:DamageAPI"
             AssetReference {
-              Id: 10605199845753765144
+              Id: 9712602949782488160
             }
           }
           Overrides {
@@ -403,7 +403,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 1711272272570217703
+              Id: 11055668153964384339
             }
           }
           Overrides {
@@ -420,7 +420,7 @@ Assets {
           Overrides {
             Name: "cs:AttackPlayerImpact"
             AssetReference {
-              Id: 6097664095061921820
+              Id: 6247197544166643464
             }
           }
           Overrides {
@@ -444,7 +444,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16672161133243864726
+            Id: 17720915406119780574
           }
         }
         NetworkRelevanceDistance {
@@ -509,7 +509,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7857948531590739332
+              Id: 8197575245901642800
             }
           }
           Overrides {
@@ -530,7 +530,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 271558355854841673
+            Id: 3382641119575024389
           }
         }
         NetworkRelevanceDistance {
@@ -631,7 +631,7 @@ Assets {
           Overrides {
             Name: "cs:DamageAPI"
             AssetReference {
-              Id: 10605199845753765144
+              Id: 9712602949782488160
             }
           }
           Overrides {
@@ -662,7 +662,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 1711272272570217703
+              Id: 11055668153964384339
             }
           }
           Overrides {
@@ -679,7 +679,7 @@ Assets {
           Overrides {
             Name: "cs:AttackPlayerImpact"
             AssetReference {
-              Id: 6097664095061921820
+              Id: 6247197544166643464
             }
           }
           Overrides {
@@ -703,7 +703,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16672161133243864726
+            Id: 17720915406119780574
           }
         }
         NetworkRelevanceDistance {
@@ -768,7 +768,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7857948531590739332
+              Id: 8197575245901642800
             }
           }
           Overrides {
@@ -789,7 +789,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 271558355854841673
+            Id: 3382641119575024389
           }
         }
         NetworkRelevanceDistance {
@@ -918,7 +918,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7857948531590739332
+              Id: 8197575245901642800
             }
           }
         }
@@ -933,7 +933,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5694050552726165981
+            Id: 9261267068335298072
           }
         }
         NetworkRelevanceDistance {
@@ -1109,7 +1109,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 1789076945185894122
+              Id: 11689940565060439170
             }
           }
           Overrides {
@@ -1178,7 +1178,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 1789076945185894122
+              Id: 11689940565060439170
             }
           }
           Overrides {

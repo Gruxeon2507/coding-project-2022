@@ -1,5 +1,5 @@
 Assets {
-  Id: 753644144683546373
+  Id: 6283056356070620126
   Name: "EquipmentAddOnEquipped"
   PlatformAssetType: 3
   TextAsset {

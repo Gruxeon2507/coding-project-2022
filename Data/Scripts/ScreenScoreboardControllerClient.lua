@@ -16,6 +16,7 @@ OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 --]]
 
 -- Internal custom properties
+local AR = require(script:GetCustomProperty("AR"))
 local COMPONENT_ROOT = script:GetCustomProperty("ComponentRoot"):WaitForObject()
 local CONTAINER = script:GetCustomProperty("Container"):WaitForObject()
 local PANEL = script:GetCustomProperty("Panel"):WaitForObject()
@@ -69,6 +70,12 @@ function ComparePlayers(player1, player2)
     local player1Resource = player1:GetResource(RESOURCE_TO_TRACK)
     local player2Resource = player2:GetResource(RESOURCE_TO_TRACK)
 
+    -- First sort by team
+    if player1.team ~= player2.team then
+        return player1.team < player2.team
+    end
+
+    -- Second we use kills
     if player1Resource ~= player2Resource then
         return player1Resource > player2Resource
     end
@@ -87,18 +94,26 @@ function Tick(deltaTime)
 
         for i, player in ipairs(players) do
             local teamColor = FRIENDLY_COLOR
-            local playerResource =  player:GetResource(RESOURCE_TO_TRACK)
+            local playerResource = player:GetResource(RESOURCE_TO_TRACK)
+            local playerCurrentResource = player:GetResource("Gold")
 
             if player ~= LOCAL_PLAYER and Teams.AreTeamsEnemies(player.team, LOCAL_PLAYER.team) then
                 teamColor = ENEMY_COLOR
             end
 
+            local maxHPTier = AR.GetResourceTier(AR.MAX_HP_RESOURCE, player:GetResource(AR.MAX_HP_RESOURCE))
+            local damageTier = AR.GetResourceTier(AR.DAMAGE_RESOURCE, player:GetResource(AR.DAMAGE_RESOURCE))
+            local speedTier = AR.GetResourceTier(AR.SPEED_RESOURCE, player:GetResource(AR.SPEED_RESOURCE))
+
             local line = playerLines[i]
             line:GetCustomProperty("OrderText"):WaitForObject().text = tostring(i)
             line:GetCustomProperty("Name"):WaitForObject().text = player.name
             line:GetCustomProperty("Name"):WaitForObject():SetColor(teamColor)
-            line:GetCustomProperty("Icon"):WaitForObject():SetImage(player)
+            line:GetCustomProperty("CurrentScoreText"):WaitForObject().text = tostring(playerCurrentResource)
             line:GetCustomProperty("ScoreText"):WaitForObject().text = tostring(playerResource)
+            line:GetCustomProperty("MaxHPLevel"):WaitForObject().text = tostring(maxHPTier)
+            line:GetCustomProperty("DamageLevel"):WaitForObject().text = tostring(damageTier)
+            line:GetCustomProperty("SpeedLevel"):WaitForObject().text = tostring(speedTier)
         end
     else
         CONTAINER.visibility = Visibility.FORCE_OFF
@@ -107,9 +122,13 @@ end
 
 -- Initialize
 local headerLine = World.SpawnAsset(LINE_TEMPLATE, {parent = PANEL})
-headerLine:GetCustomProperty("OrderText"):WaitForObject().text = ""
-headerLine:GetCustomProperty("Name"):WaitForObject().text = "Player"
-headerLine:GetCustomProperty("ScoreText"):WaitForObject().text = "Level"
+headerLine:GetCustomProperty("ScoreIcon"):WaitForObject().visibility = Visibility.INHERIT
+headerLine:GetCustomProperty("CurrentScoreIcon"):WaitForObject().visibility = Visibility.INHERIT
+headerLine:GetCustomProperty("OrderText"):WaitForObject().text = "#"
+headerLine:GetCustomProperty("Name"):WaitForObject().text = "Pirates"
+headerLine:GetCustomProperty("ScoreText"):WaitForObject().text = "Deposited"
+headerLine:GetCustomProperty("CurrentScoreText"):WaitForObject().text = "Gold"
+headerLine:GetCustomProperty("ResourceStatPanel"):WaitForObject().visibility = Visibility.FORCE_OFF
 
 Game.playerLeftEvent:Connect(OnPlayerLeft)
 Game.playerJoinedEvent:Connect(OnPlayerJoined)

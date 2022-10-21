@@ -1,5 +1,5 @@
 Assets {
-  Id: 16525425193323010735
+  Id: 12923519995656526351
   Name: "Loot Drop Factory"
   PlatformAssetType: 5
   TemplateAsset {
@@ -30,7 +30,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5205218031741355744
+            Id: 1463369150430745040
           }
         }
         NetworkRelevanceDistance {
@@ -99,7 +99,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2273327452522045519
+            Id: 3251874841573752856
           }
         }
         NetworkRelevanceDistance {
@@ -130,7 +130,7 @@ Assets {
           Overrides {
             Name: "cs:Template"
             AssetReference {
-              Id: 9877505250496602684
+              Id: 12017396778187069464
             }
           }
         }
@@ -145,7 +145,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2273327452522045519
+            Id: 3251874841573752856
           }
         }
         NetworkRelevanceDistance {
@@ -172,7 +172,7 @@ Assets {
           Overrides {
             Name: "cs:Template"
             AssetReference {
-              Id: 3664658028378993427
+              Id: 14667535395228814035
             }
           }
         }
@@ -187,7 +187,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2273327452522045519
+            Id: 3251874841573752856
           }
         }
         NetworkRelevanceDistance {
@@ -248,7 +248,7 @@ Assets {
           Overrides {
             Name: "cs:Template"
             AssetReference {
-              Id: 3664658028378993427
+              Id: 14667535395228814035
             }
           }
           Overrides {
@@ -271,7 +271,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2273327452522045519
+            Id: 3251874841573752856
           }
         }
         NetworkRelevanceDistance {
@@ -298,7 +298,7 @@ Assets {
           Overrides {
             Name: "cs:Template"
             AssetReference {
-              Id: 5638509232509518548
+              Id: 15943039097140125979
             }
           }
           Overrides {
@@ -317,7 +317,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2273327452522045519
+            Id: 3251874841573752856
           }
         }
         NetworkRelevanceDistance {
@@ -378,7 +378,7 @@ Assets {
           Overrides {
             Name: "cs:Template"
             AssetReference {
-              Id: 12055143883982222474
+              Id: 14574872451239973475
             }
           }
           Overrides {
@@ -401,7 +401,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2273327452522045519
+            Id: 3251874841573752856
           }
         }
         NetworkRelevanceDistance {
@@ -428,7 +428,7 @@ Assets {
           Overrides {
             Name: "cs:Template"
             AssetReference {
-              Id: 1049307890332661755
+              Id: 11280283556951364479
             }
           }
           Overrides {
@@ -447,7 +447,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2273327452522045519
+            Id: 3251874841573752856
           }
         }
         NetworkRelevanceDistance {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 10845962117613704054
+  Id: 10582977718316217800
   Name: "SFX_StashSearching"
   PlatformAssetType: 5
   TemplateAsset {

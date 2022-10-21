@@ -26,7 +26,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 10582278170124815413
+              Id: 12956774454661636931
             }
           }
           Overrides {
@@ -56,16 +56,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 456299617958463030
+              Id: 7873447472770106816
             }
             MuzzleFlashAssetRef {
-              Id: 9192532436976883981
+              Id: 3452198850354539067
             }
             TrailAssetRef {
-              Id: 6594300760119200196
+              Id: 16943198897384362849
             }
             ImpactAssetRef {
-              Id: 7039309229349258894
+              Id: 4200143341945439636
             }
             UseReticle: true
             Muzzle {
@@ -76,10 +76,10 @@ Assets {
             }
             AnimationSet: "2hand_rifle_stance"
             OutOfAmmoSfxAssetRef {
-              Id: 5244758831179159233
+              Id: 1518160165269425996
             }
             ReloadSfxAssetRef {
-              Id: 11589343284936310966
+              Id: 13298384700354758282
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
@@ -93,7 +93,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 100000
             ImpactPlayerAssetRef {
-              Id: 945745754359355680
+              Id: 14373757464648078715
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -232,7 +232,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11371932781944267792
+            Id: 10251728999306098252
           }
         }
         NetworkRelevanceDistance {
@@ -339,7 +339,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
         }
@@ -354,7 +354,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10876654839906312645
+            Id: 10109220941690346490
           }
         }
         NetworkRelevanceDistance {
@@ -387,7 +387,7 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 7455381984532341908
+              Id: 8464091643503470018
             }
           }
           Overrides {
@@ -396,7 +396,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 1
+              A: 0.5
             }
           }
         }
@@ -444,7 +444,7 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 8384484165346277872
+              Id: 11830505573971306659
             }
           }
           Overrides {
@@ -453,7 +453,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 1
+              A: 0.5
             }
           }
         }
@@ -973,30 +973,30 @@ Assets {
       }
     }
     Assets {
-      Id: 10582278170124815413
-      Name: "Fantasy Crossbow 006"
+      Id: 12956774454661636931
+      Name: "Icon Weapon Crossbow"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Weapon_Crossbow_006"
+        AssetId: "Icon_WeaponCrossbow"
       }
     }
     Assets {
-      Id: 7455381984532341908
-      Name: "Fantasy Ability Teal 011"
+      Id: 8464091643503470018
+      Name: "Target"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Ability_Teal_011"
+        AssetId: "UI_Fantasy_icon_Target"
       }
     }
     Assets {
-      Id: 8384484165346277872
-      Name: "Fantasy Ability Teal 019"
+      Id: 11830505573971306659
+      Name: "Icon Rotate"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Ability_Teal_019"
+        AssetId: "Icon_ArrowRotate"
       }
     }
     Assets {

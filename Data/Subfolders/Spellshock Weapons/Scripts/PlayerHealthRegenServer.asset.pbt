@@ -1,5 +1,5 @@
 Assets {
-  Id: 15304234962249587146
+  Id: 4722470301334513018
   Name: "PlayerHealthRegenServer"
   PlatformAssetType: 3
   TextAsset {

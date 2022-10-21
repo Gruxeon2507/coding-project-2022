@@ -1,5 +1,5 @@
 Assets {
-  Id: 3027149291645138548
+  Id: 757544796828106135
   Name: "Crossbow Poison AOE Projectiles Template"
   PlatformAssetType: 5
   TemplateAsset {
@@ -26,7 +26,7 @@ Assets {
           Overrides {
             Name: "cs:Projectile"
             AssetReference {
-              Id: 8188297661987315646
+              Id: 5240793895743122331
             }
           }
           Overrides {
@@ -58,13 +58,13 @@ Assets {
           Overrides {
             Name: "cs:ProjectileImpactAligned"
             AssetReference {
-              Id: 6396976091867665853
+              Id: 2137448305448189427
             }
           }
           Overrides {
             Name: "cs:BlastImpactTemplate"
             AssetReference {
-              Id: 5557047640060805837
+              Id: 4231308166832060540
             }
           }
           Overrides {
@@ -109,7 +109,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerEffectTemplate"
             AssetReference {
-              Id: 15621079418733430051
+              Id: 17649761221516168462
             }
           }
           Overrides {
@@ -167,13 +167,13 @@ Assets {
           Overrides {
             Name: "cs:API_Damage"
             AssetReference {
-              Id: 11303021471215683506
+              Id: 16915150100797142409
             }
           }
           Overrides {
             Name: "cs:API_Effect"
             AssetReference {
-              Id: 2530223038454916554
+              Id: 11192919480659211898
             }
           }
         }
@@ -189,7 +189,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1463942534513942623
+            Id: 13057608629500595803
           }
         }
         NetworkRelevanceDistance {

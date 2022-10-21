@@ -1,5 +1,5 @@
 Assets {
-  Id: 4521273658077266656
+  Id: 1781320512769703186
   Name: "ChanceToDestroyParent"
   PlatformAssetType: 3
   TextAsset {

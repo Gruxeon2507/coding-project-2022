@@ -1,5 +1,5 @@
 Assets {
-  Id: 9055622260121718186
+  Id: 13477817181381101479
   Name: "ITEM_Misc_MagicPearl"
   PlatformAssetType: 5
   TemplateAsset {
@@ -96,7 +96,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13705567951820096622
+              Id: 8747745672615993962
             }
           }
           Overrides {

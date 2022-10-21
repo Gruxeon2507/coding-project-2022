@@ -1,5 +1,5 @@
 Assets {
-  Id: 3618376411630669820
+  Id: 17414648537596347188
   Name: "Lightning Gauntlet"
   PlatformAssetType: 5
   TemplateAsset {
@@ -39,16 +39,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 886455838074559633
+              Id: 7788901531937892726
             }
             MuzzleFlashAssetRef {
-              Id: 8582035054030816876
+              Id: 2580083533563872171
             }
             TrailAssetRef {
-              Id: 14695691570224016097
+              Id: 365679098034516179
             }
             ImpactAssetRef {
-              Id: 2330301454140130612
+              Id: 4068550412729497325
             }
             Muzzle {
               Location {
@@ -59,13 +59,13 @@ Assets {
             }
             AnimationSet: "unarmed_stance"
             OutOfAmmoSfxAssetRef {
-              Id: 14198511396898985671
+              Id: 9754313940285145496
             }
             ReloadSfxAssetRef {
-              Id: 18308063724478490953
+              Id: 11210505986581036002
             }
             ImpactProjectileAssetRef {
-              Id: 2330301454140130612
+              Id: 4068550412729497325
             }
             IsHitscan: true
             BeamAssetRef {
@@ -76,7 +76,7 @@ Assets {
             BurstStopsWithRelease: true
             Range: 2500
             ImpactPlayerAssetRef {
-              Id: 9729059026842251761
+              Id: 7473039137614056492
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -129,7 +129,7 @@ Assets {
           Overrides {
             Name: "cs:API_EffectSystem"
             AssetReference {
-              Id: 2530223038454916554
+              Id: 11192919480659211898
             }
           }
           Overrides {
@@ -173,7 +173,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 476292117025633384
+            Id: 474301925775429562
           }
         }
         NetworkRelevanceDistance {
@@ -219,7 +219,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15304234962249587146
+            Id: 4722470301334513018
           }
         }
         NetworkRelevanceDistance {
@@ -388,7 +388,7 @@ Assets {
           Overrides {
             Name: "cs:DamageAPI"
             AssetReference {
-              Id: 11303021471215683506
+              Id: 16915150100797142409
             }
           }
           Overrides {
@@ -408,7 +408,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2548725528080068699
+            Id: 8574155579504195683
           }
         }
         NetworkRelevanceDistance {
@@ -490,7 +490,7 @@ Assets {
           Overrides {
             Name: "cs:AmmoUI"
             AssetReference {
-              Id: 8517930281392589498
+              Id: 5183598678381924592
             }
           }
         }
@@ -505,7 +505,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9709762198918555069
+            Id: 16216144112245588849
           }
         }
         NetworkRelevanceDistance {
@@ -533,7 +533,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 13039838708654056087
             }
           }
           Overrides {
@@ -554,7 +554,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7073806757940758428
+            Id: 16552815933987324064
           }
         }
         NetworkRelevanceDistance {
@@ -699,7 +699,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4004262760258220456
+            Id: 6703712560572080575
           }
         }
         NetworkRelevanceDistance {
@@ -789,7 +789,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5214187815268904948
+            Id: 11130398207020823026
           }
         }
         NetworkRelevanceDistance {
@@ -817,7 +817,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 13039838708654056087
             }
           }
           Overrides {
@@ -838,7 +838,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7073806757940758428
+            Id: 16552815933987324064
           }
         }
         NetworkRelevanceDistance {
@@ -993,7 +993,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 13039838708654056087
             }
           }
           Overrides {
@@ -1014,7 +1014,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7073806757940758428
+            Id: 16552815933987324064
           }
         }
         NetworkRelevanceDistance {
@@ -1123,7 +1123,7 @@ Assets {
           Overrides {
             Name: "cs:AOEAsset"
             AssetReference {
-              Id: 6068171925675717156
+              Id: 7985053823299019551
             }
           }
           Overrides {
@@ -1143,7 +1143,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10320151371248668799
+            Id: 11941518061316330598
           }
         }
         NetworkRelevanceDistance {
@@ -1215,7 +1215,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 13039838708654056087
             }
           }
           Overrides {
@@ -1236,7 +1236,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7073806757940758428
+            Id: 16552815933987324064
           }
         }
         NetworkRelevanceDistance {
@@ -1368,7 +1368,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6281515506488287065
+            Id: 12115058129235105879
           }
         }
         NetworkRelevanceDistance {
@@ -1452,7 +1452,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15208321297274815436
+            Id: 4964867811819012946
           }
         }
         NetworkRelevanceDistance {
@@ -1788,7 +1788,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4573150065125777209
+            Id: 17977548762940923427
           }
         }
         NetworkRelevanceDistance {
@@ -1964,7 +1964,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7384503973226660956
+            Id: 12058958572538445956
           }
         }
         NetworkRelevanceDistance {
@@ -2012,7 +2012,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7384503973226660956
+            Id: 12058958572538445956
           }
         }
         NetworkRelevanceDistance {
@@ -2064,7 +2064,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17129808777047351242
+            Id: 7760479245682596945
           }
         }
         NetworkRelevanceDistance {
@@ -2136,7 +2136,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13666617139133806254
+            Id: 1826451229455918406
           }
         }
         NetworkRelevanceDistance {
@@ -3426,7 +3426,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7611856728906336326
+            Id: 16783442099462729092
           }
         }
         NetworkRelevanceDistance {
@@ -4676,7 +4676,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4573150065125777209
+            Id: 17977548762940923427
           }
         }
         NetworkRelevanceDistance {
@@ -5964,7 +5964,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7611856728906336326
+            Id: 16783442099462729092
           }
         }
         NetworkRelevanceDistance {
@@ -7214,7 +7214,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4573150065125777209
+            Id: 17977548762940923427
           }
         }
         NetworkRelevanceDistance {
@@ -7443,9 +7443,6 @@ Assets {
       AssetType: "None"
       AssetId: "None"
     }
-  }
-  Marketplace {
-    Description: "Bundle of all the magical weapons from Spellshock game.\r\nThis package is a neat example of advanced use of Weapon system in Core.\r\nYou are free to grab, edit, and put these weapons into your games.\r\n\r\nNote: To see how to setup the weapons, put the template \"_Spellshock Weapons Example Setup\" into the hierarchy\r\nand play with the weapons. \r\n\r\nWhat\'s Included:\r\n- Weapons: Fire Staff, Ice Sword, Poison Crossbow, Lightning Gauntlet and Rock Hammer\r\n- Objects: Effect System, Effect Annoncer and Abilities UI\r\n- Example setup template"
   }
   SerializationVersion: 119
   DirectlyPublished: true

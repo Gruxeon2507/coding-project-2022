@@ -1,5 +1,5 @@
 Assets {
-  Id: 4615461997553020033
+  Id: 7968047457848079808
   Name: "Treasure Room Trap"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,7 +25,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 10449018762789164759
+              Id: 12891066356783816096
             }
           }
         }

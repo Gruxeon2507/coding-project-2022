@@ -44,9 +44,6 @@ for _, item in pairs(ITEM_TYPES_FOLDER:GetChildren()) do
                                         isOffHandDisabled = item:GetCustomProperty("IsOffHandDisabled"), }
 end
 
--- Global flag for allowing 2^24 stack sizes instead of 2^12
-Item.ALLOW_LARGE_STACK_SIZES = script:GetCustomProperty("AllowLargeStacksizes")
-
 -- Enhancement cap.
 Item.ENHANCEMENT_CAP = 10
 Item.ENHANCEMENT_STAT_PERCENT_INCREASE = 10
@@ -213,7 +210,6 @@ function Item:GetDescription()
 end
 
 function Item:GetStats()
-    print(CoreDebug.GetStackTrace())
     warn("Item:GetStats() is deprecated for naming reasons. Use Item:GetStatsBase() instead.")
     return self.stats
 end
@@ -388,11 +384,7 @@ function Item:_IntoHash(isRuntime)
     table.insert(hashParts, isRuntime and HASH_RUNTIME or HASH_PERSISTENT)
     table.insert(hashParts, isRuntime and Base64.Encode24(self.data.index) or self.data.muid)
     table.insert(hashParts, HASH_DELIM_INTRO)
-    if Item.ALLOW_LARGE_STACK_SIZES then
-        table.insert(hashParts, Base64.Encode24(self:GetStackSize()))
-    else
-        table.insert(hashParts, Base64.Encode12(self:GetStackSize()))
-    end
+    table.insert(hashParts, Base64.Encode12(self:GetStackSize()))
     table.insert(hashParts, HASH_DELIM_INTRO)
     table.insert(hashParts, Base64.Encode6(self:GetEnhancementLevel()))
     table.insert(hashParts, HASH_DELIM_INTRO)
@@ -452,35 +444,7 @@ function Item._FromHash(database, hash)
         warn("unable to locate item data for hash: ", hashData)
         return
     end
-
-
-    local stackSize = 0
-    if Item.ALLOW_LARGE_STACK_SIZES then
-        -- Decode12 -> Decode24
-        if string.len(hashStackSize) == 2 then
-            stackSize = hashStackSize and Base64.Decode12(hashStackSize) or nil
-            hashStackSize = Base64.Encode24(stackSize) -- Convert 12 to 24
-        end
-        -- 2^24 = 16777216 max stack size.
-        stackSize = hashStackSize and Base64.Decode24(hashStackSize) or nil
-    else
-        -- Decode24 -> Decode12 ( With limits considered )
-        if string.len(hashStackSize) == 4 then
-            stackSize = hashStackSize and Base64.Decode24(hashStackSize) or nil
-            if stackSize > 2^12 then
-                warn(string.format("Allow large stack size custom property on ItemSystems_Item was turned off while there was items that exceeded 2^12 in stack size. Reducing the stack size to maxmium amount allowable by the item - %s",itemData.name))
-                if itemData.maxStackSize > 2^12 then
-                    stackSize = 2^12
-                else
-                    stackSize = itemData.maxStackSize
-                end
-            end
-            hashStackSize = Base64.Encode12(stackSize) -- Convert 24 to 12
-        end
-        -- 2^12 = 4096 max stack size.
-        stackSize = hashStackSize and Base64.Decode12(hashStackSize) or nil
-    end
-
+    local stackSize = hashStackSize and Base64.Decode12(hashStackSize) or nil
     local enhancementLevel = hashEnhancementLevel and Base64.Decode6(hashEnhancementLevel) or nil
     local limitBreakLevel = hashLimitBreakLevel and Base64.Decode6(hashLimitBreakLevel) or nil
     local item = Item.New(itemData, stackSize, enhancementLevel, limitBreakLevel)

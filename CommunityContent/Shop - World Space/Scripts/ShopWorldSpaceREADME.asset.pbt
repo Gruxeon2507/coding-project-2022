@@ -1,5 +1,5 @@
 Assets {
-  Id: 15352074320152608216
+  Id: 6754765513564820447
   Name: "ShopWorldSpaceREADME"
   PlatformAssetType: 3
   TextAsset {

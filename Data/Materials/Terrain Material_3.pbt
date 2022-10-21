@@ -1,19 +1,19 @@
 Assets {
-  Id: 9242294930323185714
+  Id: 10656054389257049252
   Name: "Terrain Material_3"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 16730122162579116669
+    BaseMaterialId: 701855092266116048
     ParameterOverrides {
     }
     Assets {
-      Id: 16730122162579116669
-      Name: "Terrain Composite Triplanar Complex Blend"
+      Id: 701855092266116048
+      Name: "Composite Triplanar Blend"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_terrain_composite_triplanar_blend_001_wa"
+        AssetId: "mi_composite_triplanar_wa"
       }
     }
   }

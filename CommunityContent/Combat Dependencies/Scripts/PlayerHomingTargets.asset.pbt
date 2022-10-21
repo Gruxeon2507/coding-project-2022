@@ -1,5 +1,5 @@
 Assets {
-  Id: 16370254566069515572
+  Id: 1039561866481711506
   Name: "PlayerHomingTargets"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:PlayerHomingTarget"
         AssetReference {
-          Id: 17687786335376276880
+          Id: 16934742153646881473
         }
       }
       Overrides {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 3177156178968783838
+  Id: 3427273436585975693
   Name: "UI_ItemSystems_ItemHoverStat"
   PlatformAssetType: 5
   TemplateAsset {

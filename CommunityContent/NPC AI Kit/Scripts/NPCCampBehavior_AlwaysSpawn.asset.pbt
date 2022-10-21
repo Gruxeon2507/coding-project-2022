@@ -1,5 +1,5 @@
 Assets {
-  Id: 2181822584708004782
+  Id: 6835598244693042790
   Name: "NPCCampBehavior_AlwaysSpawn"
   PlatformAssetType: 3
   TextAsset {

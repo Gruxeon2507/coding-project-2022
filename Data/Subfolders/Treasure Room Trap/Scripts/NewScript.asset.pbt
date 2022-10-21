@@ -1,5 +1,5 @@
 Assets {
-  Id: 5508441706665606516
+  Id: 1987863956101678823
   Name: "NewScript"
   PlatformAssetType: 3
   TextAsset {

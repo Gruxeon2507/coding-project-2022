@@ -1,0 +1,87 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "4f57f807a0984e56a7b56078b7d5bece"
+  OwnerAccountId: "3da30eda2ff74470b1dbafeb5beb0f00"
+  OwnerName: "RagingFang"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 537524595197496754
+  value: 4114706476081304710
+}
+AssetIdsOriginalToNew {
+  key: 1061922011143081131
+  value: 6021437820261003851
+}
+AssetIdsOriginalToNew {
+  key: 4427956192765817234
+  value: 7393417701546584786
+}
+AssetIdsOriginalToNew {
+  key: 4943934141972301924
+  value: 1045186100617425393
+}
+AssetIdsOriginalToNew {
+  key: 4960579271279383816
+  value: 13746221144713991357
+}
+AssetIdsOriginalToNew {
+  key: 6209665336691513442
+  value: 14964434964554051391
+}
+AssetIdsOriginalToNew {
+  key: 7327065288347237467
+  value: 7595258063610516210
+}
+AssetIdsOriginalToNew {
+  key: 8757593474747567397
+  value: 15355126600165777719
+}
+AssetIdsOriginalToNew {
+  key: 9046147283571950480
+  value: 10584412776058176188
+}
+AssetIdsOriginalToNew {
+  key: 11324125619161736671
+  value: 8463645172514982501
+}
+AssetIdsOriginalToNew {
+  key: 11507172308863986051
+  value: 11616695963860867387
+}
+AssetIdsOriginalToNew {
+  key: 11770957961494999542
+  value: 11603883746330246221
+}
+AssetIdsOriginalToNew {
+  key: 12023697438844344916
+  value: 4272922453528087652
+}
+AssetIdsOriginalToNew {
+  key: 12396512764895228576
+  value: 16146616127527530314
+}
+AssetIdsOriginalToNew {
+  key: 12520591751320894506
+  value: 16646047386040307399
+}
+AssetIdsOriginalToNew {
+  key: 13122966675531215861
+  value: 17766356357847716
+}
+AssetIdsOriginalToNew {
+  key: 14678001507047580791
+  value: 15190686981144349742
+}
+AssetIdsOriginalToNew {
+  key: 15114949040019142856
+  value: 5143802687496192241
+}
+AssetIdsOriginalToNew {
+  key: 15988378232303733745
+  value: 17867867237131130496
+}
+AssetIdsOriginalToNew {
+  key: 17130187168106503158
+  value: 13523931910842055866
+}

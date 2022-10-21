@@ -256,7 +256,7 @@ Assets {
         }
         Control {
           Width: 15
-          Height: 2
+          Height: 1
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -264,7 +264,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 841534158063459245
+              Id: 17586365689296088662
             }
             Color {
               R: 1
@@ -321,7 +321,7 @@ Assets {
         }
         Control {
           Width: 15
-          Height: 2
+          Height: 1
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -329,7 +329,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 841534158063459245
+              Id: 17586365689296088662
             }
             Color {
               R: 1
@@ -386,7 +386,7 @@ Assets {
         }
         Control {
           Width: 15
-          Height: 2
+          Height: 1
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -394,7 +394,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 841534158063459245
+              Id: 17586365689296088662
             }
             Color {
               R: 1
@@ -450,7 +450,7 @@ Assets {
         }
         Control {
           Width: 15
-          Height: 2
+          Height: 1
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -458,7 +458,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 841534158063459245
+              Id: 17586365689296088662
             }
             Color {
               R: 1
@@ -501,7 +501,4 @@ Assets {
     }
   }
   SerializationVersion: 119
-  VirtualFolderPath: "Weapons"
-  VirtualFolderPath: "Projectile"
-  VirtualFolderPath: "Dependecies"
 }

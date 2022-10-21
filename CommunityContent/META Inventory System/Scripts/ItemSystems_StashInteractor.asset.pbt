@@ -1,5 +1,5 @@
 Assets {
-  Id: 6608059876195031724
+  Id: 3059036162887454134
   Name: "ItemSystems_StashInteractor"
   PlatformAssetType: 3
   TextAsset {
@@ -40,7 +40,7 @@ Assets {
       }
       Overrides {
         Name: "cs:isDebug"
-        Bool: true
+        Bool: false
       }
     }
   }

@@ -1,5 +1,5 @@
 Assets {
-  Id: 2377643648862269433
+  Id: 9855740383078809114
   Name: "FireballBlastImpact"
   PlatformAssetType: 5
   TemplateAsset {
@@ -213,7 +213,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 7305385595281568248
+              Id: 977993312943543746
             }
           }
           Overrides {
@@ -280,7 +280,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 7305385595281568248
+              Id: 977993312943543746
             }
           }
           Overrides {
@@ -344,7 +344,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10982014417263640137
+              Id: 5812909143629326634
             }
           }
           Overrides {

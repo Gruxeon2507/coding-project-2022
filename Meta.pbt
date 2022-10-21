@@ -1,5 +1,5 @@
-GameId: "BD6960B84083D152D7D6BCA7BA0C0553"
-DisplayName: "CodingProject2022final"
+GameId: "D3C98ED244BFE58132353EBFE0E90FDE"
+DisplayName: "CloneMain"
 GameSerializationVersion: 119
 Framework: "EmptyProject"
 StorageVersion: 2

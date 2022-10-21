@@ -1,5 +1,5 @@
 Assets {
-  Id: 6500536172002361191
+  Id: 3617506905755057848
   Name: "APIBasicInventory"
   PlatformAssetType: 3
   TextAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 17233709696959151651
+  Id: 14721326949366492919
   Name: "Equipment Spawner"
   PlatformAssetType: 5
   TemplateAsset {
@@ -193,7 +193,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8641429849922463787
+            Id: 14711683230646813950
           }
         }
         NetworkRelevanceDistance {

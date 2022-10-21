@@ -1,5 +1,5 @@
 Assets {
-  Id: 17985148913148659828
+  Id: 817101357896526612
   Name: "ITEM_Misc_WoodScrap"
   PlatformAssetType: 5
   TemplateAsset {

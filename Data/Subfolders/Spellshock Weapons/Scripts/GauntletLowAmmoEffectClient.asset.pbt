@@ -1,5 +1,5 @@
 Assets {
-  Id: 13666617139133806254
+  Id: 1826451229455918406
   Name: "GauntletLowAmmoEffectClient"
   PlatformAssetType: 3
   TextAsset {

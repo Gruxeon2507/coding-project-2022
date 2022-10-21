@@ -1,5 +1,5 @@
 Assets {
-  Id: 549479057296484246
+  Id: 63876549932650322
   Name: "ResourceIconsManagerClient"
   PlatformAssetType: 3
   TextAsset {

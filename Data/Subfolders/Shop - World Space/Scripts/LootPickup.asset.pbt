@@ -1,5 +1,5 @@
 Assets {
-  Id: 3119081384398516628
+  Id: 16041550783223191656
   Name: "LootPickup"
   PlatformAssetType: 3
   TextAsset {

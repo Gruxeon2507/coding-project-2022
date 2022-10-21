@@ -13,8 +13,7 @@ local PRIMARYSLOT = "E1"
 local OWNER = nil
 
 -- Cleans up old equipment
-local function CleanUpEquipment(leftPlayer)
-    if leftPlayer ~= OWNER then return end
+local function CleanUpEquipment()
     if not Object.IsValid(OWNER) then return end
     local equipments = OWNER:GetEquipment()
     for _, equipment in pairs(equipments) do
@@ -28,17 +27,12 @@ end
 -- Gets the primary slot network property of the players inventory and creates the equipment then equips it.
 local function EquipNewEquipment()
     local itemHash = HelperItemSystemInventory:GetCustomProperty(PRIMARYSLOT)
-    local currentPlayerID = HelperItemSystemInventory:GetCustomProperty("PlayerId")
-    for _, player in pairs(Game.GetPlayers()) do
-        if player.id == currentPlayerID then
-            CleanUpEquipment(player)
-            if itemHash ~= "" and itemHash then
-                local item = Item.FromHash(ItemDatabase,itemHash)
-                local equipment = World.SpawnAsset(item:GetMUID())
-                assert(equipment:IsA("Equipment"),"Primary item is not type of equipment.")
-                equipment:Equip(OWNER)
-            end
-        end
+    CleanUpEquipment()
+    if itemHash ~= "" and itemHash then
+        local item = Item.FromHash(ItemDatabase,itemHash)
+        local equipment = World.SpawnAsset(item:GetMUID())
+        assert(equipment:IsA("Equipment"),"Primary item is not type of equipment.")
+        equipment:Equip(OWNER)
     end
 end
 

@@ -7,8 +7,8 @@
 local LOCAL_PLAYER = Game.GetLocalPlayer()
 local PROPERTY_TO_SEARCH_FOR = script:GetCustomProperty("PropertyToSearchFor")
 local USE_KEY = script:GetCustomProperty("OpenKey")
-local INTERACT_DISTANCE = script:GetCustomProperty("InteractDistance")^2
-local IS_DEBUG = script:GetCustomProperty("isDebug")
+local INTERACT_DISTANCE = script:GetCustomProperty("InteractDistance")
+local IS_DEBUG = script:GetCustomProperty("IS_DEBUG")
 local CANCEL_USAGE_DISTANCE = script:GetCustomProperty("CancelUsageDistance")
 local ReliableEvents = require(script:GetCustomProperty("ReliableEvents"))
 local SearchIndicatorUI = script:GetCustomProperty("SearchUI"):WaitForObject()
@@ -125,34 +125,25 @@ function Tick()
 	if activeCamera then
 		minInteractDistance = activeCamera.currentDistance - 50
 	end
-    
-    local startPos = cameraPos + lookDirection * minInteractDistance
-    local endPos = cameraPos + lookDirection * 10000
-    
+	local startPos = cameraPos + lookDirection * minInteractDistance
+	local endPos = cameraPos + lookDirection * INTERACT_DISTANCE
     local hitResult = World.Raycast(startPos, endPos, {ignorePlayers = true})
-    local distanceSquaredFromStartToEnd = math.huge
-    if hitResult then
-        distanceSquaredFromStartToEnd = (startPos - hitResult:GetImpactPosition()).sizeSquared
-    end
-
     if IS_DEBUG then
         -- Draws a ray from the camera forward
-		CoreDebug.DrawLine(startPos, endPos, {
+		CoreDebug.DrawLine(cameraPos, cameraPos  + lookDirection * INTERACT_DISTANCE, {
   			duration = 2,
   			color = Color.GREEN,
-  			thickness = 0.2
+  			thickness = 0.1
         })
         if hitResult then
             CoreDebug.DrawBox(hitResult:GetImpactPosition(),Vector3.New(5,5,5))
         end
     end
-
     -- If the player is looking at something and they're not dead and they're not on use cooldown and they're not looting a container.
     if hitResult and not LOCAL_PLAYER.isDead and not onUseCooldown and 
         not LOCAL_PLAYER.clientUserData.containerInventory and
         not LOCAL_PLAYER.clientUserData.isOverLoot and
-        not LOCAL_PLAYER.clientUserData.upgradeViewOpen and
-        distanceSquaredFromStartToEnd < INTERACT_DISTANCE then
+        not LOCAL_PLAYER.clientUserData.upgradeViewOpen then
 
         if hitResult.other then
             local stashObject = hitResult.other.parent
@@ -164,11 +155,11 @@ function Tick()
                 sfxClosedSound = stashObject:GetCustomProperty("SFX_ClosedSound")
                 SearchIndicatorUI.visibility = Visibility.FORCE_ON
                 LOCAL_PLAYER.clientUserData.stashObject = stashObject
-            else
-                SearchIndicatorUI.visibility = Visibility.FORCE_OFF
             end
             if id and stashObject and type(id) == "userdata" and id:IsA("CoreObjectReference") then
                 id = id:GetObject().id -- MUID support
+            elseif not id then
+                SearchIndicatorUI.visibility = Visibility.FORCE_OFF
             end
         end
     else

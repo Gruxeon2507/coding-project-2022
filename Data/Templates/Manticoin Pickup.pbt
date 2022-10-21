@@ -249,7 +249,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7636511150976454967
+            Id: 635947665660025098
           }
         }
         NetworkRelevanceDistance {

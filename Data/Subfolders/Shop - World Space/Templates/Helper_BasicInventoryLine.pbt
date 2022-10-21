@@ -1,5 +1,5 @@
 Assets {
-  Id: 3206848349776543474
+  Id: 14528087521398432293
   Name: "Helper_BasicInventoryLine"
   PlatformAssetType: 5
   TemplateAsset {

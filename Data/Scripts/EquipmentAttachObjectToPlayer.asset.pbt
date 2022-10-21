@@ -9,8 +9,21 @@ Assets {
         ObjectReference {
         }
       }
+      Overrides {
+        Name: "cs:PlayerSocket"
+        String: "root"
+      }
+      Overrides {
+        Name: "cs:LocalPosition"
+        Vector {
+        }
+      }
+      Overrides {
+        Name: "cs:LocalRotation"
+        Rotator {
+        }
+      }
     }
   }
   SerializationVersion: 119
-  VirtualFolderPath: "Equipment"
 }

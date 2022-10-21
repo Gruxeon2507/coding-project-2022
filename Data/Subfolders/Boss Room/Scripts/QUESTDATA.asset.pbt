@@ -1,5 +1,5 @@
 Assets {
-  Id: 13815302889335263726
+  Id: 2077646138565359701
   Name: "QUESTDATA"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:jSON"
         AssetReference {
-          Id: 13340287824193395471
+          Id: 3940125836574529832
         }
       }
     }

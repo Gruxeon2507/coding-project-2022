@@ -32,7 +32,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 3120917929543184115
+              Id: 4285444842691428538
             }
           }
           Overrides {
@@ -185,7 +185,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7746727706869650872
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -219,7 +219,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2169012617440049722
+            Id: 3194930412626622494
           }
         }
         NetworkRelevanceDistance {
@@ -253,7 +253,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11371932781944267792
+            Id: 10251728999306098252
           }
         }
         NetworkRelevanceDistance {
@@ -554,7 +554,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
         }
@@ -569,7 +569,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10876654839906312645
+            Id: 10109220941690346490
           }
         }
         NetworkRelevanceDistance {
@@ -629,7 +629,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7746727706869650872
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -689,7 +689,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7746727706869650872
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -789,13 +789,13 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 945745754359355680
+              Id: 14373757464648078715
             }
           }
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 5393359015949479082
+              Id: 10354475835429315773
             }
           }
         }
@@ -810,7 +810,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -850,7 +850,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 2458461755075404341
+              Id: 6522244484860834116
             }
           }
           Overrides {
@@ -871,7 +871,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 945745754359355680
+              Id: 14373757464648078715
             }
           }
         }
@@ -886,7 +886,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -926,7 +926,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 2458461755075404341
+              Id: 6522244484860834116
             }
           }
           Overrides {
@@ -948,7 +948,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 945745754359355680
+              Id: 14373757464648078715
             }
           }
         }
@@ -963,7 +963,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14103286913838466628
+            Id: 6893986948569522536
           }
         }
         NetworkRelevanceDistance {
@@ -996,7 +996,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1005,13 +1005,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "cs:Icon"
-            AssetReference {
-              Id: 5079346785379132337
+              A: 0.5
             }
           }
         }
@@ -1059,7 +1053,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1068,13 +1062,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "cs:Icon"
-            AssetReference {
-              Id: 5079346785379132337
+              A: 0.5
             }
           }
         }
@@ -1122,7 +1110,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1131,13 +1119,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 1
-            }
-          }
-          Overrides {
-            Name: "cs:Icon"
-            AssetReference {
-              Id: 5079346785379132337
+              A: 0.5
             }
           }
         }
@@ -1185,13 +1167,13 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 8132771164214294981
+              Id: 7445855579671141283
             }
           }
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 13386378558210270594
+              Id: 9785407000400236326
             }
           }
           Overrides {
@@ -1200,7 +1182,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 1
+              A: 0.5
             }
           }
         }
@@ -1401,7 +1383,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14526234779270432009
+              Id: 2334612471939404507
             }
           }
           Overrides {
@@ -1460,7 +1442,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14526234779270432009
+              Id: 2334612471939404507
             }
           }
           Overrides {
@@ -1786,7 +1768,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2327993572609223557
+            Id: 372480071924535867
           }
           Teams {
           }
@@ -1943,13 +1925,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10603935368129961782
+              Id: 5961184720642333683
             }
           }
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 14526234779270432009
+              Id: 2334612471939404507
             }
           }
           Overrides {
@@ -1963,7 +1945,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim2:id"
             AssetReference {
-              Id: 18007932134064521969
+              Id: 2819717477027926411
             }
           }
           Overrides {
@@ -1992,7 +1974,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8081278958736551803
+            Id: 1792948876822289935
           }
           Teams {
           }
@@ -2036,25 +2018,25 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 14526234779270432009
+              Id: 2334612471939404507
             }
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14526234779270432009
+              Id: 2334612471939404507
             }
           }
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 14526234779270432009
+              Id: 2334612471939404507
             }
           }
           Overrides {
             Name: "ma:Shared_Trim2:id"
             AssetReference {
-              Id: 14526234779270432009
+              Id: 2334612471939404507
             }
           }
         }
@@ -2069,7 +2051,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8081278958736551803
+            Id: 1792948876822289935
           }
           Teams {
           }
@@ -2605,30 +2587,21 @@ Assets {
       }
     }
     Assets {
-      Id: 3120917929543184115
-      Name: "Fantasy Shield 005"
+      Id: 4285444842691428538
+      Name: "Axe"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Weapon_Shield_005"
+        AssetId: "UI_Fantasy_icon_Axe"
       }
     }
     Assets {
-      Id: 5079346785379132337
-      Name: "Fantasy Ability Yellow 020"
+      Id: 9785407000400236326
+      Name: "Shield"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Ability_Yellow_021"
-      }
-    }
-    Assets {
-      Id: 13386378558210270594
-      Name: "Fantasy Ability Blue 051"
-      PlatformAssetType: 9
-      PrimaryAsset {
-        AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_Ability_Blue_051"
+        AssetId: "UI_Fantasy_icon_Shield"
       }
     }
     Assets {
@@ -2686,7 +2659,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2327993572609223557
+      Id: 372480071924535867
       Name: "Baseball Bat"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2704,7 +2677,7 @@ Assets {
       }
     }
     Assets {
-      Id: 8081278958736551803
+      Id: 1792948876822289935
       Name: "Fantasy Shield 03"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2713,7 +2686,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10603935368129961782
+      Id: 5961184720642333683
       Name: "Metal Iron 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2722,7 +2695,7 @@ Assets {
       }
     }
     Assets {
-      Id: 18007932134064521969
+      Id: 2819717477027926411
       Name: "Metal Basic Steel"
       PlatformAssetType: 2
       PrimaryAsset {

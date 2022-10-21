@@ -1,5 +1,5 @@
 Assets {
-  Id: 10922630627712473844
+  Id: 18075227229897285353
   Name: "Custom Magic Glass"
   PlatformAssetType: 13
   SerializationVersion: 119

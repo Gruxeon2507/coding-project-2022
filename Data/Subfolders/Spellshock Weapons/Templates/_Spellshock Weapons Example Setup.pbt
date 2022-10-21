@@ -1,5 +1,5 @@
 Assets {
-  Id: 10387838499723091162
+  Id: 15640711026064054164
   Name: "_Spellshock Weapons Example Setup"
   PlatformAssetType: 5
   TemplateAsset {
@@ -248,7 +248,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -317,7 +317,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -1117,7 +1117,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -1186,7 +1186,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -1986,7 +1986,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -2055,7 +2055,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -2861,7 +2861,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -2930,7 +2930,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -3735,7 +3735,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14379021396850615885
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -3804,7 +3804,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6061494716604226747
+            Id: 12376821568223490770
           }
         }
         NetworkRelevanceDistance {
@@ -4660,7 +4660,7 @@ Assets {
           Overrides {
             Name: "cs:API_EffectSystem"
             AssetReference {
-              Id: 2530223038454916554
+              Id: 14789230034841820082
             }
           }
         }
@@ -4675,7 +4675,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9280878249550638951
+            Id: 1420843286743093904
           }
         }
         NetworkRelevanceDistance {
@@ -4793,7 +4793,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8093251478983572182
+            Id: 18188098160262625069
           }
         }
         NetworkRelevanceDistance {
@@ -5061,7 +5061,7 @@ Assets {
           Overrides {
             Name: "cs:TemplateToSpawn"
             AssetReference {
-              Id: 13055597126637799723
+              Id: 13453359401048105092
             }
           }
           Overrides {
@@ -5233,7 +5233,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8641429849922463787
+            Id: 14711683230646813950
           }
         }
         NetworkRelevanceDistance {
@@ -5263,7 +5263,7 @@ Assets {
           Overrides {
             Name: "cs:TemplateToSpawn"
             AssetReference {
-              Id: 9843481057900503205
+              Id: 5954591199143027912
             }
           }
           Overrides {
@@ -5435,7 +5435,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8641429849922463787
+            Id: 14711683230646813950
           }
         }
         NetworkRelevanceDistance {
@@ -5465,7 +5465,7 @@ Assets {
           Overrides {
             Name: "cs:TemplateToSpawn"
             AssetReference {
-              Id: 3618376411630669820
+              Id: 2062696903163611540
             }
           }
           Overrides {
@@ -5637,7 +5637,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8641429849922463787
+            Id: 14711683230646813950
           }
         }
         NetworkRelevanceDistance {
@@ -5667,7 +5667,7 @@ Assets {
           Overrides {
             Name: "cs:TemplateToSpawn"
             AssetReference {
-              Id: 15226276888366481017
+              Id: 17205282031631862601
             }
           }
           Overrides {
@@ -5839,7 +5839,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8641429849922463787
+            Id: 14711683230646813950
           }
         }
         NetworkRelevanceDistance {
@@ -5869,7 +5869,7 @@ Assets {
           Overrides {
             Name: "cs:TemplateToSpawn"
             AssetReference {
-              Id: 9205253801439045225
+              Id: 15549326491261003213
             }
           }
           Overrides {
@@ -6041,7 +6041,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8641429849922463787
+            Id: 14711683230646813950
           }
         }
         NetworkRelevanceDistance {

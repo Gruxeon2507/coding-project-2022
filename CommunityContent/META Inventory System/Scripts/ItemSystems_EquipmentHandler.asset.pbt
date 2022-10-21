@@ -1,5 +1,5 @@
 Assets {
-  Id: 3764922224839892693
+  Id: 4329016305856272826
   Name: "ItemSystems_EquipmentHandler"
   PlatformAssetType: 3
   TextAsset {

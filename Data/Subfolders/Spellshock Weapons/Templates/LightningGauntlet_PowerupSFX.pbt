@@ -1,5 +1,5 @@
 Assets {
-  Id: 18308063724478490953
+  Id: 11210505986581036002
   Name: "LightningGauntlet_PowerupSFX"
   PlatformAssetType: 5
   TemplateAsset {
@@ -233,7 +233,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14806287923581847303
+            Id: 17134530043439622828
           }
         }
         NetworkRelevanceDistance {
@@ -399,7 +399,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14806287923581847303
+            Id: 17134530043439622828
           }
         }
         NetworkRelevanceDistance {
@@ -565,7 +565,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14806287923581847303
+            Id: 17134530043439622828
           }
         }
         NetworkRelevanceDistance {

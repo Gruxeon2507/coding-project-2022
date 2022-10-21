@@ -1,5 +1,5 @@
 Assets {
-  Id: 12791224201856980126
+  Id: 1876445114325690112
   Name: "SetAbilityIconClientOptimized"
   PlatformAssetType: 3
   TextAsset {

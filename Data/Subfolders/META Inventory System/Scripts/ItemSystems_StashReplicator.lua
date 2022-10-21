@@ -20,74 +20,38 @@ StashReplicator.PLAYER_STASH_PROPERTY_PATTERN = "^(.*)@(.*)@(.*)@(.*)$"
 ---------------------------------------------------------------------------------------------------------
 
 if Environment.IsServer() then
-
     -- Whenever a client rearranges their stash, update the server inventory.
     Events.ConnectForPlayer("SIM", function(player, id, fromSlotIndex, toSlotIndex)
-        local stash = stashes[id]
-
-        local container = nil
-        if stash:IsPersonal() and stash:IsMultiLootingAllowed() then
-            container = stashes[id].containers[player] -- Get the container for the specific player
-        else
-            container = stashes[id].container
-        end
-
+        local container = stashes[id].container
         container:MoveItem(fromSlotIndex, toSlotIndex)
-        if stash and stash:IsSavableStash() then
+        if stashes[id] and  stashes[id]:IsSavableStash() then
             StashReplicator.SavePlayerStash(player,id)
-            -- If multilooting is allowed and there is more than 1 player then we'll tell all players to reflect the state of the container.
-        end
-        if stash:IsMultiLootingAllowed() and stash:UsingPlayerCount() > 1  and not stash:IsPersonal() then
-            ReliableEvents.BroadcastToAllPlayers("ML_SIM",player,id,fromSlotIndex,toSlotIndex)
         end
     end)
 
     -- Whenever a client removes from their stash, update the server inventory.
     Events.ConnectForPlayer("SDI",function(player, id, fromSlotIndex)
-        local stash = stashes[id]
-
-        local container = nil
-        if stash:IsPersonal() and stash:IsMultiLootingAllowed() then
-            container = stashes[id].containers[player] -- Get the container for the specific player
-        else
-            container = stashes[id].container
-        end
-
+        local container = stashes[id].container
         container:MoveItem(fromSlotIndex,nil)
-        if stash and stash:IsSavableStash() then
+        if stashes[id] and stashes[id]:IsSavableStash() then
             StashReplicator.SavePlayerStash(player,id)
-        end
-
-        if stash:IsMultiLootingAllowed() and stash:UsingPlayerCount() > 1  and not stash:IsPersonal() then
-            ReliableEvents.BroadcastToAllPlayers("ML_SDI",player,id,fromSlotIndex)
         end
     end)
 
     -- Whenever a client moves an item from their inventory into the stash, update the server inventory.
     Events.ConnectForPlayer("SSI",function(player, id, itemHash, quantity, toSlot)
-        local stash = stashes[id]
-
-        local container = nil
-        if stash:IsPersonal() and stash:IsMultiLootingAllowed() then
-            container = stashes[id].containers[player] -- Get the container for the specific player
-        else
-            container = stashes[id].container
-        end
-
+        local container = stashes[id].container
         local item = Database:CreateItemFromHash(itemHash)
         if item:IsStackable() then
             item:SetStackSize(quantity)
         end
         container:SetItemToSlot(item, quantity, toSlot, true)
-        if stash and stash:IsSavableStash() then
+        if stashes[id] and  stashes[id]:IsSavableStash() then
             StashReplicator.SavePlayerStash(player,id)
         end
-        if stash:IsMultiLootingAllowed() and stash:UsingPlayerCount() > 1 and not stash:IsPersonal() then
-            ReliableEvents.BroadcastToAllPlayers("ML_SSI",player, id, itemHash, quantity, toSlot)
-        end
     end)
-
 end
+
 
 -- Returns a stash given the stash ID
 -- @param int stashID
@@ -139,7 +103,7 @@ function StashReplicator.SavePlayerStash(player,stashID)
 end
 
 -- Loads the stash hash onto the players network property.
-function StashReplicator.LoadStashOntoPlayerProperty(player,stashID,alternativeContainer)
+function StashReplicator.LoadStashOntoPlayerProperty(player,stashID) -- Player player
     local stash = stashes[stashID]
     if stash.isStash then
         local stashHash = StashReplicator.GetPlayerStashData(player,stashID) or "R"
@@ -147,7 +111,7 @@ function StashReplicator.LoadStashOntoPlayerProperty(player,stashID,alternativeC
         StashReplicator.UpdateStash(stash)
     end
     local currentStash = string.format("%s@%s@%s@%s",player.id,
-                                    alternativeContainer and alternativeContainer:RuntimeHash() or stash.container:RuntimeHash(),
+                                    stash.container:RuntimeHash(),
                                     stashID,
                                     math.random(0,99999)) -- Update incase the player opens the same stash
     PlayerStashStates:SetNetworkedCustomProperty("CurrentStash",currentStash)

@@ -1,5 +1,5 @@
 Assets {
-  Id: 14696971814058542673
+  Id: 5760554801756027457
   Name: "ShopWorldSpaceClient"
   PlatformAssetType: 3
   TextAsset {
@@ -7,13 +7,13 @@ Assets {
       Overrides {
         Name: "cs:ShopController"
         AssetReference {
-          Id: 4342269255947030468
+          Id: 8181063541447360375
         }
       }
       Overrides {
         Name: "cs:ShopItemModel"
         AssetReference {
-          Id: 17221922828006846389
+          Id: 16810152440508757339
         }
       }
       Overrides {
@@ -34,13 +34,13 @@ Assets {
       Overrides {
         Name: "cs:BuySuccessSound"
         AssetReference {
-          Id: 18351126567903971328
+          Id: 16254078265398526026
         }
       }
       Overrides {
         Name: "cs:BuyFailSound"
         AssetReference {
-          Id: 3878192335891117194
+          Id: 7191506495432420565
         }
       }
       Overrides {

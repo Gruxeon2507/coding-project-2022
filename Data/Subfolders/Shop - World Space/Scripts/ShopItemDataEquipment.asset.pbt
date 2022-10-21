@@ -1,5 +1,5 @@
 Assets {
-  Id: 11758948436932313155
+  Id: 5228319791550762067
   Name: "ShopItemDataEquipment"
   PlatformAssetType: 3
   TextAsset {

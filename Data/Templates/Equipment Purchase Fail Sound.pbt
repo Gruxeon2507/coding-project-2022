@@ -27,7 +27,7 @@ Assets {
         }
         AudioInstance {
           AudioAsset {
-            Id: 3339390663542378765
+            Id: 15599929667337998152
           }
           AutoPlay: true
           Transient: true
@@ -42,7 +42,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3339390663542378765
+      Id: 15599929667337998152
       Name: "Hard Thump SFX"
       PlatformAssetType: 7
       PrimaryAsset {

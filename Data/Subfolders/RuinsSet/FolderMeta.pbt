@@ -1,0 +1,108 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "84fc5f6d9a0643aea088e1acdb525cd4"
+  OwnerAccountId: "006a1b5a9f17415cbd6f079b04cf9227"
+  OwnerName: "Bigglebuns"
+  Version: "1.3.0"
+}
+AssetIdsOriginalToNew {
+  key: 470515244965823742
+  value: 6717369027810529341
+}
+AssetIdsOriginalToNew {
+  key: 2359945687680889347
+  value: 18053665940309505075
+}
+AssetIdsOriginalToNew {
+  key: 3045186075544323561
+  value: 10579737409334547065
+}
+AssetIdsOriginalToNew {
+  key: 3291288297630653874
+  value: 371911939252596720
+}
+AssetIdsOriginalToNew {
+  key: 3749873524685611617
+  value: 5267365890602579202
+}
+AssetIdsOriginalToNew {
+  key: 5667804781184824518
+  value: 9859741739836474158
+}
+AssetIdsOriginalToNew {
+  key: 5882884183724576999
+  value: 16090605091051091286
+}
+AssetIdsOriginalToNew {
+  key: 7549768659583065694
+  value: 4842852087238263164
+}
+AssetIdsOriginalToNew {
+  key: 7673931933745632828
+  value: 16966587413242337515
+}
+AssetIdsOriginalToNew {
+  key: 8456482901914118743
+  value: 869499249932758869
+}
+AssetIdsOriginalToNew {
+  key: 8580483800696044743
+  value: 2657038649759166581
+}
+AssetIdsOriginalToNew {
+  key: 8731022574452276696
+  value: 17624671623372665875
+}
+AssetIdsOriginalToNew {
+  key: 9637470734816390038
+  value: 16805469327597672073
+}
+AssetIdsOriginalToNew {
+  key: 10703369878384088699
+  value: 1813291558455198889
+}
+AssetIdsOriginalToNew {
+  key: 11404092510805090347
+  value: 14186374552190812689
+}
+AssetIdsOriginalToNew {
+  key: 11663943267329465619
+  value: 5325803870226584269
+}
+AssetIdsOriginalToNew {
+  key: 12307301006922127843
+  value: 14419515264572327780
+}
+AssetIdsOriginalToNew {
+  key: 12596508380557021700
+  value: 12989578276251815241
+}
+AssetIdsOriginalToNew {
+  key: 13397263136579399935
+  value: 10916351246819219093
+}
+AssetIdsOriginalToNew {
+  key: 13420267562976763953
+  value: 9483915021732438174
+}
+AssetIdsOriginalToNew {
+  key: 13908939213655807264
+  value: 12867048409845022355
+}
+AssetIdsOriginalToNew {
+  key: 15406552345396489809
+  value: 13539041275155932235
+}
+AssetIdsOriginalToNew {
+  key: 15939907030282953086
+  value: 13482446149357278430
+}
+AssetIdsOriginalToNew {
+  key: 16963156291346226238
+  value: 3847089401291893454
+}
+AssetIdsOriginalToNew {
+  key: 17944040545892854953
+  value: 9472181092113713814
+}
+HasDirtyManifestAssets: true

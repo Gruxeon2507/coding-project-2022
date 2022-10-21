@@ -396,23 +396,13 @@ function view:DrawConfirmationCostDisplay()
         -- Display the upgrade cost.
         local itemToSpend, cost = UpgradesCostBasis.AppraiseItemUpgrade(self.selectedPrimaryItem)
         local heldAmount = inventory:CountStackableTotal(itemToSpend)
-        if itemToSpend then
-            itemToSpend:ApplyIconImageSettings(self.confirmationCostDisplayIcon)
-            self.confirmationCostDisplayName.text = itemToSpend:GetName()
-            self.confirmationCostDisplayAmount.text = string.format("%d / %d", heldAmount, cost)
-            self.confirmationCostDisplayAmount:SetColor(heldAmount >= cost and Color.GREEN or Color.RED)
-            local backgroundColor = ItemThemes.GetRarityColor(itemToSpend:GetRarity())
-            backgroundColor.a = self.confirmationCostDisplayBackground:GetColor().a
-            self.confirmationCostDisplayBackground:SetColor(backgroundColor)
-        else
-            self.confirmationCostDisplayName.text = "Item Maxed"
-            self.confirmationCostDisplayAmount.text = ""
-            local backgroundColor = ItemThemes.GetRarityColor(itemToSpend:GetRarity())
-            backgroundColor.a = self.confirmationCostDisplayBackground:GetColor().a
-            self.confirmationCostDisplayBackground:SetColor(backgroundColor)
-            self.confirmationEnhanceRoot.visibility = Visibility.FORCE_OFF
-            self.confirmationLimitBreakRoot.visibility = Visibility.FORCE_OFF
-        end
+        itemToSpend:ApplyIconImageSettings(self.confirmationCostDisplayIcon)
+        self.confirmationCostDisplayName.text = itemToSpend:GetName()
+        self.confirmationCostDisplayAmount.text = string.format("%d / %d", heldAmount, cost)
+        self.confirmationCostDisplayAmount:SetColor(heldAmount >= cost and Color.GREEN or Color.RED)
+        local backgroundColor = ItemThemes.GetRarityColor(itemToSpend:GetRarity())
+        backgroundColor.a = self.confirmationCostDisplayBackground:GetColor().a
+        self.confirmationCostDisplayBackground:SetColor(backgroundColor)
     end
 end
 

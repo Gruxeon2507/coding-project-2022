@@ -1,0 +1,103 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "6ae102f3b2cf427391e5fb74b25cf528"
+  OwnerAccountId: "fb91e175e1624888805a03ebb32c50a0"
+  OwnerName: "BlueClairey"
+  Version: "1.3.0"
+}
+AssetIdsOriginalToNew {
+  key: 1840495178505370514
+  value: 5234942878900094068
+}
+AssetIdsOriginalToNew {
+  key: 1987028589941478560
+  value: 8588982315414390322
+}
+AssetIdsOriginalToNew {
+  key: 2618034139776116039
+  value: 5991028181550520247
+}
+AssetIdsOriginalToNew {
+  key: 2976855622961955016
+  value: 16687672164870222262
+}
+AssetIdsOriginalToNew {
+  key: 3830273853147435835
+  value: 7134661793293082569
+}
+AssetIdsOriginalToNew {
+  key: 4430823208074232040
+  value: 15502810488175087488
+}
+AssetIdsOriginalToNew {
+  key: 4709018731531345969
+  value: 10435785384319981779
+}
+AssetIdsOriginalToNew {
+  key: 4918432954924709903
+  value: 1801462204048194558
+}
+AssetIdsOriginalToNew {
+  key: 6567587001813908001
+  value: 6571168785218465857
+}
+AssetIdsOriginalToNew {
+  key: 7295899630704319057
+  value: 12894809631172252076
+}
+AssetIdsOriginalToNew {
+  key: 7830845236291424602
+  value: 7530861707287331703
+}
+AssetIdsOriginalToNew {
+  key: 8050757205960470957
+  value: 17102820053868662520
+}
+AssetIdsOriginalToNew {
+  key: 9047232039034252637
+  value: 18253849234481495851
+}
+AssetIdsOriginalToNew {
+  key: 10809868072969136640
+  value: 9988955421311230553
+}
+AssetIdsOriginalToNew {
+  key: 12047799514352624359
+  value: 1235215967892176199
+}
+AssetIdsOriginalToNew {
+  key: 12123633353668182426
+  value: 9878314966504742407
+}
+AssetIdsOriginalToNew {
+  key: 13281738228977116448
+  value: 13210484895624818391
+}
+AssetIdsOriginalToNew {
+  key: 14075991580494681043
+  value: 11289762410285046514
+}
+AssetIdsOriginalToNew {
+  key: 14154894960924742171
+  value: 15623849486605667453
+}
+AssetIdsOriginalToNew {
+  key: 15558870166156240719
+  value: 3288774102380812214
+}
+AssetIdsOriginalToNew {
+  key: 15966382584184076650
+  value: 17615146875375843974
+}
+AssetIdsOriginalToNew {
+  key: 17556458786320611307
+  value: 15153654608239258124
+}
+AssetIdsOriginalToNew {
+  key: 17780019583038734508
+  value: 9471260896157316889
+}
+AssetIdsOriginalToNew {
+  key: 18154719369759404093
+  value: 9713558941022813151
+}

@@ -100,7 +100,4 @@ Assets {
     }
   }
   SerializationVersion: 119
-  VirtualFolderPath: "Weapons"
-  VirtualFolderPath: "Projectile"
-  VirtualFolderPath: "Dependecies"
 }

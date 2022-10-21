@@ -1,5 +1,5 @@
 Assets {
-  Id: 11930920088966940280
+  Id: 1135867115270369409
   Name: "ItemSystems_UpgradesCostBasis"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:Database"
         AssetReference {
-          Id: 99471783969746822
+          Id: 3227051858306791921
         }
       }
     }

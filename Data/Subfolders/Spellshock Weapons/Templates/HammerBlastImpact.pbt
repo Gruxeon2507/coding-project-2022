@@ -1,5 +1,5 @@
 Assets {
-  Id: 810657176151891835
+  Id: 8931745703965082404
   Name: "HammerBlastImpact"
   PlatformAssetType: 5
   TemplateAsset {
@@ -372,7 +372,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13596010993404500492
+              Id: 11568471811790581307
             }
           }
           Overrides {

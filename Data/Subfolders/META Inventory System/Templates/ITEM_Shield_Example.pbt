@@ -1,5 +1,5 @@
 Assets {
-  Id: 16340579458460318197
+  Id: 5325215833994816594
   Name: "ITEM_Shield_Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -49,12 +49,14 @@ Assets {
       }
       Objects {
         Id: 8368475805096733658
-        Name: "left_wrist"
+        Name: "Geo"
         Transform {
           Location {
             Y: -12.9192123
           }
           Rotation {
+            Yaw: -89.9998779
+            Roll: 88.9418259
           }
           Scale {
             X: 0.676926196
@@ -92,12 +94,9 @@ Assets {
         Name: "Shield 04"
         Transform {
           Location {
-            Y: -7.43407202
           }
           Rotation {
-            Pitch: 62.4707794
-            Yaw: -173.507919
-            Roll: 2.64832282
+            Yaw: -90
           }
           Scale {
             X: 1

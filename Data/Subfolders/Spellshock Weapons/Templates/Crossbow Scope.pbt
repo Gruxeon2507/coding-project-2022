@@ -1,5 +1,5 @@
 Assets {
-  Id: 970536145575676737
+  Id: 9195378867472169284
   Name: "Crossbow Scope"
   PlatformAssetType: 5
   TemplateAsset {
@@ -327,7 +327,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17347213194072780497
+              Id: 13877822243645595477
             }
           }
           Overrides {
@@ -411,7 +411,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17347213194072780497
+              Id: 13877822243645595477
             }
           }
           Overrides {
@@ -939,7 +939,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17347213194072780497
+              Id: 13877822243645595477
             }
           }
           Overrides {

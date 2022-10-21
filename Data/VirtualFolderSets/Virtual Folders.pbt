@@ -1,24 +1,9 @@
 Assets {
-  Id: 11237267171393895703
+  Id: 16278625987593523376
   Name: "Virtual Folders"
   PlatformAssetType: 30
   SerializationVersion: 119
   VirtualFolderSetAsset {
-    Folders {
-      VirtualFolderPath: "Weapons"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Weapons"
-      VirtualFolderPath: "Melee"
-      PlatformAssetType: 5
-    }
-    Folders {
-      VirtualFolderPath: "Weapons"
-      VirtualFolderPath: "Melee"
-      VirtualFolderPath: "Dependecies"
-      PlatformAssetType: 5
-    }
     Folders {
       VirtualFolderPath: "Equipment"
       PlatformAssetType: 3
@@ -29,6 +14,10 @@ Assets {
     }
     Folders {
       VirtualFolderPath: "Weapons"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Weapons"
       VirtualFolderPath: "Projectile"
       PlatformAssetType: 5
     }
@@ -36,6 +25,21 @@ Assets {
       VirtualFolderPath: "Weapons"
       VirtualFolderPath: "Projectile"
       VirtualFolderPath: "Dependecies"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Weapons"
+      VirtualFolderPath: "Melee"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "Weapons"
+      VirtualFolderPath: "Melee"
+      VirtualFolderPath: "Dependecies"
+      PlatformAssetType: 5
+    }
+    Folders {
+      VirtualFolderPath: "WaveManager"
       PlatformAssetType: 5
     }
   }

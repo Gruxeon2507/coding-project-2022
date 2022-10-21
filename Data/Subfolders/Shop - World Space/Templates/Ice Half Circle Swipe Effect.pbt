@@ -1,5 +1,5 @@
 Assets {
-  Id: 7223315379435206482
+  Id: 13346753675086496176
   Name: "Ice Half Circle Swipe Effect"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 9838191587389371360
+  Id: 2060370311114633625
   Name: "MOBA Cannon Tower"
   PlatformAssetType: 5
   TemplateAsset {
@@ -270,18 +270,13 @@ Assets {
           Overrides {
             Name: "cs:Trigger"
             ObjectReference {
+              SelfId: 3261457129032291346
             }
           }
           Overrides {
             Name: "cs:AttackComponent"
             ObjectReference {
               SubObjectId: 6372385349460357292
-            }
-          }
-          Overrides {
-            Name: "cs:HomingTarget"
-            ObjectReference {
-              SubObjectId: 9984750171870508985
             }
           }
         }
@@ -297,7 +292,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10777408789763039616
+            Id: 14355663156094277575
           }
         }
         NetworkRelevanceDistance {
@@ -376,25 +371,25 @@ Assets {
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 4560992288499222026
+              Id: 2586382360326215459
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 9926448927494556577
+              Id: 15109826210388072259
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 15383681263974088299
+              Id: 2926696628362732479
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 17268829306049749075
+              Id: 6284695012719478567
             }
           }
           Overrides {
@@ -430,7 +425,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5703107221041442280
+            Id: 14496785910523820594
           }
         }
         NetworkRelevanceDistance {
@@ -1065,7 +1060,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6836642669457521566
+            Id: 11845897920668479704
           }
         }
         NetworkRelevanceDistance {
@@ -1098,13 +1093,13 @@ Assets {
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 16316115216258974461
+              Id: 6628789091198582928
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 13485629556998263248
+              Id: 5083989331489013224
             }
           }
         }
@@ -1119,7 +1114,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1537855372997632180
+            Id: 6305287414204589942
           }
         }
         NetworkRelevanceDistance {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 8284380991819451089
+  Id: 13296043953496343366
   Name: "Kustom ArmourSet2 Coloured Metal Trim - Copy"
   PlatformAssetType: 13
   SerializationVersion: 119

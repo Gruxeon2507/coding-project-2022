@@ -1,5 +1,5 @@
 Assets {
-  Id: 14083124222107773156
+  Id: 7438966675362797397
   Name: "StartingInventory"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:ABI"
         AssetReference {
-          Id: 6500536172002361191
+          Id: 3617506905755057848
         }
       }
     }

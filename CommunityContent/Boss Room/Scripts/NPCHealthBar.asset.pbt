@@ -1,5 +1,5 @@
 Assets {
-  Id: 6687991061740472881
+  Id: 2052243810369627001
   Name: "NPCHealthBar"
   PlatformAssetType: 3
   TextAsset {

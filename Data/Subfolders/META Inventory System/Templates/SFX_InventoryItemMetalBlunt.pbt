@@ -1,5 +1,5 @@
 Assets {
-  Id: 17330112593547707001
+  Id: 18194581622171422405
   Name: "SFX_InventoryItemMetalBlunt"
   PlatformAssetType: 5
   TemplateAsset {

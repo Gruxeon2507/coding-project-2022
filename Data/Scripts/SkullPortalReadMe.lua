@@ -1,0 +1,4 @@
+--Add a teleporter into the center of the skull portal
+--Change the trigger of the portal to sphere and adjust the size to match the size of your portal
+--Adjust the trigger height. 
+--Enjoy, curtesy of Apex3volved

@@ -1,5 +1,5 @@
 Assets {
-  Id: 2128328070382861281
+  Id: 8867337724358984182
   Name: "Spawned VFX SFX Portal"
   PlatformAssetType: 5
   TemplateAsset {

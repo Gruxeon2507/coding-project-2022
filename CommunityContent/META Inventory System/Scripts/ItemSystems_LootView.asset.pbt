@@ -1,5 +1,5 @@
 Assets {
-  Id: 948545877148178555
+  Id: 11880989278826378224
   Name: "ItemSystems_LootView"
   PlatformAssetType: 3
   TextAsset {

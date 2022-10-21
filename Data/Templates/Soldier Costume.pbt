@@ -145,7 +145,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11371932781944267792
+            Id: 10251728999306098252
           }
         }
         NetworkRelevanceDistance {
@@ -489,7 +489,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 240382696305188194
+            Id: 17108891493830970234
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -634,7 +634,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8016628430316838314
+            Id: 7569948418586928772
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -707,7 +707,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8016628430316838314
+            Id: 7569948418586928772
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -902,7 +902,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1024134866532057554
+            Id: 4490106890297734599
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1161,7 +1161,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8016628430316838314
+            Id: 7569948418586928772
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1285,7 +1285,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8016628430316838314
+            Id: 7569948418586928772
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1409,7 +1409,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8016628430316838314
+            Id: 7569948418586928772
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1533,7 +1533,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8016628430316838314
+            Id: 7569948418586928772
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1620,7 +1620,7 @@ Assets {
       }
     }
     Assets {
-      Id: 240382696305188194
+      Id: 17108891493830970234
       Name: "Pipe"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1638,7 +1638,7 @@ Assets {
       }
     }
     Assets {
-      Id: 8016628430316838314
+      Id: 7569948418586928772
       Name: "Fantasy Gauntlet Arm 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1656,7 +1656,7 @@ Assets {
       }
     }
     Assets {
-      Id: 1024134866532057554
+      Id: 4490106890297734599
       Name: "Fantasy Gauntlet Hand 01"
       PlatformAssetType: 1
       PrimaryAsset {

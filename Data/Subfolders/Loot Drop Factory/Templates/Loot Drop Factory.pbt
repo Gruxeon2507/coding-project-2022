@@ -1,5 +1,5 @@
 Assets {
-  Id: 1776642093878960438
+  Id: 16547192496288895038
   Name: "Loot Drop Factory"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,7 +25,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 3013642621806166316
+              Id: 13114111040083568536
             }
           }
         }

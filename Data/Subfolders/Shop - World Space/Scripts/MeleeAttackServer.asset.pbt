@@ -1,5 +1,5 @@
 Assets {
-  Id: 16672161133243864726
+  Id: 17720915406119780574
   Name: "MeleeAttackServer"
   PlatformAssetType: 3
   TextAsset {

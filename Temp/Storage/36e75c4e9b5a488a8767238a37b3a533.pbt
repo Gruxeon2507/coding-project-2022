@@ -1,22 +1,5 @@
 Entries {
   Key {
-    StringVar: "STATS"
-  }
-  SimpleValue {
-    Table {
-      Entries {
-        Key {
-          StringVar: "experience"
-        }
-        SimpleValue {
-          IntVar: 3
-        }
-      }
-    }
-  }
-}
-Entries {
-  Key {
     StringVar: "equipment"
   }
   SimpleValue {
@@ -26,7 +9,7 @@ Entries {
           StringVar: "right_prop"
         }
         SimpleValue {
-          StringVar: "B35B740BE2E9D803"
+          StringVar: "EF36EE2161A3B127"
         }
       }
     }
@@ -40,7 +23,7 @@ Entries {
     Table {
       Entries {
         Key {
-          StringVar: "ItemSystems_Level"
+          StringVar: "65502E987BC2639D"
         }
         SimpleValue {
           IntVar: 1
@@ -51,6 +34,14 @@ Entries {
           StringVar: "Level"
         }
         SimpleValue {
+          IntVar: 4
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "EF36EE2161A3B127"
+        }
+        SimpleValue {
           IntVar: 1
         }
       }
@@ -59,7 +50,7 @@ Entries {
           StringVar: "XP"
         }
         SimpleValue {
-          IntVar: 3
+          IntVar: 6600
         }
       }
       Entries {
@@ -67,7 +58,40 @@ Entries {
           StringVar: "ItemSystems_XP"
         }
         SimpleValue {
-          IntVar: 3
+          IntVar: 0
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "ItemSystems_Level"
+        }
+        SimpleValue {
+          IntVar: 1
+        }
+      }
+      Entries {
+        Key {
+          StringVar: "Coins"
+        }
+        SimpleValue {
+          IntVar: 45
+        }
+      }
+    }
+  }
+}
+Entries {
+  Key {
+    StringVar: "STATS"
+  }
+  SimpleValue {
+    Table {
+      Entries {
+        Key {
+          StringVar: "experience"
+        }
+        SimpleValue {
+          IntVar: 0
         }
       }
     }

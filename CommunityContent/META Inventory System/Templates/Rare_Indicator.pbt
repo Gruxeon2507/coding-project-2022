@@ -1,5 +1,5 @@
 Assets {
-  Id: 6766449144813625757
+  Id: 402761735697295736
   Name: "Rare_Indicator"
   PlatformAssetType: 5
   TemplateAsset {
@@ -10,20 +10,20 @@ Assets {
         Name: "Rare_Indicator"
         Transform {
           Scale {
-            X: 0.25
-            Y: 0.25
-            Z: 0.25
+            X: 0.4
+            Y: 0.4
+            Z: 0.4
           }
         }
         ParentId: 4781671109827199097
         UnregisteredParameters {
           Overrides {
             Name: "bp:Life"
-            Float: 1
+            Float: 0.623920143
           }
           Overrides {
             Name: "bp:Upward Velocity"
-            Float: 0.5
+            Float: 0.836646855
           }
           Overrides {
             Name: "bp:Enable Beam"
@@ -52,14 +52,6 @@ Assets {
           Overrides {
             Name: "bp:Particle Scale Multiplier"
             Float: 0.103249907
-          }
-          Overrides {
-            Name: "bp:Color"
-            Color {
-              R: 0.0670200139
-              B: 0.919999957
-              A: 1
-            }
           }
         }
         Collidable_v2 {

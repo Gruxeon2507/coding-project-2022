@@ -1,5 +1,5 @@
 Assets {
-  Id: 15060935888917061638
+  Id: 2340627977532123316
   Name: "Custom Base Material from Skeleton Mob"
   PlatformAssetType: 13
   SerializationVersion: 119

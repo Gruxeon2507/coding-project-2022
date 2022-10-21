@@ -1,5 +1,5 @@
 Assets {
-  Id: 8093251478983572182
+  Id: 15010611503219171147
   Name: "EffectAnnnouncerClient"
   PlatformAssetType: 3
   TextAsset {

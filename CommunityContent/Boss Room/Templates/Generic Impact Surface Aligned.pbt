@@ -1,5 +1,5 @@
 Assets {
-  Id: 10986168910179839815
+  Id: 17847873674036361398
   Name: "Generic Impact Surface Aligned"
   PlatformAssetType: 5
   TemplateAsset {

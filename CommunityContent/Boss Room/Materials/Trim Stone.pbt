@@ -1,5 +1,5 @@
 Assets {
-  Id: 13624495310189131286
+  Id: 3829307745112968464
   Name: "Trim Stone"
   PlatformAssetType: 13
   SerializationVersion: 119

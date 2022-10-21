@@ -1,5 +1,5 @@
 Assets {
-  Id: 3628347827068059177
+  Id: 1421292106434086947
   Name: "SFX_UpgradeUI_ButtonHover"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 6270822173234842316
+  Id: 4070271937913636698
   Name: "ItemSystems_InventoryUpgradesView"
   PlatformAssetType: 3
   TextAsset {

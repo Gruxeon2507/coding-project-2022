@@ -1,5 +1,5 @@
 Assets {
-  Id: 10092836387794515930
+  Id: 255813684727310238
   Name: "RPG Dragon Enemy - Medium"
   PlatformAssetType: 5
   TemplateAsset {
@@ -16,8 +16,10 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 6156893236702943838
+        ChildIds: 6887995465546052660
+        ChildIds: 16188384304550516637
         ChildIds: 16499610448605528061
+        ChildIds: 15709418385312303354
         ChildIds: 7549486370523105032
         UnregisteredParameters {
           Overrides {
@@ -83,10 +85,6 @@ Assets {
           Overrides {
             Name: "cs:AttackRange"
             Float: 1900
-          }
-          Overrides {
-            Name: "cs:AttackMinAngle"
-            Float: 70
           }
           Overrides {
             Name: "cs:AttackCast"
@@ -224,10 +222,6 @@ Assets {
             Name: "cs:RewardResourceAmount:tooltip"
             String: "Some NPCs can grant resources to players that kill them. The RewardResourceAmount is the Amount of the resource to grant to players"
           }
-          Overrides {
-            Name: "cs:AttackMinAngle:tooltip"
-            String: "The NPC rotates towards the target to attack it. If an AttackMinAngle is defined, then the NPC will only initiate the attack if the target is within that angle in front them them. The value represents half of the area, in other words, a value of 180 allows the NPC to attack from any angle."
-          }
         }
         WantsNetworking: true
         Collidable_v2 {
@@ -248,8 +242,8 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
       Objects {
-        Id: 6156893236702943838
-        Name: "ServerContext"
+        Id: 6887995465546052660
+        Name: "NPCAIServer"
         Transform {
           Location {
             Z: 100
@@ -263,44 +257,6 @@ Assets {
           }
         }
         ParentId: 13420344242969750217
-        ChildIds: 6887995465546052660
-        ChildIds: 16188384304550516637
-        ChildIds: 15709418385312303354
-        ChildIds: 4949700889393968557
-        ChildIds: 14730925334667649012
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        NetworkContext {
-          Type: Server
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 6887995465546052660
-        Name: "NPCAIServer"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6156893236702943838
         UnregisteredParameters {
           Overrides {
             Name: "cs:Root"
@@ -332,19 +288,8 @@ Assets {
               SubObjectId: 16188384304550516637
             }
           }
-          Overrides {
-            Name: "cs:EngageEffect"
-            AssetReference {
-              Id: 14186831631180937934
-            }
-          }
-          Overrides {
-            Name: "cs:HomingTarget"
-            ObjectReference {
-              SubObjectId: 16499610448605528061
-            }
-          }
         }
+        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -356,7 +301,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8226348051818439033
+            Id: 12812193707594607652
           }
         }
         NetworkRelevanceDistance {
@@ -371,12 +316,12 @@ Assets {
           Location {
             X: 60.5822601
             Y: 1.28142492e-05
-            Z: 123.701691
+            Z: 223.701691
           }
           Rotation {
             Pitch: 6.10298538
             Yaw: 7.6284e-14
-            Roll: 1.43097795e-12
+            Roll: 1.43097784e-12
           }
           Scale {
             X: 1
@@ -384,7 +329,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6156893236702943838
+        ParentId: 13420344242969750217
         UnregisteredParameters {
           Overrides {
             Name: "cs:Root"
@@ -403,25 +348,25 @@ Assets {
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 9831377305305482565
+              Id: 5319459827757115960
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 6002618118568350680
+              Id: 13488764745515699494
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 9989742517204962807
+              Id: 17929339285656619339
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 15960659734873989761
+              Id: 7301626446134621833
             }
           }
           Overrides {
@@ -441,6 +386,7 @@ Assets {
             Bool: true
           }
         }
+        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -452,133 +398,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 41334601159497197
-          }
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 15709418385312303354
-        Name: "Trigger"
-        Transform {
-          Location {
-            Z: -25
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1.99963439
-            Y: 1.99963439
-            Z: 1.99963439
-          }
-        }
-        ParentId: 6156893236702943838
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Trigger {
-          TeamSettings {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          TriggerShape_v2 {
-            Value: "mc:etriggershape:sphere"
-          }
-          InteractionTemplate {
-          }
-          BreadcrumbTemplate {
-          }
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 4949700889393968557
-        Name: "NPCHeadshot"
-        Transform {
-          Location {
-            X: 85
-            Z: 140
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6156893236702943838
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 6441671784013091403
-          }
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 14730925334667649012
-        Name: "SetObjectName"
-        Transform {
-          Location {
-          }
-          Rotation {
-            Yaw: -3.41509485e-06
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 6156893236702943838
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:TargetObject"
-            ObjectReference {
-              SubObjectId: 13420344242969750217
-            }
-          }
-          Overrides {
-            Name: "cs:NameToSet"
-            String: "Green Dragon"
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9306103446433466495
+            Id: 1421077786416511205
           }
         }
         NetworkRelevanceDistance {
@@ -646,6 +466,50 @@ Assets {
         }
         Relevance {
           Value: "mc:eproxyrelevance:critical"
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 15709418385312303354
+        Name: "Trigger"
+        Transform {
+          Location {
+            Z: 75
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1.99963439
+            Y: 1.99963439
+            Z: 1.99963439
+          }
+        }
+        ParentId: 13420344242969750217
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:sphere"
+          }
+          InteractionTemplate {
+          }
+          BreadcrumbTemplate {
+          }
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -724,6 +588,36 @@ Assets {
             }
           }
           Overrides {
+            Name: "cs:Sleeping"
+            ObjectReference {
+              SubObjectId: 7847453801116374751
+            }
+          }
+          Overrides {
+            Name: "cs:Engaging"
+            ObjectReference {
+              SubObjectId: 7847453801116374751
+            }
+          }
+          Overrides {
+            Name: "cs:Attacking"
+            ObjectReference {
+              SubObjectId: 7847453801116374751
+            }
+          }
+          Overrides {
+            Name: "cs:Patrolling"
+            ObjectReference {
+              SubObjectId: 7847453801116374751
+            }
+          }
+          Overrides {
+            Name: "cs:Dead"
+            ObjectReference {
+              SubObjectId: 7847453801116374751
+            }
+          }
+          Overrides {
             Name: "cs:ForwardNode"
             ObjectReference {
               SubObjectId: 13528077646999008078
@@ -741,7 +635,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4418522303587541186
+            Id: 4188443797618464821
           }
         }
         NetworkRelevanceDistance {
@@ -774,13 +668,13 @@ Assets {
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 6500843713257800765
+              Id: 3813159799884189828
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 6500843713257800765
+              Id: 3813159799884189828
             }
           }
         }
@@ -795,7 +689,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13935421930719532631
+            Id: 2038005287254748323
           }
         }
         NetworkRelevanceDistance {
@@ -842,7 +736,6 @@ Assets {
         Name: "GeoRoot"
         Transform {
           Location {
-            Z: 100
           }
           Rotation {
           }
@@ -908,7 +801,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 88910116821189350
+            Id: 12742280386309176938
           }
         }
         NetworkRelevanceDistance {
@@ -960,7 +853,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8011748454712719806
+            Id: 6377262165528868297
           }
         }
         NetworkRelevanceDistance {
@@ -1007,7 +900,9 @@ Assets {
         Name: "Dragon Mob"
         Transform {
           Location {
-            Z: 275
+            X: -0.000171661377
+            Y: 0.000119527183
+            Z: 300
           }
           Rotation {
             Yaw: 8.19622437e-05
@@ -1023,7 +918,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3040509751564106722
+              Id: 3998518825028915673
             }
           }
         }

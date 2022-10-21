@@ -1,5 +1,5 @@
 Assets {
-  Id: 17034576129138734085
+  Id: 8980498517897558380
   Name: "Manticoin Pickup"
   PlatformAssetType: 5
   TemplateAsset {
@@ -39,7 +39,7 @@ Assets {
           Overrides {
             Name: "cs:PickupEffects"
             AssetReference {
-              Id: 15025266758662009418
+              Id: 16774289890833161144
             }
           }
         }
@@ -104,7 +104,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10082114796313079201
+            Id: 15559401056603078013
           }
         }
         NetworkRelevanceDistance {
@@ -245,7 +245,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14099884452480362152
+            Id: 17597879502931467766
           }
         }
         NetworkRelevanceDistance {

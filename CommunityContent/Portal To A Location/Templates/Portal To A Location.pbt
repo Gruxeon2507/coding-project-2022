@@ -1,5 +1,5 @@
 Assets {
-  Id: 10516338320189441676
+  Id: 12441996404037998195
   Name: "Portal To A Location"
   PlatformAssetType: 5
   TemplateAsset {
@@ -157,7 +157,7 @@ Assets {
           Overrides {
             Name: "cs:SpawnedVFXSFXPortal"
             AssetReference {
-              Id: 2128328070382861281
+              Id: 8867337724358984182
             }
           }
         }
@@ -172,7 +172,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15285545069402530
+            Id: 9315085540111440732
           }
         }
         NetworkRelevanceDistance {

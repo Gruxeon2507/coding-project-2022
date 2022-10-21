@@ -1,5 +1,5 @@
 Assets {
-  Id: 9287267754722808433
+  Id: 17340427819424386039
   Name: "SpawnProjectilesAOE"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 15095293467304714971
+          Id: 2014393970938486960
         }
       }
       Overrides {
@@ -23,7 +23,7 @@ Assets {
       Overrides {
         Name: "cs:API_Effect"
         AssetReference {
-          Id: 15902387280227581054
+          Id: 11928685313987155328
         }
       }
     }

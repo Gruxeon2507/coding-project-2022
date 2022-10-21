@@ -1,5 +1,5 @@
 Assets {
-  Id: 50210188476109791
+  Id: 6945105560195783946
   Name: "Bulwark NPC Costume"
   PlatformAssetType: 5
   TemplateAsset {
@@ -31,7 +31,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 5694121114472766569
+              Id: 17385044683005804700
             }
           }
         }

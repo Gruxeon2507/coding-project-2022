@@ -1,5 +1,5 @@
 Assets {
-  Id: 6372798057172746049
+  Id: 3306861951441317832
   Name: "Health Bar"
   PlatformAssetType: 5
   TemplateAsset {
@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6344321037654884984
+        ParentId: 16915371242198793778
         ChildIds: 10949033122195205957
         UnregisteredParameters {
           Overrides {
@@ -232,8 +232,9 @@ Assets {
           }
         }
         ParentId: 16249654633657571161
-        ChildIds: 15119469979375604568
         ChildIds: 5873430187788484635
+        ChildIds: 15119469979375604568
+        ChildIds: 3469945755668992101
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -247,7 +248,7 @@ Assets {
         }
         Control {
           Width: 400
-          Height: 84
+          Height: 76
           UIY: -25
           RenderTransformPivot {
             Anchor {
@@ -268,6 +269,144 @@ Assets {
             TargetAnchor {
               Anchor {
                 Value: "mc:euianchor:bottomcenter"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 5873430187788484635
+        Name: "ProgressBar"
+        Transform {
+          Location {
+          }
+          Rotation {
+            Yaw: 5.03726405e-05
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 18281836076880200646
+        ChildIds: 7901026711674533851
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 400
+          Height: 30
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          UseParentWidth: true
+          StatBar {
+            Color {
+              G: 0.399999976
+              B: 0.0105960844
+              A: 1
+            }
+            BackgroundColor {
+              R: 0.5
+              G: 0.5
+              B: 0.5
+              A: 1
+            }
+            FillBrush {
+            }
+            BackgroundBrush {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:bottomcenter"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:bottomcenter"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 7901026711674533851
+        Name: "Frame"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5873430187788484635
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 200
+          Height: 200
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          UseParentWidth: true
+          UseParentHeight: true
+          Image {
+            Brush {
+              Id: 16341114581884138469
+            }
+            Color {
+              R: 0.6
+              G: 0.536423862
+              A: 1
+            }
+            TeamSettings {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middlecenter"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middlecenter"
               }
             }
           }
@@ -310,6 +449,8 @@ Assets {
         Control {
           Width: 200
           Height: 44
+          UIX: 35
+          UIY: 10
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -323,9 +464,9 @@ Assets {
               B: 1
               A: 1
             }
-            Size: 20
+            Size: 12
             Justification {
-              Value: "mc:etextjustify:center"
+              Value: "mc:etextjustify:left"
             }
             ClipTextToSize: true
             Font {
@@ -334,12 +475,12 @@ Assets {
           AnchorLayout {
             SelfAnchor {
               Anchor {
-                Value: "mc:euianchor:topcenter"
+                Value: "mc:euianchor:topleft"
               }
             }
             TargetAnchor {
               Anchor {
-                Value: "mc:euianchor:topcenter"
+                Value: "mc:euianchor:topleft"
               }
             }
           }
@@ -350,13 +491,15 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
       Objects {
-        Id: 5873430187788484635
-        Name: "ProgressBar"
+        Id: 3469945755668992101
+        Name: "Heart"
         Transform {
           Location {
+            X: 2811.19189
+            Y: 8700.23
+            Z: -195.293213
           }
           Rotation {
-            Yaw: 5.03726405e-05
           }
           Scale {
             X: 1
@@ -377,39 +520,36 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Control {
-          Width: 400
-          Height: 40
+          Width: 25
+          Height: 25
+          UIY: 10
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
             }
           }
-          StatBar {
+          Image {
+            Brush {
+              Id: 10283419825960366936
+            }
             Color {
-              G: 0.0762913
-              B: 0.72
+              R: 1
+              G: 0.31
+              B: 0.31
               A: 1
             }
-            BackgroundColor {
-              R: 0.5
-              G: 0.5
-              B: 0.5
-              A: 1
-            }
-            FillBrush {
-            }
-            BackgroundBrush {
+            TeamSettings {
             }
           }
           AnchorLayout {
             SelfAnchor {
               Anchor {
-                Value: "mc:euianchor:bottomcenter"
+                Value: "mc:euianchor:topleft"
               }
             }
             TargetAnchor {
               Anchor {
-                Value: "mc:euianchor:bottomcenter"
+                Value: "mc:euianchor:topleft"
               }
             }
           }
@@ -418,6 +558,24 @@ Assets {
           Value: "mc:eproxyrelevance:critical"
         }
         IsReplicationEnabledByDefault: true
+      }
+    }
+    Assets {
+      Id: 16341114581884138469
+      Name: "Frame Outlined Thick 001"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "FrameFlat_020"
+      }
+    }
+    Assets {
+      Id: 10283419825960366936
+      Name: "Icon Health"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Health"
       }
     }
     PrimaryAssetId {

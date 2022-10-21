@@ -1,5 +1,5 @@
 Assets {
-  Id: 9658749331839334523
+  Id: 7530406287495744402
   Name: "Advanced Staff"
   PlatformAssetType: 5
   TemplateAsset {
@@ -15,8 +15,9 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 4781671109827199097
+        ParentId: 6693544904945375742
         ChildIds: 874556587433667051
+        ChildIds: 9837467413451157548
         ChildIds: 17723129331160724454
         ChildIds: 7414063270284194098
         ChildIds: 17274442556924407997
@@ -27,15 +28,15 @@ Assets {
             String: "2hand_staff_stance"
           }
           Overrides {
-            Name: "cs:PlayerImpact"
+            Name: "cs:PickupSound"
             AssetReference {
-              Id: 307406115803496087
+              Id: 4020958367257585299
             }
           }
           Overrides {
-            Name: "cs:ObjectImpact"
+            Name: "cs:PlayerImpact"
             AssetReference {
-              Id: 16244471840856776085
+              Id: 307406115803496087
             }
           }
           Overrides {
@@ -43,21 +44,6 @@ Assets {
             AssetReference {
               Id: 13033197038424522750
             }
-          }
-          Overrides {
-            Name: "cs:HitSphereRadius"
-            Float: 150
-          }
-          Overrides {
-            Name: "cs:HitSphereOffset"
-            Vector {
-              X: 50
-              Z: 50
-            }
-          }
-          Overrides {
-            Name: "cs:ShowHitSphere"
-            Bool: false
           }
           Overrides {
             Name: "cs:EquipmentStance:tooltip"
@@ -68,24 +54,12 @@ Assets {
             String: "Template that is spawned at the location where the hitbox hit the player."
           }
           Overrides {
+            Name: "cs:PickupSound:tooltip"
+            String: "Template that is spawned at the equipment owner location when being picked up."
+          }
+          Overrides {
             Name: "cs:SwingSound:tooltip"
             String: "Template that is spawned at the equipment owner location when a melee ability is executed."
-          }
-          Overrides {
-            Name: "cs:HitSphereRadius:tooltip"
-            String: "Radius of hit sphere to detect players and damageable objects."
-          }
-          Overrides {
-            Name: "cs:ShowHitSphere:tooltip"
-            String: "Show sphere in editor when performing ability."
-          }
-          Overrides {
-            Name: "cs:HitSphereOffset:tooltip"
-            String: "Offset of the hit sphere from root position of equipment owner."
-          }
-          Overrides {
-            Name: "cs:ObjectImpact:tooltip"
-            String: "Impact template spawned on damageable objects."
           }
         }
         WantsNetworking: true
@@ -135,9 +109,6 @@ Assets {
         CameraCollidable {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
-        EditorIndicatorVisibility {
-          Value: "mc:eindicatorvisibility:alwaysvisible"
-        }
         Trigger {
           Interactable: true
           InteractionLabel: "Equip Advanced Staff"
@@ -147,6 +118,80 @@ Assets {
           }
           TriggerShape_v2 {
             Value: "mc:etriggershape:box"
+          }
+          InteractionTemplate {
+          }
+          BreadcrumbTemplate {
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 9837467413451157548
+        Name: "Hitbox Trigger"
+        Transform {
+          Location {
+            Z: 40
+          }
+          Rotation {
+          }
+          Scale {
+            X: 3
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 17992957111025546175
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:PlayerSocket"
+            String: "root"
+          }
+          Overrides {
+            Name: "cs:LocalPosition"
+            Vector {
+              X: 100
+              Z: 150
+            }
+          }
+          Overrides {
+            Name: "cs:LocalRotation"
+            Rotator {
+            }
+          }
+          Overrides {
+            Name: "cs:LocalPosition:tooltip"
+            String: "Specify the local position of the object when attached to the player socket."
+          }
+          Overrides {
+            Name: "cs:LocalRotation:tooltip"
+            String: "Specify the local rotation of the object when attached to the player socket."
+          }
+          Overrides {
+            Name: "cs:PlayerSocket:tooltip"
+            String: "Specify the player socket to attach the object."
+          }
+        }
+        WantsNetworking: true
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Trigger {
+          TeamSettings {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          TriggerShape_v2 {
+            Value: "mc:etriggershape:sphere"
           }
           InteractionTemplate {
           }
@@ -179,8 +224,10 @@ Assets {
             Float: 45
           }
           Overrides {
-            Name: "cs:UseHitSphere"
-            Bool: true
+            Name: "cs:Hitbox"
+            ObjectReference {
+              SubObjectId: 9837467413451157548
+            }
           }
           Overrides {
             Name: "cs:SwingEffect"
@@ -205,8 +252,8 @@ Assets {
             String: "Damage value applied to a player hit by hitbox trigger."
           }
           Overrides {
-            Name: "cs:UseHitSphere:tooltip"
-            String: "If true, this ability will use the hit sphere cast during execution phase to damage players or damageable objects."
+            Name: "cs:Hitbox:tooltip"
+            String: "Reference to the hitbox trigger that this ability will use for damaging enemies."
           }
         }
         WantsNetworking: true
@@ -268,10 +315,8 @@ Assets {
           Animation: "2hand_staff_rm_combo_closer_vertical_slash"
           CanBePrevented: true
           KeyBinding_v2 {
-            Value: "mc:egameaction:invalid"
+            Value: "mc:egameaction:primaryaction"
           }
-          KeyBinding_v3: "Attack"
-          Version: 3
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -299,8 +344,10 @@ Assets {
             Float: 60
           }
           Overrides {
-            Name: "cs:UseHitSphere"
-            Bool: true
+            Name: "cs:Hitbox"
+            ObjectReference {
+              SubObjectId: 9837467413451157548
+            }
           }
           Overrides {
             Name: "cs:SwingEffect"
@@ -325,8 +372,8 @@ Assets {
             String: "Damage value applied to a player hit by hitbox trigger."
           }
           Overrides {
-            Name: "cs:UseHitSphere:tooltip"
-            String: "If true, this ability will use the hit sphere cast during execution phase to damage players or damageable objects."
+            Name: "cs:Hitbox:tooltip"
+            String: "Reference to the hitbox trigger that this ability will use for damaging enemies."
           }
         }
         WantsNetworking: true
@@ -387,10 +434,8 @@ Assets {
           Animation: "2hand_staff_rm_combo_opener_upward_slash"
           CanBePrevented: true
           KeyBinding_v2 {
-            Value: "mc:egameaction:invalid"
+            Value: "mc:egameaction:primaryaction"
           }
-          KeyBinding_v3: "Attack"
-          Version: 3
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -415,7 +460,7 @@ Assets {
         ChildIds: 14878482872747186658
         ChildIds: 18236545556649170118
         ChildIds: 16020740419924472088
-        ChildIds: 3646174217871418752
+        ChildIds: 9693620057079433935
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -547,13 +592,10 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
       Objects {
-        Id: 3646174217871418752
-        Name: "DestructibleWeaponServer"
+        Id: 9693620057079433935
+        Name: "EquipmentAttachObjectToPlayer"
         Transform {
           Location {
-            X: 950
-            Y: 250
-            Z: 100
           }
           Rotation {
           }
@@ -566,20 +608,14 @@ Assets {
         ParentId: 17274442556924407997
         UnregisteredParameters {
           Overrides {
-            Name: "cs:DamageToObjects"
-            Int: 35
+            Name: "cs:Object"
+            ObjectReference {
+              SubObjectId: 9837467413451157548
+            }
           }
           Overrides {
-            Name: "cs:DamageToPlayers"
-            Int: 35
-          }
-          Overrides {
-            Name: "cs:HeadshotNPCs"
-            Int: 50
-          }
-          Overrides {
-            Name: "cs:HeadshotPlayers"
-            Int: 50
+            Name: "cs:Object:tooltip"
+            String: "Set object to attach to player on equip event."
           }
         }
         Collidable_v2 {
@@ -593,7 +629,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5780634331688159110
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -619,7 +655,6 @@ Assets {
         ChildIds: 17096457173922786757
         ChildIds: 13809195375048728752
         ChildIds: 18132673582307988313
-        ChildIds: 10898226283527136125
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -658,14 +693,6 @@ Assets {
           }
         }
         ParentId: 7753412466298119327
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:PickupSound"
-            AssetReference {
-              Id: 4020958367257585299
-            }
-          }
-        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -1076,43 +1103,6 @@ Assets {
         }
         Relevance {
           Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 10898226283527136125
-        Name: "DestructibleWeaponClient"
-        Transform {
-          Location {
-            X: 950
-            Y: 250
-            Z: 100
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 7753412466298119327
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9304266591752744246
-          }
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"

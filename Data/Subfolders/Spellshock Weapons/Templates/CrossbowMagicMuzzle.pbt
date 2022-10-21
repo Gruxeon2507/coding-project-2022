@@ -1,5 +1,5 @@
 Assets {
-  Id: 6701496224623268403
+  Id: 18127828690405500729
   Name: "CrossbowMagicMuzzle"
   PlatformAssetType: 5
   TemplateAsset {

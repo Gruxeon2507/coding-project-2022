@@ -1,5 +1,5 @@
 Assets {
-  Id: 4521248376948064016
+  Id: 14197969208167758112
   Name: "Hammer Full Circle Swipe Effect"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 1400695251880176580
+  Id: 15988909166916343739
   Name: "CT-Mossy rock_1"
   PlatformAssetType: 13
   SerializationVersion: 119

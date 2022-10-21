@@ -311,10 +311,8 @@ function Database:_LoadItems()
         if DEBUGLOGLOAD then print(propName) end -- Debug
         if DEBUGLOGLOAD then print("|",itemMUID, "    =",propName) end -- Debug
 
-        if propMaxStackableSize and not Item.ALLOW_LARGE_STACK_SIZES then
-            assert(tonumber(propMaxStackableSize) <= 2^12, string.format("item stack size is too large - %s \n if you want larger stack sizes that exceed 2^12 then enable AllowLargeStacksizes custom property on ItemSystems_Item in project content. Enabling this will allow up to 2^24 increasing the maximum amount for stack sizes.", propName))
-        elseif propMaxStackableSize and Item.ALLOW_LARGE_STACK_SIZES then
-            assert(tonumber(propMaxStackableSize) <= 2^24, string.format("item stack size is too large - %s \n You can not exceed 2^24. Consider decreasing the max stack size for this item.", propName))
+        if propMaxStackableSize then
+            assert(tonumber(propMaxStackableSize) <= 2^12, string.format("item stack size is too large - %s", propName))
         end
 
         if propConsumptionEffect then

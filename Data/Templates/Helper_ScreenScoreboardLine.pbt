@@ -1,5 +1,5 @@
 Assets {
-  Id: 8833733847586584683
+  Id: 8255584273613150503
   Name: "Helper_ScreenScoreboardLine"
   PlatformAssetType: 5
   TemplateAsset {
@@ -15,23 +15,18 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 17322624892384289886
+        ParentId: 6918955052133177701
         ChildIds: 3203238090784100334
-        ChildIds: 3186412399101636171
         ChildIds: 837209338018622170
         ChildIds: 16966367745385072583
+        ChildIds: 1328455554212215271
         ChildIds: 5696406128669875727
+        ChildIds: 8581176029468014057
         UnregisteredParameters {
           Overrides {
             Name: "cs:Name"
             ObjectReference {
               SubObjectId: 16966367745385072583
-            }
-          }
-          Overrides {
-            Name: "cs:Icon"
-            ObjectReference {
-              SubObjectId: 3186412399101636171
             }
           }
           Overrides {
@@ -41,15 +36,51 @@ Assets {
             }
           }
           Overrides {
+            Name: "cs:CurrentScoreText"
+            ObjectReference {
+              SubObjectId: 1328455554212215271
+            }
+          }
+          Overrides {
             Name: "cs:ScoreText"
             ObjectReference {
               SubObjectId: 5696406128669875727
             }
           }
           Overrides {
+            Name: "cs:ResourceStatPanel"
+            ObjectReference {
+              SubObjectId: 8581176029468014057
+            }
+          }
+          Overrides {
+            Name: "cs:MaxHPLevel"
+            ObjectReference {
+              SubObjectId: 12644187034149163782
+            }
+          }
+          Overrides {
+            Name: "cs:DamageLevel"
+            ObjectReference {
+              SubObjectId: 18184483711360644669
+            }
+          }
+          Overrides {
+            Name: "cs:SpeedLevel"
+            ObjectReference {
+              SubObjectId: 11162349483202738686
+            }
+          }
+          Overrides {
+            Name: "cs:CurrentScoreIcon"
+            ObjectReference {
+              SubObjectId: 6468424303698413416
+            }
+          }
+          Overrides {
             Name: "cs:ScoreIcon"
             ObjectReference {
-              SelfId: 10113650383563360035
+              SubObjectId: 990886823847392718
             }
           }
         }
@@ -64,7 +95,7 @@ Assets {
         }
         Control {
           Width: 345
-          Height: 30
+          Height: 20
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -131,10 +162,10 @@ Assets {
           UseParentHeight: true
           Image {
             Brush {
-              Id: 13778967266379385506
+              Id: 5196377603841433560
             }
             Color {
-              A: 0.7
+              A: 0.3
             }
           }
           AnchorLayout {
@@ -146,70 +177,6 @@ Assets {
             TargetAnchor {
               Anchor {
                 Value: "mc:euianchor:middlecenter"
-              }
-            }
-          }
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 3186412399101636171
-        Name: "Icon"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 1267911644293519215
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Control {
-          Width: 25
-          Height: 25
-          UIX: 48.5910416
-          RenderTransformPivot {
-            Anchor {
-              Value: "mc:euianchor:middlecenter"
-            }
-          }
-          Image {
-            Brush {
-              Id: 6484258332314574972
-            }
-            Color {
-              R: 1
-              G: 1
-              B: 1
-              A: 1
-            }
-          }
-          AnchorLayout {
-            SelfAnchor {
-              Anchor {
-                Value: "mc:euianchor:middlecenter"
-              }
-            }
-            TargetAnchor {
-              Anchor {
-                Value: "mc:euianchor:middleleft"
               }
             }
           }
@@ -248,7 +215,6 @@ Assets {
         Control {
           Width: 25
           Height: 30
-          UIX: 10
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -263,7 +229,7 @@ Assets {
               B: 1
               A: 1
             }
-            Size: 13
+            Size: 11
             Justification {
               Value: "mc:etextjustify:center"
             }
@@ -317,9 +283,9 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Control {
-          Width: 140
+          Width: 155
           Height: 30
-          UIX: 70
+          UIX: 25
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -334,7 +300,7 @@ Assets {
               B: 1
               A: 1
             }
-            Size: 13
+            Size: 10
             Justification {
               Value: "mc:etextjustify:left"
             }
@@ -347,6 +313,141 @@ Assets {
             SelfAnchor {
               Anchor {
                 Value: "mc:euianchor:middleleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 1328455554212215271
+        Name: "Current Gold"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1267911644293519215
+        ChildIds: 6468424303698413416
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 60
+          Height: 30
+          UIX: -80
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          UseParentHeight: true
+          Text {
+            Label: "Gold"
+            Color {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            Size: 10
+            Justification {
+              Value: "mc:etextjustify:left"
+            }
+            AutoWrapText: true
+            ClipTextToSize: true
+            Font {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 6468424303698413416
+        Name: "Icon"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1328455554212215271
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 15
+          Height: 15
+          UIX: -5
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Image {
+            Brush {
+              Id: 17387787898398217301
+            }
+            Color {
+              R: 1
+              G: 0.89403975
+              A: 1
+            }
+            TeamSettings {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
               }
             }
             TargetAnchor {
@@ -376,6 +477,7 @@ Assets {
           }
         }
         ParentId: 1267911644293519215
+        ChildIds: 990886823847392718
         UnregisteredParameters {
         }
         Collidable_v2 {
@@ -398,14 +500,14 @@ Assets {
           }
           UseParentHeight: true
           Text {
-            Label: "Level"
+            Label: "Deposited"
             Color {
               R: 1
               G: 1
               B: 1
               A: 1
             }
-            Size: 13
+            Size: 10
             Justification {
               Value: "mc:etextjustify:left"
             }
@@ -432,23 +534,579 @@ Assets {
         }
         IsReplicationEnabledByDefault: true
       }
-    }
-    Assets {
-      Id: 13778967266379385506
-      Name: "BG Flat 001"
-      PlatformAssetType: 9
-      PrimaryAsset {
-        AssetType: "PlatformBrushAssetRef"
-        AssetId: "BackgroundNoOutline_020"
+      Objects {
+        Id: 990886823847392718
+        Name: "Icon"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 5696406128669875727
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 15
+          Height: 15
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Image {
+            Brush {
+              Id: 11728166849360665236
+            }
+            Color {
+              R: 0.111920416
+              G: 1
+              B: 0.100000024
+              A: 1
+            }
+            TeamSettings {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 8581176029468014057
+        Name: "Resource Stat Panel"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 1267911644293519215
+        ChildIds: 12667087743145796156
+        ChildIds: 6017243982185746428
+        ChildIds: 15819065211543432000
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceoff"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 105
+          Height: 100
+          UIX: -5
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          UseParentHeight: true
+          Panel {
+            Opacity: 1
+            OpacityMaskBrush {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 12667087743145796156
+        Name: "MaxHP Icon"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8581176029468014057
+        ChildIds: 12644187034149163782
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 15
+          Height: 15
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Image {
+            Brush {
+              Id: 13891813291849843011
+            }
+            Color {
+              R: 0.669999957
+              G: 0.319470167
+              A: 1
+            }
+            TeamSettings {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 12644187034149163782
+        Name: "Level"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 12667087743145796156
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 15
+          Height: 15
+          UIX: 3
+          UIY: -3
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Text {
+            Label: "10"
+            Color {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            Size: 10
+            Justification {
+              Value: "mc:etextjustify:left"
+            }
+            AutoWrapText: true
+            Font {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 6017243982185746428
+        Name: "Damage Icon"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8581176029468014057
+        ChildIds: 18184483711360644669
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 15
+          Height: 15
+          UIX: 35
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Image {
+            Brush {
+              Id: 9950703959712691377
+            }
+            Color {
+              R: 1
+              G: 0.149999976
+              B: 0.149999976
+              A: 1
+            }
+            TeamSettings {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 18184483711360644669
+        Name: "Level"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 6017243982185746428
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 15
+          Height: 15
+          UIX: 3
+          UIY: -3
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Text {
+            Label: "10"
+            Color {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            Size: 10
+            Justification {
+              Value: "mc:etextjustify:left"
+            }
+            AutoWrapText: true
+            Font {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 15819065211543432000
+        Name: "Speed Icon"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8581176029468014057
+        ChildIds: 11162349483202738686
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 15
+          Height: 15
+          UIX: 70
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Image {
+            Brush {
+              Id: 8989593430120058992
+            }
+            Color {
+              R: 0.0400000215
+              G: 0.999999762
+              B: 1
+              A: 1
+            }
+            TeamSettings {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 11162349483202738686
+        Name: "Level"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 15819065211543432000
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 15
+          Height: 15
+          UIX: 3
+          UIY: -3
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          Text {
+            Label: "10"
+            Color {
+              R: 1
+              G: 1
+              B: 1
+              A: 1
+            }
+            Size: 10
+            Justification {
+              Value: "mc:etextjustify:left"
+            }
+            AutoWrapText: true
+            Font {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:middleright"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
       }
     }
     Assets {
-      Id: 6484258332314574972
-      Name: "Icon Profile"
+      Id: 5196377603841433560
+      Name: "BG Gradient 001"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_Profile"
+        AssetId: "BackgroundFlat_020"
+      }
+    }
+    Assets {
+      Id: 17387787898398217301
+      Name: "Icon Gold"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Gold"
+      }
+    }
+    Assets {
+      Id: 11728166849360665236
+      Name: "Icon Crystal"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Crystal"
+      }
+    }
+    Assets {
+      Id: 13891813291849843011
+      Name: "Boat"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Boatmedium"
+      }
+    }
+    Assets {
+      Id: 9950703959712691377
+      Name: "Cannon"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Cannon"
+      }
+    }
+    Assets {
+      Id: 8989593430120058992
+      Name: "Icon Wind"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "Icon_Wind"
       }
     }
     PrimaryAssetId {

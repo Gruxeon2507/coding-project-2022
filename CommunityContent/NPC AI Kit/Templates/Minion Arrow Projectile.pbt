@@ -1,5 +1,5 @@
 Assets {
-  Id: 1925487767018616826
+  Id: 12046848453297389519
   Name: "Minion Arrow Projectile"
   PlatformAssetType: 5
   TemplateAsset {

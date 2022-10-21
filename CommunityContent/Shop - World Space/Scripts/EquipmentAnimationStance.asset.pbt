@@ -1,5 +1,5 @@
 Assets {
-  Id: 2887541303679834418
+  Id: 17613297588999810890
   Name: "EquipmentAnimationStance"
   PlatformAssetType: 3
   TextAsset {

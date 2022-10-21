@@ -1,5 +1,5 @@
 Assets {
-  Id: 7880097221962366412
+  Id: 8741131997088438667
   Name: "ModuleManager"
   PlatformAssetType: 3
   TextAsset {

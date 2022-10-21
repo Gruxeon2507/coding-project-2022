@@ -1,5 +1,5 @@
 Assets {
-  Id: 9808949862239579632
+  Id: 12667595947530096312
   Name: "Generic Sound Out Of Ammo"
   PlatformAssetType: 5
   TemplateAsset {

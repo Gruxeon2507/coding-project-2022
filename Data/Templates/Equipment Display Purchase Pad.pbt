@@ -338,7 +338,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7636511150976454967
+            Id: 635947665660025098
           }
         }
         NetworkRelevanceDistance {
@@ -648,7 +648,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14237976478604476050
+              Id: 14364313178059886990
             }
           }
           Overrides {
@@ -672,7 +672,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13846976516959842924
+            Id: 13629958479359906438
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -713,7 +713,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 18007932134064521969
+              Id: 2819717477027926411
             }
           }
         }
@@ -770,7 +770,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13846976516959842924
+      Id: 13629958479359906438
       Name: "Cylinder - Rounded Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -779,7 +779,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14237976478604476050
+      Id: 14364313178059886990
       Name: "Bark Redwood 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -797,7 +797,7 @@ Assets {
       }
     }
     Assets {
-      Id: 18007932134064521969
+      Id: 2819717477027926411
       Name: "Metal Basic Steel"
       PlatformAssetType: 2
       PrimaryAsset {

@@ -20,7 +20,7 @@ Assets {
         ChildIds: 14342997106998890484
         UnregisteredParameters {
         }
-        Lifespan: 1
+        Lifespan: 3
         WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -151,7 +151,4 @@ Assets {
     }
   }
   SerializationVersion: 119
-  VirtualFolderPath: "Weapons"
-  VirtualFolderPath: "Projectile"
-  VirtualFolderPath: "Dependecies"
 }

@@ -1,5 +1,5 @@
 Assets {
-  Id: 16763933308302762596
+  Id: 2617698405542932223
   Name: "Assault Rifle 556"
   PlatformAssetType: 5
   TemplateAsset {
@@ -39,16 +39,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 12668696567950213333
+              Id: 17835862961780797459
             }
             MuzzleFlashAssetRef {
-              Id: 13933904942435480869
+              Id: 5198466364826730452
             }
             TrailAssetRef {
-              Id: 17006886342071334220
+              Id: 10286254693851127798
             }
             ImpactAssetRef {
-              Id: 2997259616650407042
+              Id: 8800300796487113287
             }
             UseReticle: true
             Muzzle {
@@ -59,10 +59,10 @@ Assets {
             }
             AnimationSet: "2hand_rifle_stance"
             OutOfAmmoSfxAssetRef {
-              Id: 2133117617178584187
+              Id: 2444654921645235465
             }
             ReloadSfxAssetRef {
-              Id: 446626499742716115
+              Id: 11831513204102410550
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
@@ -77,7 +77,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 100000
             ImpactPlayerAssetRef {
-              Id: 15556516881700914197
+              Id: 15617931179455042391
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"

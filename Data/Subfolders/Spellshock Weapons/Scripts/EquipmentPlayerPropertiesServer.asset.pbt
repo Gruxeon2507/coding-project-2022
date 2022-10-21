@@ -1,5 +1,5 @@
 Assets {
-  Id: 476292117025633384
+  Id: 474301925775429562
   Name: "EquipmentPlayerPropertiesServer"
   PlatformAssetType: 3
   TextAsset {

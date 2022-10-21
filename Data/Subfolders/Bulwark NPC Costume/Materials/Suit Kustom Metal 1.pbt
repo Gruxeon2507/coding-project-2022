@@ -1,5 +1,5 @@
 Assets {
-  Id: 2365073197914143091
+  Id: 17374319878876819830
   Name: "Suit Kustom Metal 1"
   PlatformAssetType: 13
   SerializationVersion: 119
