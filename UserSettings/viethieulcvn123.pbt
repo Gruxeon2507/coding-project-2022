@@ -177685,7 +177685,11 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "MapOcean"
+LastSavedScene: "Hall"
+PreviewDetailLevelPerScene {
+  key: "Hall"
+  value: 0
+}
 PreviewDetailLevelPerScene {
   key: "Main_1"
   value: 0

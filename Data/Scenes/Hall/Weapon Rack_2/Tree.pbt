@@ -1,7 +1,7 @@
 Name: "Weapon Rack_2"
-RootId: 16801478279533609009
+RootId: 8105404201265853451
 Objects {
-  Id: 3289478624320457069
+  Id: 2259979068132710915
   Name: "Fantasy Weapon - Crossbow 01 (Prop)"
   Transform {
     Location {
@@ -20,12 +20,12 @@ Objects {
       Z: 0.759896576
     }
   }
-  ParentId: 16801478279533609009
-  ChildIds: 12282079563104169399
-  ChildIds: 13240152703099628210
-  ChildIds: 13495191367846133957
-  ChildIds: 4724378617370345415
-  ChildIds: 4746794363591398915
+  ParentId: 8105404201265853451
+  ChildIds: 3294025886105622243
+  ChildIds: 2276894470189193019
+  ChildIds: 9275493238212584589
+  ChildIds: 12247918717508759268
+  ChildIds: 15858523025514537434
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -44,7 +44,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4746794363591398915
+  Id: 15858523025514537434
   Name: "Fantasy Crossbow Stock 01"
   Transform {
     Location {
@@ -59,7 +59,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3289478624320457069
+  ParentId: 2259979068132710915
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -107,7 +107,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4724378617370345415
+  Id: 12247918717508759268
   Name: "Fantasy Crossbow Stirrup 01"
   Transform {
     Location {
@@ -123,7 +123,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3289478624320457069
+  ParentId: 2259979068132710915
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -165,7 +165,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13495191367846133957
+  Id: 9275493238212584589
   Name: "Fantasy Crossbow Grip 01"
   Transform {
     Location {
@@ -181,7 +181,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3289478624320457069
+  ParentId: 2259979068132710915
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -229,7 +229,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13240152703099628210
+  Id: 2276894470189193019
   Name: "Fantasy Crossbow Foregrip 01"
   Transform {
     Location {
@@ -244,7 +244,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3289478624320457069
+  ParentId: 2259979068132710915
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -292,7 +292,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12282079563104169399
+  Id: 3294025886105622243
   Name: "Fantasy Crossbow Bow 01"
   Transform {
     Location {
@@ -308,7 +308,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3289478624320457069
+  ParentId: 2259979068132710915
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -356,7 +356,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8062985796592178028
+  Id: 13202948196372253896
   Name: "Fantasy Shield 03"
   Transform {
     Location {
@@ -375,7 +375,7 @@ Objects {
       Z: 1.51937091
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -429,7 +429,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9908875759411575784
+  Id: 16484010634727854295
   Name: "Fantasy Weapon - Hammer 01 (Prop)"
   Transform {
     Location {
@@ -448,13 +448,13 @@ Objects {
       Z: 1.72481132
     }
   }
-  ParentId: 16801478279533609009
-  ChildIds: 11823153000133808289
-  ChildIds: 16627841221309659367
-  ChildIds: 17428353107704886730
-  ChildIds: 13142342888571886224
-  ChildIds: 3885177784116596787
-  ChildIds: 32099635268757339
+  ParentId: 8105404201265853451
+  ChildIds: 15707574112712254944
+  ChildIds: 5677110285550748062
+  ChildIds: 1300531278657053181
+  ChildIds: 10254304796289625257
+  ChildIds: 17386574060999583444
+  ChildIds: 13367492696789427446
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -473,7 +473,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 32099635268757339
+  Id: 13367492696789427446
   Name: "Fantasy Hammer Head 01"
   Transform {
     Location {
@@ -489,7 +489,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9908875759411575784
+  ParentId: 16484010634727854295
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -543,7 +543,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3885177784116596787
+  Id: 17386574060999583444
   Name: "Fantasy Hammer Head 01"
   Transform {
     Location {
@@ -558,7 +558,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9908875759411575784
+  ParentId: 16484010634727854295
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -612,7 +612,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13142342888571886224
+  Id: 10254304796289625257
   Name: "Fantasy Hammer Guard 01"
   Transform {
     Location {
@@ -626,7 +626,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9908875759411575784
+  ParentId: 16484010634727854295
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -674,7 +674,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17428353107704886730
+  Id: 1300531278657053181
   Name: "Fantasy Mace Guard 01"
   Transform {
     Location {
@@ -688,7 +688,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9908875759411575784
+  ParentId: 16484010634727854295
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -730,7 +730,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16627841221309659367
+  Id: 5677110285550748062
   Name: "Fantasy Hammer Base 01"
   Transform {
     Location {
@@ -744,7 +744,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9908875759411575784
+  ParentId: 16484010634727854295
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -786,7 +786,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11823153000133808289
+  Id: 15707574112712254944
   Name: "Fantasy Axe Grip 01"
   Transform {
     Location {
@@ -800,7 +800,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9908875759411575784
+  ParentId: 16484010634727854295
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -848,7 +848,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8652520093258023071
+  Id: 5667905832714063176
   Name: "Fantasy Shield 03"
   Transform {
     Location {
@@ -865,7 +865,7 @@ Objects {
       Z: 1.51937091
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -919,7 +919,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17794824103662323001
+  Id: 16292614554728178652
   Name: "Fantasy Weapon - Sword 02 (Prop)"
   Transform {
     Location {
@@ -938,12 +938,12 @@ Objects {
       Z: 1.5662607
     }
   }
-  ParentId: 16801478279533609009
-  ChildIds: 16745623146514640156
-  ChildIds: 12743667091375965121
-  ChildIds: 17135256278275723117
-  ChildIds: 8033742797861947688
-  ChildIds: 5997576730000234623
+  ParentId: 8105404201265853451
+  ChildIds: 4974313460042473174
+  ChildIds: 14470913530825306096
+  ChildIds: 14157570211337567032
+  ChildIds: 18361063983251721155
+  ChildIds: 10785769047521480489
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -962,7 +962,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5997576730000234623
+  Id: 10785769047521480489
   Name: "Fantasy Pommel 03"
   Transform {
     Location {
@@ -976,7 +976,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17794824103662323001
+  ParentId: 16292614554728178652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1018,7 +1018,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8033742797861947688
+  Id: 18361063983251721155
   Name: "Fantasy Pommel 04"
   Transform {
     Location {
@@ -1033,7 +1033,7 @@ Objects {
       Z: 1.39352274
     }
   }
-  ParentId: 17794824103662323001
+  ParentId: 16292614554728178652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1075,7 +1075,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17135256278275723117
+  Id: 14157570211337567032
   Name: "Fantasy Sword Blade 03"
   Transform {
     Location {
@@ -1089,7 +1089,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17794824103662323001
+  ParentId: 16292614554728178652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -1137,7 +1137,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12743667091375965121
+  Id: 14470913530825306096
   Name: "Fantasy Sword Guard 01"
   Transform {
     Location {
@@ -1151,7 +1151,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17794824103662323001
+  ParentId: 16292614554728178652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1193,7 +1193,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16745623146514640156
+  Id: 4974313460042473174
   Name: "Fantasy Sword Grip 01"
   Transform {
     Location {
@@ -1207,7 +1207,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17794824103662323001
+  ParentId: 16292614554728178652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1249,7 +1249,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3032774046508846935
+  Id: 5373467516760910491
   Name: "Sword"
   Transform {
     Location {
@@ -1267,7 +1267,7 @@ Objects {
       Z: 0.626797438
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1287,7 +1287,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4726597001347577312
+  Id: 254830081351731646
   Name: "Craftsman Roof 01 Bracket"
   Transform {
     Location {
@@ -1303,7 +1303,7 @@ Objects {
       Z: 0.264965326
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1345,7 +1345,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9611791415738938319
+  Id: 5950638841276229649
   Name: "Craftsman Roof 01 Bracket"
   Transform {
     Location {
@@ -1362,7 +1362,7 @@ Objects {
       Z: 0.264965326
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1404,7 +1404,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17924009611561012853
+  Id: 8345737319262433206
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1420,7 +1420,7 @@ Objects {
       Z: 0.318922162
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1454,7 +1454,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16547975732335939986
+  Id: 6764504308002528639
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -1471,7 +1471,7 @@ Objects {
       Z: 0.0575869642
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1513,7 +1513,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2036583097981935261
+  Id: 14772246425504476106
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -1530,7 +1530,7 @@ Objects {
       Z: 0.0575869642
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1572,7 +1572,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16566172124374558779
+  Id: 10689400360304869172
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -1589,7 +1589,7 @@ Objects {
       Z: 0.0575869642
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1631,7 +1631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11895155994764943867
+  Id: 12579054641525996953
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -1648,7 +1648,7 @@ Objects {
       Z: 0.0575869642
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1690,7 +1690,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15250465346427272060
+  Id: 11854043133505958428
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1707,7 +1707,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1741,7 +1741,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11101466500761903398
+  Id: 250409697830370777
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1758,7 +1758,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1792,7 +1792,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14683279778459394560
+  Id: 3046723305197920512
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1809,7 +1809,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1843,7 +1843,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 762328541794129725
+  Id: 7315273860695894148
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1860,7 +1860,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1894,7 +1894,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10228198713251045683
+  Id: 7864263043684762454
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1913,7 +1913,7 @@ Objects {
       Z: 0.481319487
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1947,7 +1947,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8104774554189403998
+  Id: 7806661226720599034
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1966,7 +1966,7 @@ Objects {
       Z: 0.481319487
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2000,7 +2000,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17781179233647647531
+  Id: 8074677444666304168
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -2016,7 +2016,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2050,7 +2050,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14067389800563781294
+  Id: 7413860478767954369
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -2066,7 +2066,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2100,7 +2100,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3430672337639405830
+  Id: 764442061177947323
   Name: "Craftsman Roof 01 Bracket"
   Transform {
     Location {
@@ -2117,7 +2117,7 @@ Objects {
       Z: 0.264965326
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2159,7 +2159,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1396693168687333325
+  Id: 15724193492299617182
   Name: "Craftsman Roof 01 Bracket"
   Transform {
     Location {
@@ -2175,7 +2175,7 @@ Objects {
       Z: 0.264965326
     }
   }
-  ParentId: 16801478279533609009
+  ParentId: 8105404201265853451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"

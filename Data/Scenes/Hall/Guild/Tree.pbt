@@ -1,7 +1,7 @@
 Name: "Guild"
-RootId: 4624173360597805377
+RootId: 9056253095873414601
 Objects {
-  Id: 42183278837236550
+  Id: 14667504910141517542
   Name: "Lights"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
+  ParentId: 9056253095873414601
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37,7 +37,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11266661656228840902
+  Id: 4356256357309978820
   Name: "Roof"
   Transform {
     Location {
@@ -53,7 +53,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
+  ParentId: 9056253095873414601
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -73,7 +73,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2381900801974360505
+  Id: 3337924845135605039
   Name: "Decorations"
   Transform {
     Location {
@@ -89,7 +89,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
+  ParentId: 9056253095873414601
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -109,7 +109,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8985822973359504404
+  Id: 1435170921066578257
   Name: "Forniture"
   Transform {
     Location {
@@ -125,7 +125,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
+  ParentId: 9056253095873414601
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -145,7 +145,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14001213670351781748
+  Id: 13728557858265318600
   Name: "Suports"
   Transform {
     Location {
@@ -161,7 +161,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
+  ParentId: 9056253095873414601
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -181,7 +181,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3972540271816669713
+  Id: 9406548294860558158
   Name: "Storage"
   Transform {
     Location {
@@ -197,7 +197,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
+  ParentId: 9056253095873414601
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -217,7 +217,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1778090595044531306
+  Id: 9947446266538728233
   Name: "Reception"
   Transform {
     Location {
@@ -233,91 +233,91 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
-  ChildIds: 4802880445427577655
-  ChildIds: 17791481104228133948
-  ChildIds: 3016865315799875976
-  ChildIds: 15442116742337955691
-  ChildIds: 4819126352568409199
-  ChildIds: 83093947082154420
-  ChildIds: 4311066526633621458
-  ChildIds: 18036708434162978475
-  ChildIds: 9039820867257501774
-  ChildIds: 7445049086056630684
-  ChildIds: 8017898525256481797
-  ChildIds: 18253149124726673809
-  ChildIds: 14769828722682174741
-  ChildIds: 13752212066242438375
-  ChildIds: 8750819132343979474
-  ChildIds: 15584786679996605706
-  ChildIds: 7692078056619777750
-  ChildIds: 1455986331009430573
-  ChildIds: 5880539596645738606
-  ChildIds: 12011832547074440429
-  ChildIds: 9470867879024078516
-  ChildIds: 6650088910252167636
-  ChildIds: 4606965435161677615
-  ChildIds: 339832807968611578
-  ChildIds: 15048806204684358377
-  ChildIds: 7261958321649018133
-  ChildIds: 14328743992007610761
-  ChildIds: 15583479095159107310
-  ChildIds: 17376141879178559030
-  ChildIds: 13509735393563441763
-  ChildIds: 17603989692971269456
-  ChildIds: 13848089493669085285
-  ChildIds: 4554324263983598324
-  ChildIds: 11764879685838302475
-  ChildIds: 8064965370022892205
-  ChildIds: 16481078181328935510
-  ChildIds: 8945147271088616360
-  ChildIds: 16066450042741436291
-  ChildIds: 6132149948107652548
-  ChildIds: 1255622621518195334
-  ChildIds: 4911393640636469961
-  ChildIds: 4899684579465215851
-  ChildIds: 14024670172831590329
-  ChildIds: 17765351670571304573
-  ChildIds: 16792890322682466742
-  ChildIds: 2008618639513275599
-  ChildIds: 12362905224324282897
-  ChildIds: 11455296037017238896
-  ChildIds: 16984563797054925642
-  ChildIds: 7227533918252010732
-  ChildIds: 2983513455123596883
-  ChildIds: 16367553856201081411
-  ChildIds: 7290213027682809666
-  ChildIds: 16559475995850078780
-  ChildIds: 13497588737584605877
-  ChildIds: 12126966897255298023
-  ChildIds: 10439857915539051648
-  ChildIds: 9943590785151642561
-  ChildIds: 4514377110460861460
-  ChildIds: 6029338380981520406
-  ChildIds: 6038607576155937840
-  ChildIds: 8156076051546763175
-  ChildIds: 7581406853004680004
-  ChildIds: 14075038227340332819
-  ChildIds: 2849132424803523768
-  ChildIds: 6129067419871667370
-  ChildIds: 9308539688191515995
-  ChildIds: 9290185377596000372
-  ChildIds: 10256328821400647584
-  ChildIds: 1015684695612119325
-  ChildIds: 2248625380840548413
-  ChildIds: 3560929596405981187
-  ChildIds: 2980329770579901121
-  ChildIds: 1385787958309538715
-  ChildIds: 2166013835959509812
-  ChildIds: 3594190739992464200
-  ChildIds: 13634482238674760702
-  ChildIds: 4102870058971711620
-  ChildIds: 4703124619668190141
-  ChildIds: 10753118225581810609
-  ChildIds: 10294328265214851504
-  ChildIds: 17223014440619281864
-  ChildIds: 4026282652747253888
-  ChildIds: 5745743100471329756
+  ParentId: 9056253095873414601
+  ChildIds: 10149352592684606271
+  ChildIds: 5607457551449027261
+  ChildIds: 16213132687287923008
+  ChildIds: 3152408971733999078
+  ChildIds: 5746549630150926403
+  ChildIds: 15427129422255919062
+  ChildIds: 11445159203251721066
+  ChildIds: 13496124520058483060
+  ChildIds: 8195612221803644927
+  ChildIds: 16900180627568520507
+  ChildIds: 10649501060672873568
+  ChildIds: 479228701783434201
+  ChildIds: 15042650728130910578
+  ChildIds: 14422651959884763740
+  ChildIds: 14005267723553098967
+  ChildIds: 2599400263073754246
+  ChildIds: 8637911445031872355
+  ChildIds: 8018172514095912475
+  ChildIds: 6900812182952694451
+  ChildIds: 12819964760742322207
+  ChildIds: 11588302783781484394
+  ChildIds: 8403399506936540766
+  ChildIds: 17981996305024949524
+  ChildIds: 10140571451657337647
+  ChildIds: 8620135638104643219
+  ChildIds: 3604054045762113751
+  ChildIds: 7215521886615782448
+  ChildIds: 1865485250611707455
+  ChildIds: 15826856618254953498
+  ChildIds: 16565306373857016761
+  ChildIds: 8381806513146038277
+  ChildIds: 1043904519412637160
+  ChildIds: 13456501072720406550
+  ChildIds: 9167405860188214182
+  ChildIds: 11194744916638360451
+  ChildIds: 18268726523890217084
+  ChildIds: 9984119284885440588
+  ChildIds: 4243716077282793775
+  ChildIds: 783200800820069829
+  ChildIds: 15154602262875169090
+  ChildIds: 4453405918489351935
+  ChildIds: 14037162268091307543
+  ChildIds: 9057796096236568049
+  ChildIds: 17135795419941788413
+  ChildIds: 13010698563827313030
+  ChildIds: 10331759194956058446
+  ChildIds: 15179099965883240050
+  ChildIds: 12257502064829388481
+  ChildIds: 2785810049205394792
+  ChildIds: 4113953186434028990
+  ChildIds: 13286563532270037167
+  ChildIds: 8383771090466264540
+  ChildIds: 9284424806074742917
+  ChildIds: 12573470850076214339
+  ChildIds: 6832533107181843860
+  ChildIds: 7324462159941985739
+  ChildIds: 14735687875351845119
+  ChildIds: 11168052480235731702
+  ChildIds: 8284134965919977705
+  ChildIds: 12869423531564924609
+  ChildIds: 1119331519834421617
+  ChildIds: 15741741625290192145
+  ChildIds: 16387967756276709240
+  ChildIds: 7789551515721191233
+  ChildIds: 5931277491768855171
+  ChildIds: 14848037282623303642
+  ChildIds: 9176157185034597527
+  ChildIds: 15116131238967408038
+  ChildIds: 13926901045719592482
+  ChildIds: 6523083872124906542
+  ChildIds: 2706341932576670276
+  ChildIds: 12134768811173279100
+  ChildIds: 15297980702308185897
+  ChildIds: 18066745327948290686
+  ChildIds: 15515427620303808269
+  ChildIds: 4069152065386187830
+  ChildIds: 7249175969764040248
+  ChildIds: 8844762010390283418
+  ChildIds: 9978900990971971070
+  ChildIds: 92827595653301777
+  ChildIds: 4356252284737862680
+  ChildIds: 5368359942923410829
+  ChildIds: 9852936114825060975
+  ChildIds: 10965920824136614118
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -336,7 +336,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5745743100471329756
+  Id: 10965920824136614118
   Name: "Craftsman Floor 01 4m x 4m"
   Transform {
     Location {
@@ -352,7 +352,7 @@ Objects {
       Z: 0.240587503
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -400,7 +400,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4026282652747253888
+  Id: 9852936114825060975
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -417,7 +417,7 @@ Objects {
       Z: 0.550159752
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -451,7 +451,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17223014440619281864
+  Id: 5368359942923410829
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -468,7 +468,7 @@ Objects {
       Z: 0.550159752
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -502,7 +502,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10294328265214851504
+  Id: 4356252284737862680
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -519,7 +519,7 @@ Objects {
       Z: 0.550159752
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -553,7 +553,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10753118225581810609
+  Id: 92827595653301777
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -570,7 +570,7 @@ Objects {
       Z: 0.550159752
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -604,7 +604,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4703124619668190141
+  Id: 9978900990971971070
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -621,7 +621,7 @@ Objects {
       Z: 0.550159752
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -655,7 +655,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4102870058971711620
+  Id: 8844762010390283418
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -672,7 +672,7 @@ Objects {
       Z: 0.550159752
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -706,7 +706,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13634482238674760702
+  Id: 7249175969764040248
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -723,7 +723,7 @@ Objects {
       Z: 0.533133864
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -757,7 +757,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3594190739992464200
+  Id: 4069152065386187830
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -774,7 +774,7 @@ Objects {
       Z: 0.519168854
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -808,7 +808,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2166013835959509812
+  Id: 15515427620303808269
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -825,7 +825,7 @@ Objects {
       Z: 0.550159752
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -859,7 +859,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1385787958309538715
+  Id: 18066745327948290686
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -876,7 +876,7 @@ Objects {
       Z: 0.550159752
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -910,7 +910,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2980329770579901121
+  Id: 15297980702308185897
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -927,7 +927,7 @@ Objects {
       Z: 0.519168854
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -961,7 +961,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3560929596405981187
+  Id: 12134768811173279100
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -978,7 +978,7 @@ Objects {
       Z: 0.533133864
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1012,7 +1012,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2248625380840548413
+  Id: 2706341932576670276
   Name: "Cabinet Door"
   Transform {
     Location {
@@ -1029,7 +1029,7 @@ Objects {
       Z: 1.16921091
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1063,7 +1063,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1015684695612119325
+  Id: 6523083872124906542
   Name: "Cabinet Door"
   Transform {
     Location {
@@ -1080,7 +1080,7 @@ Objects {
       Z: 1.16921091
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1114,7 +1114,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10256328821400647584
+  Id: 13926901045719592482
   Name: "Cabinet Door"
   Transform {
     Location {
@@ -1131,7 +1131,7 @@ Objects {
       Z: 1.16921091
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1165,7 +1165,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9290185377596000372
+  Id: 15116131238967408038
   Name: "Cabinet Door"
   Transform {
     Location {
@@ -1182,7 +1182,7 @@ Objects {
       Z: 1.16921091
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1216,7 +1216,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9308539688191515995
+  Id: 9176157185034597527
   Name: "Cabinet Door"
   Transform {
     Location {
@@ -1233,7 +1233,7 @@ Objects {
       Z: 1.16921091
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1267,7 +1267,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6129067419871667370
+  Id: 14848037282623303642
   Name: "Cabinet Door"
   Transform {
     Location {
@@ -1284,7 +1284,7 @@ Objects {
       Z: 1.16921091
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1318,7 +1318,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2849132424803523768
+  Id: 5931277491768855171
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -1335,7 +1335,7 @@ Objects {
       Z: 1.16976464
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1369,7 +1369,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14075038227340332819
+  Id: 7789551515721191233
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -1386,7 +1386,7 @@ Objects {
       Z: 1.16976464
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1420,7 +1420,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7581406853004680004
+  Id: 16387967756276709240
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -1437,7 +1437,7 @@ Objects {
       Z: 1.16976464
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1471,7 +1471,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8156076051546763175
+  Id: 15741741625290192145
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -1488,7 +1488,7 @@ Objects {
       Z: 1.16976464
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1522,7 +1522,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6038607576155937840
+  Id: 1119331519834421617
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -1539,7 +1539,7 @@ Objects {
       Z: 1.16976464
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1573,7 +1573,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6029338380981520406
+  Id: 12869423531564924609
   Name: "Cabinet Door - Small"
   Transform {
     Location {
@@ -1590,7 +1590,7 @@ Objects {
       Z: 1.16976464
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1624,7 +1624,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4514377110460861460
+  Id: 8284134965919977705
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -1641,7 +1641,7 @@ Objects {
       Z: 1.86070585
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1677,7 +1677,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9943590785151642561
+  Id: 11168052480235731702
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -1694,7 +1694,7 @@ Objects {
       Z: 1.86070585
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1730,7 +1730,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10439857915539051648
+  Id: 14735687875351845119
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -1747,7 +1747,7 @@ Objects {
       Z: 1.86070585
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1783,7 +1783,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12126966897255298023
+  Id: 7324462159941985739
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -1800,7 +1800,7 @@ Objects {
       Z: 1.86070585
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1836,7 +1836,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13497588737584605877
+  Id: 6832533107181843860
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -1853,7 +1853,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -1895,7 +1895,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16559475995850078780
+  Id: 12573470850076214339
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -1912,7 +1912,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -1954,7 +1954,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7290213027682809666
+  Id: 9284424806074742917
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -1971,7 +1971,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2013,7 +2013,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16367553856201081411
+  Id: 8383771090466264540
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -2030,7 +2030,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2072,7 +2072,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2983513455123596883
+  Id: 13286563532270037167
   Name: "Counter - Corner"
   Transform {
     Location {
@@ -2089,7 +2089,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2131,7 +2131,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7227533918252010732
+  Id: 4113953186434028990
   Name: "Counter - Combined"
   Transform {
     Location {
@@ -2148,7 +2148,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2190,7 +2190,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16984563797054925642
+  Id: 2785810049205394792
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -2207,7 +2207,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2249,7 +2249,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11455296037017238896
+  Id: 12257502064829388481
   Name: "Counter - Combined"
   Transform {
     Location {
@@ -2266,7 +2266,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2308,7 +2308,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12362905224324282897
+  Id: 15179099965883240050
   Name: "Counter - Drawers"
   Transform {
     Location {
@@ -2325,7 +2325,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2367,7 +2367,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2008618639513275599
+  Id: 10331759194956058446
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -2384,7 +2384,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2426,7 +2426,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16792890322682466742
+  Id: 13010698563827313030
   Name: "Counter - Combined"
   Transform {
     Location {
@@ -2443,7 +2443,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2485,7 +2485,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17765351670571304573
+  Id: 17135795419941788413
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -2502,7 +2502,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2544,7 +2544,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14024670172831590329
+  Id: 9057796096236568049
   Name: "Counter - Combined"
   Transform {
     Location {
@@ -2561,7 +2561,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2603,7 +2603,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4899684579465215851
+  Id: 14037162268091307543
   Name: "Counter - Drawers"
   Transform {
     Location {
@@ -2620,7 +2620,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2662,7 +2662,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4911393640636469961
+  Id: 4453405918489351935
   Name: "Counter - Combined"
   Transform {
     Location {
@@ -2679,7 +2679,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2721,7 +2721,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1255622621518195334
+  Id: 15154602262875169090
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -2738,7 +2738,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2780,7 +2780,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6132149948107652548
+  Id: 783200800820069829
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -2797,7 +2797,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2839,7 +2839,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16066450042741436291
+  Id: 4243716077282793775
   Name: "Counter - Corner"
   Transform {
     Location {
@@ -2856,7 +2856,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2898,7 +2898,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8945147271088616360
+  Id: 9984119284885440588
   Name: "Counter - Combined"
   Transform {
     Location {
@@ -2915,7 +2915,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -2957,7 +2957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16481078181328935510
+  Id: 18268726523890217084
   Name: "Counter - Cabinet"
   Transform {
     Location {
@@ -2974,7 +2974,7 @@ Objects {
       Z: 1.15615046
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Prop_Top:id"
@@ -3016,7 +3016,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8064965370022892205
+  Id: 11194744916638360451
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3033,7 +3033,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3075,7 +3075,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11764879685838302475
+  Id: 9167405860188214182
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3092,7 +3092,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3134,7 +3134,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4554324263983598324
+  Id: 13456501072720406550
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3151,7 +3151,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3193,7 +3193,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13848089493669085285
+  Id: 1043904519412637160
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3210,7 +3210,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3252,7 +3252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17603989692971269456
+  Id: 8381806513146038277
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3269,7 +3269,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3311,7 +3311,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13509735393563441763
+  Id: 16565306373857016761
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3328,7 +3328,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3370,7 +3370,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17376141879178559030
+  Id: 15826856618254953498
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3387,7 +3387,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3429,7 +3429,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15583479095159107310
+  Id: 1865485250611707455
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3446,7 +3446,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3488,7 +3488,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14328743992007610761
+  Id: 7215521886615782448
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3505,7 +3505,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3547,7 +3547,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7261958321649018133
+  Id: 3604054045762113751
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3564,7 +3564,7 @@ Objects {
       Z: 1.37612224
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3606,7 +3606,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15048806204684358377
+  Id: 8620135638104643219
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3621,7 +3621,7 @@ Objects {
       Z: 2.36425877
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3657,7 +3657,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 339832807968611578
+  Id: 10140571451657337647
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3672,7 +3672,7 @@ Objects {
       Z: 2.36425877
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3708,7 +3708,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4606965435161677615
+  Id: 17981996305024949524
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3723,7 +3723,7 @@ Objects {
       Z: 2.36425877
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3759,7 +3759,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6650088910252167636
+  Id: 8403399506936540766
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3774,7 +3774,7 @@ Objects {
       Z: 2.36425877
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3810,7 +3810,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9470867879024078516
+  Id: 11588302783781484394
   Name: "Cabinet Topper"
   Transform {
     Location {
@@ -3825,7 +3825,7 @@ Objects {
       Z: 2.36425877
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3861,7 +3861,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12011832547074440429
+  Id: 12819964760742322207
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -3877,7 +3877,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3911,7 +3911,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5880539596645738606
+  Id: 6900812182952694451
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -3927,7 +3927,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3961,7 +3961,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1455986331009430573
+  Id: 8018172514095912475
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -3977,7 +3977,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4011,7 +4011,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7692078056619777750
+  Id: 8637911445031872355
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4027,7 +4027,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4061,7 +4061,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15584786679996605706
+  Id: 2599400263073754246
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4077,7 +4077,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4111,7 +4111,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8750819132343979474
+  Id: 14005267723553098967
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4127,7 +4127,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4161,7 +4161,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13752212066242438375
+  Id: 14422651959884763740
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4177,7 +4177,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4211,7 +4211,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14769828722682174741
+  Id: 15042650728130910578
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4227,7 +4227,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4261,7 +4261,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18253149124726673809
+  Id: 479228701783434201
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4277,7 +4277,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4311,7 +4311,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8017898525256481797
+  Id: 10649501060672873568
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4327,7 +4327,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4361,7 +4361,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7445049086056630684
+  Id: 16900180627568520507
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4377,7 +4377,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4411,7 +4411,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9039820867257501774
+  Id: 8195612221803644927
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4427,7 +4427,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4461,7 +4461,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18036708434162978475
+  Id: 13496124520058483060
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4477,7 +4477,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4511,7 +4511,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4311066526633621458
+  Id: 11445159203251721066
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4527,7 +4527,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4561,7 +4561,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 83093947082154420
+  Id: 15427129422255919062
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4577,7 +4577,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4611,7 +4611,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4819126352568409199
+  Id: 5746549630150926403
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4627,7 +4627,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4661,7 +4661,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15442116742337955691
+  Id: 3152408971733999078
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4677,7 +4677,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4711,7 +4711,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3016865315799875976
+  Id: 16213132687287923008
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4727,7 +4727,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4763,7 +4763,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17791481104228133948
+  Id: 5607457551449027261
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4779,7 +4779,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4813,7 +4813,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4802880445427577655
+  Id: 10149352592684606271
   Name: "Cabinet - Upper"
   Transform {
     Location {
@@ -4829,7 +4829,7 @@ Objects {
       Z: 0.679083884
     }
   }
-  ParentId: 1778090595044531306
+  ParentId: 9947446266538728233
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4863,7 +4863,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7739916760425834120
+  Id: 8646795062168913776
   Name: "Top_Floor"
   Transform {
     Location {
@@ -4879,91 +4879,91 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
-  ChildIds: 16803887585074361452
-  ChildIds: 911920816111898819
-  ChildIds: 16490670382814061126
-  ChildIds: 10734268879892068559
-  ChildIds: 6284813740961011907
-  ChildIds: 475775640485277341
-  ChildIds: 17306785139191711479
-  ChildIds: 17812673165841700774
-  ChildIds: 3329308233597650209
-  ChildIds: 483921840961266217
-  ChildIds: 13941674178310873737
-  ChildIds: 5668941042658043956
-  ChildIds: 8369150146679372876
-  ChildIds: 10786606145716426091
-  ChildIds: 6245209960530279921
-  ChildIds: 3299985735303351053
-  ChildIds: 10493805615391800627
-  ChildIds: 13235347348549841417
-  ChildIds: 4079435099266955105
-  ChildIds: 12315818148656714171
-  ChildIds: 3033996518255674057
-  ChildIds: 7290866426791213121
-  ChildIds: 7341137685695768046
-  ChildIds: 7719432317947594880
-  ChildIds: 10166544779375977238
-  ChildIds: 15802433676353031450
-  ChildIds: 3959015901959216795
-  ChildIds: 9217710873881782971
-  ChildIds: 8475432842055349643
-  ChildIds: 18111734972137724201
-  ChildIds: 4969537207084350107
-  ChildIds: 11379936671331334210
-  ChildIds: 7781440178541308780
-  ChildIds: 11594980309035978222
-  ChildIds: 13957580236102788831
-  ChildIds: 5738161854121752131
-  ChildIds: 353598570968148417
-  ChildIds: 17605270009641356741
-  ChildIds: 15597567819016722482
-  ChildIds: 4289801880328282207
-  ChildIds: 14300064112533021066
-  ChildIds: 15888063772042685347
-  ChildIds: 17727164751168472172
-  ChildIds: 15898992741794582431
-  ChildIds: 1891475771981170995
-  ChildIds: 3819644089070386849
-  ChildIds: 7924545784182103766
-  ChildIds: 3309883051183037337
-  ChildIds: 10265948792798983264
-  ChildIds: 2516665071585374030
-  ChildIds: 12480736430083079999
-  ChildIds: 8615828684906560921
-  ChildIds: 10656658774789187554
-  ChildIds: 3678034940165418724
-  ChildIds: 4311866020872836649
-  ChildIds: 11965290291111176152
-  ChildIds: 6731600344910456292
-  ChildIds: 6140747195936519982
-  ChildIds: 6796865487594140993
-  ChildIds: 5029963041459734358
-  ChildIds: 16973790487377354321
-  ChildIds: 1341588510999262575
-  ChildIds: 3370269655367449552
-  ChildIds: 4827614381534697697
-  ChildIds: 10555370402386462537
-  ChildIds: 11386531111373075644
-  ChildIds: 17802850392257359457
-  ChildIds: 15291641689130262137
-  ChildIds: 5548261136508824524
-  ChildIds: 14495204796124726207
-  ChildIds: 17691968405887094001
-  ChildIds: 4934889069906966791
-  ChildIds: 6058110662806521823
-  ChildIds: 17700873535451210174
-  ChildIds: 4977275748673263756
-  ChildIds: 8939069939317656755
-  ChildIds: 3735304082614435728
-  ChildIds: 16098160221279173048
-  ChildIds: 4197881721673798559
-  ChildIds: 12166099850044650091
-  ChildIds: 16976885086054714285
-  ChildIds: 1059280740121701530
-  ChildIds: 7862445216760040990
-  ChildIds: 7827158393473217410
+  ParentId: 9056253095873414601
+  ChildIds: 227371075928136281
+  ChildIds: 2824868855972084791
+  ChildIds: 4685755133400822919
+  ChildIds: 813567128942436828
+  ChildIds: 9466882738618663139
+  ChildIds: 15738985459226819078
+  ChildIds: 8041761018029342635
+  ChildIds: 9013770786540081672
+  ChildIds: 12378966659937356962
+  ChildIds: 16799007186083774265
+  ChildIds: 6252616928527414817
+  ChildIds: 778176701814440510
+  ChildIds: 4974257922217851781
+  ChildIds: 13873310006656132759
+  ChildIds: 2973572539797834068
+  ChildIds: 17782119855054156944
+  ChildIds: 8263300789732070066
+  ChildIds: 4029280637823646293
+  ChildIds: 6192235756381617108
+  ChildIds: 10926066791031387324
+  ChildIds: 12027893789596921100
+  ChildIds: 15468822053431797950
+  ChildIds: 3943517585152398045
+  ChildIds: 12167249104648087007
+  ChildIds: 16774438678081366037
+  ChildIds: 17416352247193699785
+  ChildIds: 12093427431806259310
+  ChildIds: 13579535472133521949
+  ChildIds: 1677559033383706287
+  ChildIds: 3768362648568302159
+  ChildIds: 16640576351874998716
+  ChildIds: 925359739487478706
+  ChildIds: 2583594585294818835
+  ChildIds: 11357625046632305199
+  ChildIds: 3100964095434853270
+  ChildIds: 15988380206454869369
+  ChildIds: 13423784006302800070
+  ChildIds: 6785687257388143428
+  ChildIds: 9081281716505534146
+  ChildIds: 18389233411706096187
+  ChildIds: 17332831410084407505
+  ChildIds: 3391319061964738363
+  ChildIds: 8261057789709796817
+  ChildIds: 16341050568408733886
+  ChildIds: 14813122144465116493
+  ChildIds: 14435113259949700475
+  ChildIds: 8766988349118297164
+  ChildIds: 14521894216971087059
+  ChildIds: 17584206591014563700
+  ChildIds: 13131166559486132421
+  ChildIds: 16204624785504880463
+  ChildIds: 4726820781946378350
+  ChildIds: 5525497226569508479
+  ChildIds: 9505079076054934725
+  ChildIds: 1309766294462904132
+  ChildIds: 15365387153105547068
+  ChildIds: 3283553614567983588
+  ChildIds: 15179055354255301422
+  ChildIds: 10874667361849915248
+  ChildIds: 15392296127873064794
+  ChildIds: 3253720408755444236
+  ChildIds: 11755662216491361314
+  ChildIds: 10036306502990605159
+  ChildIds: 3414571833587384113
+  ChildIds: 15079410958623339718
+  ChildIds: 15143281399464083919
+  ChildIds: 10130007851251598068
+  ChildIds: 13961733273286544585
+  ChildIds: 17443065194913494041
+  ChildIds: 13670830045555892304
+  ChildIds: 13434731660469122574
+  ChildIds: 3703655099197168794
+  ChildIds: 12826384603607375284
+  ChildIds: 5789038250206137372
+  ChildIds: 4265839645670610231
+  ChildIds: 3102129617678112277
+  ChildIds: 12153595448008166081
+  ChildIds: 11367619977455475710
+  ChildIds: 3836469342343047811
+  ChildIds: 10812011548939406277
+  ChildIds: 2657183949000789653
+  ChildIds: 708534644593443594
+  ChildIds: 17535452418394270660
+  ChildIds: 70057974356740451
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4982,7 +4982,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7827158393473217410
+  Id: 70057974356740451
   Name: "Craftsman Floor 01 4m x 4m"
   Transform {
     Location {
@@ -4998,7 +4998,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -5040,7 +5040,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7862445216760040990
+  Id: 17535452418394270660
   Name: "Craftsman Floor 01 4m x 4m"
   Transform {
     Location {
@@ -5056,7 +5056,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -5098,7 +5098,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1059280740121701530
+  Id: 708534644593443594
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5114,7 +5114,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5162,7 +5162,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16976885086054714285
+  Id: 2657183949000789653
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5178,7 +5178,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5226,7 +5226,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12166099850044650091
+  Id: 10812011548939406277
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5243,7 +5243,7 @@ Objects {
       Z: 0.985710502
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5291,7 +5291,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4197881721673798559
+  Id: 3836469342343047811
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5307,7 +5307,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5355,7 +5355,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16098160221279173048
+  Id: 11367619977455475710
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5372,7 +5372,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5420,7 +5420,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3735304082614435728
+  Id: 12153595448008166081
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5437,7 +5437,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5485,7 +5485,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8939069939317656755
+  Id: 3102129617678112277
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5501,7 +5501,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5549,7 +5549,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4977275748673263756
+  Id: 4265839645670610231
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5566,7 +5566,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5614,7 +5614,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17700873535451210174
+  Id: 5789038250206137372
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5631,7 +5631,7 @@ Objects {
       Z: 0.985710502
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5679,7 +5679,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6058110662806521823
+  Id: 12826384603607375284
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5695,7 +5695,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5743,7 +5743,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4934889069906966791
+  Id: 3703655099197168794
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5760,7 +5760,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5808,7 +5808,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17691968405887094001
+  Id: 13434731660469122574
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5824,7 +5824,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5872,7 +5872,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14495204796124726207
+  Id: 13670830045555892304
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5888,7 +5888,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -5936,7 +5936,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5548261136508824524
+  Id: 17443065194913494041
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -5952,7 +5952,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6000,7 +6000,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15291641689130262137
+  Id: 13961733273286544585
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6016,7 +6016,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6064,7 +6064,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17802850392257359457
+  Id: 10130007851251598068
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6080,7 +6080,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6128,7 +6128,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11386531111373075644
+  Id: 15143281399464083919
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6144,7 +6144,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6192,7 +6192,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10555370402386462537
+  Id: 15079410958623339718
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6208,7 +6208,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6256,7 +6256,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4827614381534697697
+  Id: 3414571833587384113
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6272,7 +6272,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6320,7 +6320,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3370269655367449552
+  Id: 10036306502990605159
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6336,7 +6336,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6384,7 +6384,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1341588510999262575
+  Id: 11755662216491361314
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6400,7 +6400,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6448,7 +6448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16973790487377354321
+  Id: 3253720408755444236
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6464,7 +6464,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6512,7 +6512,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5029963041459734358
+  Id: 15392296127873064794
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6528,7 +6528,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6576,7 +6576,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6796865487594140993
+  Id: 10874667361849915248
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6592,7 +6592,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6640,7 +6640,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6140747195936519982
+  Id: 15179055354255301422
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6656,7 +6656,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6704,7 +6704,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6731600344910456292
+  Id: 3283553614567983588
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6720,7 +6720,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6768,7 +6768,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11965290291111176152
+  Id: 15365387153105547068
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6784,7 +6784,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6832,7 +6832,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4311866020872836649
+  Id: 1309766294462904132
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6848,7 +6848,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6896,7 +6896,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3678034940165418724
+  Id: 9505079076054934725
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6912,7 +6912,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -6960,7 +6960,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10656658774789187554
+  Id: 5525497226569508479
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -6976,7 +6976,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7024,7 +7024,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8615828684906560921
+  Id: 4726820781946378350
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7040,7 +7040,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7088,7 +7088,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12480736430083079999
+  Id: 16204624785504880463
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7104,7 +7104,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7152,7 +7152,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2516665071585374030
+  Id: 13131166559486132421
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7168,7 +7168,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7216,7 +7216,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10265948792798983264
+  Id: 17584206591014563700
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7233,7 +7233,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7281,7 +7281,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3309883051183037337
+  Id: 14521894216971087059
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7298,7 +7298,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7346,7 +7346,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7924545784182103766
+  Id: 8766988349118297164
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7363,7 +7363,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7411,7 +7411,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3819644089070386849
+  Id: 14435113259949700475
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7427,7 +7427,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7475,7 +7475,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1891475771981170995
+  Id: 14813122144465116493
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7491,7 +7491,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7539,7 +7539,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15898992741794582431
+  Id: 16341050568408733886
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7555,7 +7555,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7603,7 +7603,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17727164751168472172
+  Id: 8261057789709796817
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7619,7 +7619,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7667,7 +7667,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15888063772042685347
+  Id: 3391319061964738363
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7683,7 +7683,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7731,7 +7731,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14300064112533021066
+  Id: 17332831410084407505
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7748,7 +7748,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7796,7 +7796,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4289801880328282207
+  Id: 18389233411706096187
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7813,7 +7813,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7861,7 +7861,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15597567819016722482
+  Id: 9081281716505534146
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7878,7 +7878,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7926,7 +7926,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17605270009641356741
+  Id: 6785687257388143428
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -7942,7 +7942,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -7990,7 +7990,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 353598570968148417
+  Id: 13423784006302800070
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -8006,7 +8006,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -8054,7 +8054,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5738161854121752131
+  Id: 15988380206454869369
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -8070,7 +8070,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -8118,7 +8118,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13957580236102788831
+  Id: 3100964095434853270
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -8134,7 +8134,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -8182,7 +8182,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11594980309035978222
+  Id: 11357625046632305199
   Name: "Fantasy Castle Bannister 01 - Straight"
   Transform {
     Location {
@@ -8198,7 +8198,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -8246,7 +8246,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7781440178541308780
+  Id: 2583594585294818835
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8262,7 +8262,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8310,7 +8310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11379936671331334210
+  Id: 925359739487478706
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8326,7 +8326,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8374,7 +8374,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4969537207084350107
+  Id: 16640576351874998716
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8390,7 +8390,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8438,7 +8438,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18111734972137724201
+  Id: 3768362648568302159
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8454,7 +8454,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8502,7 +8502,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8475432842055349643
+  Id: 1677559033383706287
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8518,7 +8518,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8566,7 +8566,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9217710873881782971
+  Id: 13579535472133521949
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8582,7 +8582,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8630,7 +8630,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3959015901959216795
+  Id: 12093427431806259310
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8646,7 +8646,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8694,7 +8694,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15802433676353031450
+  Id: 17416352247193699785
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8710,7 +8710,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8758,7 +8758,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10166544779375977238
+  Id: 16774438678081366037
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8774,7 +8774,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8822,7 +8822,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7719432317947594880
+  Id: 12167249104648087007
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8838,7 +8838,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8886,7 +8886,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7341137685695768046
+  Id: 3943517585152398045
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8902,7 +8902,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -8950,7 +8950,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7290866426791213121
+  Id: 15468822053431797950
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -8966,7 +8966,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9014,7 +9014,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3033996518255674057
+  Id: 12027893789596921100
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9030,7 +9030,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9078,7 +9078,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12315818148656714171
+  Id: 10926066791031387324
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9094,7 +9094,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9142,7 +9142,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4079435099266955105
+  Id: 6192235756381617108
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9158,7 +9158,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9206,7 +9206,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13235347348549841417
+  Id: 4029280637823646293
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9222,7 +9222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9270,7 +9270,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10493805615391800627
+  Id: 8263300789732070066
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9286,7 +9286,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9334,7 +9334,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3299985735303351053
+  Id: 17782119855054156944
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9350,7 +9350,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9398,7 +9398,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6245209960530279921
+  Id: 2973572539797834068
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9414,7 +9414,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9462,7 +9462,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10786606145716426091
+  Id: 13873310006656132759
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9478,7 +9478,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9520,7 +9520,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8369150146679372876
+  Id: 4974257922217851781
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9536,7 +9536,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9584,7 +9584,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5668941042658043956
+  Id: 778176701814440510
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9600,7 +9600,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9648,7 +9648,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13941674178310873737
+  Id: 6252616928527414817
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9664,7 +9664,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9706,7 +9706,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 483921840961266217
+  Id: 16799007186083774265
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9722,7 +9722,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9770,7 +9770,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3329308233597650209
+  Id: 12378966659937356962
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9786,7 +9786,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9834,7 +9834,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17812673165841700774
+  Id: 9013770786540081672
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9850,7 +9850,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9898,7 +9898,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17306785139191711479
+  Id: 8041761018029342635
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9914,7 +9914,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -9962,7 +9962,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 475775640485277341
+  Id: 15738985459226819078
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -9978,7 +9978,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -10026,7 +10026,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6284813740961011907
+  Id: 9466882738618663139
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -10042,7 +10042,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -10090,7 +10090,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10734268879892068559
+  Id: 813567128942436828
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -10106,7 +10106,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -10154,7 +10154,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16490670382814061126
+  Id: 4685755133400822919
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -10170,7 +10170,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
+  ParentId: 8646795062168913776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -10218,7 +10218,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 911920816111898819
+  Id: 2824868855972084791
   Name: "Craftsman Stairs 01 U Template"
   Transform {
     Location {
@@ -10235,14 +10235,14 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
-  ChildIds: 12488844310743353582
-  ChildIds: 5357186837761523150
-  ChildIds: 16142517041205583413
-  ChildIds: 11404709788370300780
-  ChildIds: 6023172601479947345
-  ChildIds: 11044842090838629662
-  ChildIds: 14814007362104101396
+  ParentId: 8646795062168913776
+  ChildIds: 6673704458878493523
+  ChildIds: 11407377024184235802
+  ChildIds: 16887973245080897906
+  ChildIds: 6180585677106294545
+  ChildIds: 12782263853312231691
+  ChildIds: 17653146640305600858
+  ChildIds: 10244104822758453278
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10261,7 +10261,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14814007362104101396
+  Id: 10244104822758453278
   Name: "Craftsman Stairs 01 U Inner Wall"
   Transform {
     Location {
@@ -10274,7 +10274,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 911920816111898819
+  ParentId: 2824868855972084791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -10316,7 +10316,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11044842090838629662
+  Id: 17653146640305600858
   Name: "Craftsman Stairs 01 Pillar"
   Transform {
     Location {
@@ -10332,7 +10332,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 911920816111898819
+  ParentId: 2824868855972084791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -10374,7 +10374,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6023172601479947345
+  Id: 12782263853312231691
   Name: "Craftsman Stairs 01 Pillar"
   Transform {
     Location {
@@ -10390,7 +10390,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 911920816111898819
+  ParentId: 2824868855972084791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -10432,7 +10432,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11404709788370300780
+  Id: 6180585677106294545
   Name: "Craftsman Stairs 01 Pillar"
   Transform {
     Location {
@@ -10447,7 +10447,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 911920816111898819
+  ParentId: 2824868855972084791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -10489,7 +10489,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16142517041205583413
+  Id: 16887973245080897906
   Name: "Craftsman Stairs 01 Pillar"
   Transform {
     Location {
@@ -10504,7 +10504,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 911920816111898819
+  ParentId: 2824868855972084791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -10546,7 +10546,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5357186837761523150
+  Id: 11407377024184235802
   Name: "Craftsman Stairs 01 U Outer Wall"
   Transform {
     Location {
@@ -10559,7 +10559,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 911920816111898819
+  ParentId: 2824868855972084791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -10607,7 +10607,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12488844310743353582
+  Id: 6673704458878493523
   Name: "Craftsman Stairs 01 U"
   Transform {
     Location {
@@ -10622,7 +10622,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 911920816111898819
+  ParentId: 2824868855972084791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -10676,7 +10676,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16803887585074361452
+  Id: 227371075928136281
   Name: "Craftsman Stairs 01 U Template"
   Transform {
     Location {
@@ -10693,14 +10693,14 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7739916760425834120
-  ChildIds: 9334451887906349362
-  ChildIds: 9410868475996064107
-  ChildIds: 13664138018751923930
-  ChildIds: 1873970837858298975
-  ChildIds: 5191540467794254168
-  ChildIds: 5216076770205049355
-  ChildIds: 176785306548127359
+  ParentId: 8646795062168913776
+  ChildIds: 9777621839640669912
+  ChildIds: 13366722151190839074
+  ChildIds: 10981420574821901910
+  ChildIds: 9876322519844712567
+  ChildIds: 13256775827270170422
+  ChildIds: 6474710966589821379
+  ChildIds: 9712791561118663861
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10719,7 +10719,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 176785306548127359
+  Id: 9712791561118663861
   Name: "Craftsman Stairs 01 U Inner Wall"
   Transform {
     Location {
@@ -10732,7 +10732,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16803887585074361452
+  ParentId: 227371075928136281
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -10774,7 +10774,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5216076770205049355
+  Id: 6474710966589821379
   Name: "Craftsman Stairs 01 Pillar"
   Transform {
     Location {
@@ -10790,7 +10790,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 16803887585074361452
+  ParentId: 227371075928136281
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -10832,7 +10832,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5191540467794254168
+  Id: 13256775827270170422
   Name: "Craftsman Stairs 01 Pillar"
   Transform {
     Location {
@@ -10848,7 +10848,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 16803887585074361452
+  ParentId: 227371075928136281
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -10890,7 +10890,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1873970837858298975
+  Id: 9876322519844712567
   Name: "Craftsman Stairs 01 Pillar"
   Transform {
     Location {
@@ -10905,7 +10905,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16803887585074361452
+  ParentId: 227371075928136281
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -10947,7 +10947,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13664138018751923930
+  Id: 10981420574821901910
   Name: "Craftsman Stairs 01 Pillar"
   Transform {
     Location {
@@ -10962,7 +10962,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16803887585074361452
+  ParentId: 227371075928136281
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -11004,7 +11004,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9410868475996064107
+  Id: 13366722151190839074
   Name: "Craftsman Stairs 01 U Outer Wall"
   Transform {
     Location {
@@ -11017,7 +11017,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16803887585074361452
+  ParentId: 227371075928136281
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -11065,7 +11065,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9334451887906349362
+  Id: 9777621839640669912
   Name: "Craftsman Stairs 01 U"
   Transform {
     Location {
@@ -11080,7 +11080,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16803887585074361452
+  ParentId: 227371075928136281
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -11134,7 +11134,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3797742000227566766
+  Id: 8039155254823111417
   Name: "Walls"
   Transform {
     Location {
@@ -11150,7 +11150,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4624173360597805377
+  ParentId: 9056253095873414601
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11170,7 +11170,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14662580167806111032
+  Id: 6145730200056740243
   Name: "Default Floor"
   Transform {
     Location {
@@ -11185,7 +11185,7 @@ Objects {
       Z: 1.25
     }
   }
-  ParentId: 4624173360597805377
+  ParentId: 9056253095873414601
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

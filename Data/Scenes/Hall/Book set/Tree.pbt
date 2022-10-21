@@ -1,7 +1,7 @@
 Name: "Book set"
-RootId: 11765692223398099138
+RootId: 13241095077184483119
 Objects {
-  Id: 17055099392439250179
+  Id: 6813097160260870642
   Name: "Book "
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11765692223398099138
+  ParentId: 13241095077184483119
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -40,7 +40,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14028123521434655950
+  Id: 11603321914805162572
   Name: "Book "
   Transform {
     Location {
@@ -59,7 +59,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11765692223398099138
+  ParentId: 13241095077184483119
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -79,7 +79,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10044836726495932688
+  Id: 3048434603201431402
   Name: "Book "
   Transform {
     Location {
@@ -96,7 +96,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11765692223398099138
+  ParentId: 13241095077184483119
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -116,7 +116,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11751233203072506934
+  Id: 16266475959531847196
   Name: "Book "
   Transform {
     Location {
@@ -133,7 +133,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11765692223398099138
+  ParentId: 13241095077184483119
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

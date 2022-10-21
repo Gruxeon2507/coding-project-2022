@@ -1,7 +1,7 @@
 Name: "Framework Documentation"
-RootId: 11375384729846829507
+RootId: 12518458690579053473
 Objects {
-  Id: 9580588784578285750
+  Id: 6147203875401566086
   Name: "DocumentationNPCKit"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11375384729846829507
+  ParentId: 12518458690579053473
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -35,7 +35,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7548696749456618248
+  Id: 7531309949106753164
   Name: "DocumentationFrameworkOverview"
   Transform {
     Location {
@@ -48,7 +48,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11375384729846829507
+  ParentId: 12518458690579053473
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

@@ -1,7 +1,7 @@
 Name: "AudioFolderEnter_5"
-RootId: 8764953092175451773
+RootId: 1787002455301056412
 Objects {
-  Id: 9206932411490267539
+  Id: 6860496906327593627
   Name: "\"Colossal Boss Fight\" Music Construction Kit (Layers) 01"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8764953092175451773
+  ParentId: 1787002455301056412
   UnregisteredParameters {
     Overrides {
       Name: "bp:Low String Melody Volume"

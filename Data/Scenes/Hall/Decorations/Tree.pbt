@@ -1,7 +1,7 @@
 Name: "Decorations"
-RootId: 2381900801974360505
+RootId: 3337924845135605039
 Objects {
-  Id: 10932480005646269052
+  Id: 16830956534029775025
   Name: "Board"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1.41861498
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37,7 +37,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4624068932972604041
+  Id: 14018427803681381514
   Name: "Pot"
   Transform {
     Location {
@@ -54,7 +54,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -74,7 +74,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13842149791704697246
+  Id: 15278269030040647143
   Name: "Pot"
   Transform {
     Location {
@@ -91,7 +91,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -111,7 +111,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1052266718439177057
+  Id: 2905906758351933954
   Name: "Pot"
   Transform {
     Location {
@@ -128,7 +128,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -148,7 +148,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12775566702749681354
+  Id: 17462010340644773369
   Name: "Pot"
   Transform {
     Location {
@@ -165,7 +165,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -185,7 +185,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14764713421729451659
+  Id: 18239424161084734428
   Name: "Pot"
   Transform {
     Location {
@@ -202,7 +202,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -222,7 +222,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17630307462654894973
+  Id: 12982564327464537448
   Name: "Pot"
   Transform {
     Location {
@@ -239,7 +239,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -259,7 +259,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9991830925325523849
+  Id: 15156183580520092470
   Name: "Pot"
   Transform {
     Location {
@@ -276,7 +276,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -296,7 +296,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17060976042762889705
+  Id: 9738672958537704628
   Name: "Pot"
   Transform {
     Location {
@@ -313,7 +313,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -333,7 +333,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12629447328451675450
+  Id: 18385856143204210017
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -350,7 +350,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -384,7 +384,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15534893528989731934
+  Id: 6105199089398302179
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -401,7 +401,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -435,7 +435,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17408594104397978
+  Id: 7467480518654188804
   Name: "Fern 02"
   Transform {
     Location {
@@ -452,7 +452,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -486,7 +486,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2759911637520837557
+  Id: 14389532736962495114
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -503,7 +503,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -537,7 +537,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6727755421907098384
+  Id: 460157336304242221
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -554,7 +554,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -588,7 +588,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3802243550724813643
+  Id: 1415278492417745117
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -605,7 +605,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -647,7 +647,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16954225080954019453
+  Id: 13010775913716572439
   Name: "Fern 02"
   Transform {
     Location {
@@ -664,7 +664,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -698,7 +698,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6273256722795030473
+  Id: 14830923754097398861
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -715,7 +715,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -749,7 +749,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2950586506581827072
+  Id: 10357037231324586817
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -766,7 +766,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -808,7 +808,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15894886847083917755
+  Id: 11560344881676370241
   Name: "Fern 02"
   Transform {
     Location {
@@ -825,7 +825,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -859,7 +859,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5900039082753774702
+  Id: 2118166528928525030
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -876,7 +876,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -910,7 +910,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 393562783787938360
+  Id: 5474417545965207491
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -927,7 +927,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -961,7 +961,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2060818261224767669
+  Id: 4114932151275391642
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -978,7 +978,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1012,7 +1012,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 30094186596248493
+  Id: 15298554095872496508
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -1029,7 +1029,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1071,7 +1071,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10488092329784097408
+  Id: 6774406321819603558
   Name: "Fern 01"
   Transform {
     Location {
@@ -1088,7 +1088,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1122,7 +1122,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10195081663936536201
+  Id: 7824279561081460506
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -1139,7 +1139,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1181,7 +1181,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4627399101240013565
+  Id: 6502531373049595255
   Name: "Fern 01"
   Transform {
     Location {
@@ -1198,7 +1198,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1232,7 +1232,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10319490840120661644
+  Id: 11196361756343089751
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -1249,7 +1249,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1283,7 +1283,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13125677942369569057
+  Id: 12735380669305111302
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -1300,7 +1300,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1342,7 +1342,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1586393788011287334
+  Id: 7014346049449288562
   Name: "Fern 01"
   Transform {
     Location {
@@ -1359,7 +1359,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1393,7 +1393,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4459768825836244405
+  Id: 7828133378380468231
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -1410,7 +1410,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1444,7 +1444,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14802161955483784670
+  Id: 1873321565598786551
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -1461,7 +1461,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1495,7 +1495,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10382695608673013877
+  Id: 10189523917569079665
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -1512,7 +1512,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1554,7 +1554,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2578784289895977694
+  Id: 11796038190294777791
   Name: "Fern 02"
   Transform {
     Location {
@@ -1571,7 +1571,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1605,7 +1605,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15369471787780233170
+  Id: 13111151318084898747
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -1622,7 +1622,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1656,7 +1656,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14297804334128005855
+  Id: 17440559374157273813
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -1673,7 +1673,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1707,7 +1707,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1581675717893231364
+  Id: 663960962673525462
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -1724,7 +1724,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1758,7 +1758,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8341778012264200826
+  Id: 6935609179572503490
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -1775,7 +1775,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1817,7 +1817,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14671020159386612635
+  Id: 17634338352141368093
   Name: "Fern 01"
   Transform {
     Location {
@@ -1834,7 +1834,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1868,7 +1868,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5998529958092530562
+  Id: 15201934414491009459
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -1885,7 +1885,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1927,7 +1927,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3458810606413247637
+  Id: 10741569277888955484
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -1943,7 +1943,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1977,7 +1977,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 334205279592657231
+  Id: 6830930636367752405
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -1993,7 +1993,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2027,7 +2027,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4489607820000910247
+  Id: 14996074691943674298
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2043,7 +2043,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2077,7 +2077,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3098099752522721717
+  Id: 266759858111038410
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2093,7 +2093,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2127,7 +2127,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17621794449757324250
+  Id: 11026907067500154409
   Name: "Manticore Logo"
   Transform {
     Location {
@@ -2144,7 +2144,7 @@ Objects {
       Z: 0.369505554
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2186,7 +2186,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5759849476153628522
+  Id: 14754334470065281660
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2203,7 +2203,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2237,7 +2237,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2957782057478863493
+  Id: 14180944564957323988
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2254,7 +2254,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2288,7 +2288,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6050074570987500915
+  Id: 7617312422811760086
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2305,7 +2305,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2339,7 +2339,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12820742641673600333
+  Id: 15165341364654634994
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2356,7 +2356,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2390,7 +2390,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12135645598220852652
+  Id: 13194387167739806474
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2407,7 +2407,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2441,7 +2441,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7467789701260152152
+  Id: 1430558726684271725
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2458,7 +2458,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2492,7 +2492,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10069416024485097849
+  Id: 8831686458356343939
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2509,7 +2509,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2543,7 +2543,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 72946305603483825
+  Id: 11949186999458018609
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2559,7 +2559,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2593,7 +2593,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2203710933923242094
+  Id: 12708078413208310798
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2609,7 +2609,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2643,7 +2643,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7925504914206634250
+  Id: 1988978854252492609
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2659,7 +2659,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2693,7 +2693,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13937481835640070391
+  Id: 16622119164364930255
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2709,7 +2709,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2743,7 +2743,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6257330476056132568
+  Id: 15866568294291435943
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -2759,7 +2759,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2793,7 +2793,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16171323139074994599
+  Id: 14544607514428860746
   Name: "Long Banner Manticore"
   Transform {
     Location {
@@ -2810,7 +2810,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2844,7 +2844,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7860314064335998059
+  Id: 4697590829776964575
   Name: "Long Banner Manticore"
   Transform {
     Location {
@@ -2861,7 +2861,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2895,7 +2895,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16844392941882935435
+  Id: 88198079817778982
   Name: "Long Banner Manticore"
   Transform {
     Location {
@@ -2911,7 +2911,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2945,7 +2945,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6912190171550812989
+  Id: 5877459192057439755
   Name: "Long Banner Manticore"
   Transform {
     Location {
@@ -2961,7 +2961,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2995,7 +2995,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10455529085370173814
+  Id: 7572853516745313770
   Name: "Shield 01"
   Transform {
     Location {
@@ -3012,7 +3012,7 @@ Objects {
       Z: 2.11114573
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3046,7 +3046,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17756029191228688509
+  Id: 2351550632802106068
   Name: "Shield 01"
   Transform {
     Location {
@@ -3063,7 +3063,7 @@ Objects {
       Z: 2.11114573
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3097,7 +3097,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8247054836591861734
+  Id: 17557217599949069083
   Name: "Shield 01"
   Transform {
     Location {
@@ -3114,7 +3114,7 @@ Objects {
       Z: 2.11114573
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3148,7 +3148,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3985488515173862700
+  Id: 5054903259560029403
   Name: "Long Banner Manticore"
   Transform {
     Location {
@@ -3164,7 +3164,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3198,7 +3198,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12321440979975290708
+  Id: 9449661116492269914
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3214,7 +3214,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3268,7 +3268,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15428539660390739575
+  Id: 13862076437482422608
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3284,7 +3284,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3338,7 +3338,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6661670494786760553
+  Id: 464819477071109894
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3354,7 +3354,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3408,7 +3408,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12617427075386106417
+  Id: 3011748556224585620
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3424,7 +3424,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3478,7 +3478,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5475617976302018787
+  Id: 12107487345072718974
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3494,7 +3494,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3548,7 +3548,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10485835197949381457
+  Id: 2129023725320507615
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3564,7 +3564,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3618,7 +3618,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9465929132334420410
+  Id: 4580774709371563525
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3634,7 +3634,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3688,7 +3688,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4796740513148931506
+  Id: 2733074586431312564
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3704,7 +3704,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3758,7 +3758,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12647164460164576639
+  Id: 15214237649456347163
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3774,7 +3774,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3828,7 +3828,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15561048675013956264
+  Id: 15399110405435144511
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -3844,7 +3844,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -3898,7 +3898,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11955410169727441421
+  Id: 11728333630292306373
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -3914,7 +3914,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3948,7 +3948,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11087011344630533533
+  Id: 8560011876847979417
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -3964,7 +3964,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3998,7 +3998,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11732792132512723519
+  Id: 10895738806421203421
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4014,7 +4014,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4068,7 +4068,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8773629106349922366
+  Id: 8292453838863004838
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4084,7 +4084,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4138,7 +4138,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 51366676337619221
+  Id: 5852791133165283532
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4154,7 +4154,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4208,7 +4208,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14136254801230507164
+  Id: 7558285449154574347
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4224,7 +4224,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4278,7 +4278,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15126602880556635765
+  Id: 10252702537111154137
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4294,7 +4294,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4348,7 +4348,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14926904430058663118
+  Id: 12468178629787795328
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4364,7 +4364,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4418,7 +4418,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2879385306920238552
+  Id: 7509109459343741801
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4434,7 +4434,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4488,7 +4488,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11295182846783129461
+  Id: 1466371870416721140
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4504,7 +4504,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4558,7 +4558,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5026025899610407133
+  Id: 12460192485203290644
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4574,7 +4574,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4628,7 +4628,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1666973559476326481
+  Id: 17946953680365107230
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4644,7 +4644,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4698,7 +4698,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11362134910813580460
+  Id: 14882008241364223111
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -4714,7 +4714,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -4768,7 +4768,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16889418030750077219
+  Id: 11166615410402903819
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -4784,7 +4784,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4818,7 +4818,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18347657699590514477
+  Id: 3984667924508872367
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -4834,7 +4834,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4868,7 +4868,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11427301115778188734
+  Id: 810783401169398806
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -4884,7 +4884,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4918,7 +4918,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8163330245734862192
+  Id: 17683103923180193065
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -4934,7 +4934,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4968,7 +4968,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6191066031008894624
+  Id: 13229213159027834508
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -4984,7 +4984,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5018,7 +5018,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14911543604278414899
+  Id: 14705817442911833554
   Name: "Short Banner Fleur-de-lis"
   Transform {
     Location {
@@ -5034,7 +5034,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5068,7 +5068,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3912563522021729217
+  Id: 13307498737409899979
   Name: "Shield 01"
   Transform {
     Location {
@@ -5085,7 +5085,7 @@ Objects {
       Z: 2.11114573
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5119,7 +5119,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5347464200443451370
+  Id: 10962744004792356470
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -5135,7 +5135,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5169,7 +5169,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8437045814940197970
+  Id: 12446633990118388649
   Name: "Long Banner Manticore"
   Transform {
     Location {
@@ -5185,7 +5185,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5219,7 +5219,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5655795223260540298
+  Id: 588976746018375716
   Name: "Manticore Logo"
   Transform {
     Location {
@@ -5236,7 +5236,7 @@ Objects {
       Z: 0.369505554
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5278,7 +5278,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14325566482399938727
+  Id: 13656591967302552348
   Name: "Fantasy Crossbow Bolt 01"
   Transform {
     Location {
@@ -5294,7 +5294,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -5348,7 +5348,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4659762607351238569
+  Id: 5583124589395462530
   Name: "Fern 01"
   Transform {
     Location {
@@ -5364,7 +5364,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5398,7 +5398,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2483164055711187819
+  Id: 15438894478527761964
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -5414,7 +5414,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5448,7 +5448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1044439059894882579
+  Id: 9966049283559358185
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -5464,7 +5464,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5506,7 +5506,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5289699726921443884
+  Id: 6368647359118136119
   Name: "Fern 01"
   Transform {
     Location {
@@ -5522,7 +5522,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5556,7 +5556,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12594943262657233844
+  Id: 13172810162598156125
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -5572,7 +5572,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5606,7 +5606,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3652676957744637332
+  Id: 6032027462856749315
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -5622,7 +5622,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5656,7 +5656,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15763436854200977339
+  Id: 12007661894714907309
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -5672,7 +5672,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5714,7 +5714,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 497222466009398658
+  Id: 14845807940709032050
   Name: "Fern 02"
   Transform {
     Location {
@@ -5730,7 +5730,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5764,7 +5764,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13499640418424316307
+  Id: 9409713042778845370
   Name: "Fern 02"
   Transform {
     Location {
@@ -5780,7 +5780,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5814,7 +5814,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9113276095306315791
+  Id: 11788199166870011482
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -5830,7 +5830,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5864,7 +5864,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3554997163910947153
+  Id: 6240112255829311346
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -5880,7 +5880,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5914,7 +5914,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13014167688525611926
+  Id: 7394733290271744881
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -5930,7 +5930,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5964,7 +5964,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11457250520526309043
+  Id: 1583513632262203137
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -5980,7 +5980,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6014,7 +6014,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18166417987430819126
+  Id: 17449051805991051771
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -6030,7 +6030,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6064,7 +6064,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3953729187037694230
+  Id: 4956188449655019951
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -6080,7 +6080,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6122,7 +6122,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15835049189493444564
+  Id: 4350594445737292598
   Name: "Fern 01"
   Transform {
     Location {
@@ -6138,7 +6138,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6172,7 +6172,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9013663128586870311
+  Id: 11358261194266007843
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -6188,7 +6188,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6230,7 +6230,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13758339741120264649
+  Id: 7393761724190190647
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -6246,7 +6246,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6280,7 +6280,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15645646304972565231
+  Id: 4505466748638885235
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -6296,7 +6296,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6338,7 +6338,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18169344780427221598
+  Id: 17679330630485399438
   Name: "Fern 02"
   Transform {
     Location {
@@ -6354,7 +6354,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6388,7 +6388,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11652498686545837803
+  Id: 7232957684234760795
   Name: "Fern 02"
   Transform {
     Location {
@@ -6404,7 +6404,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6438,7 +6438,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10942954183936412498
+  Id: 6625177183041307405
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -6454,7 +6454,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6488,7 +6488,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6768412489763726209
+  Id: 6946356781444787742
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -6504,7 +6504,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6538,7 +6538,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8148516619387620931
+  Id: 4542726769709603671
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -6554,7 +6554,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6588,7 +6588,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6954695261750156885
+  Id: 18278185569671338776
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -6604,7 +6604,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6638,7 +6638,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 632114414519166219
+  Id: 5745902956706644570
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -6654,7 +6654,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6688,7 +6688,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11477342249792351681
+  Id: 2280615040194053062
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -6704,7 +6704,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6746,7 +6746,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2573041653171213452
+  Id: 17194295935802561022
   Name: "Fern 01"
   Transform {
     Location {
@@ -6762,7 +6762,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6796,7 +6796,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10908377490309840643
+  Id: 10919371045514910665
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -6812,7 +6812,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6854,7 +6854,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11381837381766873016
+  Id: 9130210430672323808
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -6870,7 +6870,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6904,7 +6904,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13890445572745432562
+  Id: 15310078437835069257
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -6920,7 +6920,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6962,7 +6962,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2010661398485701870
+  Id: 2967800749933881125
   Name: "Weapon Rack_3"
   Transform {
     Location {
@@ -6979,7 +6979,7 @@ Objects {
       Z: 1.27907455
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6999,7 +6999,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16801478279533609009
+  Id: 8105404201265853451
   Name: "Weapon Rack_2"
   Transform {
     Location {
@@ -7016,7 +7016,7 @@ Objects {
       Z: 1.27907455
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7036,7 +7036,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 883307260417996868
+  Id: 13671472466095835257
   Name: "Weapon Rack_1"
   Transform {
     Location {
@@ -7053,7 +7053,7 @@ Objects {
       Z: 1.27907455
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7073,7 +7073,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9097122902103389952
+  Id: 3446759345076302179
   Name: "Carpet Tile 01"
   Transform {
     Location {
@@ -7089,7 +7089,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7123,7 +7123,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5087509587954702873
+  Id: 17066872325407058145
   Name: "Carpet Tile 01"
   Transform {
     Location {
@@ -7139,7 +7139,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7173,7 +7173,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1796052272453971472
+  Id: 8478418949793619320
   Name: "Carpet Tile 01"
   Transform {
     Location {
@@ -7189,7 +7189,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7223,7 +7223,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13745202496046974941
+  Id: 15822003665382058243
   Name: "Carpet Tile 01"
   Transform {
     Location {
@@ -7239,7 +7239,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7273,7 +7273,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12676373050868052309
+  Id: 3585717571716508849
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -7290,7 +7290,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7324,7 +7324,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10413869330894655198
+  Id: 17308042906991512708
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -7340,7 +7340,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7374,7 +7374,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16572172276196737422
+  Id: 17696462500194017756
   Name: "Cone - Truncated Hollow Wide"
   Transform {
     Location {
@@ -7390,7 +7390,7 @@ Objects {
       Z: 1.74851787
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7432,7 +7432,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17488829533897930316
+  Id: 17158601594656470941
   Name: "Fern 01"
   Transform {
     Location {
@@ -7448,7 +7448,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7482,7 +7482,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7958700899352842494
+  Id: 6313555341412363736
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -7498,7 +7498,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7532,7 +7532,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13157609476786261528
+  Id: 10665953320157489345
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -7548,7 +7548,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7590,7 +7590,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13769211977960789960
+  Id: 4727867842513362765
   Name: "Fern 01"
   Transform {
     Location {
@@ -7606,7 +7606,7 @@ Objects {
       Z: 0.671847701
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7640,7 +7640,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4009281354416572733
+  Id: 6585467985847899142
   Name: "Fern 02"
   Transform {
     Location {
@@ -7656,7 +7656,7 @@ Objects {
       Z: 0.627909303
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7690,7 +7690,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4796170333550825299
+  Id: 14250458413251946284
   Name: "Flower Bellflower 01"
   Transform {
     Location {
@@ -7706,7 +7706,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7740,7 +7740,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1193541909077566883
+  Id: 6819271070290534282
   Name: "Flower Wild Lily 02"
   Transform {
     Location {
@@ -7756,7 +7756,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7790,7 +7790,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13055960241913334858
+  Id: 4141009695217961601
   Name: "Ellipsoid - Truncated Hollow"
   Transform {
     Location {
@@ -7806,7 +7806,7 @@ Objects {
       Z: 0.649038553
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7848,7 +7848,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6107922809947171814
+  Id: 5584398993180620325
   Name: "Open Book"
   Transform {
     Location {
@@ -7864,11 +7864,11 @@ Objects {
       Z: 0.0583396927
     }
   }
-  ParentId: 2381900801974360505
-  ChildIds: 2775930485048370623
-  ChildIds: 10590612918549738857
-  ChildIds: 1143575714338167484
-  ChildIds: 16271953914099365643
+  ParentId: 3337924845135605039
+  ChildIds: 17872164675994885497
+  ChildIds: 13530318050751198304
+  ChildIds: 12566259895898419924
+  ChildIds: 9269435977233557359
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7887,7 +7887,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16271953914099365643
+  Id: 9269435977233557359
   Name: "Damage"
   Transform {
     Location {
@@ -7903,11 +7903,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6107922809947171814
-  ChildIds: 12312434058924871158
-  ChildIds: 12984355242081301097
-  ChildIds: 1485231161856307847
-  ChildIds: 6751438060479134939
+  ParentId: 5584398993180620325
+  ChildIds: 13345691186827005154
+  ChildIds: 852296546246852814
+  ChildIds: 7066684990390492633
+  ChildIds: 16865379179419027041
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -7926,7 +7926,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6751438060479134939
+  Id: 16865379179419027041
   Name: "Decal Stains Top 01"
   Transform {
     Location {
@@ -7945,7 +7945,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 16271953914099365643
+  ParentId: 9269435977233557359
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -7984,7 +7984,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1485231161856307847
+  Id: 7066684990390492633
   Name: "Decal Stains Top 01"
   Transform {
     Location {
@@ -8003,7 +8003,7 @@ Objects {
       Z: 0.1
     }
   }
-  ParentId: 16271953914099365643
+  ParentId: 9269435977233557359
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -8042,7 +8042,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12984355242081301097
+  Id: 852296546246852814
   Name: "Decal Stains Round 01"
   Transform {
     Location {
@@ -8058,7 +8058,7 @@ Objects {
       Z: 0.247019306
     }
   }
-  ParentId: 16271953914099365643
+  ParentId: 9269435977233557359
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8086,7 +8086,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12312434058924871158
+  Id: 13345691186827005154
   Name: "Liquid Decal"
   Transform {
     Location {
@@ -8104,7 +8104,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 16271953914099365643
+  ParentId: 9269435977233557359
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -8140,7 +8140,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1143575714338167484
+  Id: 12566259895898419924
   Name: "Spine"
   Transform {
     Location {
@@ -8156,7 +8156,7 @@ Objects {
       Z: 11
     }
   }
-  ParentId: 6107922809947171814
+  ParentId: 5584398993180620325
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8211,7 +8211,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10590612918549738857
+  Id: 13530318050751198304
   Name: "Pages"
   Transform {
     Location {
@@ -8224,22 +8224,22 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6107922809947171814
-  ChildIds: 3802884519910851486
-  ChildIds: 15697980624448010296
-  ChildIds: 9897482249117812097
-  ChildIds: 11358805139478635875
-  ChildIds: 4536484968574118672
-  ChildIds: 17924913561235097316
-  ChildIds: 10590767312544282990
-  ChildIds: 12505164641613334891
-  ChildIds: 7960680605786820966
-  ChildIds: 38654024806872145
-  ChildIds: 1290368575751516449
-  ChildIds: 14528714005479362895
-  ChildIds: 8016571517468289551
-  ChildIds: 11844842081105248090
-  ChildIds: 12602006044024358509
+  ParentId: 5584398993180620325
+  ChildIds: 18256835287303113951
+  ChildIds: 13272008196267146867
+  ChildIds: 15817271451333222273
+  ChildIds: 13462432682266199749
+  ChildIds: 14862899344656781507
+  ChildIds: 970211344380345075
+  ChildIds: 13121642744418220615
+  ChildIds: 6299642295301475814
+  ChildIds: 8952763479538628225
+  ChildIds: 4336501493213293994
+  ChildIds: 17678951049983158754
+  ChildIds: 15626835916055395750
+  ChildIds: 7697286757045514890
+  ChildIds: 17599323848454739946
+  ChildIds: 12122101333831679213
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8258,7 +8258,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12602006044024358509
+  Id: 12122101333831679213
   Name: "Page1"
   Transform {
     Location {
@@ -8276,7 +8276,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8332,7 +8332,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11844842081105248090
+  Id: 17599323848454739946
   Name: "Page2"
   Transform {
     Location {
@@ -8350,7 +8350,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8406,7 +8406,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8016571517468289551
+  Id: 7697286757045514890
   Name: "Page3"
   Transform {
     Location {
@@ -8424,7 +8424,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8480,7 +8480,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14528714005479362895
+  Id: 15626835916055395750
   Name: "Page4"
   Transform {
     Location {
@@ -8498,7 +8498,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8554,7 +8554,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1290368575751516449
+  Id: 17678951049983158754
   Name: "Page5"
   Transform {
     Location {
@@ -8572,7 +8572,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8628,7 +8628,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 38654024806872145
+  Id: 4336501493213293994
   Name: "Page6"
   Transform {
     Location {
@@ -8646,7 +8646,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8702,7 +8702,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7960680605786820966
+  Id: 8952763479538628225
   Name: "Page7"
   Transform {
     Location {
@@ -8720,7 +8720,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8776,7 +8776,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12505164641613334891
+  Id: 6299642295301475814
   Name: "Page8"
   Transform {
     Location {
@@ -8794,7 +8794,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8850,7 +8850,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10590767312544282990
+  Id: 13121642744418220615
   Name: "Page9"
   Transform {
     Location {
@@ -8868,7 +8868,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8924,7 +8924,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17924913561235097316
+  Id: 970211344380345075
   Name: "Page10"
   Transform {
     Location {
@@ -8942,7 +8942,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -8998,7 +8998,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4536484968574118672
+  Id: 14862899344656781507
   Name: "Page11"
   Transform {
     Location {
@@ -9016,7 +9016,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -9072,7 +9072,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11358805139478635875
+  Id: 13462432682266199749
   Name: "Page12"
   Transform {
     Location {
@@ -9090,7 +9090,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -9146,7 +9146,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9897482249117812097
+  Id: 15817271451333222273
   Name: "Page13"
   Transform {
     Location {
@@ -9164,7 +9164,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -9220,7 +9220,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15697980624448010296
+  Id: 13272008196267146867
   Name: "Page14"
   Transform {
     Location {
@@ -9238,7 +9238,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 10590612918549738857
+  ParentId: 13530318050751198304
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -9294,7 +9294,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3802884519910851486
+  Id: 18256835287303113951
   Name: "Page Binding"
   Transform {
     Location {
@@ -9307,11 +9307,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10590612918549738857
-  ChildIds: 6805081424370168437
-  ChildIds: 14758329118126550943
-  ChildIds: 284988634940974118
-  ChildIds: 6958319107336698358
+  ParentId: 13530318050751198304
+  ChildIds: 7954489857179771811
+  ChildIds: 14662500171390151963
+  ChildIds: 15368701062963922027
+  ChildIds: 17967578650584053152
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9330,7 +9330,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6958319107336698358
+  Id: 17967578650584053152
   Name: "Page_Binding4"
   Transform {
     Location {
@@ -9348,7 +9348,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 3802884519910851486
+  ParentId: 18256835287303113951
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9402,7 +9402,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 284988634940974118
+  Id: 15368701062963922027
   Name: "Page_Binding3"
   Transform {
     Location {
@@ -9420,7 +9420,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 3802884519910851486
+  ParentId: 18256835287303113951
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9466,7 +9466,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14758329118126550943
+  Id: 14662500171390151963
   Name: "Page_Binding2"
   Transform {
     Location {
@@ -9484,7 +9484,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 3802884519910851486
+  ParentId: 18256835287303113951
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9530,7 +9530,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6805081424370168437
+  Id: 7954489857179771811
   Name: "Page_Binding1"
   Transform {
     Location {
@@ -9548,7 +9548,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 3802884519910851486
+  ParentId: 18256835287303113951
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9594,7 +9594,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2775930485048370623
+  Id: 17872164675994885497
   Name: "Cover"
   Transform {
     Location {
@@ -9610,11 +9610,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6107922809947171814
-  ChildIds: 5535949486252865247
-  ChildIds: 1353434749574713271
-  ChildIds: 8917177811207781122
-  ChildIds: 7177240121175337087
+  ParentId: 5584398993180620325
+  ChildIds: 12716330316070671632
+  ChildIds: 6932075051537002683
+  ChildIds: 9859626395307826689
+  ChildIds: 7069498235508139097
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9633,7 +9633,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7177240121175337087
+  Id: 7069498235508139097
   Name: "CoverCorners"
   Transform {
     Location {
@@ -9648,11 +9648,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2775930485048370623
-  ChildIds: 13578480354573135719
-  ChildIds: 14976949508464658156
-  ChildIds: 12467962428018194601
-  ChildIds: 15859074615830676214
+  ParentId: 17872164675994885497
+  ChildIds: 9375730101094007935
+  ChildIds: 9722171293804204258
+  ChildIds: 5696521991523533372
+  ChildIds: 1644640564349160521
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9671,7 +9671,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15859074615830676214
+  Id: 1644640564349160521
   Name: "Cover_Corner4"
   Transform {
     Location {
@@ -9690,7 +9690,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 7177240121175337087
+  ParentId: 7069498235508139097
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9736,7 +9736,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12467962428018194601
+  Id: 5696521991523533372
   Name: "Cover_Corner3"
   Transform {
     Location {
@@ -9755,7 +9755,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 7177240121175337087
+  ParentId: 7069498235508139097
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9801,7 +9801,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14976949508464658156
+  Id: 9722171293804204258
   Name: "Cover_Corner2"
   Transform {
     Location {
@@ -9818,7 +9818,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 7177240121175337087
+  ParentId: 7069498235508139097
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9864,7 +9864,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13578480354573135719
+  Id: 9375730101094007935
   Name: "Cover_Corner1"
   Transform {
     Location {
@@ -9882,7 +9882,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 7177240121175337087
+  ParentId: 7069498235508139097
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9928,7 +9928,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8917177811207781122
+  Id: 9859626395307826689
   Name: "Cover Detail"
   Transform {
     Location {
@@ -9944,11 +9944,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2775930485048370623
-  ChildIds: 6431879291690318780
-  ChildIds: 16300834095832281626
-  ChildIds: 7177849968760163408
-  ChildIds: 13221910123792876674
+  ParentId: 17872164675994885497
+  ChildIds: 18104827580382010374
+  ChildIds: 4922230048585236180
+  ChildIds: 9328809759736787595
+  ChildIds: 10186500619711172281
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9967,7 +9967,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13221910123792876674
+  Id: 10186500619711172281
   Name: "Cover_InnerDetail"
   Transform {
     Location {
@@ -9984,7 +9984,7 @@ Objects {
       Z: 0.200000226
     }
   }
-  ParentId: 8917177811207781122
+  ParentId: 9859626395307826689
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10039,7 +10039,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7177849968760163408
+  Id: 9328809759736787595
   Name: "Cover_InnerDetail"
   Transform {
     Location {
@@ -10056,7 +10056,7 @@ Objects {
       Z: 0.200000226
     }
   }
-  ParentId: 8917177811207781122
+  ParentId: 9859626395307826689
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10111,7 +10111,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16300834095832281626
+  Id: 4922230048585236180
   Name: "Cover_Detail1"
   Transform {
     Location {
@@ -10128,7 +10128,7 @@ Objects {
       Z: 0.100000083
     }
   }
-  ParentId: 8917177811207781122
+  ParentId: 9859626395307826689
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10174,7 +10174,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6431879291690318780
+  Id: 18104827580382010374
   Name: "Cover_Detail2"
   Transform {
     Location {
@@ -10191,7 +10191,7 @@ Objects {
       Z: 0.100000083
     }
   }
-  ParentId: 8917177811207781122
+  ParentId: 9859626395307826689
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10237,7 +10237,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1353434749574713271
+  Id: 6932075051537002683
   Name: "Cover_Back"
   Transform {
     Location {
@@ -10254,7 +10254,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 2775930485048370623
+  ParentId: 17872164675994885497
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10300,7 +10300,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5535949486252865247
+  Id: 12716330316070671632
   Name: "Cover_Front"
   Transform {
     Location {
@@ -10317,7 +10317,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 2775930485048370623
+  ParentId: 17872164675994885497
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10363,7 +10363,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6742011827845066784
+  Id: 4216564144845787109
   Name: "Open Book"
   Transform {
     Location {
@@ -10379,11 +10379,11 @@ Objects {
       Z: 0.0583396927
     }
   }
-  ParentId: 2381900801974360505
-  ChildIds: 6606734342016565606
-  ChildIds: 17845452697691309207
-  ChildIds: 8395585961398647637
-  ChildIds: 8185364506877839251
+  ParentId: 3337924845135605039
+  ChildIds: 10881929977866787426
+  ChildIds: 10722175560823069600
+  ChildIds: 3775886072323629163
+  ChildIds: 108132077714001009
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10402,7 +10402,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8185364506877839251
+  Id: 108132077714001009
   Name: "Damage"
   Transform {
     Location {
@@ -10418,11 +10418,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6742011827845066784
-  ChildIds: 16040343064977329779
-  ChildIds: 1262736565740493533
-  ChildIds: 17089240337260535837
-  ChildIds: 14411008757284545170
+  ParentId: 4216564144845787109
+  ChildIds: 11437032602429995237
+  ChildIds: 2981917924382166252
+  ChildIds: 537156224837647109
+  ChildIds: 5000951808122786776
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10441,7 +10441,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14411008757284545170
+  Id: 5000951808122786776
   Name: "Decal Stains Top 01"
   Transform {
     Location {
@@ -10460,7 +10460,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 8185364506877839251
+  ParentId: 108132077714001009
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -10499,7 +10499,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17089240337260535837
+  Id: 537156224837647109
   Name: "Decal Stains Top 01"
   Transform {
     Location {
@@ -10518,7 +10518,7 @@ Objects {
       Z: 0.1
     }
   }
-  ParentId: 8185364506877839251
+  ParentId: 108132077714001009
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -10557,7 +10557,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1262736565740493533
+  Id: 2981917924382166252
   Name: "Decal Stains Round 01"
   Transform {
     Location {
@@ -10573,7 +10573,7 @@ Objects {
       Z: 0.247019306
     }
   }
-  ParentId: 8185364506877839251
+  ParentId: 108132077714001009
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10601,7 +10601,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16040343064977329779
+  Id: 11437032602429995237
   Name: "Liquid Decal"
   Transform {
     Location {
@@ -10619,7 +10619,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 8185364506877839251
+  ParentId: 108132077714001009
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -10655,7 +10655,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8395585961398647637
+  Id: 3775886072323629163
   Name: "Spine"
   Transform {
     Location {
@@ -10671,7 +10671,7 @@ Objects {
       Z: 11
     }
   }
-  ParentId: 6742011827845066784
+  ParentId: 4216564144845787109
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10726,7 +10726,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17845452697691309207
+  Id: 10722175560823069600
   Name: "Pages"
   Transform {
     Location {
@@ -10739,22 +10739,22 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6742011827845066784
-  ChildIds: 7317386014164435166
-  ChildIds: 12356223217013139116
-  ChildIds: 5664979455583676068
-  ChildIds: 1178856627174420867
-  ChildIds: 18081248242973275961
-  ChildIds: 17723116868276681883
-  ChildIds: 9945256001709223434
-  ChildIds: 2633686232854919100
-  ChildIds: 3528806606130026894
-  ChildIds: 7120039205367021947
-  ChildIds: 16196900780997583478
-  ChildIds: 3243410797838997498
-  ChildIds: 3794665744429837000
-  ChildIds: 13771262649035514477
-  ChildIds: 10222013064780978751
+  ParentId: 4216564144845787109
+  ChildIds: 14017738889556552057
+  ChildIds: 7086231341755229258
+  ChildIds: 8842665919874051794
+  ChildIds: 3157633985347049495
+  ChildIds: 4257213103354931532
+  ChildIds: 13775865176712389061
+  ChildIds: 7843358151666173027
+  ChildIds: 13558964513538879719
+  ChildIds: 589514198819843504
+  ChildIds: 11365344702103121048
+  ChildIds: 15404154205369297830
+  ChildIds: 16309888080717264660
+  ChildIds: 2469953961367927713
+  ChildIds: 9338483422689642034
+  ChildIds: 7569051151791929590
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10773,7 +10773,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10222013064780978751
+  Id: 7569051151791929590
   Name: "Page1"
   Transform {
     Location {
@@ -10791,7 +10791,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -10847,7 +10847,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13771262649035514477
+  Id: 9338483422689642034
   Name: "Page2"
   Transform {
     Location {
@@ -10865,7 +10865,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -10921,7 +10921,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3794665744429837000
+  Id: 2469953961367927713
   Name: "Page3"
   Transform {
     Location {
@@ -10939,7 +10939,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -10995,7 +10995,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3243410797838997498
+  Id: 16309888080717264660
   Name: "Page4"
   Transform {
     Location {
@@ -11013,7 +11013,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11069,7 +11069,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16196900780997583478
+  Id: 15404154205369297830
   Name: "Page5"
   Transform {
     Location {
@@ -11087,7 +11087,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11143,7 +11143,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7120039205367021947
+  Id: 11365344702103121048
   Name: "Page6"
   Transform {
     Location {
@@ -11161,7 +11161,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11217,7 +11217,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3528806606130026894
+  Id: 589514198819843504
   Name: "Page7"
   Transform {
     Location {
@@ -11235,7 +11235,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11291,7 +11291,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2633686232854919100
+  Id: 13558964513538879719
   Name: "Page8"
   Transform {
     Location {
@@ -11309,7 +11309,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11365,7 +11365,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9945256001709223434
+  Id: 7843358151666173027
   Name: "Page9"
   Transform {
     Location {
@@ -11383,7 +11383,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11439,7 +11439,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17723116868276681883
+  Id: 13775865176712389061
   Name: "Page10"
   Transform {
     Location {
@@ -11457,7 +11457,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11513,7 +11513,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18081248242973275961
+  Id: 4257213103354931532
   Name: "Page11"
   Transform {
     Location {
@@ -11531,7 +11531,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11587,7 +11587,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1178856627174420867
+  Id: 3157633985347049495
   Name: "Page12"
   Transform {
     Location {
@@ -11605,7 +11605,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11661,7 +11661,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5664979455583676068
+  Id: 8842665919874051794
   Name: "Page13"
   Transform {
     Location {
@@ -11679,7 +11679,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11735,7 +11735,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12356223217013139116
+  Id: 7086231341755229258
   Name: "Page14"
   Transform {
     Location {
@@ -11753,7 +11753,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 17845452697691309207
+  ParentId: 10722175560823069600
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -11809,7 +11809,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7317386014164435166
+  Id: 14017738889556552057
   Name: "Page Binding"
   Transform {
     Location {
@@ -11822,11 +11822,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17845452697691309207
-  ChildIds: 16618523850159023679
-  ChildIds: 17498558345746566464
-  ChildIds: 3005642085857769323
-  ChildIds: 2130373125571966351
+  ParentId: 10722175560823069600
+  ChildIds: 10962639412154417501
+  ChildIds: 3349557028808391723
+  ChildIds: 17480301250067399954
+  ChildIds: 12390454117040461573
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11845,7 +11845,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2130373125571966351
+  Id: 12390454117040461573
   Name: "Page_Binding4"
   Transform {
     Location {
@@ -11863,7 +11863,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 7317386014164435166
+  ParentId: 14017738889556552057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11917,7 +11917,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3005642085857769323
+  Id: 17480301250067399954
   Name: "Page_Binding3"
   Transform {
     Location {
@@ -11935,7 +11935,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 7317386014164435166
+  ParentId: 14017738889556552057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11981,7 +11981,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17498558345746566464
+  Id: 3349557028808391723
   Name: "Page_Binding2"
   Transform {
     Location {
@@ -11999,7 +11999,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 7317386014164435166
+  ParentId: 14017738889556552057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12045,7 +12045,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16618523850159023679
+  Id: 10962639412154417501
   Name: "Page_Binding1"
   Transform {
     Location {
@@ -12063,7 +12063,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 7317386014164435166
+  ParentId: 14017738889556552057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12109,7 +12109,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6606734342016565606
+  Id: 10881929977866787426
   Name: "Cover"
   Transform {
     Location {
@@ -12125,11 +12125,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6742011827845066784
-  ChildIds: 6989111975377976298
-  ChildIds: 1277138327108407339
-  ChildIds: 3426525183660939134
-  ChildIds: 1690813907977029227
+  ParentId: 4216564144845787109
+  ChildIds: 9172632279874189680
+  ChildIds: 13462308697169786211
+  ChildIds: 5892870574598357989
+  ChildIds: 18188575735705315028
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12148,7 +12148,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1690813907977029227
+  Id: 18188575735705315028
   Name: "CoverCorners"
   Transform {
     Location {
@@ -12163,11 +12163,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6606734342016565606
-  ChildIds: 14789071954341084065
-  ChildIds: 8677180801329812490
-  ChildIds: 18198586683124515243
-  ChildIds: 6926982865863534775
+  ParentId: 10881929977866787426
+  ChildIds: 13465653846308072015
+  ChildIds: 77682232227677064
+  ChildIds: 9207637604935472965
+  ChildIds: 10472068517404971364
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12186,7 +12186,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6926982865863534775
+  Id: 10472068517404971364
   Name: "Cover_Corner4"
   Transform {
     Location {
@@ -12205,7 +12205,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 1690813907977029227
+  ParentId: 18188575735705315028
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12251,7 +12251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18198586683124515243
+  Id: 9207637604935472965
   Name: "Cover_Corner3"
   Transform {
     Location {
@@ -12270,7 +12270,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 1690813907977029227
+  ParentId: 18188575735705315028
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12316,7 +12316,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8677180801329812490
+  Id: 77682232227677064
   Name: "Cover_Corner2"
   Transform {
     Location {
@@ -12333,7 +12333,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 1690813907977029227
+  ParentId: 18188575735705315028
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12379,7 +12379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14789071954341084065
+  Id: 13465653846308072015
   Name: "Cover_Corner1"
   Transform {
     Location {
@@ -12397,7 +12397,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 1690813907977029227
+  ParentId: 18188575735705315028
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12443,7 +12443,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3426525183660939134
+  Id: 5892870574598357989
   Name: "Cover Detail"
   Transform {
     Location {
@@ -12459,11 +12459,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6606734342016565606
-  ChildIds: 6741063952622121871
-  ChildIds: 5244620160065239980
-  ChildIds: 10105904195070143392
-  ChildIds: 14284224683759139120
+  ParentId: 10881929977866787426
+  ChildIds: 3289922537591357444
+  ChildIds: 5448382952475372705
+  ChildIds: 14533579431523565331
+  ChildIds: 4498268131428710188
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12482,7 +12482,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14284224683759139120
+  Id: 4498268131428710188
   Name: "Cover_InnerDetail"
   Transform {
     Location {
@@ -12499,7 +12499,7 @@ Objects {
       Z: 0.200000226
     }
   }
-  ParentId: 3426525183660939134
+  ParentId: 5892870574598357989
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12554,7 +12554,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10105904195070143392
+  Id: 14533579431523565331
   Name: "Cover_InnerDetail"
   Transform {
     Location {
@@ -12571,7 +12571,7 @@ Objects {
       Z: 0.200000226
     }
   }
-  ParentId: 3426525183660939134
+  ParentId: 5892870574598357989
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12626,7 +12626,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5244620160065239980
+  Id: 5448382952475372705
   Name: "Cover_Detail1"
   Transform {
     Location {
@@ -12643,7 +12643,7 @@ Objects {
       Z: 0.100000083
     }
   }
-  ParentId: 3426525183660939134
+  ParentId: 5892870574598357989
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12689,7 +12689,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6741063952622121871
+  Id: 3289922537591357444
   Name: "Cover_Detail2"
   Transform {
     Location {
@@ -12706,7 +12706,7 @@ Objects {
       Z: 0.100000083
     }
   }
-  ParentId: 3426525183660939134
+  ParentId: 5892870574598357989
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12752,7 +12752,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1277138327108407339
+  Id: 13462308697169786211
   Name: "Cover_Back"
   Transform {
     Location {
@@ -12769,7 +12769,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 6606734342016565606
+  ParentId: 10881929977866787426
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12815,7 +12815,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6989111975377976298
+  Id: 9172632279874189680
   Name: "Cover_Front"
   Transform {
     Location {
@@ -12832,7 +12832,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 6606734342016565606
+  ParentId: 10881929977866787426
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12878,7 +12878,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4532887878428099996
+  Id: 12596950816759849325
   Name: "Open Book"
   Transform {
     Location {
@@ -12894,11 +12894,11 @@ Objects {
       Z: 0.0583396927
     }
   }
-  ParentId: 2381900801974360505
-  ChildIds: 12959384248898307071
-  ChildIds: 5235841169686794789
-  ChildIds: 6493445707610817777
-  ChildIds: 177702568258310410
+  ParentId: 3337924845135605039
+  ChildIds: 4390891171365068256
+  ChildIds: 10333498557872699695
+  ChildIds: 17768220766855497867
+  ChildIds: 8539399182903241609
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12917,7 +12917,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 177702568258310410
+  Id: 8539399182903241609
   Name: "Damage"
   Transform {
     Location {
@@ -12933,11 +12933,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4532887878428099996
-  ChildIds: 14159580512729974416
-  ChildIds: 6795579589226909087
-  ChildIds: 6651562611349998969
-  ChildIds: 1571646586317389791
+  ParentId: 12596950816759849325
+  ChildIds: 2431686699088702846
+  ChildIds: 12233137130197446499
+  ChildIds: 4004423622782129484
+  ChildIds: 5310741271215478113
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12956,7 +12956,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1571646586317389791
+  Id: 5310741271215478113
   Name: "Decal Stains Top 01"
   Transform {
     Location {
@@ -12975,7 +12975,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 177702568258310410
+  ParentId: 8539399182903241609
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -13014,7 +13014,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6651562611349998969
+  Id: 4004423622782129484
   Name: "Decal Stains Top 01"
   Transform {
     Location {
@@ -13033,7 +13033,7 @@ Objects {
       Z: 0.1
     }
   }
-  ParentId: 177702568258310410
+  ParentId: 8539399182903241609
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -13072,7 +13072,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6795579589226909087
+  Id: 12233137130197446499
   Name: "Decal Stains Round 01"
   Transform {
     Location {
@@ -13088,7 +13088,7 @@ Objects {
       Z: 0.247019306
     }
   }
-  ParentId: 177702568258310410
+  ParentId: 8539399182903241609
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13116,7 +13116,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14159580512729974416
+  Id: 2431686699088702846
   Name: "Liquid Decal"
   Transform {
     Location {
@@ -13134,7 +13134,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 177702568258310410
+  ParentId: 8539399182903241609
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -13170,7 +13170,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6493445707610817777
+  Id: 17768220766855497867
   Name: "Spine"
   Transform {
     Location {
@@ -13186,7 +13186,7 @@ Objects {
       Z: 11
     }
   }
-  ParentId: 4532887878428099996
+  ParentId: 12596950816759849325
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13241,7 +13241,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5235841169686794789
+  Id: 10333498557872699695
   Name: "Pages"
   Transform {
     Location {
@@ -13254,22 +13254,22 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4532887878428099996
-  ChildIds: 8998001587268791879
-  ChildIds: 16512697974366885989
-  ChildIds: 11179328455194312436
-  ChildIds: 2678405414963426671
-  ChildIds: 17742909548001641106
-  ChildIds: 9278911472196106661
-  ChildIds: 11800134071784418265
-  ChildIds: 370094417197854921
-  ChildIds: 13148510539749164891
-  ChildIds: 15340002224095738422
-  ChildIds: 11898206718780008281
-  ChildIds: 9498374365533702412
-  ChildIds: 12723689022459155659
-  ChildIds: 15365541610735501417
-  ChildIds: 8673798468561797804
+  ParentId: 12596950816759849325
+  ChildIds: 13873220631518030191
+  ChildIds: 17948868011821707111
+  ChildIds: 14536836869589781372
+  ChildIds: 932979835247131843
+  ChildIds: 2608009468991287143
+  ChildIds: 4803173590662166616
+  ChildIds: 5820928995421955772
+  ChildIds: 5273790111036778240
+  ChildIds: 767903458689444915
+  ChildIds: 9930256716903668680
+  ChildIds: 5698598462430590242
+  ChildIds: 6792087890170447717
+  ChildIds: 3790309546496951181
+  ChildIds: 9527232999689448860
+  ChildIds: 7470554789036564515
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13288,7 +13288,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8673798468561797804
+  Id: 7470554789036564515
   Name: "Page1"
   Transform {
     Location {
@@ -13306,7 +13306,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13362,7 +13362,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15365541610735501417
+  Id: 9527232999689448860
   Name: "Page2"
   Transform {
     Location {
@@ -13380,7 +13380,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13436,7 +13436,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12723689022459155659
+  Id: 3790309546496951181
   Name: "Page3"
   Transform {
     Location {
@@ -13454,7 +13454,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13510,7 +13510,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9498374365533702412
+  Id: 6792087890170447717
   Name: "Page4"
   Transform {
     Location {
@@ -13528,7 +13528,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13584,7 +13584,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11898206718780008281
+  Id: 5698598462430590242
   Name: "Page5"
   Transform {
     Location {
@@ -13602,7 +13602,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13658,7 +13658,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15340002224095738422
+  Id: 9930256716903668680
   Name: "Page6"
   Transform {
     Location {
@@ -13676,7 +13676,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13732,7 +13732,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13148510539749164891
+  Id: 767903458689444915
   Name: "Page7"
   Transform {
     Location {
@@ -13750,7 +13750,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13806,7 +13806,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 370094417197854921
+  Id: 5273790111036778240
   Name: "Page8"
   Transform {
     Location {
@@ -13824,7 +13824,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13880,7 +13880,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11800134071784418265
+  Id: 5820928995421955772
   Name: "Page9"
   Transform {
     Location {
@@ -13898,7 +13898,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -13954,7 +13954,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9278911472196106661
+  Id: 4803173590662166616
   Name: "Page10"
   Transform {
     Location {
@@ -13972,7 +13972,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -14028,7 +14028,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17742909548001641106
+  Id: 2608009468991287143
   Name: "Page11"
   Transform {
     Location {
@@ -14046,7 +14046,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -14102,7 +14102,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2678405414963426671
+  Id: 932979835247131843
   Name: "Page12"
   Transform {
     Location {
@@ -14120,7 +14120,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -14176,7 +14176,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11179328455194312436
+  Id: 14536836869589781372
   Name: "Page13"
   Transform {
     Location {
@@ -14194,7 +14194,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -14250,7 +14250,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16512697974366885989
+  Id: 17948868011821707111
   Name: "Page14"
   Transform {
     Location {
@@ -14268,7 +14268,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 5235841169686794789
+  ParentId: 10333498557872699695
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -14324,7 +14324,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8998001587268791879
+  Id: 13873220631518030191
   Name: "Page Binding"
   Transform {
     Location {
@@ -14337,11 +14337,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5235841169686794789
-  ChildIds: 8120682369123999341
-  ChildIds: 1934059476474506209
-  ChildIds: 15925291132851800552
-  ChildIds: 1321194652814757717
+  ParentId: 10333498557872699695
+  ChildIds: 6772810622448188078
+  ChildIds: 10775070212506175404
+  ChildIds: 2953852788013198551
+  ChildIds: 8703017337161362902
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14360,7 +14360,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1321194652814757717
+  Id: 8703017337161362902
   Name: "Page_Binding4"
   Transform {
     Location {
@@ -14378,7 +14378,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 8998001587268791879
+  ParentId: 13873220631518030191
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14432,7 +14432,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15925291132851800552
+  Id: 2953852788013198551
   Name: "Page_Binding3"
   Transform {
     Location {
@@ -14450,7 +14450,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 8998001587268791879
+  ParentId: 13873220631518030191
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14496,7 +14496,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1934059476474506209
+  Id: 10775070212506175404
   Name: "Page_Binding2"
   Transform {
     Location {
@@ -14514,7 +14514,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 8998001587268791879
+  ParentId: 13873220631518030191
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14560,7 +14560,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8120682369123999341
+  Id: 6772810622448188078
   Name: "Page_Binding1"
   Transform {
     Location {
@@ -14578,7 +14578,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 8998001587268791879
+  ParentId: 13873220631518030191
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14624,7 +14624,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12959384248898307071
+  Id: 4390891171365068256
   Name: "Cover"
   Transform {
     Location {
@@ -14640,11 +14640,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4532887878428099996
-  ChildIds: 15067013445372262594
-  ChildIds: 17145957794508921094
-  ChildIds: 12944579320787315827
-  ChildIds: 6241715200879828803
+  ParentId: 12596950816759849325
+  ChildIds: 1605742978977123780
+  ChildIds: 162477806152029590
+  ChildIds: 6661458876579282850
+  ChildIds: 12172161602885846495
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14663,7 +14663,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6241715200879828803
+  Id: 12172161602885846495
   Name: "CoverCorners"
   Transform {
     Location {
@@ -14678,11 +14678,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12959384248898307071
-  ChildIds: 3802898210367803282
-  ChildIds: 7582404108676989978
-  ChildIds: 9827077493439447141
-  ChildIds: 8497693126955831069
+  ParentId: 4390891171365068256
+  ChildIds: 13203984607961183176
+  ChildIds: 9609388535895455977
+  ChildIds: 7850464787998185421
+  ChildIds: 382997980698096007
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14701,7 +14701,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8497693126955831069
+  Id: 382997980698096007
   Name: "Cover_Corner4"
   Transform {
     Location {
@@ -14720,7 +14720,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 6241715200879828803
+  ParentId: 12172161602885846495
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14766,7 +14766,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9827077493439447141
+  Id: 7850464787998185421
   Name: "Cover_Corner3"
   Transform {
     Location {
@@ -14785,7 +14785,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 6241715200879828803
+  ParentId: 12172161602885846495
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14831,7 +14831,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7582404108676989978
+  Id: 9609388535895455977
   Name: "Cover_Corner2"
   Transform {
     Location {
@@ -14848,7 +14848,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 6241715200879828803
+  ParentId: 12172161602885846495
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14894,7 +14894,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3802898210367803282
+  Id: 13203984607961183176
   Name: "Cover_Corner1"
   Transform {
     Location {
@@ -14912,7 +14912,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 6241715200879828803
+  ParentId: 12172161602885846495
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14958,7 +14958,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12944579320787315827
+  Id: 6661458876579282850
   Name: "Cover Detail"
   Transform {
     Location {
@@ -14974,11 +14974,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12959384248898307071
-  ChildIds: 10641317681814783113
-  ChildIds: 7652992473224021300
-  ChildIds: 5434345546142218937
-  ChildIds: 18138135517180827066
+  ParentId: 4390891171365068256
+  ChildIds: 16256709313711346015
+  ChildIds: 3854231272732377185
+  ChildIds: 18033105995210921047
+  ChildIds: 3464978891565957534
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14997,7 +14997,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18138135517180827066
+  Id: 3464978891565957534
   Name: "Cover_InnerDetail"
   Transform {
     Location {
@@ -15014,7 +15014,7 @@ Objects {
       Z: 0.200000226
     }
   }
-  ParentId: 12944579320787315827
+  ParentId: 6661458876579282850
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15069,7 +15069,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5434345546142218937
+  Id: 18033105995210921047
   Name: "Cover_InnerDetail"
   Transform {
     Location {
@@ -15086,7 +15086,7 @@ Objects {
       Z: 0.200000226
     }
   }
-  ParentId: 12944579320787315827
+  ParentId: 6661458876579282850
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15141,7 +15141,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7652992473224021300
+  Id: 3854231272732377185
   Name: "Cover_Detail1"
   Transform {
     Location {
@@ -15158,7 +15158,7 @@ Objects {
       Z: 0.100000083
     }
   }
-  ParentId: 12944579320787315827
+  ParentId: 6661458876579282850
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15204,7 +15204,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10641317681814783113
+  Id: 16256709313711346015
   Name: "Cover_Detail2"
   Transform {
     Location {
@@ -15221,7 +15221,7 @@ Objects {
       Z: 0.100000083
     }
   }
-  ParentId: 12944579320787315827
+  ParentId: 6661458876579282850
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15267,7 +15267,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17145957794508921094
+  Id: 162477806152029590
   Name: "Cover_Back"
   Transform {
     Location {
@@ -15284,7 +15284,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 12959384248898307071
+  ParentId: 4390891171365068256
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15330,7 +15330,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15067013445372262594
+  Id: 1605742978977123780
   Name: "Cover_Front"
   Transform {
     Location {
@@ -15347,7 +15347,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 12959384248898307071
+  ParentId: 4390891171365068256
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15393,7 +15393,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10921342389832347718
+  Id: 15303036849884620239
   Name: "Open Book"
   Transform {
     Location {
@@ -15409,11 +15409,11 @@ Objects {
       Z: 0.0583396927
     }
   }
-  ParentId: 2381900801974360505
-  ChildIds: 8985568269985857580
-  ChildIds: 6274614301060923285
-  ChildIds: 6843544020940130783
-  ChildIds: 12493683145764697232
+  ParentId: 3337924845135605039
+  ChildIds: 3376726023409465075
+  ChildIds: 6797764315799281296
+  ChildIds: 16073715012620500101
+  ChildIds: 2466680951998245680
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15432,7 +15432,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12493683145764697232
+  Id: 2466680951998245680
   Name: "Damage"
   Transform {
     Location {
@@ -15448,11 +15448,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10921342389832347718
-  ChildIds: 10127708349838119599
-  ChildIds: 9379730393668846022
-  ChildIds: 9153097181241020278
-  ChildIds: 13095344647918853094
+  ParentId: 15303036849884620239
+  ChildIds: 6896726059914644506
+  ChildIds: 1159766863901991035
+  ChildIds: 13943995496348901047
+  ChildIds: 16465029844690213475
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15471,7 +15471,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13095344647918853094
+  Id: 16465029844690213475
   Name: "Decal Stains Top 01"
   Transform {
     Location {
@@ -15490,7 +15490,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 12493683145764697232
+  ParentId: 2466680951998245680
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -15529,7 +15529,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9153097181241020278
+  Id: 13943995496348901047
   Name: "Decal Stains Top 01"
   Transform {
     Location {
@@ -15548,7 +15548,7 @@ Objects {
       Z: 0.1
     }
   }
-  ParentId: 12493683145764697232
+  ParentId: 2466680951998245680
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -15587,7 +15587,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9379730393668846022
+  Id: 1159766863901991035
   Name: "Decal Stains Round 01"
   Transform {
     Location {
@@ -15603,7 +15603,7 @@ Objects {
       Z: 0.247019306
     }
   }
-  ParentId: 12493683145764697232
+  ParentId: 2466680951998245680
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15631,7 +15631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10127708349838119599
+  Id: 6896726059914644506
   Name: "Liquid Decal"
   Transform {
     Location {
@@ -15649,7 +15649,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 12493683145764697232
+  ParentId: 2466680951998245680
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -15685,7 +15685,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6843544020940130783
+  Id: 16073715012620500101
   Name: "Spine"
   Transform {
     Location {
@@ -15701,7 +15701,7 @@ Objects {
       Z: 11
     }
   }
-  ParentId: 10921342389832347718
+  ParentId: 15303036849884620239
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15756,7 +15756,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6274614301060923285
+  Id: 6797764315799281296
   Name: "Pages"
   Transform {
     Location {
@@ -15769,22 +15769,22 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10921342389832347718
-  ChildIds: 17009669900547315500
-  ChildIds: 4045379295166937500
-  ChildIds: 8051457990229004991
-  ChildIds: 16411825052572183652
-  ChildIds: 4731397175257069712
-  ChildIds: 16740198285129723448
-  ChildIds: 391248896075482630
-  ChildIds: 14005140338477711092
-  ChildIds: 18264145291580542542
-  ChildIds: 5434359515972250810
-  ChildIds: 4803859226558777219
-  ChildIds: 623084335694406448
-  ChildIds: 12337303723621568302
-  ChildIds: 1225456401055352309
-  ChildIds: 6124957928782248157
+  ParentId: 15303036849884620239
+  ChildIds: 15903756260491893254
+  ChildIds: 12684637985604629775
+  ChildIds: 319545111984430183
+  ChildIds: 11775133401879519002
+  ChildIds: 14366995617217579666
+  ChildIds: 11290660680989628893
+  ChildIds: 7576616943962327123
+  ChildIds: 17013403315971778450
+  ChildIds: 5279767603154405137
+  ChildIds: 17429943649288040077
+  ChildIds: 8574473797612167235
+  ChildIds: 1067737342574698339
+  ChildIds: 3760258057630762027
+  ChildIds: 8524659614665177784
+  ChildIds: 1648068550510571094
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15803,7 +15803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6124957928782248157
+  Id: 1648068550510571094
   Name: "Page1"
   Transform {
     Location {
@@ -15821,7 +15821,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -15877,7 +15877,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1225456401055352309
+  Id: 8524659614665177784
   Name: "Page2"
   Transform {
     Location {
@@ -15895,7 +15895,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -15951,7 +15951,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12337303723621568302
+  Id: 3760258057630762027
   Name: "Page3"
   Transform {
     Location {
@@ -15969,7 +15969,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16025,7 +16025,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 623084335694406448
+  Id: 1067737342574698339
   Name: "Page4"
   Transform {
     Location {
@@ -16043,7 +16043,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16099,7 +16099,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4803859226558777219
+  Id: 8574473797612167235
   Name: "Page5"
   Transform {
     Location {
@@ -16117,7 +16117,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16173,7 +16173,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5434359515972250810
+  Id: 17429943649288040077
   Name: "Page6"
   Transform {
     Location {
@@ -16191,7 +16191,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16247,7 +16247,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18264145291580542542
+  Id: 5279767603154405137
   Name: "Page7"
   Transform {
     Location {
@@ -16265,7 +16265,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16321,7 +16321,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14005140338477711092
+  Id: 17013403315971778450
   Name: "Page8"
   Transform {
     Location {
@@ -16339,7 +16339,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16395,7 +16395,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 391248896075482630
+  Id: 7576616943962327123
   Name: "Page9"
   Transform {
     Location {
@@ -16413,7 +16413,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16469,7 +16469,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16740198285129723448
+  Id: 11290660680989628893
   Name: "Page10"
   Transform {
     Location {
@@ -16487,7 +16487,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16543,7 +16543,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4731397175257069712
+  Id: 14366995617217579666
   Name: "Page11"
   Transform {
     Location {
@@ -16561,7 +16561,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16617,7 +16617,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16411825052572183652
+  Id: 11775133401879519002
   Name: "Page12"
   Transform {
     Location {
@@ -16635,7 +16635,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16691,7 +16691,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8051457990229004991
+  Id: 319545111984430183
   Name: "Page13"
   Transform {
     Location {
@@ -16709,7 +16709,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16765,7 +16765,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4045379295166937500
+  Id: 12684637985604629775
   Name: "Page14"
   Transform {
     Location {
@@ -16783,7 +16783,7 @@ Objects {
       Z: 0.137355238
     }
   }
-  ParentId: 6274614301060923285
+  ParentId: 6797764315799281296
   UnregisteredParameters {
     Overrides {
       Name: "ma:Street_CenterStripe:id"
@@ -16839,7 +16839,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17009669900547315500
+  Id: 15903756260491893254
   Name: "Page Binding"
   Transform {
     Location {
@@ -16852,11 +16852,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6274614301060923285
-  ChildIds: 12872375281713950845
-  ChildIds: 2185029616412871218
-  ChildIds: 2500822328540035754
-  ChildIds: 7912268677597741669
+  ParentId: 6797764315799281296
+  ChildIds: 7548966802552919090
+  ChildIds: 14518059818314933112
+  ChildIds: 11576347631968364029
+  ChildIds: 9583550688142309874
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16875,7 +16875,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7912268677597741669
+  Id: 9583550688142309874
   Name: "Page_Binding4"
   Transform {
     Location {
@@ -16893,7 +16893,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 17009669900547315500
+  ParentId: 15903756260491893254
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16947,7 +16947,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2500822328540035754
+  Id: 11576347631968364029
   Name: "Page_Binding3"
   Transform {
     Location {
@@ -16965,7 +16965,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 17009669900547315500
+  ParentId: 15903756260491893254
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17011,7 +17011,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2185029616412871218
+  Id: 14518059818314933112
   Name: "Page_Binding2"
   Transform {
     Location {
@@ -17029,7 +17029,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 17009669900547315500
+  ParentId: 15903756260491893254
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17075,7 +17075,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12872375281713950845
+  Id: 7548966802552919090
   Name: "Page_Binding1"
   Transform {
     Location {
@@ -17093,7 +17093,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 17009669900547315500
+  ParentId: 15903756260491893254
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17139,7 +17139,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8985568269985857580
+  Id: 3376726023409465075
   Name: "Cover"
   Transform {
     Location {
@@ -17155,11 +17155,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10921342389832347718
-  ChildIds: 730610575154450616
-  ChildIds: 11306891440091126477
-  ChildIds: 17040840994660845009
-  ChildIds: 15286781704938846117
+  ParentId: 15303036849884620239
+  ChildIds: 13399038752045735318
+  ChildIds: 3192105942779482652
+  ChildIds: 4713479954353540740
+  ChildIds: 17366521659963697629
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17178,7 +17178,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15286781704938846117
+  Id: 17366521659963697629
   Name: "CoverCorners"
   Transform {
     Location {
@@ -17193,11 +17193,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985568269985857580
-  ChildIds: 17146779590040998599
-  ChildIds: 3116731373154423805
-  ChildIds: 9806065687479281783
-  ChildIds: 5657912648530277763
+  ParentId: 3376726023409465075
+  ChildIds: 10483674583067655895
+  ChildIds: 190363142187318019
+  ChildIds: 7645721597627697840
+  ChildIds: 10890020751627327613
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17216,7 +17216,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5657912648530277763
+  Id: 10890020751627327613
   Name: "Cover_Corner4"
   Transform {
     Location {
@@ -17235,7 +17235,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 15286781704938846117
+  ParentId: 17366521659963697629
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17281,7 +17281,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9806065687479281783
+  Id: 7645721597627697840
   Name: "Cover_Corner3"
   Transform {
     Location {
@@ -17300,7 +17300,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 15286781704938846117
+  ParentId: 17366521659963697629
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17346,7 +17346,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3116731373154423805
+  Id: 190363142187318019
   Name: "Cover_Corner2"
   Transform {
     Location {
@@ -17363,7 +17363,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 15286781704938846117
+  ParentId: 17366521659963697629
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17409,7 +17409,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17146779590040998599
+  Id: 10483674583067655895
   Name: "Cover_Corner1"
   Transform {
     Location {
@@ -17427,7 +17427,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 15286781704938846117
+  ParentId: 17366521659963697629
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17473,7 +17473,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17040840994660845009
+  Id: 4713479954353540740
   Name: "Cover Detail"
   Transform {
     Location {
@@ -17489,11 +17489,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985568269985857580
-  ChildIds: 11923354121200745687
-  ChildIds: 6500407325256644399
-  ChildIds: 3666675321679979670
-  ChildIds: 2403048011187763094
+  ParentId: 3376726023409465075
+  ChildIds: 5730980166711116561
+  ChildIds: 132775376055410257
+  ChildIds: 7108584563589779718
+  ChildIds: 3420726263416481709
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17512,7 +17512,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2403048011187763094
+  Id: 3420726263416481709
   Name: "Cover_InnerDetail"
   Transform {
     Location {
@@ -17529,7 +17529,7 @@ Objects {
       Z: 0.200000226
     }
   }
-  ParentId: 17040840994660845009
+  ParentId: 4713479954353540740
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17584,7 +17584,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3666675321679979670
+  Id: 7108584563589779718
   Name: "Cover_InnerDetail"
   Transform {
     Location {
@@ -17601,7 +17601,7 @@ Objects {
       Z: 0.200000226
     }
   }
-  ParentId: 17040840994660845009
+  ParentId: 4713479954353540740
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17656,7 +17656,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6500407325256644399
+  Id: 132775376055410257
   Name: "Cover_Detail1"
   Transform {
     Location {
@@ -17673,7 +17673,7 @@ Objects {
       Z: 0.100000083
     }
   }
-  ParentId: 17040840994660845009
+  ParentId: 4713479954353540740
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17719,7 +17719,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11923354121200745687
+  Id: 5730980166711116561
   Name: "Cover_Detail2"
   Transform {
     Location {
@@ -17736,7 +17736,7 @@ Objects {
       Z: 0.100000083
     }
   }
-  ParentId: 17040840994660845009
+  ParentId: 4713479954353540740
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17782,7 +17782,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11306891440091126477
+  Id: 3192105942779482652
   Name: "Cover_Back"
   Transform {
     Location {
@@ -17799,7 +17799,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 8985568269985857580
+  ParentId: 3376726023409465075
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17845,7 +17845,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 730610575154450616
+  Id: 13399038752045735318
   Name: "Cover_Front"
   Transform {
     Location {
@@ -17862,7 +17862,7 @@ Objects {
       Z: 0.2
     }
   }
-  ParentId: 8985568269985857580
+  ParentId: 3376726023409465075
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17908,7 +17908,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11765692223398099138
+  Id: 13241095077184483119
   Name: "Book set"
   Transform {
     Location {
@@ -17924,7 +17924,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17944,7 +17944,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16718014395314093646
+  Id: 107893876866343585
   Name: "Bottle 05"
   Transform {
     Location {
@@ -17960,7 +17960,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17994,7 +17994,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8381660827189200717
+  Id: 7347955722975168870
   Name: "Bottle 05"
   Transform {
     Location {
@@ -18010,7 +18010,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18044,7 +18044,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11019307798411880029
+  Id: 15660964010592604523
   Name: "Bottle 05"
   Transform {
     Location {
@@ -18060,7 +18060,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18094,7 +18094,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18115311871260801317
+  Id: 5986061876051688423
   Name: "Bottle 05"
   Transform {
     Location {
@@ -18110,7 +18110,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18144,7 +18144,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11064625595601073303
+  Id: 7286016756786998255
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -18160,7 +18160,7 @@ Objects {
       Z: 6.03911686
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18194,7 +18194,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12809522012773961213
+  Id: 1045834983168308463
   Name: "Fantasy Weapon - Sword 01 (Prop)"
   Transform {
     Location {
@@ -18211,11 +18211,11 @@ Objects {
       Z: 2.00518012
     }
   }
-  ParentId: 2381900801974360505
-  ChildIds: 3600768241470930325
-  ChildIds: 12227272335884214588
-  ChildIds: 10974906585389182548
-  ChildIds: 12177629745341345858
+  ParentId: 3337924845135605039
+  ChildIds: 17505641875558787872
+  ChildIds: 3962172641507101905
+  ChildIds: 7233714096073019280
+  ChildIds: 10781319260136460548
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18234,7 +18234,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12177629745341345858
+  Id: 10781319260136460548
   Name: "Fantasy Sword Blade 02"
   Transform {
     Location {
@@ -18249,7 +18249,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 12809522012773961213
+  ParentId: 1045834983168308463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18303,7 +18303,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10974906585389182548
+  Id: 7233714096073019280
   Name: "Fantasy Sword Guard 01"
   Transform {
     Location {
@@ -18318,7 +18318,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 12809522012773961213
+  ParentId: 1045834983168308463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18360,7 +18360,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12227272335884214588
+  Id: 3962172641507101905
   Name: "Fantasy Pommel 01"
   Transform {
     Location {
@@ -18375,7 +18375,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 12809522012773961213
+  ParentId: 1045834983168308463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18417,7 +18417,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3600768241470930325
+  Id: 17505641875558787872
   Name: "Fantasy Sword Grip 01"
   Transform {
     Location {
@@ -18432,7 +18432,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 12809522012773961213
+  ParentId: 1045834983168308463
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18466,7 +18466,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2136056261170375934
+  Id: 17992102759190130422
   Name: "Fantasy Weapon - Sword 01 (Prop)"
   Transform {
     Location {
@@ -18482,11 +18482,11 @@ Objects {
       Z: 2.00518012
     }
   }
-  ParentId: 2381900801974360505
-  ChildIds: 3079375949656580913
-  ChildIds: 17696481898398517479
-  ChildIds: 2182575599759541249
-  ChildIds: 9690504978245792083
+  ParentId: 3337924845135605039
+  ChildIds: 12391183484168153498
+  ChildIds: 3423196474968806446
+  ChildIds: 14612763427610000757
+  ChildIds: 759824785568106572
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18505,7 +18505,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9690504978245792083
+  Id: 759824785568106572
   Name: "Fantasy Sword Blade 02"
   Transform {
     Location {
@@ -18520,7 +18520,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 2136056261170375934
+  ParentId: 17992102759190130422
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18574,7 +18574,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2182575599759541249
+  Id: 14612763427610000757
   Name: "Fantasy Sword Guard 01"
   Transform {
     Location {
@@ -18589,7 +18589,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 2136056261170375934
+  ParentId: 17992102759190130422
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18631,7 +18631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17696481898398517479
+  Id: 3423196474968806446
   Name: "Fantasy Pommel 01"
   Transform {
     Location {
@@ -18646,7 +18646,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 2136056261170375934
+  ParentId: 17992102759190130422
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18688,7 +18688,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3079375949656580913
+  Id: 12391183484168153498
   Name: "Fantasy Sword Grip 01"
   Transform {
     Location {
@@ -18703,7 +18703,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 2136056261170375934
+  ParentId: 17992102759190130422
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18737,7 +18737,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1778454958896856140
+  Id: 14077439035414137438
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -18753,7 +18753,7 @@ Objects {
       Z: 6.03911686
     }
   }
-  ParentId: 2381900801974360505
+  ParentId: 3337924845135605039
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18787,7 +18787,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 459596634640975105
+  Id: 7576585260495234248
   Name: "Fantasy Weapon - Sword 01 (Prop)"
   Transform {
     Location {
@@ -18803,11 +18803,11 @@ Objects {
       Z: 2.00518012
     }
   }
-  ParentId: 2381900801974360505
-  ChildIds: 7888310774203793318
-  ChildIds: 10846673161008887624
-  ChildIds: 1373182528504715057
-  ChildIds: 18295177838873088457
+  ParentId: 3337924845135605039
+  ChildIds: 4174607793351086268
+  ChildIds: 16382864282774504515
+  ChildIds: 15743849742692543505
+  ChildIds: 17293148236953688367
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -18826,7 +18826,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18295177838873088457
+  Id: 17293148236953688367
   Name: "Fantasy Sword Blade 02"
   Transform {
     Location {
@@ -18841,7 +18841,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 459596634640975105
+  ParentId: 7576585260495234248
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18895,7 +18895,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1373182528504715057
+  Id: 15743849742692543505
   Name: "Fantasy Sword Guard 01"
   Transform {
     Location {
@@ -18910,7 +18910,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 459596634640975105
+  ParentId: 7576585260495234248
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18952,7 +18952,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10846673161008887624
+  Id: 16382864282774504515
   Name: "Fantasy Pommel 01"
   Transform {
     Location {
@@ -18967,7 +18967,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 459596634640975105
+  ParentId: 7576585260495234248
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19009,7 +19009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7888310774203793318
+  Id: 4174607793351086268
   Name: "Fantasy Sword Grip 01"
   Transform {
     Location {
@@ -19024,7 +19024,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 459596634640975105
+  ParentId: 7576585260495234248
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19058,7 +19058,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18275175154461228894
+  Id: 17362925196491152401
   Name: "Fantasy Weapon - Sword 01 (Prop)"
   Transform {
     Location {
@@ -19075,11 +19075,11 @@ Objects {
       Z: 2.00518012
     }
   }
-  ParentId: 2381900801974360505
-  ChildIds: 5206866913092880686
-  ChildIds: 3260640884147328107
-  ChildIds: 14842090485641621381
-  ChildIds: 7401390861142367534
+  ParentId: 3337924845135605039
+  ChildIds: 7874048245193922104
+  ChildIds: 15337723085209291581
+  ChildIds: 12405827985349179114
+  ChildIds: 5279644142872871930
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19098,7 +19098,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7401390861142367534
+  Id: 5279644142872871930
   Name: "Fantasy Sword Blade 02"
   Transform {
     Location {
@@ -19113,7 +19113,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 18275175154461228894
+  ParentId: 17362925196491152401
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19167,7 +19167,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14842090485641621381
+  Id: 12405827985349179114
   Name: "Fantasy Sword Guard 01"
   Transform {
     Location {
@@ -19182,7 +19182,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 18275175154461228894
+  ParentId: 17362925196491152401
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19224,7 +19224,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3260640884147328107
+  Id: 15337723085209291581
   Name: "Fantasy Pommel 01"
   Transform {
     Location {
@@ -19239,7 +19239,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 18275175154461228894
+  ParentId: 17362925196491152401
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19281,7 +19281,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5206866913092880686
+  Id: 7874048245193922104
   Name: "Fantasy Sword Grip 01"
   Transform {
     Location {
@@ -19296,7 +19296,7 @@ Objects {
       Z: 1.2093035
     }
   }
-  ParentId: 18275175154461228894
+  ParentId: 17362925196491152401
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

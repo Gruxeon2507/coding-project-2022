@@ -1,7 +1,7 @@
 Name: "Game Settings"
-RootId: 2842352083438448324
+RootId: 15714691753867920386
 Objects {
-  Id: 5005672902181328534
+  Id: 5363434252170579200
   Name: "Third Person Camera Settings"
   Transform {
     Location {
@@ -14,9 +14,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
-  ChildIds: 16674726402384695983
-  ChildIds: 442246243716424895
+  ParentId: 15714691753867920386
+  ChildIds: 5418370396067910033
+  ChildIds: 11278838671361348286
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -37,7 +37,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 442246243716424895
+  Id: 11278838671361348286
   Name: "Client Context"
   Transform {
     Location {
@@ -50,8 +50,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5005672902181328534
-  ChildIds: 1743465255967401949
+  ParentId: 5363434252170579200
+  ChildIds: 93645578556021239
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -77,7 +77,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1743465255967401949
+  Id: 93645578556021239
   Name: "Third Person Camera"
   Transform {
     Location {
@@ -91,7 +91,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 442246243716424895
+  ParentId: 11278838671361348286
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -131,7 +131,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16674726402384695983
+  Id: 5418370396067910033
   Name: "Third Person Player Settings"
   Transform {
     Location {
@@ -144,7 +144,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5005672902181328534
+  ParentId: 5363434252170579200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -217,7 +217,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3110791633165261650
+  Id: 12781180138908209039
   Name: "Combat Dependencies"
   Transform {
     Scale {
@@ -226,7 +226,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
+  ParentId: 15714691753867920386
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -266,7 +266,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10210091034075996593
+  Id: 5829987782087596673
   Name: "Loot Drop Factory"
   Transform {
     Scale {
@@ -275,7 +275,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
+  ParentId: 15714691753867920386
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -315,7 +315,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11673836496544332483
+  Id: 10677299718066620669
   Name: "Basic Level Progression"
   Transform {
     Location {
@@ -328,10 +328,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
-  ChildIds: 14320712340927845646
-  ChildIds: 1327447871638755895
-  ChildIds: 641137253297986175
+  ParentId: 15714691753867920386
+  ChildIds: 8052745154729674471
+  ChildIds: 8829098328951048547
+  ChildIds: 17460496725584194033
   UnregisteredParameters {
     Overrides {
       Name: "cs:LevelResource"
@@ -366,7 +366,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 641137253297986175
+  Id: 17460496725584194033
   Name: "ClientContext"
   Transform {
     Location {
@@ -379,8 +379,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11673836496544332483
-  ChildIds: 2995482070112961805
+  ParentId: 10677299718066620669
+  ChildIds: 14144731262506578467
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -404,7 +404,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2995482070112961805
+  Id: 14144731262506578467
   Name: "BasicLevelProgressionManagerClient"
   Transform {
     Location {
@@ -417,7 +417,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 641137253297986175
+  ParentId: 17460496725584194033
   UnregisteredParameters {
     Overrides {
       Name: "cs:API"
@@ -428,13 +428,13 @@ Objects {
     Overrides {
       Name: "cs:ComponentRoot"
       ObjectReference {
-        SelfId: 11673836496544332483
+        SelfId: 10677299718066620669
       }
     }
     Overrides {
       Name: "cs:LevelsList"
       ObjectReference {
-        SelfId: 1327447871638755895
+        SelfId: 8829098328951048547
       }
     }
   }
@@ -458,7 +458,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1327447871638755895
+  Id: 8829098328951048547
   Name: "Levels List"
   Transform {
     Location {
@@ -471,47 +471,47 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11673836496544332483
-  ChildIds: 13659632084228814615
-  ChildIds: 6792272665009006448
-  ChildIds: 11331936769874497699
-  ChildIds: 14721160796269148687
-  ChildIds: 10819448762293975917
-  ChildIds: 12459292636094724184
-  ChildIds: 8613266595087327535
-  ChildIds: 15284134235886060048
-  ChildIds: 17652345343956128593
-  ChildIds: 11192938627305548228
-  ChildIds: 16231486862653170358
-  ChildIds: 1649045743745071252
-  ChildIds: 9813927859781430975
-  ChildIds: 3829080487791640263
-  ChildIds: 588352000862643598
-  ChildIds: 2956377066143172209
-  ChildIds: 13303576396697213051
-  ChildIds: 1446730667588563987
-  ChildIds: 17796663458667146576
-  ChildIds: 9073511207236307803
-  ChildIds: 6663485215451153243
-  ChildIds: 6231369810512470557
-  ChildIds: 2518660062745989248
-  ChildIds: 7124831951766540206
-  ChildIds: 704611578606178430
-  ChildIds: 143353025122707021
-  ChildIds: 18191465668916481675
-  ChildIds: 1055581888183549005
-  ChildIds: 10794294839661732393
-  ChildIds: 7212576264794809353
-  ChildIds: 6296007596427797623
-  ChildIds: 10904745726452028576
-  ChildIds: 13238841016437028262
-  ChildIds: 13950666187033200333
-  ChildIds: 2639689581653521438
-  ChildIds: 13723104976751853108
-  ChildIds: 8538814618592201653
-  ChildIds: 9338091456256896275
-  ChildIds: 10215196330143799918
-  ChildIds: 2295770879454927726
+  ParentId: 10677299718066620669
+  ChildIds: 4728011851957995859
+  ChildIds: 15001070629136221892
+  ChildIds: 12434889805517026711
+  ChildIds: 11356549047941905353
+  ChildIds: 1022671102184252745
+  ChildIds: 5151698407261376615
+  ChildIds: 11416262413938650405
+  ChildIds: 10693412095813753496
+  ChildIds: 16975692773748328358
+  ChildIds: 8519062791434134002
+  ChildIds: 13230916163381808075
+  ChildIds: 7990919168387813204
+  ChildIds: 14859934352000774510
+  ChildIds: 1299911763505651260
+  ChildIds: 17386902790177848679
+  ChildIds: 989559075704901076
+  ChildIds: 16998906138660917273
+  ChildIds: 8312516654048908144
+  ChildIds: 8672558514619390123
+  ChildIds: 11779054932090142462
+  ChildIds: 15982921923947842864
+  ChildIds: 4860991547438720638
+  ChildIds: 7889574161717358299
+  ChildIds: 4362881916248654451
+  ChildIds: 12238003275575251055
+  ChildIds: 955652877357180919
+  ChildIds: 7714980395888024907
+  ChildIds: 5618022871780396268
+  ChildIds: 9599380010405559619
+  ChildIds: 1142918526910028498
+  ChildIds: 16356100944896091954
+  ChildIds: 7814934399916233066
+  ChildIds: 5932280859414506330
+  ChildIds: 17546032024125585441
+  ChildIds: 455056428381617262
+  ChildIds: 1805643676851953001
+  ChildIds: 17315868159687061212
+  ChildIds: 12109325437767075144
+  ChildIds: 3417548797257907412
+  ChildIds: 12203302600963275414
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -530,7 +530,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2295770879454927726
+  Id: 12203302600963275414
   Name: "Level 40"
   Transform {
     Location {
@@ -543,7 +543,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -576,7 +576,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10215196330143799918
+  Id: 3417548797257907412
   Name: "Level 39"
   Transform {
     Location {
@@ -589,7 +589,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -622,7 +622,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9338091456256896275
+  Id: 12109325437767075144
   Name: "Level 38"
   Transform {
     Location {
@@ -635,7 +635,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -668,7 +668,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8538814618592201653
+  Id: 17315868159687061212
   Name: "Level 37"
   Transform {
     Location {
@@ -681,7 +681,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -714,7 +714,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13723104976751853108
+  Id: 1805643676851953001
   Name: "Level 36"
   Transform {
     Location {
@@ -727,7 +727,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -760,7 +760,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2639689581653521438
+  Id: 455056428381617262
   Name: "Level 35"
   Transform {
     Location {
@@ -773,7 +773,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -806,7 +806,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13950666187033200333
+  Id: 17546032024125585441
   Name: "Level 34"
   Transform {
     Location {
@@ -819,7 +819,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -852,7 +852,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13238841016437028262
+  Id: 5932280859414506330
   Name: "Level 33"
   Transform {
     Location {
@@ -865,7 +865,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -898,7 +898,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10904745726452028576
+  Id: 7814934399916233066
   Name: "Level 32"
   Transform {
     Location {
@@ -911,7 +911,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -944,7 +944,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6296007596427797623
+  Id: 16356100944896091954
   Name: "Level 31"
   Transform {
     Location {
@@ -957,7 +957,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -990,7 +990,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7212576264794809353
+  Id: 1142918526910028498
   Name: "Level 30"
   Transform {
     Location {
@@ -1003,7 +1003,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1036,7 +1036,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10794294839661732393
+  Id: 9599380010405559619
   Name: "Level 29"
   Transform {
     Location {
@@ -1049,7 +1049,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1082,7 +1082,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1055581888183549005
+  Id: 5618022871780396268
   Name: "Level 28"
   Transform {
     Location {
@@ -1095,7 +1095,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1128,7 +1128,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18191465668916481675
+  Id: 7714980395888024907
   Name: "Level 27"
   Transform {
     Location {
@@ -1141,7 +1141,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1174,7 +1174,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 143353025122707021
+  Id: 955652877357180919
   Name: "Level 26"
   Transform {
     Location {
@@ -1187,7 +1187,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1220,7 +1220,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 704611578606178430
+  Id: 12238003275575251055
   Name: "Level 25"
   Transform {
     Location {
@@ -1233,7 +1233,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1266,7 +1266,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7124831951766540206
+  Id: 4362881916248654451
   Name: "Level 24"
   Transform {
     Location {
@@ -1279,7 +1279,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1312,7 +1312,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2518660062745989248
+  Id: 7889574161717358299
   Name: "Level 23"
   Transform {
     Location {
@@ -1325,7 +1325,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1358,7 +1358,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6231369810512470557
+  Id: 4860991547438720638
   Name: "Level 22"
   Transform {
     Location {
@@ -1371,7 +1371,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1404,7 +1404,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6663485215451153243
+  Id: 15982921923947842864
   Name: "Level 21"
   Transform {
     Location {
@@ -1417,7 +1417,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1450,7 +1450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9073511207236307803
+  Id: 11779054932090142462
   Name: "Level 20"
   Transform {
     Location {
@@ -1463,7 +1463,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1496,7 +1496,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17796663458667146576
+  Id: 8672558514619390123
   Name: "Level 19"
   Transform {
     Location {
@@ -1509,7 +1509,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1542,7 +1542,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1446730667588563987
+  Id: 8312516654048908144
   Name: "Level 18"
   Transform {
     Location {
@@ -1555,7 +1555,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1588,7 +1588,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13303576396697213051
+  Id: 16998906138660917273
   Name: "Level 17"
   Transform {
     Location {
@@ -1601,7 +1601,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1634,7 +1634,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2956377066143172209
+  Id: 989559075704901076
   Name: "Level 16"
   Transform {
     Location {
@@ -1647,7 +1647,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1680,7 +1680,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 588352000862643598
+  Id: 17386902790177848679
   Name: "Level 15"
   Transform {
     Location {
@@ -1693,7 +1693,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1726,7 +1726,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3829080487791640263
+  Id: 1299911763505651260
   Name: "Level 14"
   Transform {
     Location {
@@ -1739,7 +1739,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1772,7 +1772,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9813927859781430975
+  Id: 14859934352000774510
   Name: "Level 13"
   Transform {
     Location {
@@ -1785,7 +1785,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1818,7 +1818,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1649045743745071252
+  Id: 7990919168387813204
   Name: "Level 12"
   Transform {
     Location {
@@ -1831,7 +1831,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1864,7 +1864,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16231486862653170358
+  Id: 13230916163381808075
   Name: "Level 11"
   Transform {
     Location {
@@ -1877,7 +1877,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1910,7 +1910,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11192938627305548228
+  Id: 8519062791434134002
   Name: "Level 10"
   Transform {
     Location {
@@ -1923,7 +1923,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -1956,7 +1956,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17652345343956128593
+  Id: 16975692773748328358
   Name: "Level 9"
   Transform {
     Location {
@@ -1969,7 +1969,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2002,7 +2002,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15284134235886060048
+  Id: 10693412095813753496
   Name: "Level 8"
   Transform {
     Location {
@@ -2015,7 +2015,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2048,7 +2048,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8613266595087327535
+  Id: 11416262413938650405
   Name: "Level 7"
   Transform {
     Location {
@@ -2061,7 +2061,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2094,7 +2094,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12459292636094724184
+  Id: 5151698407261376615
   Name: "Level 6"
   Transform {
     Location {
@@ -2107,7 +2107,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2140,7 +2140,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10819448762293975917
+  Id: 1022671102184252745
   Name: "Level 5"
   Transform {
     Location {
@@ -2153,7 +2153,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2186,7 +2186,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14721160796269148687
+  Id: 11356549047941905353
   Name: "Level 4"
   Transform {
     Location {
@@ -2199,7 +2199,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2232,7 +2232,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11331936769874497699
+  Id: 12434889805517026711
   Name: "Level 3"
   Transform {
     Location {
@@ -2245,7 +2245,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2278,7 +2278,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6792272665009006448
+  Id: 15001070629136221892
   Name: "Level 2"
   Transform {
     Location {
@@ -2291,7 +2291,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2324,7 +2324,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13659632084228814615
+  Id: 4728011851957995859
   Name: "Level 1"
   Transform {
     Location {
@@ -2337,7 +2337,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1327447871638755895
+  ParentId: 8829098328951048547
   UnregisteredParameters {
     Overrides {
       Name: "cs:RequiredXP"
@@ -2370,7 +2370,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14320712340927845646
+  Id: 8052745154729674471
   Name: "BasicLevelProgressionManagerServer"
   Transform {
     Location {
@@ -2383,7 +2383,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11673836496544332483
+  ParentId: 10677299718066620669
   UnregisteredParameters {
     Overrides {
       Name: "cs:API"
@@ -2394,13 +2394,13 @@ Objects {
     Overrides {
       Name: "cs:ComponentRoot"
       ObjectReference {
-        SelfId: 11673836496544332483
+        SelfId: 10677299718066620669
       }
     }
     Overrides {
       Name: "cs:LevelsList"
       ObjectReference {
-        SelfId: 1327447871638755895
+        SelfId: 8829098328951048547
       }
     }
   }
@@ -2424,7 +2424,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10363036032005901119
+  Id: 3362027605531502675
   Name: "EquipmentPersisterStarterServer"
   Transform {
     Location {
@@ -2437,12 +2437,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
+  ParentId: 15714691753867920386
   UnregisteredParameters {
     Overrides {
       Name: "cs:DefaultEquipment"
       AssetReference {
-        Id: 12924051150070208515
+        Id: 14801552679156672384
       }
     }
     Overrides {
@@ -2470,7 +2470,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 715562347255911010
+  Id: 15806630637582352261
   Name: "ResourcePersisterServer"
   Transform {
     Location {
@@ -2483,7 +2483,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
+  ParentId: 15714691753867920386
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2504,7 +2504,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14551202291256838818
+  Id: 5006258065121779879
   Name: "Respawn Settings"
   Transform {
     Location {
@@ -2517,7 +2517,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
+  ParentId: 15714691753867920386
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2544,7 +2544,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16514305268133925505
+  Id: 14776015227501097018
   Name: "Team Settings"
   Transform {
     Location {
@@ -2557,7 +2557,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
+  ParentId: 15714691753867920386
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2582,7 +2582,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2292257681646650597
+  Id: 15188989293060089897
   Name: "Game Settings"
   Transform {
     Location {
@@ -2595,7 +2595,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2842352083438448324
+  ParentId: 15714691753867920386
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

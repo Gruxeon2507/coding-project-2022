@@ -1,7 +1,7 @@
 Name: "Ground floor"
-RootId: 3828754752708141654
+RootId: 1210590135993915341
 Objects {
-  Id: 16042284312701192436
+  Id: 8183098838934564682
   Name: "Decal Stains Round 01"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.207579955
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -48,7 +48,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7846807548506245533
+  Id: 7449575561554266226
   Name: "Decal Stains Round 01"
   Transform {
     Location {
@@ -67,7 +67,7 @@ Objects {
       Z: 0.397599727
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -95,7 +95,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5959815697715945701
+  Id: 17758169746215825891
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -110,7 +110,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -144,7 +144,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1034017728737016714
+  Id: 5537762618953322237
   Name: "Whitebox Floor 01 8m x 8m"
   Transform {
     Location {
@@ -160,7 +160,7 @@ Objects {
       Z: 0.0635351539
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -202,7 +202,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3139882032088528696
+  Id: 5331470902245611182
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -217,7 +217,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -251,7 +251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14071432536363264297
+  Id: 6062671782870184843
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -268,7 +268,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -302,7 +302,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16504428822067247892
+  Id: 9266628391955498619
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -320,7 +320,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -354,7 +354,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13747866639355557437
+  Id: 7637003506524611248
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -369,7 +369,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -405,7 +405,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12310545942653360197
+  Id: 784112563881316437
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -420,7 +420,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -456,7 +456,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7379608211131317978
+  Id: 12111961209784838340
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -471,7 +471,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -507,7 +507,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16277885189569568123
+  Id: 16106528976486884519
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -526,7 +526,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -560,7 +560,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16719825823945571160
+  Id: 11208684383039526832
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -575,7 +575,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -611,7 +611,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10041006077986479350
+  Id: 18439604166369390715
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -626,7 +626,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -660,7 +660,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10527630064240961597
+  Id: 5057944464797198977
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -675,7 +675,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -709,7 +709,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4561020400330321894
+  Id: 12416897146137710559
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -724,7 +724,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -758,7 +758,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5092423303316358385
+  Id: 17115694346147885786
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -776,7 +776,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -810,7 +810,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18412940207822191112
+  Id: 6454214323944291008
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -825,7 +825,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -859,7 +859,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10398262135927659184
+  Id: 16610610833129687163
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -874,7 +874,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -908,7 +908,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12117818275281262381
+  Id: 234648845992014772
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -923,7 +923,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -957,7 +957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17588296859591199785
+  Id: 16172669435272577233
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -975,7 +975,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1009,7 +1009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15172692816420880748
+  Id: 11679500934011578308
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1026,7 +1026,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1060,7 +1060,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13730981469936804946
+  Id: 3068791526547535923
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1075,7 +1075,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1109,7 +1109,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13016549660892389372
+  Id: 10000802288264631447
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1127,7 +1127,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1161,7 +1161,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11470289265265148431
+  Id: 31701963754609451
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1180,7 +1180,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1222,7 +1222,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 622668795621935045
+  Id: 18368596660019560598
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1239,7 +1239,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1275,7 +1275,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15540539325144080728
+  Id: 14629027394515274638
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1291,7 +1291,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1325,7 +1325,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17186169215425469903
+  Id: 14229623488459242384
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1342,7 +1342,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1376,7 +1376,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7876291306987703288
+  Id: 9305433290302706405
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1391,7 +1391,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1425,7 +1425,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 592541772999951057
+  Id: 517532164428811485
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1440,7 +1440,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1476,7 +1476,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2126020148149956142
+  Id: 3567701695387665897
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1491,7 +1491,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1527,7 +1527,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7475805090427018407
+  Id: 11340762383354220529
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1542,7 +1542,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1578,7 +1578,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5912977161571905361
+  Id: 11051555335130815228
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1593,7 +1593,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1629,7 +1629,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11627841407967352687
+  Id: 16645332446460210039
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1644,7 +1644,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1678,7 +1678,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11438007653555968645
+  Id: 16356713928811352974
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1693,7 +1693,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1729,7 +1729,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13999530494047582581
+  Id: 4067584032845867552
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1746,7 +1746,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1782,7 +1782,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9335982668617548427
+  Id: 1248438079018436757
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1799,7 +1799,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1835,7 +1835,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13509571825263236110
+  Id: 8211906224607034392
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1850,7 +1850,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1886,7 +1886,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4161320179818008485
+  Id: 55200241480668704
   Name: "Fantasy Castle Floor 03 4m"
   Transform {
     Location {
@@ -1901,7 +1901,7 @@ Objects {
       Z: 0.456013709
     }
   }
-  ParentId: 3828754752708141654
+  ParentId: 1210590135993915341
   UnregisteredParameters {
   }
   Collidable_v2 {

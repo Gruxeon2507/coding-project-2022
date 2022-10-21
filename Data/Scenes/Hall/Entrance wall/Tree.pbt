@@ -1,7 +1,7 @@
 Name: "Entrance wall"
-RootId: 2607037675020179463
+RootId: 17793772011074368742
 Objects {
-  Id: 4301584351228298448
+  Id: 17430216718820131480
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -66,7 +66,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10766152137562964362
+  Id: 6509243705549696576
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -83,7 +83,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -131,7 +131,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4168005289255394352
+  Id: 7009573195319401423
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -150,7 +150,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -192,7 +192,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3251821292560133448
+  Id: 4144033402653065819
   Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
@@ -208,7 +208,7 @@ Objects {
       Z: 1.5
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -253,7 +253,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3088172010606086363
+  Id: 16367473717328889949
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -270,7 +270,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -318,7 +318,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17045545537235976131
+  Id: 10064688771127595994
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -337,7 +337,7 @@ Objects {
       Z: 1.95096493
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -379,7 +379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 694532054891482313
+  Id: 2267442843052929140
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -396,7 +396,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -444,7 +444,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5607514778494042789
+  Id: 179262332728623686
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -461,7 +461,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -509,7 +509,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10484484076662097954
+  Id: 4196893401320285249
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -526,7 +526,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -574,7 +574,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4221830958559647563
+  Id: 5192311898745022351
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -591,7 +591,7 @@ Objects {
       Z: 0.616718709
     }
   }
-  ParentId: 2607037675020179463
+  ParentId: 17793772011074368742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"

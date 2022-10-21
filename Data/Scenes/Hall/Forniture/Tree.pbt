@@ -1,7 +1,7 @@
 Name: "Forniture"
-RootId: 8985822973359504404
+RootId: 1435170921066578257
 Objects {
-  Id: 16014792476824525833
+  Id: 5208886180941079663
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1.73296845
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -59,7 +59,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13500537237799718651
+  Id: 18269886721462587057
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -75,7 +75,7 @@ Objects {
       Z: 1.73296845
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -117,7 +117,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13691160249932738452
+  Id: 7249522459629598911
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -133,7 +133,7 @@ Objects {
       Z: 1.52900505
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -167,7 +167,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6303942763846677302
+  Id: 14329953858030666433
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -183,7 +183,7 @@ Objects {
       Z: 1.52900505
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -217,7 +217,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4924304767820820593
+  Id: 8719130344643442690
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -233,7 +233,7 @@ Objects {
       Z: 1.52900505
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -267,7 +267,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12011865393266744847
+  Id: 11530002204618571537
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -283,7 +283,7 @@ Objects {
       Z: 1.52900505
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -317,7 +317,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16367594637999423946
+  Id: 8777180977715615305
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -333,7 +333,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -367,7 +367,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9539247619018686096
+  Id: 12520562944752579979
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -384,7 +384,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -418,7 +418,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8133359154188804017
+  Id: 16828086325977403445
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -434,7 +434,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -470,7 +470,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18310822914560128685
+  Id: 14515839306044193821
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -485,7 +485,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -519,7 +519,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1404757371586976315
+  Id: 3112484854140039562
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -534,7 +534,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -568,7 +568,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3074712549291465351
+  Id: 17590016744758695007
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -583,7 +583,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -617,7 +617,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6842621785046392459
+  Id: 2391695132671254526
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -633,7 +633,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -669,7 +669,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10901596073722900220
+  Id: 3651528609535662967
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -684,7 +684,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -718,7 +718,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13575159856205412754
+  Id: 17131003172459051458
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -733,7 +733,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -767,7 +767,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2995314481211744115
+  Id: 7482503251788902330
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -782,7 +782,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -816,7 +816,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10970029397362284031
+  Id: 4754574643842939662
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -832,7 +832,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -866,7 +866,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14631137788650060441
+  Id: 2557652028889756404
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -883,7 +883,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -917,7 +917,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3542367584151715551
+  Id: 18023072123885460541
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -933,7 +933,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -969,7 +969,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12347819883175041665
+  Id: 260042811715823000
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -984,7 +984,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1018,7 +1018,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11922145083883769633
+  Id: 7316512734375165522
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -1033,7 +1033,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1067,7 +1067,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13899393805523024713
+  Id: 9829296728786757725
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -1082,7 +1082,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1116,7 +1116,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13655877450357577800
+  Id: 12007536803710323391
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -1132,7 +1132,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1168,7 +1168,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9311724328705168766
+  Id: 7393073797401295142
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -1183,7 +1183,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1217,7 +1217,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14678713524352943596
+  Id: 2818215588964574740
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -1232,7 +1232,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1266,7 +1266,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6993323022758395773
+  Id: 13845089713422821528
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -1281,7 +1281,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1315,7 +1315,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14282971845380046836
+  Id: 5331132556309888746
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1331,7 +1331,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1373,7 +1373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13002588519364933336
+  Id: 9251329440216945091
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1390,7 +1390,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1432,7 +1432,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1822414287805034144
+  Id: 16419622231382417156
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1448,7 +1448,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1490,7 +1490,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14857640539892656749
+  Id: 15008382942057637770
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1507,7 +1507,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1549,7 +1549,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17190163444559143961
+  Id: 4488299440667587631
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1565,7 +1565,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1607,7 +1607,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8566562433479676414
+  Id: 16192787769312087866
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1624,7 +1624,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1666,7 +1666,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12789797681936099217
+  Id: 7994140768468618725
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1682,7 +1682,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1724,7 +1724,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9390373319151314379
+  Id: 2470011694305915388
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1741,7 +1741,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1783,7 +1783,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6644346152666219896
+  Id: 5089658476151269890
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1799,7 +1799,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1841,7 +1841,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3746067978394724872
+  Id: 15532450699730597714
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1857,7 +1857,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1899,7 +1899,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3377742114234790504
+  Id: 538300931518374593
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1915,7 +1915,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1957,7 +1957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3713750345691428244
+  Id: 8073887550546621700
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -1973,7 +1973,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2015,7 +2015,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9060231857874060820
+  Id: 12118998490741045826
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2032,7 +2032,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2074,7 +2074,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14824769915178201880
+  Id: 17497149173921662983
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2091,7 +2091,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2133,7 +2133,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9775980064237790375
+  Id: 11782462757597769578
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2150,7 +2150,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2192,7 +2192,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3328951936436823537
+  Id: 15866814021295884300
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2209,7 +2209,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2251,7 +2251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8739973653574819824
+  Id: 17391526111900434237
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2268,7 +2268,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2310,7 +2310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14941999440556049029
+  Id: 3254882062292837385
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2327,7 +2327,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2369,7 +2369,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3191083418108897584
+  Id: 5610849879044396227
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2386,7 +2386,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2428,7 +2428,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2700810821463552844
+  Id: 2571785327746498684
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2445,7 +2445,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2487,7 +2487,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12011524401850757428
+  Id: 16470888146595755096
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2504,7 +2504,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2546,7 +2546,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1405271641990431860
+  Id: 13210194065380677797
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2563,7 +2563,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2605,7 +2605,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2846208893701941011
+  Id: 9219420413320298197
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2622,7 +2622,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2664,7 +2664,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16765384157464795476
+  Id: 5623525965013612345
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2680,7 +2680,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2722,7 +2722,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9496519023230213916
+  Id: 12631660028821879210
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2738,7 +2738,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2780,7 +2780,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14729162751770581009
+  Id: 18268013560531712890
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2796,7 +2796,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2838,7 +2838,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11104933551256018791
+  Id: 1858083869190226965
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2854,7 +2854,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2896,7 +2896,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10173519194468961356
+  Id: 8430096024037091751
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2912,7 +2912,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2954,7 +2954,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8021600349335799737
+  Id: 3508116472198468781
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -2970,7 +2970,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3012,7 +3012,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4467202120162838636
+  Id: 12785052251881127272
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -3028,7 +3028,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3070,7 +3070,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8931196286046678839
+  Id: 8795959231574243769
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -3086,7 +3086,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3128,7 +3128,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 153460332253513797
+  Id: 7047251824823519074
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -3144,7 +3144,7 @@ Objects {
       Z: 1.85093462
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3186,7 +3186,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3311580374266128510
+  Id: 15619752431311181647
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -3202,7 +3202,7 @@ Objects {
       Z: 1.85093462
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3244,7 +3244,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7607085881694127940
+  Id: 2640293066919885842
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -3260,7 +3260,7 @@ Objects {
       Z: 1.85093462
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3302,7 +3302,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9973526061717448557
+  Id: 14042729959956191635
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -3318,7 +3318,7 @@ Objects {
       Z: 1.85093462
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3360,7 +3360,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5558555048851130514
+  Id: 16089212820676357873
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -3376,7 +3376,7 @@ Objects {
       Z: 1.85093462
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3418,7 +3418,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9334058190539175357
+  Id: 10948174643986434245
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -3434,7 +3434,7 @@ Objects {
       Z: 1.85093462
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3476,7 +3476,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14648258504426712654
+  Id: 18165300427767932404
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -3492,7 +3492,7 @@ Objects {
       Z: 1.85093462
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3534,7 +3534,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16754852357230599090
+  Id: 7008577666186369777
   Name: "Craftsman Coffee Table"
   Transform {
     Location {
@@ -3550,7 +3550,7 @@ Objects {
       Z: 1.85093462
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3592,7 +3592,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16594565151414110299
+  Id: 3458858733876606259
   Name: "Craftsman Dining Chair"
   Transform {
     Location {
@@ -3609,7 +3609,7 @@ Objects {
       Z: 1.51573586
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3651,7 +3651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17450345848659472738
+  Id: 16652967008279071895
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -3667,7 +3667,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3701,7 +3701,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12133079256921958628
+  Id: 6900970961418176913
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -3718,7 +3718,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3752,7 +3752,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10599990455729706667
+  Id: 11984361320479451778
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -3768,7 +3768,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3804,7 +3804,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15057274523685750289
+  Id: 16158021229839594176
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -3819,7 +3819,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3853,7 +3853,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13361020888540955860
+  Id: 1322314153415942028
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -3868,7 +3868,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3902,7 +3902,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3734330194429722428
+  Id: 16111002883291170392
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -3917,7 +3917,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3951,7 +3951,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12166860337451768712
+  Id: 14875870271410342044
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -3967,7 +3967,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4003,7 +4003,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6527407389684209819
+  Id: 3408689408332597031
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4018,7 +4018,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4052,7 +4052,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10116723869663649734
+  Id: 17965868797120214283
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4067,7 +4067,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4101,7 +4101,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10377419186770321763
+  Id: 12582836599966736974
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4116,7 +4116,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4150,7 +4150,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14940762432424322030
+  Id: 14849569226377522146
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -4166,7 +4166,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4200,7 +4200,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14067548255594722695
+  Id: 1592246544065775166
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -4217,7 +4217,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4251,7 +4251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9438971333359596407
+  Id: 14918763241574605792
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -4267,7 +4267,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4303,7 +4303,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15745354968219580612
+  Id: 5221739712758278517
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4318,7 +4318,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4352,7 +4352,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17223165146104486770
+  Id: 12841830632114398672
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4367,7 +4367,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4401,7 +4401,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10614829466150382889
+  Id: 4485812168593703722
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4416,7 +4416,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4450,7 +4450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3843004183735843088
+  Id: 4802546752123035878
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -4466,7 +4466,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4502,7 +4502,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14171772352510797662
+  Id: 7211585693648889193
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4517,7 +4517,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4551,7 +4551,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7144426096449878035
+  Id: 3799328030556863038
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4566,7 +4566,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4600,7 +4600,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15378775156351237491
+  Id: 7071082226317724990
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4615,7 +4615,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4649,7 +4649,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1796483841587994856
+  Id: 11062025887839638261
   Name: "Bottle 05"
   Transform {
     Location {
@@ -4665,7 +4665,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4699,7 +4699,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17761414410844963480
+  Id: 5070882511978274309
   Name: "Bottle 05"
   Transform {
     Location {
@@ -4715,7 +4715,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4749,7 +4749,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2978282338883300274
+  Id: 1693541384213889675
   Name: "Bottle 05"
   Transform {
     Location {
@@ -4765,7 +4765,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4799,7 +4799,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12814492360059267862
+  Id: 16106097636422190282
   Name: "Bottle 05"
   Transform {
     Location {
@@ -4815,7 +4815,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4849,7 +4849,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4060527535689997723
+  Id: 15079171603985087580
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -4866,7 +4866,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4900,7 +4900,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15057765806395797422
+  Id: 11364228223593248492
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -4916,7 +4916,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4952,7 +4952,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6375110375133967667
+  Id: 18401311519901815903
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -4967,7 +4967,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5001,7 +5001,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16814588501033329446
+  Id: 9701216292040791545
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5016,7 +5016,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5050,7 +5050,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9622093732829020138
+  Id: 10865385794934269231
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5065,7 +5065,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5099,7 +5099,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 114307007924837590
+  Id: 12663917695789345463
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -5115,7 +5115,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5151,7 +5151,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4198640188320198081
+  Id: 11004242681644469720
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5166,7 +5166,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5200,7 +5200,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8141105075600774943
+  Id: 14515199409983607569
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5215,7 +5215,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5249,7 +5249,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6962169170772529797
+  Id: 17684366036510353127
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5264,7 +5264,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5298,7 +5298,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12563463129896409789
+  Id: 194738982589347178
   Name: "Craftsman Chair 01"
   Transform {
     Location {
@@ -5315,7 +5315,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5349,7 +5349,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16593754375546025949
+  Id: 12628841468984503265
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -5365,7 +5365,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5401,7 +5401,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18285771660086059180
+  Id: 15525983868787226047
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5416,7 +5416,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5450,7 +5450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7565314631837173903
+  Id: 7901032720877388419
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5465,7 +5465,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5499,7 +5499,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4180064879730434537
+  Id: 3030873251549590303
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5514,7 +5514,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5548,7 +5548,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2839873292444791335
+  Id: 1982572617185649453
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5563,7 +5563,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5597,7 +5597,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12649272802120369644
+  Id: 15004790192997356216
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5612,7 +5612,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5646,7 +5646,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7138764590960747423
+  Id: 3490565180300244090
   Name: "Craftsman Couch"
   Transform {
     Location {
@@ -5662,7 +5662,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5698,7 +5698,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14912933148850382720
+  Id: 8991472294116378438
   Name: "Craftsman End Table"
   Transform {
     Location {
@@ -5713,7 +5713,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8985822973359504404
+  ParentId: 1435170921066578257
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

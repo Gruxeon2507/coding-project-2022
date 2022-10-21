@@ -1,7 +1,7 @@
 Name: "Walls"
-RootId: 3797742000227566766
+RootId: 8039155254823111417
 Objects {
-  Id: 17407341351024612259
+  Id: 16277157844598271965
   Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.939875722
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -52,7 +52,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18264880305089810080
+  Id: 14379804466045878248
   Name: "Fantasy Castle Wall 03 - Doorway 01"
   Transform {
     Location {
@@ -68,7 +68,7 @@ Objects {
       Z: 0.977958918
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -128,7 +128,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11422526920273820673
+  Id: 1976937416235817661
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -144,7 +144,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -192,7 +192,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16472108196874824083
+  Id: 9724792382126976410
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -208,7 +208,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -256,7 +256,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5162315479886208475
+  Id: 1202412758605021351
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -272,7 +272,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -320,7 +320,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10118906512875358519
+  Id: 8519937737076976221
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -336,7 +336,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -384,7 +384,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3419460594580709824
+  Id: 18116181466123890142
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -401,7 +401,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -449,7 +449,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8896615018128830844
+  Id: 13481152695164043685
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -466,7 +466,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -514,7 +514,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16669539984853780350
+  Id: 7695102265975822884
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -531,7 +531,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -579,7 +579,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8619379366612081129
+  Id: 7102465580386947735
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -595,7 +595,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -667,7 +667,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 537072361764034193
+  Id: 8362026207352171896
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -684,7 +684,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -732,7 +732,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11319840112875002532
+  Id: 4905392603235649081
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -749,7 +749,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -797,7 +797,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3457335858819173257
+  Id: 1920977760242229138
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -814,7 +814,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -886,7 +886,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8320940578850413297
+  Id: 14351741561667411990
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -902,7 +902,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -950,7 +950,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1740747792924600256
+  Id: 1753849637385155742
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -967,7 +967,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -1039,7 +1039,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10592813829229466344
+  Id: 13870561711512452169
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -1055,7 +1055,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -1127,7 +1127,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2697630825871629041
+  Id: 756115021729060656
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1144,7 +1144,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1216,7 +1216,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13204113432061130503
+  Id: 10341650756724119831
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1233,7 +1233,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1275,7 +1275,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2956158449754641376
+  Id: 6296412374201109100
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1292,7 +1292,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1364,7 +1364,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7853155947148272836
+  Id: 11383636293517317682
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1381,7 +1381,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1423,7 +1423,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14652108040682575275
+  Id: 2410454505566919334
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1440,7 +1440,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1512,7 +1512,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13426911548379390335
+  Id: 2214082059337027929
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1529,7 +1529,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1571,7 +1571,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11327737645210063876
+  Id: 6509932158805262195
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1587,7 +1587,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1629,7 +1629,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1246105644197682389
+  Id: 2574428295893846586
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1645,7 +1645,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1717,7 +1717,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11435237981550969916
+  Id: 12795191702741502513
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1733,7 +1733,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1775,7 +1775,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14292500880897216352
+  Id: 14351435460490072462
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1791,7 +1791,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1863,7 +1863,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10013593676012684803
+  Id: 57316620687871549
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1879,7 +1879,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1921,7 +1921,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16361378246603660149
+  Id: 16623129274851378970
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1937,7 +1937,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2009,7 +2009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4736596387790524287
+  Id: 15439580339876349280
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -2026,7 +2026,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2098,7 +2098,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14685409939383518412
+  Id: 15430590020422343338
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -2115,7 +2115,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2187,7 +2187,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18428685145619307035
+  Id: 4461175842947993362
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -2204,7 +2204,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2246,7 +2246,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9929052866277469623
+  Id: 13077278312064130555
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -2263,7 +2263,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2335,7 +2335,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5721132445063982136
+  Id: 6768429557789242495
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -2352,7 +2352,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2394,7 +2394,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3070553153715796060
+  Id: 10118496651787182240
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -2411,7 +2411,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2483,7 +2483,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14222399957769830544
+  Id: 363619749428474769
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -2500,7 +2500,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2542,7 +2542,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14389720424105711462
+  Id: 1782520768501753798
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -2559,7 +2559,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2601,7 +2601,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11300102568561773560
+  Id: 9941452009927956563
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -2618,7 +2618,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2690,7 +2690,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12068201894264867760
+  Id: 4316932060775301356
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -2706,7 +2706,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2778,7 +2778,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18339114106176136072
+  Id: 5449771911887460447
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -2795,7 +2795,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2867,7 +2867,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15293633041266962978
+  Id: 13324878319724124021
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -2884,7 +2884,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2956,7 +2956,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3190004846798222651
+  Id: 4067567147292934960
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -2972,7 +2972,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3044,7 +3044,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7534065649827796991
+  Id: 17085806015988115491
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3061,7 +3061,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3133,7 +3133,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7837587137873586364
+  Id: 12168940912416457883
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3149,7 +3149,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3221,7 +3221,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7879597985303078238
+  Id: 9519414578169200625
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3238,7 +3238,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3310,7 +3310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7278378521981599290
+  Id: 5600048638678919127
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3326,7 +3326,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3398,7 +3398,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4523250088155576678
+  Id: 2372772252354871249
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3415,7 +3415,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3487,7 +3487,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17855954986564175439
+  Id: 17079650728454126299
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3504,7 +3504,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3576,7 +3576,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10869390028381456495
+  Id: 3042958698717517153
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3593,7 +3593,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3665,7 +3665,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16824992381280074933
+  Id: 1139165992139155454
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3682,7 +3682,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3754,7 +3754,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 751696335794178683
+  Id: 1740290549324146502
   Name: "Fantasy Castle Wall 01 - Door Basic Half Template"
   Transform {
     Location {
@@ -3771,9 +3771,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
-  ChildIds: 1535055447979633714
-  ChildIds: 12655900150239335147
+  ParentId: 8039155254823111417
+  ChildIds: 11563681229351010698
+  ChildIds: 7249958284724647348
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3792,7 +3792,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12655900150239335147
+  Id: 7249958284724647348
   Name: "Basic Door - Castle Half Wall"
   Transform {
     Location {
@@ -3808,10 +3808,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 751696335794178683
-  ChildIds: 1319990359174121447
-  ChildIds: 7546436007410436642
-  ChildIds: 10674982353518745290
+  ParentId: 1740290549324146502
+  ChildIds: 10857708994794036441
+  ChildIds: 16709709520220469226
+  ChildIds: 15981961644114339496
   UnregisteredParameters {
     Overrides {
       Name: "cs:AutoOpen"
@@ -3880,7 +3880,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10674982353518745290
+  Id: 15981961644114339496
   Name: "RotationRoot"
   Transform {
     Location {
@@ -3893,9 +3893,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12655900150239335147
-  ChildIds: 15813735666699261831
-  ChildIds: 18017055598292666342
+  ParentId: 7249958284724647348
+  ChildIds: 16067882828977447562
+  ChildIds: 64156708813942234
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -3917,7 +3917,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18017055598292666342
+  Id: 64156708813942234
   Name: "RotatingTrigger"
   Transform {
     Location {
@@ -3932,7 +3932,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 10674982353518745290
+  ParentId: 15981961644114339496
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -3964,7 +3964,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15813735666699261831
+  Id: 16067882828977447562
   Name: "Geo_StaticContext"
   Transform {
     Location {
@@ -3977,8 +3977,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10674982353518745290
-  ChildIds: 14136527279794756367
+  ParentId: 15981961644114339496
+  ChildIds: 16817444657257369253
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -4000,7 +4000,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14136527279794756367
+  Id: 16817444657257369253
   Name: "Fantasy Castle Door 01"
   Transform {
     Location {
@@ -4014,7 +4014,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15813735666699261831
+  ParentId: 16067882828977447562
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4056,7 +4056,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7546436007410436642
+  Id: 16709709520220469226
   Name: "ClientContext"
   Transform {
     Location {
@@ -4070,10 +4070,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12655900150239335147
-  ChildIds: 14861939323889872886
-  ChildIds: 6823520592793832533
-  ChildIds: 4690012469164824260
+  ParentId: 7249958284724647348
+  ChildIds: 13391654952667414773
+  ChildIds: 13372318165385807152
+  ChildIds: 10944248748893710363
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4099,7 +4099,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4690012469164824260
+  Id: 10944248748893710363
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
@@ -4112,7 +4112,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7546436007410436642
+  ParentId: 16709709520220469226
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -4153,7 +4153,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6823520592793832533
+  Id: 13372318165385807152
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
@@ -4166,7 +4166,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7546436007410436642
+  ParentId: 16709709520220469226
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -4209,7 +4209,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14861939323889872886
+  Id: 13391654952667414773
   Name: "BasicDoorControllerClient"
   Transform {
     Location {
@@ -4222,24 +4222,24 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7546436007410436642
+  ParentId: 16709709520220469226
   UnregisteredParameters {
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 10674982353518745290
+        SelfId: 15981961644114339496
       }
     }
     Overrides {
       Name: "cs:OpenSound"
       ObjectReference {
-        SelfId: 6823520592793832533
+        SelfId: 13372318165385807152
       }
     }
     Overrides {
       Name: "cs:CloseSound"
       ObjectReference {
-        SelfId: 4690012469164824260
+        SelfId: 10944248748893710363
       }
     }
   }
@@ -4263,7 +4263,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1319990359174121447
+  Id: 10857708994794036441
   Name: "ServerContext"
   Transform {
     Location {
@@ -4276,9 +4276,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12655900150239335147
-  ChildIds: 16463721764088207594
-  ChildIds: 11409490074742330932
+  ParentId: 7249958284724647348
+  ChildIds: 573378289510457592
+  ChildIds: 10297173185291671512
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4299,7 +4299,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11409490074742330932
+  Id: 10297173185291671512
   Name: "StaticTrigger"
   Transform {
     Location {
@@ -4314,7 +4314,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 1319990359174121447
+  ParentId: 10857708994794036441
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4345,7 +4345,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16463721764088207594
+  Id: 573378289510457592
   Name: "BasicDoorControllerServer"
   Transform {
     Location {
@@ -4358,30 +4358,30 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1319990359174121447
+  ParentId: 10857708994794036441
   UnregisteredParameters {
     Overrides {
       Name: "cs:ComponentRoot"
       ObjectReference {
-        SelfId: 12655900150239335147
+        SelfId: 7249958284724647348
       }
     }
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 10674982353518745290
+        SelfId: 15981961644114339496
       }
     }
     Overrides {
       Name: "cs:RotatingTrigger"
       ObjectReference {
-        SelfId: 18017055598292666342
+        SelfId: 64156708813942234
       }
     }
     Overrides {
       Name: "cs:StaticTrigger"
       ObjectReference {
-        SelfId: 11409490074742330932
+        SelfId: 10297173185291671512
       }
     }
   }
@@ -4405,7 +4405,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1535055447979633714
+  Id: 11563681229351010698
   Name: "Fantasy Castle Wall 01 - Doorway 01 Half"
   Transform {
     Location {
@@ -4418,7 +4418,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 751696335794178683
+  ParentId: 1740290549324146502
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -4484,7 +4484,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7546962982464788709
+  Id: 1023019273682669864
   Name: "Basic Door - Castle Half Wall"
   Transform {
     Location {
@@ -4501,10 +4501,10 @@ Objects {
       Z: 1.0206784
     }
   }
-  ParentId: 3797742000227566766
-  ChildIds: 11066234784153304712
-  ChildIds: 16236508928486693802
-  ChildIds: 4588135347855028611
+  ParentId: 8039155254823111417
+  ChildIds: 395507796617198022
+  ChildIds: 18364131511138888082
+  ChildIds: 14564583578340237775
   UnregisteredParameters {
     Overrides {
       Name: "cs:AutoOpen"
@@ -4573,7 +4573,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4588135347855028611
+  Id: 14564583578340237775
   Name: "RotationRoot"
   Transform {
     Location {
@@ -4586,9 +4586,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7546962982464788709
-  ChildIds: 11339797963819755550
-  ChildIds: 16031781191729839368
+  ParentId: 1023019273682669864
+  ChildIds: 6651393092128314320
+  ChildIds: 2977298310705196723
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -4610,7 +4610,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16031781191729839368
+  Id: 2977298310705196723
   Name: "RotatingTrigger"
   Transform {
     Location {
@@ -4625,7 +4625,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 4588135347855028611
+  ParentId: 14564583578340237775
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -4657,7 +4657,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11339797963819755550
+  Id: 6651393092128314320
   Name: "Geo_StaticContext"
   Transform {
     Location {
@@ -4670,8 +4670,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4588135347855028611
-  ChildIds: 1553367991689261611
+  ParentId: 14564583578340237775
+  ChildIds: 2010597010025642425
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -4693,7 +4693,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1553367991689261611
+  Id: 2010597010025642425
   Name: "Fantasy Castle Door 01"
   Transform {
     Location {
@@ -4707,7 +4707,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11339797963819755550
+  ParentId: 6651393092128314320
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4749,7 +4749,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16236508928486693802
+  Id: 18364131511138888082
   Name: "ClientContext"
   Transform {
     Location {
@@ -4763,10 +4763,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7546962982464788709
-  ChildIds: 16022081675637250142
-  ChildIds: 4511896909441943032
-  ChildIds: 5405382291606015874
+  ParentId: 1023019273682669864
+  ChildIds: 7938654781465962544
+  ChildIds: 4353783789009168111
+  ChildIds: 7979292316174605578
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4792,7 +4792,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5405382291606015874
+  Id: 7979292316174605578
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
@@ -4805,7 +4805,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16236508928486693802
+  ParentId: 18364131511138888082
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -4846,7 +4846,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4511896909441943032
+  Id: 4353783789009168111
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
@@ -4859,7 +4859,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16236508928486693802
+  ParentId: 18364131511138888082
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -4902,7 +4902,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16022081675637250142
+  Id: 7938654781465962544
   Name: "BasicDoorControllerClient"
   Transform {
     Location {
@@ -4915,24 +4915,24 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16236508928486693802
+  ParentId: 18364131511138888082
   UnregisteredParameters {
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 4588135347855028611
+        SelfId: 14564583578340237775
       }
     }
     Overrides {
       Name: "cs:OpenSound"
       ObjectReference {
-        SelfId: 4511896909441943032
+        SelfId: 4353783789009168111
       }
     }
     Overrides {
       Name: "cs:CloseSound"
       ObjectReference {
-        SelfId: 5405382291606015874
+        SelfId: 7979292316174605578
       }
     }
   }
@@ -4956,7 +4956,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11066234784153304712
+  Id: 395507796617198022
   Name: "ServerContext"
   Transform {
     Location {
@@ -4969,9 +4969,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7546962982464788709
-  ChildIds: 134122544959438787
-  ChildIds: 10726003650457737605
+  ParentId: 1023019273682669864
+  ChildIds: 4703433206450482055
+  ChildIds: 9447079633904663045
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4992,7 +4992,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10726003650457737605
+  Id: 9447079633904663045
   Name: "StaticTrigger"
   Transform {
     Location {
@@ -5007,7 +5007,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 11066234784153304712
+  ParentId: 395507796617198022
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5038,7 +5038,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 134122544959438787
+  Id: 4703433206450482055
   Name: "BasicDoorControllerServer"
   Transform {
     Location {
@@ -5051,30 +5051,30 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11066234784153304712
+  ParentId: 395507796617198022
   UnregisteredParameters {
     Overrides {
       Name: "cs:ComponentRoot"
       ObjectReference {
-        SelfId: 7546962982464788709
+        SelfId: 1023019273682669864
       }
     }
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 4588135347855028611
+        SelfId: 14564583578340237775
       }
     }
     Overrides {
       Name: "cs:RotatingTrigger"
       ObjectReference {
-        SelfId: 16031781191729839368
+        SelfId: 2977298310705196723
       }
     }
     Overrides {
       Name: "cs:StaticTrigger"
       ObjectReference {
-        SelfId: 10726003650457737605
+        SelfId: 9447079633904663045
       }
     }
   }
@@ -5098,7 +5098,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10494139215732868285
+  Id: 7156548953106421230
   Name: "Fantasy Castle Wall 02"
   Transform {
     Location {
@@ -5115,7 +5115,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimInner:id"
@@ -5175,7 +5175,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17605045643749546372
+  Id: 943231179753249417
   Name: "Fantasy Castle Wall 02"
   Transform {
     Location {
@@ -5192,7 +5192,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5252,7 +5252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13468538975159628956
+  Id: 18028189154392249725
   Name: "Fantasy Castle Wall 02"
   Transform {
     Location {
@@ -5269,7 +5269,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5329,7 +5329,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16478085592847659170
+  Id: 14853280812754472046
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5346,7 +5346,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5418,7 +5418,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2650465953700312802
+  Id: 7630453935717977916
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5435,7 +5435,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5507,7 +5507,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 961257276184100451
+  Id: 9824379661729599777
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -5524,7 +5524,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5596,7 +5596,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9135186415746535121
+  Id: 16122395768573063876
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -5613,7 +5613,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5685,7 +5685,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14687712022744156982
+  Id: 1132375585158786851
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5702,7 +5702,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5774,7 +5774,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17146776182944646404
+  Id: 11074093069204092895
   Name: "Fantasy Castle Wall 01 - Curved"
   Transform {
     Location {
@@ -5791,7 +5791,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5863,7 +5863,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16389814705270447352
+  Id: 12853627228964211589
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5880,7 +5880,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5952,7 +5952,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9213311001634849543
+  Id: 725811464035853676
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5969,7 +5969,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6041,7 +6041,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6804314032258650389
+  Id: 15121864733646924877
   Name: "Fantasy Castle Wall 01 - Curved"
   Transform {
     Location {
@@ -6058,7 +6058,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6130,7 +6130,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15935107750744850847
+  Id: 5298298574174216429
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6147,7 +6147,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6219,7 +6219,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16980037119750838499
+  Id: 12617371109757864778
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6236,7 +6236,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6308,7 +6308,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1606363626050612657
+  Id: 110710905873583612
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6325,7 +6325,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6397,7 +6397,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8569266577858840326
+  Id: 13941873289559194739
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -6414,7 +6414,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6486,7 +6486,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12203726728179213786
+  Id: 6932822693485442955
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -6503,7 +6503,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6575,7 +6575,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1957273604277357390
+  Id: 15468316159954834231
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6592,7 +6592,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6664,7 +6664,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9467978205194418641
+  Id: 2668298958583271973
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6681,7 +6681,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6753,7 +6753,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2206545201333194996
+  Id: 12965010022306305570
   Name: "Craftsman Part - Window 01"
   Transform {
     Location {
@@ -6769,7 +6769,7 @@ Objects {
       Z: 0.720066071
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -6811,7 +6811,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18167534048944038004
+  Id: 17908641330650035641
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -6827,7 +6827,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -6875,7 +6875,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 692510310495856796
+  Id: 6503319120282473761
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -6891,7 +6891,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -6939,7 +6939,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3747044357361798549
+  Id: 5348452341233760375
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6956,7 +6956,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7028,7 +7028,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6850799420150698545
+  Id: 17689690667187984907
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7045,7 +7045,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7117,7 +7117,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8145294181799373444
+  Id: 1315669034663617304
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7134,7 +7134,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7206,7 +7206,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15056885705535219866
+  Id: 5934717748343937814
   Name: "Fantasy Castle Wall 01 - Curved"
   Transform {
     Location {
@@ -7223,7 +7223,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7295,7 +7295,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1781019285004543533
+  Id: 6138302807802310491
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -7311,7 +7311,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7383,7 +7383,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12850485442232824737
+  Id: 7149632616888331776
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -7400,7 +7400,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimOuter:id"
@@ -7472,7 +7472,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8364790382181541796
+  Id: 106386618317003850
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -7489,7 +7489,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -7537,7 +7537,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13470361313981901969
+  Id: 10942112389230002436
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -7553,7 +7553,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7625,7 +7625,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11049406590183755013
+  Id: 13131211375057474879
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7642,7 +7642,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7714,7 +7714,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17881977994947800587
+  Id: 3424128836682265859
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7731,7 +7731,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7803,7 +7803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1303659564674950885
+  Id: 9743214945681334632
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7820,7 +7820,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7892,7 +7892,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9089042069304226248
+  Id: 4174629968701284761
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -7909,7 +7909,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimOuter:id"
@@ -7981,7 +7981,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4934995273939332329
+  Id: 12865079337640572500
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -7998,7 +7998,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -8046,7 +8046,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15801243976041531852
+  Id: 9865445571598284121
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -8062,7 +8062,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -8134,7 +8134,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2619417061282151288
+  Id: 437718675763552149
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -8151,7 +8151,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -8199,7 +8199,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18210453691909239614
+  Id: 11056198584756955062
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -8216,7 +8216,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimOuter:id"
@@ -8288,7 +8288,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9008159381367700978
+  Id: 13404704714175593317
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -8304,7 +8304,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -8376,7 +8376,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13110234453028771902
+  Id: 6271485732929076921
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -8393,7 +8393,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -8465,7 +8465,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10196015143959108602
+  Id: 12016840559722854833
   Name: "Fantasy Castle Wall Interior 01 - Door Double Template"
   Transform {
     Location {
@@ -8481,9 +8481,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
-  ChildIds: 3027956567299540737
-  ChildIds: 18396750897477515981
+  ParentId: 8039155254823111417
+  ChildIds: 1043305211804233023
+  ChildIds: 12718885697037014898
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8502,7 +8502,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18396750897477515981
+  Id: 12718885697037014898
   Name: "Double Door - Castle"
   Transform {
     Location {
@@ -8519,11 +8519,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10196015143959108602
-  ChildIds: 16872343226814043803
-  ChildIds: 13157682291363511825
-  ChildIds: 11672746960987439394
-  ChildIds: 7535299880169488544
+  ParentId: 12016840559722854833
+  ChildIds: 2215665103192589339
+  ChildIds: 8390567617337156194
+  ChildIds: 5233631754120383004
+  ChildIds: 91253089179325156
   UnregisteredParameters {
     Overrides {
       Name: "cs:AutoOpen"
@@ -8592,7 +8592,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7535299880169488544
+  Id: 91253089179325156
   Name: "RotationRoot2"
   Transform {
     Location {
@@ -8606,9 +8606,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18396750897477515981
-  ChildIds: 4584514620066992911
-  ChildIds: 13108213501041610475
+  ParentId: 12718885697037014898
+  ChildIds: 15800939190161184487
+  ChildIds: 1931735668130545963
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8630,7 +8630,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13108213501041610475
+  Id: 1931735668130545963
   Name: "RotatingTrigger2"
   Transform {
     Location {
@@ -8646,7 +8646,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 7535299880169488544
+  ParentId: 91253089179325156
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8678,7 +8678,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4584514620066992911
+  Id: 15800939190161184487
   Name: "Geo_StaticContext"
   Transform {
     Location {
@@ -8692,8 +8692,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7535299880169488544
-  ChildIds: 4778754948511491212
+  ParentId: 91253089179325156
+  ChildIds: 15934656011419093301
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8715,7 +8715,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4778754948511491212
+  Id: 15934656011419093301
   Name: "Fantasy Castle Door 02"
   Transform {
     Location {
@@ -8731,7 +8731,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4584514620066992911
+  ParentId: 15800939190161184487
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8773,7 +8773,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11672746960987439394
+  Id: 5233631754120383004
   Name: "RotationRoot1"
   Transform {
     Location {
@@ -8786,8 +8786,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18396750897477515981
-  ChildIds: 17602146694671658231
+  ParentId: 12718885697037014898
+  ChildIds: 641890040248540222
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8809,7 +8809,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17602146694671658231
+  Id: 641890040248540222
   Name: "Geo_StaticContext"
   Transform {
     Location {
@@ -8822,8 +8822,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11672746960987439394
-  ChildIds: 16771171678563204640
+  ParentId: 5233631754120383004
+  ChildIds: 14250676084536938427
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8845,7 +8845,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16771171678563204640
+  Id: 14250676084536938427
   Name: "Fantasy Castle Door 02"
   Transform {
     Location {
@@ -8859,7 +8859,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17602146694671658231
+  ParentId: 641890040248540222
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8901,7 +8901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13157682291363511825
+  Id: 8390567617337156194
   Name: "ClientContext"
   Transform {
     Location {
@@ -8915,12 +8915,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18396750897477515981
-  ChildIds: 14737688100824964429
-  ChildIds: 7706021641084782458
-  ChildIds: 2963809798988686275
-  ChildIds: 14396094273581564884
-  ChildIds: 15373167184894197712
+  ParentId: 12718885697037014898
+  ChildIds: 1725304406874494784
+  ChildIds: 9411564249422877718
+  ChildIds: 8154617865784008079
+  ChildIds: 11491719886034965751
+  ChildIds: 3831133299856810968
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8946,7 +8946,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15373167184894197712
+  Id: 3831133299856810968
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
@@ -8962,7 +8962,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13157682291363511825
+  ParentId: 8390567617337156194
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -9003,7 +9003,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14396094273581564884
+  Id: 11491719886034965751
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
@@ -9019,7 +9019,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13157682291363511825
+  ParentId: 8390567617337156194
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -9062,7 +9062,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2963809798988686275
+  Id: 8154617865784008079
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
@@ -9076,7 +9076,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13157682291363511825
+  ParentId: 8390567617337156194
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -9117,7 +9117,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7706021641084782458
+  Id: 9411564249422877718
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
@@ -9131,7 +9131,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13157682291363511825
+  ParentId: 8390567617337156194
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -9174,7 +9174,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14737688100824964429
+  Id: 1725304406874494784
   Name: "DoubleDoorControllerClient"
   Transform {
     Location {
@@ -9187,36 +9187,36 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13157682291363511825
+  ParentId: 8390567617337156194
   UnregisteredParameters {
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 11672746960987439394
+        SelfId: 5233631754120383004
       }
     }
     Overrides {
       Name: "cs:OpenSound1"
       ObjectReference {
-        SelfId: 7706021641084782458
+        SelfId: 9411564249422877718
       }
     }
     Overrides {
       Name: "cs:CloseSound1"
       ObjectReference {
-        SelfId: 2963809798988686275
+        SelfId: 8154617865784008079
       }
     }
     Overrides {
       Name: "cs:OpenSound2"
       ObjectReference {
-        SelfId: 14396094273581564884
+        SelfId: 11491719886034965751
       }
     }
     Overrides {
       Name: "cs:CloseSound2"
       ObjectReference {
-        SelfId: 15373167184894197712
+        SelfId: 3831133299856810968
       }
     }
   }
@@ -9240,7 +9240,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16872343226814043803
+  Id: 2215665103192589339
   Name: "ServerContext"
   Transform {
     Location {
@@ -9253,10 +9253,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18396750897477515981
-  ChildIds: 13499112981728358938
-  ChildIds: 2745857365135010832
-  ChildIds: 174745400794061869
+  ParentId: 12718885697037014898
+  ChildIds: 3130400726253222121
+  ChildIds: 4475390058134242189
+  ChildIds: 1239381484284074004
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9277,7 +9277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 174745400794061869
+  Id: 1239381484284074004
   Name: "StaticTrigger2"
   Transform {
     Location {
@@ -9293,7 +9293,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 16872343226814043803
+  ParentId: 2215665103192589339
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9324,7 +9324,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2745857365135010832
+  Id: 4475390058134242189
   Name: "StaticTrigger1"
   Transform {
     Location {
@@ -9339,7 +9339,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 16872343226814043803
+  ParentId: 2215665103192589339
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9370,7 +9370,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13499112981728358938
+  Id: 3130400726253222121
   Name: "DoubleDoorControllerServer"
   Transform {
     Location {
@@ -9383,18 +9383,18 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16872343226814043803
+  ParentId: 2215665103192589339
   UnregisteredParameters {
     Overrides {
       Name: "cs:ComponentRoot"
       ObjectReference {
-        SelfId: 18396750897477515981
+        SelfId: 12718885697037014898
       }
     }
     Overrides {
       Name: "cs:RotationRoot1"
       ObjectReference {
-        SelfId: 11672746960987439394
+        SelfId: 5233631754120383004
       }
     }
     Overrides {
@@ -9406,25 +9406,25 @@ Objects {
     Overrides {
       Name: "cs:RotationRoot2"
       ObjectReference {
-        SelfId: 7535299880169488544
+        SelfId: 91253089179325156
       }
     }
     Overrides {
       Name: "cs:RotatingTrigger2"
       ObjectReference {
-        SelfId: 13108213501041610475
+        SelfId: 1931735668130545963
       }
     }
     Overrides {
       Name: "cs:StaticTrigger1"
       ObjectReference {
-        SelfId: 2745857365135010832
+        SelfId: 4475390058134242189
       }
     }
     Overrides {
       Name: "cs:StaticTrigger2"
       ObjectReference {
-        SelfId: 174745400794061869
+        SelfId: 1239381484284074004
       }
     }
   }
@@ -9448,7 +9448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3027956567299540737
+  Id: 1043305211804233023
   Name: "Fantasy Castle Wall 02 - Doorway 02"
   Transform {
     Location {
@@ -9464,7 +9464,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10196015143959108602
+  ParentId: 12016840559722854833
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9530,7 +9530,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15541955248322643049
+  Id: 4599464342202866062
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -9547,7 +9547,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9619,7 +9619,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6237283219480217874
+  Id: 8317530534194065409
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -9636,7 +9636,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9708,7 +9708,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12577993630753269074
+  Id: 3989879797586938769
   Name: "Fantasy Castle Wall 01 - Curved"
   Transform {
     Location {
@@ -9725,7 +9725,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9797,7 +9797,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7390876655565102442
+  Id: 4461538050477508343
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -9814,7 +9814,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9886,7 +9886,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15202656730670388405
+  Id: 2300062035259139197
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -9902,7 +9902,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimInner:id"
@@ -9974,7 +9974,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12127278967903506781
+  Id: 11803385632702707931
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -9990,7 +9990,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimInner:id"
@@ -10062,7 +10062,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13547753916151127511
+  Id: 11095510176222068211
   Name: "Fantasy Castle Wall 01 Half - Window 02"
   Transform {
     Location {
@@ -10079,7 +10079,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimInner:id"
@@ -10151,7 +10151,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8798011884207268489
+  Id: 7625785044624706669
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -10168,7 +10168,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3797742000227566766
+  ParentId: 8039155254823111417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"

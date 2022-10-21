@@ -1,7 +1,7 @@
 Name: "Large broken wall 3"
-RootId: 8580199322992051061
+RootId: 4240367173499678202
 Objects {
-  Id: 8058144678890672903
+  Id: 13967782708795788260
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -65,7 +65,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2508298418341686298
+  Id: 6449028671217429669
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -81,7 +81,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -129,7 +129,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16168623974750365699
+  Id: 4495563168048882571
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -145,7 +145,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -193,7 +193,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1049547735194219785
+  Id: 16013334226248153041
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -210,7 +210,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -258,7 +258,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17014911547953029648
+  Id: 5136122339696959653
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -274,7 +274,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -322,7 +322,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 517356749717384825
+  Id: 14778748732992455004
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -337,7 +337,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -385,7 +385,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15722325801917231424
+  Id: 12872932276444292056
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -400,7 +400,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -448,7 +448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3706117808658442152
+  Id: 11035890952496389432
   Name: "Stone Block Standard"
   Transform {
     Location {
@@ -465,7 +465,7 @@ Objects {
       Z: 1.90933585
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -507,7 +507,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3745221283890420519
+  Id: 3602062884487559288
   Name: "Stone Block Standard"
   Transform {
     Location {
@@ -524,7 +524,7 @@ Objects {
       Z: 2.6585741
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -566,7 +566,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10382384639825558345
+  Id: 11237866151114446443
   Name: "Stone Block Standard"
   Transform {
     Location {
@@ -583,7 +583,7 @@ Objects {
       Z: 2.6585741
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -625,7 +625,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5674993095341675735
+  Id: 7058146676256890190
   Name: "Stone Block Standard"
   Transform {
     Location {
@@ -642,7 +642,7 @@ Objects {
       Z: 4.3871479
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -684,7 +684,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6250595288586657503
+  Id: 12383277034894293514
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -703,7 +703,7 @@ Objects {
       Z: 2.82832
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -745,7 +745,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14332141570567559922
+  Id: 3631761237619437942
   Name: "Stone Block Standard"
   Transform {
     Location {
@@ -762,7 +762,7 @@ Objects {
       Z: 2.6585741
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -804,7 +804,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3768411707310031740
+  Id: 6690625004678033312
   Name: "Stone Block Big Broken"
   Transform {
     Location {
@@ -822,7 +822,7 @@ Objects {
       Z: 1.21482372
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -864,7 +864,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1354486947673087495
+  Id: 11306974701460108447
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -882,7 +882,7 @@ Objects {
       Z: 2.14556694
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -924,7 +924,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17991271864928630073
+  Id: 431466322247230159
   Name: "Stone Block Small Broken"
   Transform {
     Location {
@@ -943,7 +943,7 @@ Objects {
       Z: 1.8284564
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -985,7 +985,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 836937815178580579
+  Id: 8750652186674537949
   Name: "Stone Block Small Broken"
   Transform {
     Location {
@@ -1004,7 +1004,7 @@ Objects {
       Z: 1.8284564
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1046,7 +1046,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9898525994050298020
+  Id: 4927901272908823958
   Name: "Stone Block Standard"
   Transform {
     Location {
@@ -1065,7 +1065,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1107,7 +1107,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13591768229679704417
+  Id: 2958552666743361578
   Name: "Stone Block Big Broken"
   Transform {
     Location {
@@ -1124,7 +1124,7 @@ Objects {
       Z: 1.21482372
     }
   }
-  ParentId: 8580199322992051061
+  ParentId: 4240367173499678202
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

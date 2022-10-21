@@ -1,7 +1,7 @@
 Name: "AudioFolderEnter_2"
-RootId: 6795167493025065404
+RootId: 18386478385835349504
 Objects {
-  Id: 3113490567434289528
+  Id: 10489237964403777447
   Name: "\"Epic Tides Battle\" Music Construction Kit (Sections) 01"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6795167493025065404
+  ParentId: 18386478385835349504
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

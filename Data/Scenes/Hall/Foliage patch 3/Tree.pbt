@@ -1,7 +1,7 @@
 Name: "Foliage patch 3"
-RootId: 11032954995189277706
+RootId: 12265113033355822042
 Objects {
-  Id: 11505155482127767789
+  Id: 8489009612856049020
   Name: "Fern 01"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.867279112
     }
   }
-  ParentId: 11032954995189277706
+  ParentId: 12265113033355822042
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -54,7 +54,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15104059140691918315
+  Id: 14405602354532404792
   Name: "Hill 05"
   Transform {
     Location {
@@ -71,7 +71,7 @@ Objects {
       Z: 0.464157134
     }
   }
-  ParentId: 11032954995189277706
+  ParentId: 12265113033355822042
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

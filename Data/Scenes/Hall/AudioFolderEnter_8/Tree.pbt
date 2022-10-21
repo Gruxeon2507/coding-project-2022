@@ -1,7 +1,7 @@
 Name: "AudioFolderEnter_8"
-RootId: 10070898402478157841
+RootId: 10439395739675820104
 Objects {
-  Id: 10348857419579497487
+  Id: 2673737660641763359
   Name: "\"Epic Fantasy Jungle Adventure\" Music Construction Kit (Sections) 01"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10070898402478157841
+  ParentId: 10439395739675820104
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

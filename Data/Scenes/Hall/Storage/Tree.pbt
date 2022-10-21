@@ -1,7 +1,7 @@
 Name: "Storage"
-RootId: 3972540271816669713
+RootId: 9406548294860558158
 Objects {
-  Id: 17721553830620687480
+  Id: 491945985667191522
   Name: "Cauldron"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -51,7 +51,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1863642014563459820
+  Id: 12039677917372703578
   Name: "Bottle 03"
   Transform {
     Location {
@@ -67,7 +67,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -101,7 +101,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 331573858982588653
+  Id: 3016556658132392807
   Name: "Bottle 05"
   Transform {
     Location {
@@ -117,7 +117,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -151,7 +151,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5251581545433766733
+  Id: 7014583084679840171
   Name: "Bottle 02"
   Transform {
     Location {
@@ -167,7 +167,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -201,7 +201,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6963325397153331635
+  Id: 5456387291602981836
   Name: "Bottle 01"
   Transform {
     Location {
@@ -217,7 +217,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -251,7 +251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15403323762438872742
+  Id: 7675501665232110
   Name: "Wooden Bucket"
   Transform {
     Location {
@@ -267,7 +267,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -301,7 +301,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 57750057197866156
+  Id: 14091527385312140445
   Name: "Wooden Bucket"
   Transform {
     Location {
@@ -317,7 +317,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -351,7 +351,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7867721106418093319
+  Id: 6908160342986015928
   Name: "Wooden Bucket"
   Transform {
     Location {
@@ -367,7 +367,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -401,7 +401,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4805365701869471934
+  Id: 4643051163601804425
   Name: "Dresser 01"
   Transform {
     Location {
@@ -417,7 +417,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -451,7 +451,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2363265899255550619
+  Id: 13054758127798241591
   Name: "Dresser 01"
   Transform {
     Location {
@@ -467,7 +467,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -501,7 +501,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7832714734470316128
+  Id: 18326273908033081837
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -517,7 +517,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -551,7 +551,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10299789939025811557
+  Id: 2312700780477479321
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -567,7 +567,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -601,7 +601,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11443352862073157702
+  Id: 7508006140873710914
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -617,7 +617,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -651,7 +651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5393402001358449591
+  Id: 6995966853062164309
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -667,7 +667,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -701,7 +701,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2105658312058133239
+  Id: 3788823329717995971
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -717,7 +717,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -751,7 +751,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3878992341520270431
+  Id: 11100324448396002199
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -767,7 +767,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -801,7 +801,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5939795855128897724
+  Id: 17267646391056435320
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -817,7 +817,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -851,7 +851,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13426207067636341526
+  Id: 6320855088942701419
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -867,7 +867,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -901,7 +901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4111366022422658881
+  Id: 7043951901305998665
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -917,7 +917,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -951,7 +951,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3449739428685309343
+  Id: 16965108140476687380
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -967,7 +967,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1001,7 +1001,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2716478899880608763
+  Id: 13611168029706731218
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -1017,7 +1017,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1051,7 +1051,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3682932693157927686
+  Id: 3866799066560540600
   Name: "Wooden Barrel"
   Transform {
     Location {
@@ -1067,7 +1067,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1101,7 +1101,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1825161847371959603
+  Id: 917309532636580573
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1117,7 +1117,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1151,7 +1151,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16488508089208717041
+  Id: 17611064047837905128
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1167,7 +1167,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1201,7 +1201,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16302622135968782961
+  Id: 9727258043545619758
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1217,7 +1217,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1251,7 +1251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9622046316369018408
+  Id: 8509891064733734233
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1267,7 +1267,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1301,7 +1301,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11412419032530925567
+  Id: 14551685740157001062
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1317,7 +1317,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1351,7 +1351,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2212114370483118108
+  Id: 9972460903534593739
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1367,7 +1367,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1401,7 +1401,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17723473319952903327
+  Id: 10461904204212393588
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1417,7 +1417,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1451,7 +1451,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8311651531264677400
+  Id: 3201785206866179461
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1467,7 +1467,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1501,7 +1501,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5586514866049316343
+  Id: 4905001276536085492
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1517,7 +1517,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1551,7 +1551,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3945732102477383163
+  Id: 5039283206610207358
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1567,7 +1567,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1601,7 +1601,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18238077251468039423
+  Id: 1446442915371580769
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1617,7 +1617,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1651,7 +1651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14698023190939368012
+  Id: 3121529132668114232
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1667,7 +1667,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1701,7 +1701,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7300127798133805364
+  Id: 18306089908599885979
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1717,7 +1717,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1751,7 +1751,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15793691916588228937
+  Id: 10035155367609927402
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1767,7 +1767,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1801,7 +1801,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16225081174066995545
+  Id: 11486428466661376692
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1817,7 +1817,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1851,7 +1851,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2924547469485716953
+  Id: 4931800063426396046
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1867,7 +1867,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1901,7 +1901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14215558950328989426
+  Id: 724964195217445028
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -1917,7 +1917,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1951,7 +1951,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17826727976720193918
+  Id: 10443005918297634423
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -1967,7 +1967,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2001,7 +2001,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14644200180200119330
+  Id: 18359166829414705747
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -2017,7 +2017,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2051,7 +2051,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3730242670511211231
+  Id: 10051103395332644833
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -2067,7 +2067,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2101,7 +2101,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11472171132891356772
+  Id: 14261992443896535449
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -2117,7 +2117,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2151,7 +2151,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10765787518262781749
+  Id: 3818705398739603742
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -2167,7 +2167,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2201,7 +2201,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3895142598825884190
+  Id: 1073488153693726931
   Name: "Small Crate Lid"
   Transform {
     Location {
@@ -2217,7 +2217,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2251,7 +2251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17336878441290456773
+  Id: 5549544791381295356
   Name: "Small Open Crate"
   Transform {
     Location {
@@ -2267,7 +2267,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2301,7 +2301,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8871532869381111293
+  Id: 7690671141309318288
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2317,7 +2317,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2351,7 +2351,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3314255961400729806
+  Id: 4727196039684771974
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2367,7 +2367,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2401,7 +2401,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15999031527355792801
+  Id: 4841454582899134609
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2417,7 +2417,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2451,7 +2451,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7286320935603626575
+  Id: 11415215556061037900
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2466,7 +2466,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2500,7 +2500,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8709427848436043152
+  Id: 2378330007302875332
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2515,7 +2515,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2549,7 +2549,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5700774315683432370
+  Id: 17669860611149422105
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2564,7 +2564,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2598,7 +2598,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13973312961677289957
+  Id: 10423042300600945337
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2614,7 +2614,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2648,7 +2648,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4138019861388041039
+  Id: 17144787797806895730
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2664,7 +2664,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2698,7 +2698,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6254300661817997490
+  Id: 2156508125378304386
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2714,7 +2714,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2748,7 +2748,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8884221123989615508
+  Id: 1354980847830761479
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2764,7 +2764,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2798,7 +2798,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14460083001835848632
+  Id: 200056162511670574
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2814,7 +2814,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2848,7 +2848,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 136627480600984295
+  Id: 5949582840432729153
   Name: "Reinforced Crate 150cm"
   Transform {
     Location {
@@ -2864,7 +2864,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2898,7 +2898,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2946190228360350836
+  Id: 9844083638180449481
   Name: "Chest Big Closed"
   Transform {
     Location {
@@ -2915,7 +2915,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2949,7 +2949,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17914187688067434613
+  Id: 4556661617226079541
   Name: "Chest Small Closed"
   Transform {
     Location {
@@ -2966,7 +2966,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3000,7 +3000,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1373006234145943990
+  Id: 10213161655112085397
   Name: "Chest Small Closed"
   Transform {
     Location {
@@ -3017,7 +3017,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3051,7 +3051,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7811203368419757315
+  Id: 1868729506645438060
   Name: "Chest Small Closed"
   Transform {
     Location {
@@ -3068,7 +3068,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3972540271816669713
+  ParentId: 9406548294860558158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

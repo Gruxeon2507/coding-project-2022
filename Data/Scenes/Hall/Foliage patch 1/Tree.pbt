@@ -1,7 +1,7 @@
 Name: "Foliage patch 1"
-RootId: 15271487009423986909
+RootId: 18374169064971240402
 Objects {
-  Id: 10169222079645003727
+  Id: 12252338567140534788
   Name: "Fern 01"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 1.16453123
     }
   }
-  ParentId: 15271487009423986909
+  ParentId: 18374169064971240402
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -54,7 +54,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13830378371265173116
+  Id: 15760839088931879405
   Name: "Flower Bellflower Patch 01"
   Transform {
     Location {
@@ -70,7 +70,7 @@ Objects {
       Z: 0.734680176
     }
   }
-  ParentId: 15271487009423986909
+  ParentId: 18374169064971240402
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -104,7 +104,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4937015896588745532
+  Id: 1173641612102326796
   Name: "Hill 02"
   Transform {
     Location {
@@ -120,7 +120,7 @@ Objects {
       Z: 0.26388675
     }
   }
-  ParentId: 15271487009423986909
+  ParentId: 18374169064971240402
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -162,7 +162,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11388826941692362711
+  Id: 6003034900310014023
   Name: "Grass Short"
   Transform {
     Location {
@@ -178,7 +178,7 @@ Objects {
       Z: 0.742661178
     }
   }
-  ParentId: 15271487009423986909
+  ParentId: 18374169064971240402
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -212,7 +212,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7184113000354855216
+  Id: 9059282815678100953
   Name: "Clover Patch 02"
   Transform {
     Location {
@@ -228,7 +228,7 @@ Objects {
       Z: 0.705550551
     }
   }
-  ParentId: 15271487009423986909
+  ParentId: 18374169064971240402
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

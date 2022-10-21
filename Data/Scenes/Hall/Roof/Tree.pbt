@@ -1,7 +1,7 @@
 Name: "Roof"
-RootId: 11266661656228840902
+RootId: 4356256357309978820
 Objects {
-  Id: 12007271308706081787
+  Id: 16431549566058358191
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1.31336045
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -71,7 +71,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12329553531492942733
+  Id: 5172183140842930819
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -87,7 +87,7 @@ Objects {
       Z: 1.31336045
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -141,7 +141,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13286479133690413563
+  Id: 15569399904825006216
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -157,7 +157,7 @@ Objects {
       Z: 1.31336045
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -211,7 +211,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5002841009733335755
+  Id: 11572028895508010252
   Name: "Fantasy Castle Accessory Roof 02"
   Transform {
     Location {
@@ -227,7 +227,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -293,7 +293,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15839787294883423891
+  Id: 3875610321252110757
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -310,7 +310,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -358,7 +358,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3663965493012521343
+  Id: 13457452746533973269
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -375,7 +375,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -423,7 +423,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4414419148653052367
+  Id: 13609226844429349739
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -440,7 +440,7 @@ Objects {
       Z: 1.0284313
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -488,7 +488,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12694617671622805832
+  Id: 16083087186790685222
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -504,7 +504,7 @@ Objects {
       Z: 1.0284313
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -552,7 +552,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8278969201118922527
+  Id: 15661206421267290193
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -569,7 +569,7 @@ Objects {
       Z: 1.170555
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -617,7 +617,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4206857221358534547
+  Id: 3455464264430728441
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -634,7 +634,7 @@ Objects {
       Z: 1.170555
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -682,7 +682,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3880650883127387687
+  Id: 15460128887190805989
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -699,7 +699,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -747,7 +747,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6284152015673957662
+  Id: 14757039600924503879
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -763,7 +763,7 @@ Objects {
       Z: 1.0284313
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -811,7 +811,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15292474558972993230
+  Id: 366952682540471456
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -829,7 +829,7 @@ Objects {
       Z: 1.0709306
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -877,7 +877,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16871787633407490706
+  Id: 6728719370902057550
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -895,7 +895,7 @@ Objects {
       Z: 1.0709306
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -943,7 +943,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18028616038927060018
+  Id: 356575784437253445
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -961,7 +961,7 @@ Objects {
       Z: 1.0709306
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1009,7 +1009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12633649013118386486
+  Id: 5017052385205526111
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -1026,7 +1026,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1074,7 +1074,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10184316785139910372
+  Id: 18363294269085671045
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1092,7 +1092,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1140,7 +1140,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16180771036986656010
+  Id: 10817628862782919622
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1159,7 +1159,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1207,7 +1207,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4954468166325961051
+  Id: 2907370173847286759
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -1224,7 +1224,7 @@ Objects {
       Z: 1.0284313
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1272,7 +1272,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6862592375311293663
+  Id: 4005163373127459613
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1289,7 +1289,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1337,7 +1337,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14772252323272340653
+  Id: 4460306406467182185
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -1354,7 +1354,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1402,7 +1402,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11540805792880391488
+  Id: 3854745306615973735
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1420,7 +1420,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1468,7 +1468,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17386573773086931039
+  Id: 14983064132221164431
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1485,7 +1485,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1533,7 +1533,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12091037052903624656
+  Id: 11402910190823240270
   Name: "Prism - 7-Sided"
   Transform {
     Location {
@@ -1550,7 +1550,7 @@ Objects {
       Z: 0.242857173
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1592,7 +1592,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3334094556055899747
+  Id: 7064705381485317517
   Name: "Prism - 7-Sided"
   Transform {
     Location {
@@ -1609,7 +1609,7 @@ Objects {
       Z: 0.242857173
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1651,7 +1651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7167340877242523769
+  Id: 7481944400898415363
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1668,7 +1668,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1716,7 +1716,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14130449623680375211
+  Id: 10307637224691347618
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1733,7 +1733,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1781,7 +1781,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12652977160591239419
+  Id: 2111338722847188899
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1798,7 +1798,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1846,7 +1846,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16107760824923095788
+  Id: 15522227125806527766
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1864,7 +1864,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1912,7 +1912,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7018914633185276379
+  Id: 14038725863000912449
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1930,7 +1930,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1978,7 +1978,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18356272286522295711
+  Id: 9194929226528006981
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1996,7 +1996,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2044,7 +2044,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7694041144488830340
+  Id: 17806413767969418908
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2062,7 +2062,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2110,7 +2110,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3169314453635952491
+  Id: 10318564907652240343
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2127,7 +2127,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2175,7 +2175,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15435038853243221117
+  Id: 16239099870158241726
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2193,7 +2193,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2241,7 +2241,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2262881358554213860
+  Id: 2789400532022782202
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -2258,7 +2258,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2306,7 +2306,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11710415640257141396
+  Id: 9637663693760541669
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -2323,7 +2323,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2371,7 +2371,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9480533047974478156
+  Id: 15678434149327659953
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2388,7 +2388,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2436,7 +2436,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7625007115404122522
+  Id: 7860096241369033999
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2453,7 +2453,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2501,7 +2501,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7782094397945120776
+  Id: 10519652792588395959
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2518,7 +2518,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2566,7 +2566,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10537357545159631815
+  Id: 5174424897713416239
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2584,7 +2584,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2632,7 +2632,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4274504129975850866
+  Id: 7724066668907664211
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2650,7 +2650,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2698,7 +2698,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11182542213585901123
+  Id: 8726989943327871643
   Name: "Fantasy Castle Accessory Roof 01 "
   Transform {
     Location {
@@ -2713,7 +2713,7 @@ Objects {
       Z: 1.93699026
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2779,7 +2779,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9776087962239332648
+  Id: 15411925110015385576
   Name: "Fantasy Castle Accessory Roof 01 "
   Transform {
     Location {
@@ -2795,7 +2795,7 @@ Objects {
       Z: 1.81933165
     }
   }
-  ParentId: 11266661656228840902
+  ParentId: 4356256357309978820
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"

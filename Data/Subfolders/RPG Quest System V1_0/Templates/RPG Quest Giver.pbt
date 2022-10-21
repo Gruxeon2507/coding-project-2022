@@ -2989,7 +2989,7 @@ Assets {
           Overrides {
             Name: "cs:ThirdPersonCamera"
             ObjectReference {
-              SelfId: 3567959178173361743
+              SelfId: 841534158063459245
             }
           }
           Overrides {

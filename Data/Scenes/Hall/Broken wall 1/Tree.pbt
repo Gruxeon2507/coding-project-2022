@@ -1,7 +1,7 @@
 Name: "Broken wall 1"
-RootId: 10732213230501686064
+RootId: 47497520515484815
 Objects {
-  Id: 8394565466387170820
+  Id: 633884329229551535
   Name: "Stone Block Standard Broken"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10732213230501686064
+  ParentId: 47497520515484815
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -60,7 +60,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11835429732702119507
+  Id: 9729282135231059495
   Name: "Rock Block 01"
   Transform {
     Location {
@@ -78,7 +78,7 @@ Objects {
       Z: 0.762851536
     }
   }
-  ParentId: 10732213230501686064
+  ParentId: 47497520515484815
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -120,7 +120,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17172511551659193654
+  Id: 6698019074506162240
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -139,7 +139,7 @@ Objects {
       Z: 1.8717109
     }
   }
-  ParentId: 10732213230501686064
+  ParentId: 47497520515484815
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -181,7 +181,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5000254587353856872
+  Id: 5327275483041181592
   Name: "Rock Block 01"
   Transform {
     Location {
@@ -200,7 +200,7 @@ Objects {
       Z: 0.762846172
     }
   }
-  ParentId: 10732213230501686064
+  ParentId: 47497520515484815
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -242,7 +242,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2611377481186763667
+  Id: 13099968869392777206
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -261,7 +261,7 @@ Objects {
       Z: 1.87140524
     }
   }
-  ParentId: 10732213230501686064
+  ParentId: 47497520515484815
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -303,7 +303,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9487636176653559857
+  Id: 13670908734524978308
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -319,7 +319,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 10732213230501686064
+  ParentId: 47497520515484815
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
