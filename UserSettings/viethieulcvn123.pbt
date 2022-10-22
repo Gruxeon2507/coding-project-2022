@@ -177833,7 +177833,7 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Hall"
+LastSavedScene: "Mystic Forest"
 PreviewDetailLevelPerScene {
   key: "Hall"
   value: 0
