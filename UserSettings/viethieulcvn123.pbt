@@ -177833,7 +177833,7 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Map ban dau"
+LastSavedScene: "Hall"
 PreviewDetailLevelPerScene {
   key: "Hall"
   value: 0
