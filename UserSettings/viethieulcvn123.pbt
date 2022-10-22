@@ -177833,7 +177833,7 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Mystic Forest"
+LastSavedScene: "Map ban dau"
 PreviewDetailLevelPerScene {
   key: "Hall"
   value: 0
