@@ -696,7 +696,7 @@ Objects {
   }
   Terrain {
     Material {
-      Id: 4007091115832665854
+      Id: 9242294930323185714
     }
     VoxelSize: 100
     OctreeDepth: 5
