@@ -17,6 +17,15 @@ Assets {
   }
 }
 Assets {
+  Id: 18302426921317837715
+  Name: "Stone Arch 3m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_stone-arch_6m_002"
+  }
+}
+Assets {
   Id: 18302154991031027573
   Name: "Rock 01"
   PlatformAssetType: 1
@@ -140,6 +149,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_table_001"
+  }
+}
+Assets {
+  Id: 17397386958451710736
+  Name: "Decal Soil Cracks Big 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_soil_cracks_001"
   }
 }
 Assets {
@@ -395,6 +413,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15045737450184899927
+  Name: "Bush Leafy Tall 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_leafy_bush_001"
+  }
+}
+Assets {
   Id: 14717981735232717383
   Name: "Wooden Barrel"
   PlatformAssetType: 1
@@ -410,6 +437,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_broken_01"
+  }
+}
+Assets {
+  Id: 14655116653287160419
+  Name: "Hill 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hill_004"
   }
 }
 Assets {
@@ -539,6 +575,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13612855434532842510
+  Name: "Wedge - Corner Complex"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_corelogo_shape_001"
+  }
+}
+Assets {
   Id: 13588168874842906464
   Name: "Cone - Truncated Wide"
   PlatformAssetType: 1
@@ -584,6 +629,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13377078279472162114
+  Name: "Arch"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_arch_001"
+  }
+}
+Assets {
   Id: 13305386488900177840
   Name: "Fantasy Throne 01"
   PlatformAssetType: 1
@@ -608,6 +662,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_broken_04"
+  }
+}
+Assets {
+  Id: 13152204245951513896
+  Name: "Flower Bellflower Patch 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_flower_bell_patch_001_ref"
   }
 }
 Assets {
@@ -644,6 +707,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_grass_generic_001"
+  }
+}
+Assets {
+  Id: 12774080037336320193
+  Name: "Lens - Half"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_half_lense_001"
   }
 }
 Assets {
@@ -800,6 +872,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11845556821069550481
+  Name: "Terrain - Grass"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_rock-grass-001_wa"
+  }
+}
+Assets {
   Id: 11679638938136483441
   Name: "Fantasy Castle Pillar Wall 01 Arch"
   PlatformAssetType: 1
@@ -896,6 +977,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_pillar_002_mid"
+  }
+}
+Assets {
+  Id: 10723979191292964767
+  Name: "Sci-fi Panel 1x3m Angled Right"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_panel_1x3m_angledR_001"
   }
 }
 Assets {
@@ -1448,6 +1538,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5231512314231510719
+  Name: "Cylinder - Rounded Small"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_rounded_003"
+  }
+}
+Assets {
   Id: 5185685595968607508
   Name: "Stone Block Long"
   PlatformAssetType: 1
@@ -1490,6 +1589,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_weap_fan_blade_sword_003"
+  }
+}
+Assets {
+  Id: 4716386476625350982
+  Name: "Terrain - Moss"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_terrain_rock-moss_001_wa"
   }
 }
 Assets {
@@ -1562,6 +1670,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_scatter_02_ref"
+  }
+}
+Assets {
+  Id: 3817761513663965406
+  Name: "Leafy Patch 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_leafy_groundcover_002"
   }
 }
 Assets {
@@ -1727,6 +1844,15 @@ Assets {
   }
 }
 Assets {
+  Id: 2029515409028393758
+  Name: "Hill 05"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hill_005"
+  }
+}
+Assets {
   Id: 2011976824031201006
   Name: "Stone Block Standard"
   PlatformAssetType: 1
@@ -1871,6 +1997,15 @@ Assets {
   }
 }
 Assets {
+  Id: 851964581738850423
+  Name: "Bush Leafy Low 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_foliage_gen_leafy_bush_002"
+  }
+}
+Assets {
   Id: 725365412107610098
   Name: "Large Wood Board 8m"
   PlatformAssetType: 1
@@ -1895,6 +2030,15 @@ Assets {
   PrimaryAsset {
     AssetType: "AudioBlueprintAssetRef"
     AssetId: "sfxabp_nature_fireloops_ref"
+  }
+}
+Assets {
+  Id: 526843540183677030
+  Name: "Urban Plank Debris 04"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prop_urban_destruction_debris_plank_04_ref"
   }
 }
 Assets {
