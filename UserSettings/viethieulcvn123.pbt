@@ -14779,6 +14779,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 1517259487269129774
+    value {
+    }
+  }
+  ObjectStates {
     key: 1517415388117000859
     value {
     }
@@ -15080,6 +15085,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 1545522589330681060
+    value {
+    }
+  }
+  ObjectStates {
+    key: 1546396440457314675
     value {
     }
   }
@@ -18355,6 +18365,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 1877115123331070059
+    value {
+    }
+  }
+  ObjectStates {
+    key: 1877461395093345500
     value {
     }
   }
@@ -22319,6 +22334,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 2291657133028583979
+    value {
+    }
+  }
+  ObjectStates {
     key: 2291702195076866717
     value {
     }
@@ -23110,6 +23130,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 2383647561976449251
+    value {
+    }
+  }
+  ObjectStates {
+    key: 2383980367662951348
     value {
     }
   }
@@ -36609,6 +36634,13 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 3752084172907557338
+    value {
+      IsLocked: true
+      IsHidden: true
+    }
+  }
+  ObjectStates {
     key: 3752892716204011618
     value {
     }
@@ -38770,6 +38802,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 3992565946730598377
+    value {
+    }
+  }
+  ObjectStates {
+    key: 3992655301104155891
     value {
     }
   }
@@ -51619,6 +51656,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 5298178520689813176
+    value {
+    }
+  }
+  ObjectStates {
     key: 5300335094732133339
     value {
     }
@@ -53310,6 +53352,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 5471547511885994380
+    value {
+    }
+  }
+  ObjectStates {
+    key: 5475139893231496084
     value {
     }
   }
@@ -68881,6 +68928,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 7069734498156295075
+    value {
+    }
+  }
+  ObjectStates {
     key: 7069989322670071788
     value {
     }
@@ -76941,6 +76993,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 7921854939680633211
+    value {
+    }
+  }
+  ObjectStates {
     key: 7921988484243213138
     value {
     }
@@ -78647,6 +78704,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 8099951655967907155
+    value {
+    }
+  }
+  ObjectStates {
+    key: 8100558073406978484
     value {
     }
   }
@@ -81402,6 +81464,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 8384077091973380568
+    value {
+    }
+  }
+  ObjectStates {
     key: 8384154494753682341
     value {
     }
@@ -83463,6 +83530,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 8591810238993245718
+    value {
+    }
+  }
+  ObjectStates {
+    key: 8592012235437679056
     value {
     }
   }
@@ -124039,6 +124111,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 12850253727147368145
+    value {
+    }
+  }
+  ObjectStates {
     key: 12850463789074709479
     value {
     }
@@ -126490,6 +126567,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 13113940620345664045
+    value {
+    }
+  }
+  ObjectStates {
+    key: 13114072788733038637
     value {
     }
   }
@@ -129251,6 +129333,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 13422998572313823312
+    value {
+    }
+  }
+  ObjectStates {
+    key: 13423494729631232456
     value {
     }
   }
@@ -133696,6 +133783,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 13879201229309159186
+    value {
+    }
+  }
+  ObjectStates {
+    key: 13879441010114943755
     value {
     }
   }
@@ -144573,6 +144665,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 14979193089132725745
+    value {
+    }
+  }
+  ObjectStates {
     key: 14979296041985685060
     value {
     }
@@ -144625,6 +144722,12 @@ ObjectSettings {
   ObjectStates {
     key: 14982643510972164134
     value {
+    }
+  }
+  ObjectStates {
+    key: 14982843161775482339
+    value {
+      IsLocked: true
     }
   }
   ObjectStates {
@@ -160278,6 +160381,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 16606142421421161414
+    value {
+    }
+  }
+  ObjectStates {
     key: 16606219366504839826
     value {
     }
@@ -162408,6 +162516,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 16838570300541121419
+    value {
+    }
+  }
+  ObjectStates {
     key: 16839923525664130347
     value {
     }
@@ -164029,6 +164142,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 17008704337110671509
+    value {
+    }
+  }
+  ObjectStates {
+    key: 17009730543981376613
     value {
     }
   }
@@ -167959,6 +168077,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 17428469252620247491
+    value {
+    }
+  }
+  ObjectStates {
     key: 17428478729947539566
     value {
     }
@@ -170470,6 +170593,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 17695199252710673581
+    value {
+    }
+  }
+  ObjectStates {
     key: 17696557757723411543
     value {
     }
@@ -170551,6 +170679,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 17706680609993479264
+    value {
+    }
+  }
+  ObjectStates {
+    key: 17708062165346552674
     value {
     }
   }
@@ -171655,6 +171788,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 17831248209921460202
+    value {
+    }
+  }
+  ObjectStates {
     key: 17831268005771539554
     value {
     }
@@ -172336,6 +172474,11 @@ ObjectSettings {
   }
   ObjectStates {
     key: 17908203185407832196
+    value {
+    }
+  }
+  ObjectStates {
+    key: 17909197461638170171
     value {
     }
   }
@@ -177110,6 +177253,11 @@ ObjectSettings {
     }
   }
   ObjectStates {
+    key: 18390590216462596738
+    value {
+    }
+  }
+  ObjectStates {
     key: 18391148378335422672
     value {
     }
@@ -177685,7 +177833,7 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Hall"
+LastSavedScene: "Mystic Forest"
 PreviewDetailLevelPerScene {
   key: "Hall"
   value: 0
