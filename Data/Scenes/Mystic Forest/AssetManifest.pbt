@@ -44,6 +44,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13952135936228202251
+  Name: "Jungle Vine (end)"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_liana-vine_end_001_uv"
+  }
+}
+Assets {
   Id: 13565223774476700443
   Name: "Ring - Beveled Thin"
   PlatformAssetType: 1
@@ -152,6 +161,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8757068560497122517
+  Name: "Plane 4m - One Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_4m_001"
+  }
+}
+Assets {
   Id: 8636322695779661300
   Name: "Metal Iron 01"
   PlatformAssetType: 2
@@ -194,6 +212,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_scifi_trim_001_bend90"
+  }
+}
+Assets {
+  Id: 7302015501822567448
+  Name: "Jungle Vine (tileable)"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_liana-vine_001_uv"
   }
 }
 Assets {
@@ -284,5 +311,14 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_arch_fancy_3m_001"
+  }
+}
+Assets {
+  Id: 1343381846427833274
+  Name: "Jungle Vine (end)"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_liana-vine_end_001_uv"
   }
 }
