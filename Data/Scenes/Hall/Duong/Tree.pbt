@@ -1,13 +1,10 @@
 Name: "Duong"
 RootId: 7535653644354851464
 Objects {
-  Id: 16269154458740481325
-  Name: "Cube - Arcade 03"
+  Id: 1719524325945090448
+  Name: "PVP"
   Transform {
     Location {
-      X: -3421.48657
-      Y: 12141.8232
-      Z: 2569.89941
     }
     Rotation {
     }
@@ -30,24 +27,9 @@ Objects {
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 262829732261969211
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    StaticMesh {
-      Physics {
-        Mass: 100
-        LinearDamping: 0.01
-      }
-      BoundsScale: 1
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:critical"
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "PVP"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
