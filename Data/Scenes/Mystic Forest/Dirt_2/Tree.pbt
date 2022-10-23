@@ -1,7 +1,7 @@
 Name: "Dirt_2"
-RootId: 18026438361304601778
+RootId: 15774192975875920066
 Objects {
-  Id: 4139628958007406836
+  Id: 18410018757553545277
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -19,7 +19,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -67,12 +67,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4139628958007406836
-    SubobjectId: 6557994638211601856
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -82,7 +76,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13406618334247698747
+  Id: 2870147275300391981
   Name: "Cube - Polished"
   Transform {
     Location {
@@ -98,7 +92,7 @@ Objects {
       Z: 14.2108603
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -146,12 +140,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13406618334247698747
-    SubobjectId: 15599809048074363919
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -161,7 +149,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9595460033564220759
+  Id: 9068850074738210190
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -180,7 +168,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -228,12 +216,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9595460033564220759
-    SubobjectId: 16670544567455119459
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -243,7 +225,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16475593954934470836
+  Id: 4636354575450527808
   Name: "Cube - Polished"
   Transform {
     Location {
@@ -259,7 +241,7 @@ Objects {
       Z: 1.00997949
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -307,12 +289,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16475593954934470836
-    SubobjectId: 9715766962311028096
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -322,7 +298,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5710739707070542014
+  Id: 5140618357952273606
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -340,7 +316,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -388,12 +364,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5710739707070542014
-    SubobjectId: 3256340556785063306
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -403,7 +373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14985001622686973105
+  Id: 3132898897541396126
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -421,7 +391,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -469,12 +439,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14985001622686973105
-    SubobjectId: 12503448793580034437
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -484,7 +448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12933620673579764995
+  Id: 11056765711514134738
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -502,7 +466,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -550,12 +514,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12933620673579764995
-    SubobjectId: 15063754054094661687
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -565,7 +523,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7829956511247206858
+  Id: 14069749126692962328
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -584,7 +542,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -632,12 +590,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7829956511247206858
-    SubobjectId: 1070115137472621822
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -647,7 +599,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2143882691072110561
+  Id: 17815559770897391431
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -665,7 +617,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -713,12 +665,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2143882691072110561
-    SubobjectId: 9201098167192472277
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -728,7 +674,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7763228622236618933
+  Id: 5175938296111487111
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -747,7 +693,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -795,12 +741,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7763228622236618933
-    SubobjectId: 706151131737781633
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -810,7 +750,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5362935715607294243
+  Id: 7897182767899392845
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -829,7 +769,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -877,12 +817,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5362935715607294243
-    SubobjectId: 2890394401806242839
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -892,7 +826,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2964429686851645488
+  Id: 13306815290634195432
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -910,7 +844,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -958,12 +892,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2964429686851645488
-    SubobjectId: 5427825885100987652
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -973,7 +901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4750465238854761170
+  Id: 2804789192803777313
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -990,7 +918,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1038,12 +966,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4750465238854761170
-    SubobjectId: 2566292082003025894
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1053,7 +975,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15032890282838293380
+  Id: 5441593414146052919
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1070,7 +992,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1118,12 +1040,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15032890282838293380
-    SubobjectId: 12893746269096779440
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1133,7 +1049,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17187967892817859069
+  Id: 935675408803953249
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1150,7 +1066,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1198,12 +1114,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17187967892817859069
-    SubobjectId: 10157774684470195401
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1213,7 +1123,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9676734133627230586
+  Id: 6002175548122217582
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1231,7 +1141,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1279,12 +1189,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9676734133627230586
-    SubobjectId: 16445718220931398734
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1294,7 +1198,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10877738471917510018
+  Id: 13631525036653978652
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1312,7 +1216,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1360,12 +1264,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10877738471917510018
-    SubobjectId: 17619553419734366390
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1375,7 +1273,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15865338272910299987
+  Id: 4949323387603247293
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1393,7 +1291,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1441,12 +1339,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15865338272910299987
-    SubobjectId: 13717197983635551847
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1456,7 +1348,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16174263717248677082
+  Id: 1635141883317349215
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1474,7 +1366,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1522,12 +1414,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16174263717248677082
-    SubobjectId: 9369388132835774958
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1537,7 +1423,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8867043553758245408
+  Id: 8639369299828885108
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1555,7 +1441,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1603,12 +1489,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8867043553758245408
-    SubobjectId: 1837001199226328852
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1618,7 +1498,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13098534837902796849
+  Id: 665520650410626242
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1636,7 +1516,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1684,12 +1564,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13098534837902796849
-    SubobjectId: 15543927768725130501
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1699,7 +1573,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3550767648695760046
+  Id: 6459710392099551249
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1718,7 +1592,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1766,12 +1640,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3550767648695760046
-    SubobjectId: 5996151097230807450
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1781,7 +1649,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11357440049451584575
+  Id: 7251893011872972771
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1800,7 +1668,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1848,12 +1716,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11357440049451584575
-    SubobjectId: 18441673635290425611
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1863,7 +1725,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 634078768124338747
+  Id: 5921564015645348864
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1882,7 +1744,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1930,12 +1792,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 634078768124338747
-    SubobjectId: 7691291359513954063
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1945,7 +1801,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13335959377392634425
+  Id: 9797342224610470717
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1963,7 +1819,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2011,12 +1867,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13335959377392634425
-    SubobjectId: 15808373151079886605
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2026,7 +1876,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7730540868963140935
+  Id: 11975932860151473056
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2044,7 +1894,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2092,12 +1942,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7730540868963140935
-    SubobjectId: 664318380614312051
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2107,7 +1951,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12013622866122855589
+  Id: 9809177624879129766
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2126,7 +1970,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2174,12 +2018,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12013622866122855589
-    SubobjectId: 14179778740392046993
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2189,7 +2027,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4474421885577326437
+  Id: 5506917077043285866
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2207,7 +2045,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2255,12 +2093,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4474421885577326437
-    SubobjectId: 6658590766256261713
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2270,7 +2102,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4886383193307812476
+  Id: 9959609217827729075
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2288,7 +2120,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2336,12 +2168,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4886383193307812476
-    SubobjectId: 2431851828497512264
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2351,7 +2177,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15535379338967246142
+  Id: 14667317532338394964
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2369,7 +2195,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2417,12 +2243,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15535379338967246142
-    SubobjectId: 13107874911435784202
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2432,7 +2252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13755431599478610090
+  Id: 14769017060602793143
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2450,7 +2270,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2498,12 +2318,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13755431599478610090
-    SubobjectId: 15894711423774522782
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2513,7 +2327,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4170228676619444090
+  Id: 11548243094059590045
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2532,7 +2346,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2580,12 +2394,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4170228676619444090
-    SubobjectId: 6606753270796646990
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2595,7 +2403,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2102590582868517392
+  Id: 6080718654585093662
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2613,7 +2421,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2661,12 +2469,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2102590582868517392
-    SubobjectId: 9177668657583671076
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2676,7 +2478,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4021596564934862527
+  Id: 9844461749849399306
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2694,7 +2496,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2742,12 +2544,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4021596564934862527
-    SubobjectId: 6178889480450655115
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2757,7 +2553,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18059519632684078937
+  Id: 7523895932033670658
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2775,7 +2571,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2823,12 +2619,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18059519632684078937
-    SubobjectId: 11011312729861698157
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2838,7 +2628,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3962632645063422145
+  Id: 3565530650347285439
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2857,7 +2647,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2905,12 +2695,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3962632645063422145
-    SubobjectId: 6092911383511848437
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2920,7 +2704,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10590396420992061678
+  Id: 9630368203429747072
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2939,7 +2723,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2987,12 +2771,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10590396420992061678
-    SubobjectId: 17332352296750396890
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3002,7 +2780,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14609840217845711905
+  Id: 9636521787460003502
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3021,7 +2799,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3069,12 +2847,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14609840217845711905
-    SubobjectId: 12155448215585399061
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3084,7 +2856,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4138310852735881658
+  Id: 5164270604467919843
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3102,7 +2874,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3150,12 +2922,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4138310852735881658
-    SubobjectId: 6565821856866120846
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3165,7 +2931,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1398120798613020822
+  Id: 4713086494087257086
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3184,7 +2950,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3232,12 +2998,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1398120798613020822
-    SubobjectId: 8149079422022796706
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3247,7 +3007,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8014128118361616784
+  Id: 8822384584961183258
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3265,7 +3025,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3313,12 +3073,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8014128118361616784
-    SubobjectId: 956910374485922980
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3328,7 +3082,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 32183586763982040
+  Id: 608665344012509890
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3346,7 +3100,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3394,12 +3148,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 32183586763982040
-    SubobjectId: 7062226094914347500
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3409,7 +3157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13644633217204852360
+  Id: 9469563587351942136
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3428,7 +3176,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3476,12 +3224,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13644633217204852360
-    SubobjectId: 16081015494069121980
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3491,7 +3233,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2936093516076232786
+  Id: 6360616519914002240
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3510,7 +3252,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3558,12 +3300,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2936093516076232786
-    SubobjectId: 5390631205844178278
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3573,7 +3309,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1451484263645209961
+  Id: 15785828172090916506
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3592,7 +3328,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3640,12 +3376,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1451484263645209961
-    SubobjectId: 8526706923210473565
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3655,7 +3385,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5816832731698777328
+  Id: 9693586502873817206
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3673,7 +3403,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3721,12 +3451,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5816832731698777328
-    SubobjectId: 3659682081131342276
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3736,7 +3460,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5443631745489806619
+  Id: 1616476380950119540
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3754,7 +3478,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3802,12 +3526,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5443631745489806619
-    SubobjectId: 3025272989697622063
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3817,7 +3535,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4284961183780311757
+  Id: 8802117975571194445
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3835,7 +3553,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3883,12 +3601,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4284961183780311757
-    SubobjectId: 6415230901665888249
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3898,7 +3610,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2981657699779762277
+  Id: 17671343845612137729
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3916,7 +3628,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3964,12 +3676,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2981657699779762277
-    SubobjectId: 5409032175969975633
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3979,7 +3685,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16245979112725435357
+  Id: 6756068479091679990
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3995,7 +3701,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4043,12 +3749,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16245979112725435357
-    SubobjectId: 9440961092690720489
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4058,7 +3758,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13598615829228530114
+  Id: 504769539919520765
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -4076,7 +3776,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4124,12 +3824,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13598615829228530114
-    SubobjectId: 16053004963120205046
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4139,7 +3833,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 67579331674888317
+  Id: 11222954494410125656
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -4156,7 +3850,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4204,12 +3898,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 67579331674888317
-    SubobjectId: 7097762009773817161
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4219,7 +3907,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8385793963586234131
+  Id: 6911138065088698826
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -4236,7 +3924,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4284,12 +3972,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8385793963586234131
-    SubobjectId: 1589793570860778023
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4299,7 +3981,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1860498281013589078
+  Id: 3158145681530161839
   Name: "Cone - Truncated Hollow Wide"
   Transform {
     Location {
@@ -4317,7 +3999,7 @@ Objects {
       Z: 20.5
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4365,12 +4047,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1860498281013589078
-    SubobjectId: 8908567213049205090
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4380,7 +4056,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13586221252376554485
+  Id: 10113780133009668029
   Name: "Cube - Polished"
   Transform {
     Location {
@@ -4396,7 +4072,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18026438361304601778
+  ParentId: 15774192975875920066
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4443,12 +4119,6 @@ Objects {
       }
       BoundsScale: 1
     }
-  }
-  InstanceHistory {
-    SelfId: 13586221252376554485
-    SubobjectId: 16067633756238974657
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

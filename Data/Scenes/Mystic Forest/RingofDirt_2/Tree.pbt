@@ -1,7 +1,7 @@
 Name: "RingofDirt_2"
-RootId: 13222532057562025839
+RootId: 10660954883817094094
 Objects {
-  Id: 8647981417235518201
+  Id: 16173073117661608651
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -64,12 +64,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8647981417235518201
-    SubobjectId: 1906019615301433293
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -79,7 +73,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16211877640568967309
+  Id: 8236351131051931757
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -98,7 +92,7 @@ Objects {
       Z: 0.7
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -142,12 +136,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16211877640568967309
-    SubobjectId: 9407015954598163897
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -157,7 +145,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7613460361069329113
+  Id: 13844219229873270900
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -176,7 +164,7 @@ Objects {
       Z: 0.8
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -220,12 +208,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7613460361069329113
-    SubobjectId: 853491667221258221
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -235,7 +217,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18334062210376231965
+  Id: 10520310054165862037
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -254,7 +236,7 @@ Objects {
       Z: 0.8
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -298,12 +280,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18334062210376231965
-    SubobjectId: 11249969377720928553
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -313,7 +289,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13714648922190365284
+  Id: 11013235703943254517
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -332,7 +308,7 @@ Objects {
       Z: 3.8
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -376,12 +352,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13714648922190365284
-    SubobjectId: 15862943917192161104
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -391,7 +361,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5009141084542238224
+  Id: 5379791990281558491
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -410,7 +380,7 @@ Objects {
       Z: 3.8
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -454,12 +424,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5009141084542238224
-    SubobjectId: 2879010435011648292
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -469,7 +433,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6975650901753455154
+  Id: 3561631119688189887
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -488,7 +452,7 @@ Objects {
       Z: 3.8
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -532,12 +496,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6975650901753455154
-    SubobjectId: 197659699956582150
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -547,7 +505,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15366910449474750217
+  Id: 5316727978564419253
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -566,7 +524,7 @@ Objects {
       Z: 3.8
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -610,12 +568,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15366910449474750217
-    SubobjectId: 13200750177764844093
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -625,7 +577,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11237852134255097382
+  Id: 15399982355392349457
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -644,7 +596,7 @@ Objects {
       Z: 3.8
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -688,12 +640,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11237852134255097382
-    SubobjectId: 17979663853802525458
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -703,7 +649,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15772684393052734637
+  Id: 3899004287043547964
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -722,7 +668,7 @@ Objects {
       Z: 4.4
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -766,12 +712,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15772684393052734637
-    SubobjectId: 13300135860477813145
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -781,7 +721,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5014919187913472679
+  Id: 8994495748496477096
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -800,7 +740,7 @@ Objects {
       Z: 4.4
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -844,12 +784,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5014919187913472679
-    SubobjectId: 2875783194020945811
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -859,7 +793,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5126949771937100942
+  Id: 2559366755043972395
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -878,7 +812,7 @@ Objects {
       Z: 4.4
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -922,12 +856,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5126949771937100942
-    SubobjectId: 2690569124675047866
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -937,7 +865,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6792684430639935184
+  Id: 17406115068431121763
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -956,7 +884,7 @@ Objects {
       Z: 4.4
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1000,12 +928,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6792684430639935184
-    SubobjectId: 4338146742897331172
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1015,7 +937,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2855439363955301946
+  Id: 8050262469448148604
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1034,7 +956,7 @@ Objects {
       Z: 4.4
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1078,12 +1000,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2855439363955301946
-    SubobjectId: 5030741800379120398
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1093,7 +1009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14311443423180516214
+  Id: 1792766763844716578
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1112,7 +1028,7 @@ Objects {
       Z: 4.4
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1156,12 +1072,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14311443423180516214
-    SubobjectId: 11883928550886149698
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1171,7 +1081,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11725872106266782615
+  Id: 16616026637262418124
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1190,7 +1100,7 @@ Objects {
       Z: 2.60000014
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1234,12 +1144,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11725872106266782615
-    SubobjectId: 13892177098380283555
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1249,7 +1153,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1640849600844552019
+  Id: 9940576218035375022
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1268,7 +1172,7 @@ Objects {
       Z: 3.8
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1312,12 +1216,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1640849600844552019
-    SubobjectId: 8409698242599137895
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1327,7 +1225,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5527969411271423124
+  Id: 12885125481712122356
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1346,7 +1244,7 @@ Objects {
       Z: 4.4
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1390,12 +1288,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5527969411271423124
-    SubobjectId: 3370677270061093280
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1405,7 +1297,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9490435578498550626
+  Id: 17672558025001446260
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1424,7 +1316,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1468,12 +1360,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9490435578498550626
-    SubobjectId: 16268280698733194838
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1483,7 +1369,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15238474075352525524
+  Id: 5916549026573515297
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1502,7 +1388,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1546,12 +1432,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15238474075352525524
-    SubobjectId: 12756912778247507936
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1561,7 +1441,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14349901393349640395
+  Id: 1217161074681977392
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1580,7 +1460,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1624,12 +1504,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14349901393349640395
-    SubobjectId: 11913517122196235775
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1639,7 +1513,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18236746477543902634
+  Id: 12739463174348299676
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1658,7 +1532,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1702,12 +1576,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18236746477543902634
-    SubobjectId: 11485788421061552286
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1717,7 +1585,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17545248738863156227
+  Id: 9746253131187264754
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1736,7 +1604,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1780,12 +1648,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17545248738863156227
-    SubobjectId: 10452143619970722103
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1795,7 +1657,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8376148576875319460
+  Id: 13302478925834626486
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1814,7 +1676,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1858,12 +1720,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8376148576875319460
-    SubobjectId: 1607302630625473936
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1873,7 +1729,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8453295333753958096
+  Id: 7910596865088231478
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1892,7 +1748,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1936,12 +1792,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8453295333753958096
-    SubobjectId: 1666442551951379428
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1951,7 +1801,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10676619706522069088
+  Id: 9441993450927545056
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -1970,7 +1820,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2014,12 +1864,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10676619706522069088
-    SubobjectId: 17751710837075709268
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2029,7 +1873,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7669140780878983754
+  Id: 4149332468466976675
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2048,7 +1892,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2092,12 +1936,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7669140780878983754
-    SubobjectId: 584910577524512638
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2107,7 +1945,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2169322100905205295
+  Id: 8883224391326204504
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2126,7 +1964,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2170,12 +2008,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2169322100905205295
-    SubobjectId: 8965185882465024795
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2185,7 +2017,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15125148003783236108
+  Id: 563876225774533194
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2204,7 +2036,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2248,12 +2080,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15125148003783236108
-    SubobjectId: 12940836258070019896
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2263,7 +2089,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2188236588324122993
+  Id: 3273828248586745936
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2282,7 +2108,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2326,12 +2152,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2188236588324122993
-    SubobjectId: 8948206535241438277
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2341,7 +2161,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7805472405095943997
+  Id: 13708367401543074374
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2360,7 +2180,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2404,12 +2224,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7805472405095943997
-    SubobjectId: 1018618592099101193
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2419,7 +2233,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14674640632002758353
+  Id: 2609975770665103345
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2438,7 +2252,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2482,12 +2296,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14674640632002758353
-    SubobjectId: 12238123097021916133
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2497,7 +2305,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13863993283548409719
+  Id: 1682895952398967052
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2516,7 +2324,7 @@ Objects {
       Z: 0.964224637
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2560,12 +2368,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13863993283548409719
-    SubobjectId: 11679676158453647939
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2575,7 +2377,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3195408455727675394
+  Id: 11835585154427828689
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2594,7 +2396,7 @@ Objects {
       Z: 0.964224637
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2638,12 +2440,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3195408455727675394
-    SubobjectId: 5631778774801063222
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2653,7 +2449,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7600900207913553177
+  Id: 6491848375822164122
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2672,7 +2468,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2716,12 +2512,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7600900207913553177
-    SubobjectId: 795894195064023085
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2731,7 +2521,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2976840968559664195
+  Id: 6886517015453751037
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2750,7 +2540,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2794,12 +2584,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2976840968559664195
-    SubobjectId: 5422222817827715447
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2809,7 +2593,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3270746354001386070
+  Id: 15423810257460976749
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2828,7 +2612,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2872,12 +2656,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3270746354001386070
-    SubobjectId: 5698251449274695522
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2887,7 +2665,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17133957443116461694
+  Id: 14069802814448504890
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2906,7 +2684,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2950,12 +2728,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17133957443116461694
-    SubobjectId: 10356111428530375498
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2965,7 +2737,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17513075833051189920
+  Id: 6934386917618892476
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -2984,7 +2756,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3028,12 +2800,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17513075833051189920
-    SubobjectId: 10482891558427948948
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3043,7 +2809,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17522141613663708457
+  Id: 3701320819200230256
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3060,7 +2826,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3104,12 +2870,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17522141613663708457
-    SubobjectId: 10474072064375685149
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3119,7 +2879,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2685112257298491216
+  Id: 539459402460876694
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3136,7 +2896,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3180,12 +2940,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2685112257298491216
-    SubobjectId: 5130489090984477284
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3195,7 +2949,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6332837014123337268
+  Id: 12140907349803462457
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3212,7 +2966,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3256,12 +3010,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6332837014123337268
-    SubobjectId: 3860295492947882752
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3271,7 +3019,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16688604548534683419
+  Id: 1422216871269744793
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3288,7 +3036,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3332,12 +3080,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16688604548534683419
-    SubobjectId: 9649404827248599599
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3347,7 +3089,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15852905768898070871
+  Id: 14244242190927812656
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3364,7 +3106,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3408,12 +3150,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15852905768898070871
-    SubobjectId: 13722628831710178403
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3423,7 +3159,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 897918684187968315
+  Id: 16011409877268184836
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3442,7 +3178,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3486,12 +3222,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 897918684187968315
-    SubobjectId: 7928107427382339087
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3501,7 +3231,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16953600672023744087
+  Id: 11301683361437280250
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3520,7 +3250,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3564,12 +3294,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16953600672023744087
-    SubobjectId: 9887386929098124131
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3579,7 +3303,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8754557672646235187
+  Id: 7337365360988007942
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3596,7 +3320,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3640,12 +3364,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8754557672646235187
-    SubobjectId: 1949539856628101383
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3655,7 +3373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7238216690096442870
+  Id: 16818300717580073290
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3674,7 +3392,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3718,12 +3436,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7238216690096442870
-    SubobjectId: 433199062997002434
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3733,7 +3445,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14410407047166731364
+  Id: 15192752190841620762
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3752,7 +3464,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3796,12 +3508,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14410407047166731364
-    SubobjectId: 11928992141413433680
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3811,7 +3517,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6210046129805553521
+  Id: 16065202512814570189
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3828,7 +3534,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3872,12 +3578,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6210046129805553521
-    SubobjectId: 3773669007495662149
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3887,7 +3587,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14590489392800403964
+  Id: 3363222443693676904
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3906,7 +3606,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3950,12 +3650,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14590489392800403964
-    SubobjectId: 12108933887456867528
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3965,7 +3659,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3431423326411510430
+  Id: 16498475003574902165
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -3982,7 +3676,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4026,12 +3720,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3431423326411510430
-    SubobjectId: 5615595865189660586
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4041,7 +3729,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12460603685828006619
+  Id: 279391938797399166
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4058,7 +3746,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4102,12 +3790,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12460603685828006619
-    SubobjectId: 14887971220812527599
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4117,7 +3799,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13503579267890368452
+  Id: 4680809695967618013
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4136,7 +3818,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4180,12 +3862,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13503579267890368452
-    SubobjectId: 15642723576830241520
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4195,7 +3871,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6985568612069883116
+  Id: 5509396230921436392
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4214,7 +3890,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4258,12 +3934,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6985568612069883116
-    SubobjectId: 180705141009963480
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4273,7 +3943,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7843649831155956602
+  Id: 11522268830045099460
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4292,7 +3962,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4336,12 +4006,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7843649831155956602
-    SubobjectId: 1056791257733209678
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4351,7 +4015,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15103156290721147794
+  Id: 16387961445275490823
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4370,7 +4034,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4414,12 +4078,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15103156290721147794
-    SubobjectId: 12964024231495241382
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4429,7 +4087,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7538807208326094562
+  Id: 10941626859230420493
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4448,7 +4106,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4492,12 +4150,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7538807208326094562
-    SubobjectId: 787987877741542358
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4507,7 +4159,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11878483795256081002
+  Id: 9248217161152787454
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4526,7 +4178,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4570,12 +4222,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11878483795256081002
-    SubobjectId: 14314865043274964830
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4585,7 +4231,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15985908879909221561
+  Id: 4383466169035672433
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4604,7 +4250,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4648,12 +4294,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15985908879909221561
-    SubobjectId: 13810601169601892749
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4663,7 +4303,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16200641568277413635
+  Id: 12060934415704159325
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4682,7 +4322,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4726,12 +4366,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16200641568277413635
-    SubobjectId: 9413783611652266551
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4741,7 +4375,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6308329439035082444
+  Id: 14205006305189495203
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4759,7 +4393,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4803,12 +4437,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6308329439035082444
-    SubobjectId: 3889975149543564280
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4818,7 +4446,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5328061072489889248
+  Id: 12004259813923518007
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4837,7 +4465,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4881,12 +4509,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5328061072489889248
-    SubobjectId: 3134879907317799124
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4896,7 +4518,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14408613054471518755
+  Id: 5981216247425353145
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4915,7 +4537,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4959,12 +4581,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14408613054471518755
-    SubobjectId: 11927197306428055319
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4974,7 +4590,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2873099197507891236
+  Id: 16631698204741921642
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -4993,7 +4609,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5037,12 +4653,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2873099197507891236
-    SubobjectId: 5021244775829706000
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5052,7 +4662,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8462750665880550934
+  Id: 17943220602009628492
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5071,7 +4681,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5115,12 +4725,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8462750665880550934
-    SubobjectId: 1657884447048325922
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5130,7 +4734,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18263758293284191491
+  Id: 1911623132636582879
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5149,7 +4753,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5193,12 +4797,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18263758293284191491
-    SubobjectId: 11458741420949182519
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5208,7 +4806,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16735177394056655973
+  Id: 10106554471138198483
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5227,7 +4825,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5271,12 +4869,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16735177394056655973
-    SubobjectId: 9966198614320714065
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5286,7 +4878,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6430210162822744344
+  Id: 17367055737088822260
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5305,7 +4897,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5349,12 +4941,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6430210162822744344
-    SubobjectId: 4273060529630571564
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5364,7 +4950,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13054986265510255686
+  Id: 10362047156262666138
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5383,7 +4969,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5427,12 +5013,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13054986265510255686
-    SubobjectId: 15518532598100982130
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5442,7 +5022,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1597733294966718109
+  Id: 12706092561922805492
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5461,7 +5041,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5505,12 +5085,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1597733294966718109
-    SubobjectId: 8384592055291698089
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5520,7 +5094,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1779389826979597690
+  Id: 12223995244181460627
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5539,7 +5113,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5583,12 +5157,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1779389826979597690
-    SubobjectId: 8845613259825834062
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5598,7 +5166,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13061579307627920520
+  Id: 1282577078894924235
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5617,7 +5185,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5661,12 +5229,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13061579307627920520
-    SubobjectId: 15507101704804260284
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5676,7 +5238,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18067533658933108334
+  Id: 1689631770100813534
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5695,7 +5257,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5739,12 +5301,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18067533658933108334
-    SubobjectId: 11010317960075574106
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5754,7 +5310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 608273476753326344
+  Id: 7969243595351179880
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5773,7 +5329,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5817,12 +5373,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 608273476753326344
-    SubobjectId: 7638459540829889596
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5832,7 +5382,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6770941614181151033
+  Id: 12730045250632653682
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5851,7 +5401,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5895,12 +5445,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6770941614181151033
-    SubobjectId: 4577751225639506957
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5910,7 +5454,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3154733832748258502
+  Id: 14299034289867656600
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -5929,7 +5473,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5973,12 +5517,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3154733832748258502
-    SubobjectId: 5311883948050788850
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5988,7 +5526,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17745017724801816665
+  Id: 11759601476941568235
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6007,7 +5545,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6051,12 +5589,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17745017724801816665
-    SubobjectId: 10678791596933512557
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6066,7 +5598,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5161660923524801968
+  Id: 15551563877405932957
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6084,7 +5616,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6128,12 +5660,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5161660923524801968
-    SubobjectId: 2725135967370510468
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6143,7 +5669,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11588139387010486109
+  Id: 8294414405059432991
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6162,7 +5688,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6206,12 +5732,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11588139387010486109
-    SubobjectId: 14024508969495456361
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6221,7 +5741,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7761729533723303150
+  Id: 1958449278400184920
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6240,7 +5760,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6284,12 +5804,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7761729533723303150
-    SubobjectId: 704659518542002650
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6299,7 +5813,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 336960474166758044
+  Id: 5079135408652539856
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6318,7 +5832,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6362,12 +5876,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 336960474166758044
-    SubobjectId: 7412177586651525032
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6377,7 +5885,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13134236790423127908
+  Id: 15472361964225404442
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6396,7 +5904,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6440,12 +5948,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13134236790423127908
-    SubobjectId: 15291525306897064528
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6455,7 +5957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16690014793730146256
+  Id: 9149240606368186590
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6474,7 +5976,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6518,12 +6020,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16690014793730146256
-    SubobjectId: 9650826962393619172
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6533,7 +6029,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9986739215935564241
+  Id: 10704809346228754211
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6552,7 +6048,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6596,12 +6092,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9986739215935564241
-    SubobjectId: 16782736157455289573
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6611,7 +6101,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5489949705326632086
+  Id: 13658820979798799138
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6630,7 +6120,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6674,12 +6164,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5489949705326632086
-    SubobjectId: 3332804263951104418
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6689,7 +6173,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14586626579862302996
+  Id: 2257339474518268889
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6708,7 +6192,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6752,12 +6236,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14586626579862302996
-    SubobjectId: 12114221671523669024
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6767,7 +6245,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6927405731826994497
+  Id: 14810832247911070607
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6786,7 +6264,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6830,12 +6308,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6927405731826994497
-    SubobjectId: 167566899536390261
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6845,7 +6317,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10850458557430477357
+  Id: 17189519465925171384
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6864,7 +6336,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6908,12 +6380,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10850458557430477357
-    SubobjectId: 17646463898364860185
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6923,7 +6389,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10967947135706496883
+  Id: 679720279982439903
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -6942,7 +6408,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6986,12 +6452,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10967947135706496883
-    SubobjectId: 18034029419285912135
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7001,7 +6461,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5863011766902971199
+  Id: 7201188261848003170
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7020,7 +6480,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7064,12 +6524,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5863011766902971199
-    SubobjectId: 3687847594070425099
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7079,7 +6533,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6167501499199703844
+  Id: 3190867946709644876
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7098,7 +6552,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7142,12 +6596,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6167501499199703844
-    SubobjectId: 4028217072374492688
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7157,7 +6605,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3277608274642271139
+  Id: 2686384398901068614
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7176,7 +6624,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7220,12 +6668,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3277608274642271139
-    SubobjectId: 5695963527338630807
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7235,7 +6677,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7492514378781878345
+  Id: 653971282801096668
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7254,7 +6696,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7298,12 +6740,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7492514378781878345
-    SubobjectId: 399278692951100797
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7313,7 +6749,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2613259806287903156
+  Id: 7613033033679017253
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7332,7 +6768,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7376,12 +6812,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2613259806287903156
-    SubobjectId: 5058789265537752192
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7391,7 +6821,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9525048667729325954
+  Id: 14720454651973395637
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7410,7 +6840,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7454,12 +6884,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9525048667729325954
-    SubobjectId: 16600130471084886710
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7469,7 +6893,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8584719554045495993
+  Id: 17206991274771187544
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7488,7 +6912,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7532,12 +6956,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8584719554045495993
-    SubobjectId: 1536654400650227597
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7547,7 +6965,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17135237485595699670
+  Id: 4529753086471260929
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7566,7 +6984,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7610,12 +7028,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17135237485595699670
-    SubobjectId: 10357382279031213282
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7625,7 +7037,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16861749030056168720
+  Id: 17220590645280678258
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7644,7 +7056,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7688,12 +7100,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16861749030056168720
-    SubobjectId: 9831552178030798884
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7703,7 +7109,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16658031453388419721
+  Id: 1796141026096820344
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7722,7 +7128,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7766,12 +7172,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16658031453388419721
-    SubobjectId: 9609961026249775037
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7781,7 +7181,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8277354198938184193
+  Id: 17422670750478894475
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7800,7 +7200,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7844,12 +7244,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8277354198938184193
-    SubobjectId: 1202274405086596917
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7859,7 +7253,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14685744503993930530
+  Id: 10108136461007171293
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7878,7 +7272,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7922,12 +7316,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14685744503993930530
-    SubobjectId: 12231346863856645654
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7937,7 +7325,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10947385960408465709
+  Id: 6647571719572018999
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -7956,7 +7344,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8000,12 +7388,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10947385960408465709
-    SubobjectId: 17698208089696216089
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8015,7 +7397,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17130352318327212223
+  Id: 15468075662438491395
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8034,7 +7416,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8078,12 +7460,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17130352318327212223
-    SubobjectId: 10361510978022649227
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8093,7 +7469,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10115247268027343927
+  Id: 4867858184248240512
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8112,7 +7488,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8156,12 +7532,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10115247268027343927
-    SubobjectId: 17154444310464545027
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8171,7 +7541,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10649422984177852717
+  Id: 15209720760633135758
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8190,7 +7560,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8234,12 +7604,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10649422984177852717
-    SubobjectId: 17418267758377452569
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8249,7 +7613,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5873247082345032319
+  Id: 1583558415514448462
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8268,7 +7632,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8312,12 +7676,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5873247082345032319
-    SubobjectId: 3742967245520834379
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8327,7 +7685,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11113534928125710289
+  Id: 7021419929420970078
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8346,7 +7704,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8390,12 +7748,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11113534928125710289
-    SubobjectId: 17891520220517051109
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8405,7 +7757,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6527222098012817383
+  Id: 1213413252132142824
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8424,7 +7776,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8468,12 +7820,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6527222098012817383
-    SubobjectId: 4099716090602791635
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8483,7 +7829,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6449535462673875062
+  Id: 18042004765553413647
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8502,7 +7848,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8546,12 +7892,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6449535462673875062
-    SubobjectId: 4319266157170353474
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8561,7 +7901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1630507200855731717
+  Id: 3733225351845046523
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8580,7 +7920,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8624,12 +7964,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1630507200855731717
-    SubobjectId: 8417507338018065201
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8639,7 +7973,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1098929590916847742
+  Id: 10606297063457910921
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8658,7 +7992,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8702,12 +8036,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1098929590916847742
-    SubobjectId: 7867904382366711114
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8717,7 +8045,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 267024937867747429
+  Id: 15418692043250454024
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8736,7 +8064,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8780,12 +8108,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 267024937867747429
-    SubobjectId: 7045017668540187985
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8795,7 +8117,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7850151735307381692
+  Id: 2989666582428754741
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8814,7 +8136,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8858,12 +8180,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7850151735307381692
-    SubobjectId: 1045134813039611528
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8873,7 +8189,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2967133601229714856
+  Id: 17326069184390213892
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8892,7 +8208,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8936,12 +8252,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2967133601229714856
-    SubobjectId: 5430540364024598684
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8951,7 +8261,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14166375075095598696
+  Id: 8025211396937900058
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -8970,7 +8280,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9014,12 +8324,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14166375075095598696
-    SubobjectId: 12027237637635060572
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9029,7 +8333,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9244477794170096928
+  Id: 5458886308828180263
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9048,7 +8352,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9092,12 +8396,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9244477794170096928
-    SubobjectId: 16301548962409195540
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9107,7 +8405,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 557925097100733953
+  Id: 8477712074225611863
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9126,7 +8424,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9170,12 +8468,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 557925097100733953
-    SubobjectId: 7335908668212349749
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9185,7 +8477,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13873264416465246980
+  Id: 15839182609356197292
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9204,7 +8496,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9248,12 +8540,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13873264416465246980
-    SubobjectId: 11743131088553066032
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9263,7 +8549,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5879993101921910133
+  Id: 5523889160858165673
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9282,7 +8568,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9326,12 +8612,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5879993101921910133
-    SubobjectId: 3740707233671551041
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9341,7 +8621,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16600178006562588854
+  Id: 2589913020774826336
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9360,7 +8640,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9404,12 +8684,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16600178006562588854
-    SubobjectId: 9525089059125144962
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9419,7 +8693,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6589713176429537984
+  Id: 15988431116838089447
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9438,7 +8712,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9482,12 +8756,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6589713176429537984
-    SubobjectId: 4108156706334986228
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9497,7 +8765,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9708373003270996114
+  Id: 10551177528672008984
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9516,7 +8784,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9560,12 +8828,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9708373003270996114
-    SubobjectId: 16486365648038045094
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9575,7 +8837,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12506045054010569249
+  Id: 18284001770294210291
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9594,7 +8856,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9638,12 +8900,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12506045054010569249
-    SubobjectId: 14987454324230313749
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9653,7 +8909,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12010189813280610391
+  Id: 16886617167832750033
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9672,7 +8928,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9716,12 +8972,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12010189813280610391
-    SubobjectId: 14185358039697882467
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9731,7 +8981,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9172404954762562319
+  Id: 9157849088451081481
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9750,7 +9000,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9794,12 +9044,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9172404954762562319
-    SubobjectId: 2106183032276823611
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9809,7 +9053,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3503995028569535997
+  Id: 18248141728737620449
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9828,7 +9072,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9872,12 +9116,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3503995028569535997
-    SubobjectId: 5967541170109698249
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9887,7 +9125,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14457851810318872397
+  Id: 1452853228519293503
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9906,7 +9144,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9950,12 +9188,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14457851810318872397
-    SubobjectId: 12309706006505196153
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9965,7 +9197,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13435573994128481588
+  Id: 8880593733004923360
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -9984,7 +9216,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10028,12 +9260,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13435573994128481588
-    SubobjectId: 15565839606631266304
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10043,7 +9269,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1801210370078535826
+  Id: 13182886231343936722
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10062,7 +9288,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10106,12 +9332,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1801210370078535826
-    SubobjectId: 8831392515059914150
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10121,7 +9341,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15486169071370831229
+  Id: 4862130789930202965
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10140,7 +9360,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10184,12 +9404,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15486169071370831229
-    SubobjectId: 13013620902125133897
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10199,7 +9413,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13079690284360580018
+  Id: 5627292157060165469
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10218,7 +9432,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10262,12 +9476,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13079690284360580018
-    SubobjectId: 15561101068619734662
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10277,7 +9485,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17651209444395134000
+  Id: 8712075984977593104
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10296,7 +9504,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10340,12 +9548,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17651209444395134000
-    SubobjectId: 10846346316926568708
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10355,7 +9557,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11618152954878830056
+  Id: 6954922251823828227
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10374,7 +9576,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10418,12 +9620,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11618152954878830056
-    SubobjectId: 14072551969810170076
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10433,7 +9629,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3196573225131920878
+  Id: 15131224006967467336
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10452,7 +9648,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10496,12 +9692,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3196573225131920878
-    SubobjectId: 5633094469234731226
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10511,7 +9701,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13114977812379681967
+  Id: 9053198140839072788
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10530,7 +9720,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10574,12 +9764,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13114977812379681967
-    SubobjectId: 15308163049185223067
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10589,7 +9773,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16188809724962313102
+  Id: 9821146042765886666
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10607,7 +9791,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10651,12 +9835,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16188809724962313102
-    SubobjectId: 9428975583975700154
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10666,7 +9844,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3867546664619260190
+  Id: 665986819035428886
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10685,7 +9863,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10729,12 +9907,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3867546664619260190
-    SubobjectId: 6330951433677429802
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10744,7 +9916,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4356260103708659185
+  Id: 17319649363533691680
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10763,7 +9935,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10807,12 +9979,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4356260103708659185
-    SubobjectId: 6774764596725393605
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10822,7 +9988,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11312188794575840372
+  Id: 6660761610472731825
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10841,7 +10007,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10885,12 +10051,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11312188794575840372
-    SubobjectId: 18342229155639165248
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10900,7 +10060,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10137587677263388300
+  Id: 12015826748083179030
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10919,7 +10079,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10963,12 +10123,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10137587677263388300
-    SubobjectId: 17212676126483037112
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10978,7 +10132,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15157081309539287419
+  Id: 9647534531148467735
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -10997,7 +10151,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11041,12 +10195,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15157081309539287419
-    SubobjectId: 12693539445119001679
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11056,7 +10204,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3245446734452931734
+  Id: 14756759994007417978
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11074,7 +10222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11118,12 +10266,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3245446734452931734
-    SubobjectId: 5726999167351642530
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11133,7 +10275,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9748514290856835498
+  Id: 14063669288544775606
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11152,7 +10294,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11196,12 +10338,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9748514290856835498
-    SubobjectId: 16517490271473130654
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11211,7 +10347,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3913106126234803347
+  Id: 12235859103295152206
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11230,7 +10366,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11274,12 +10410,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3913106126234803347
-    SubobjectId: 6070397857823078823
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11289,7 +10419,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14200672728981906592
+  Id: 554379938675301127
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11308,7 +10438,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11352,12 +10482,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14200672728981906592
-    SubobjectId: 12061391188255326612
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11367,7 +10491,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4681103342788967424
+  Id: 3735276170079719006
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11386,7 +10510,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11430,12 +10554,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4681103342788967424
-    SubobjectId: 2487914756986575156
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11445,7 +10563,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14316675774685906305
+  Id: 5568210973205775654
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11464,7 +10582,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11508,12 +10626,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14316675774685906305
-    SubobjectId: 11880297054186987701
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11523,7 +10635,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17734667080207429176
+  Id: 4412318378922913924
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11542,7 +10654,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11586,12 +10698,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17734667080207429176
-    SubobjectId: 10695616204646943500
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11601,7 +10707,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1745153780611991151
+  Id: 8224850604094229843
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11620,7 +10726,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11664,12 +10770,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1745153780611991151
-    SubobjectId: 8811380513596613467
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11679,7 +10779,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7110806151670044683
+  Id: 4286857273565415542
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11698,7 +10798,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11742,12 +10842,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7110806151670044683
-    SubobjectId: 62750774752705855
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11757,7 +10851,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7080739485072119158
+  Id: 15884836531530602026
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11776,7 +10870,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11820,12 +10914,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7080739485072119158
-    SubobjectId: 14514591471579202
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11835,7 +10923,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11758312861814984518
+  Id: 15606772610639854655
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11854,7 +10942,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11898,12 +10986,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11758312861814984518
-    SubobjectId: 13933482786680007282
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11913,7 +10995,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11272631619464791370
+  Id: 1555276662808636487
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -11931,7 +11013,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11975,12 +11057,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11272631619464791370
-    SubobjectId: 18302674248348360830
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11990,7 +11066,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14325558532128790804
+  Id: 11356569385790657815
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12009,7 +11085,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12053,12 +11129,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14325558532128790804
-    SubobjectId: 11871168040499231776
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12068,7 +11138,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5104895681682855947
+  Id: 4318532188803465849
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12087,7 +11157,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12131,12 +11201,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5104895681682855947
-    SubobjectId: 2641497972610088255
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12146,7 +11210,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5159676096350750386
+  Id: 11944457272895457047
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12165,7 +11229,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12209,12 +11273,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5159676096350750386
-    SubobjectId: 2732169747897049990
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12224,7 +11282,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7258833688896085691
+  Id: 7518493755054713291
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12243,7 +11301,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12287,12 +11345,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7258833688896085691
-    SubobjectId: 489987725458242447
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12302,7 +11354,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11760571711261284044
+  Id: 8010451505766603085
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12321,7 +11373,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12365,12 +11417,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11760571711261284044
-    SubobjectId: 13926737891172283384
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12380,7 +11426,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6243148499319271350
+  Id: 10394448074014477764
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12399,7 +11445,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12443,12 +11489,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6243148499319271350
-    SubobjectId: 3806765999706294914
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12458,7 +11498,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14048811230975057447
+  Id: 2157235401070024487
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12477,7 +11517,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12521,12 +11561,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14048811230975057447
-    SubobjectId: 11567250018230221587
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12536,7 +11570,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16586260671702375996
+  Id: 16176989953256915203
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12555,7 +11589,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12599,12 +11633,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16586260671702375996
-    SubobjectId: 9538197187501849352
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12614,7 +11642,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17181673228194923478
+  Id: 16545734624341013681
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12633,7 +11661,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12677,12 +11705,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17181673228194923478
-    SubobjectId: 10088581304578909922
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12692,7 +11714,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8978707885994069798
+  Id: 397600779211885852
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12711,7 +11733,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12755,12 +11777,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8978707885994069798
-    SubobjectId: 2227734502860106258
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12770,7 +11786,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13533566212090230950
+  Id: 10225419320666360203
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12789,7 +11805,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12833,12 +11849,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13533566212090230950
-    SubobjectId: 15681715589849193874
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12848,7 +11858,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18539005074145911
+  Id: 1735451385499449699
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12867,7 +11877,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12911,12 +11921,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18539005074145911
-    SubobjectId: 7075606750897399619
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12926,7 +11930,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13983851395447341520
+  Id: 10120428406493805697
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -12945,7 +11949,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12989,12 +11993,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13983851395447341520
-    SubobjectId: 11556475492853490916
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13004,7 +12002,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11730571178130528045
+  Id: 18240267625246616992
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13023,7 +12021,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13067,12 +12065,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11730571178130528045
-    SubobjectId: 13887724317087674905
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13082,7 +12074,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18004583115718110672
+  Id: 18012266911553809915
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13101,7 +12093,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13145,12 +12137,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18004583115718110672
-    SubobjectId: 11217735539415894244
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13160,7 +12146,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10055435668197902682
+  Id: 10282723392546289777
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13178,7 +12164,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13222,12 +12208,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10055435668197902682
-    SubobjectId: 16860441869149924462
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13237,7 +12217,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16921778671495771198
+  Id: 4986898005256721873
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13256,7 +12236,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13300,12 +12280,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16921778671495771198
-    SubobjectId: 9846693913199251722
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13315,7 +12289,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11439362890744056147
+  Id: 7502908314586236811
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13334,7 +12308,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13378,12 +12352,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11439362890744056147
-    SubobjectId: 18208194076612930663
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13393,7 +12361,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12574892349608116830
+  Id: 2135635985576097174
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13412,7 +12380,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13456,12 +12424,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12574892349608116830
-    SubobjectId: 14768070696678205290
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13471,7 +12433,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7033907870265365850
+  Id: 10748829366079789922
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13490,7 +12452,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13534,12 +12496,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7033907870265365850
-    SubobjectId: 282937372869046382
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13549,7 +12505,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14496368661786191479
+  Id: 4046091556517434202
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13568,7 +12524,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13612,12 +12568,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14496368661786191479
-    SubobjectId: 12348084595926336323
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13627,7 +12577,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15910293648318996416
+  Id: 1562075538748825090
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13646,7 +12596,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13690,12 +12640,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15910293648318996416
-    SubobjectId: 13744124306173098740
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13705,7 +12649,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 622222566183441058
+  Id: 6082827740438803680
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13724,7 +12668,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13768,12 +12712,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 622222566183441058
-    SubobjectId: 7697447650193307542
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13783,7 +12721,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14166018958839103743
+  Id: 13887460362425162156
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13802,7 +12740,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13846,12 +12784,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14166018958839103743
-    SubobjectId: 12026731732246635979
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13861,7 +12793,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8431273065704828556
+  Id: 3357952685289537623
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13880,7 +12812,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -13924,12 +12856,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8431273065704828556
-    SubobjectId: 1689309270431026104
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13939,7 +12865,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5337861682058142526
+  Id: 2073027856602348041
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -13958,7 +12884,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14002,12 +12928,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5337861682058142526
-    SubobjectId: 2910349079186359818
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14017,7 +12937,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9813119920165911696
+  Id: 16490181555206315436
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14036,7 +12956,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14080,12 +13000,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9813119920165911696
-    SubobjectId: 16888344023372863908
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14095,7 +13009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5765321409302368845
+  Id: 5124125319377233907
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14114,7 +13028,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14158,12 +13072,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5765321409302368845
-    SubobjectId: 3635195160102139769
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14173,7 +13081,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17022535612301114619
+  Id: 4120379982859115784
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14192,7 +13100,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14236,12 +13144,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17022535612301114619
-    SubobjectId: 10253700233948273103
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14251,7 +13153,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 977732671187610565
+  Id: 7612301036815224194
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14270,7 +13172,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14314,12 +13216,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 977732671187610565
-    SubobjectId: 8061968166472453873
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14329,7 +13225,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8700700304309989584
+  Id: 1593652341841376532
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14346,7 +13242,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14390,12 +13286,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8700700304309989584
-    SubobjectId: 1931867417981539812
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14405,7 +13295,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5794542077786373402
+  Id: 5273498552439337457
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14422,7 +13312,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14466,12 +13356,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5794542077786373402
-    SubobjectId: 3610231774584887342
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14481,7 +13365,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16557263341954350460
+  Id: 10036446191088655398
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14500,7 +13384,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14544,12 +13428,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16557263341954350460
-    SubobjectId: 9779409032035850312
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14559,7 +13437,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14758133583829138414
+  Id: 12416710704954727655
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14578,7 +13456,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14622,12 +13500,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14758133583829138414
-    SubobjectId: 12591831148223700698
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14637,7 +13509,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5520923596784574542
+  Id: 2214030611245766
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14656,7 +13528,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14700,12 +13572,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5520923596784574542
-    SubobjectId: 3381646112239502714
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14715,7 +13581,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9659810100795901608
+  Id: 4438036711192630108
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14734,7 +13600,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14778,12 +13644,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9659810100795901608
-    SubobjectId: 16464823654532572060
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14793,7 +13653,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2907570744695242279
+  Id: 3607084164784338889
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14812,7 +13672,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14856,12 +13716,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2907570744695242279
-    SubobjectId: 5343947385894066963
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14871,7 +13725,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6937560998466194773
+  Id: 5107250825539191728
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14890,7 +13744,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14934,12 +13788,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6937560998466194773
-    SubobjectId: 159716170899515489
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14949,7 +13797,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16140874142790505980
+  Id: 3949636454513253423
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -14968,7 +13816,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15012,12 +13860,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16140874142790505980
-    SubobjectId: 13659312639529431240
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15027,7 +13869,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8172777828575332429
+  Id: 5500522671844620672
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15046,7 +13888,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15090,12 +13932,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8172777828575332429
-    SubobjectId: 1376920439529188729
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15105,7 +13941,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17617560612697126576
+  Id: 17584076283008020349
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15124,7 +13960,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15168,12 +14004,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17617560612697126576
-    SubobjectId: 10812687453392917380
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15183,7 +14013,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11268235976410301236
+  Id: 4968007440823498172
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15202,7 +14032,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15246,12 +14076,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11268235976410301236
-    SubobjectId: 18307298585827468800
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15261,7 +14085,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7883575582671702825
+  Id: 16169541654352221443
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15280,7 +14104,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15324,12 +14148,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7883575582671702825
-    SubobjectId: 1087709209100840477
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15339,7 +14157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 257792800658114478
+  Id: 1729993940190062172
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15358,7 +14176,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15402,12 +14220,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 257792800658114478
-    SubobjectId: 7053651684275659418
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15417,7 +14229,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9271622935349604932
+  Id: 342694189543403310
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15436,7 +14248,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15480,12 +14292,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9271622935349604932
-    SubobjectId: 16346707744240686960
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15495,7 +14301,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15357015309708766592
+  Id: 18094872152503705007
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15514,7 +14320,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15558,12 +14364,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15357015309708766592
-    SubobjectId: 13217875744683346100
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15573,7 +14373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11103748955664703657
+  Id: 16893477911132940133
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15592,7 +14392,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15636,12 +14436,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11103748955664703657
-    SubobjectId: 17899617338822821277
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15651,7 +14445,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11613978617488253086
+  Id: 5336118131668773346
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15670,7 +14464,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15714,12 +14508,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11613978617488253086
-    SubobjectId: 14077517955255092650
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15729,7 +14517,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 929014259417668368
+  Id: 16927259047749653040
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15748,7 +14536,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15792,12 +14580,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 929014259417668368
-    SubobjectId: 7968207433689185828
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15807,7 +14589,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13609170196865219890
+  Id: 14739388397792894221
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15826,7 +14608,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15870,12 +14652,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13609170196865219890
-    SubobjectId: 16045546790212900870
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15885,7 +14661,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13070766701339049830
+  Id: 15327304105740797619
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15902,7 +14678,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15946,12 +14722,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13070766701339049830
-    SubobjectId: 15498283704335604306
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15961,7 +14731,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8922236109189684985
+  Id: 5229995574426457480
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -15980,7 +14750,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16024,12 +14794,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8922236109189684985
-    SubobjectId: 1847146009560185805
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16039,7 +14803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13112286804120689724
+  Id: 15575493228230103463
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16058,7 +14822,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16102,12 +14866,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13112286804120689724
-    SubobjectId: 15530791520143718664
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16117,7 +14875,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9157337389535829575
+  Id: 2808116155929145427
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16136,7 +14894,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16180,12 +14938,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9157337389535829575
-    SubobjectId: 2118136776313338739
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16195,7 +14947,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14706491736544838649
+  Id: 2216289443537132580
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16214,7 +14966,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16258,12 +15010,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14706491736544838649
-    SubobjectId: 12567210830586603213
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16273,7 +15019,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14656089912759555057
+  Id: 17820681507421312536
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16292,7 +15038,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16336,12 +15082,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14656089912759555057
-    SubobjectId: 12183543098576434885
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16351,7 +15091,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14541743824622451652
+  Id: 1134525740812719527
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16370,7 +15110,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16414,12 +15154,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14541743824622451652
-    SubobjectId: 12375576271997804272
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16429,7 +15163,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5214878252926188119
+  Id: 15354051773997652223
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16448,7 +15182,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16492,12 +15226,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5214878252926188119
-    SubobjectId: 3039577759847571299
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16507,7 +15235,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5562480337094044655
+  Id: 2385424944926917699
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16526,7 +15254,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16570,12 +15298,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5562480337094044655
-    SubobjectId: 3405180498696376027
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16585,7 +15307,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18079535779697232925
+  Id: 11549841751515864907
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16604,7 +15326,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16648,12 +15370,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18079535779697232925
-    SubobjectId: 10995307571218671913
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16663,7 +15379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3829621099881083241
+  Id: 10198922460855026084
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16682,7 +15398,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16726,12 +15442,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3829621099881083241
-    SubobjectId: 6293160233706968157
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16741,7 +15451,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17975664130321382294
+  Id: 6105442076047493261
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16760,7 +15470,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16804,12 +15514,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17975664130321382294
-    SubobjectId: 11170656280849030818
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16819,7 +15523,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1209986918986197660
+  Id: 14660973145532362508
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16838,7 +15542,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16882,12 +15586,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1209986918986197660
-    SubobjectId: 8267196367135166376
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16897,7 +15595,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7023935770528583886
+  Id: 17605872512551031634
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16916,7 +15614,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16960,12 +15658,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7023935770528583886
-    SubobjectId: 219075098109507066
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16975,7 +15667,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8871688520755117751
+  Id: 11057228994984335982
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -16994,7 +15686,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17038,12 +15730,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8871688520755117751
-    SubobjectId: 1832637732706556803
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17053,7 +15739,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15205449558885473569
+  Id: 4572019373930378091
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17072,7 +15758,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17116,12 +15802,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15205449558885473569
-    SubobjectId: 12787087364904876053
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17131,7 +15811,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8364627110893944578
+  Id: 5296955029649209380
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17150,7 +15830,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17194,12 +15874,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8364627110893944578
-    SubobjectId: 1613810323332536886
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17209,7 +15883,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11270013904729681017
+  Id: 4310891306441350876
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17228,7 +15902,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17272,12 +15946,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11270013904729681017
-    SubobjectId: 18309215050937092429
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17287,7 +15955,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1019021890557465703
+  Id: 11190659618210225040
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17306,7 +15974,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17350,12 +16018,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1019021890557465703
-    SubobjectId: 7805878317112963411
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17365,7 +16027,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9395844842001428558
+  Id: 14970614024139409859
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17384,7 +16046,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17428,12 +16090,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9395844842001428558
-    SubobjectId: 16146804206233785722
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17443,7 +16099,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10279333054613073968
+  Id: 11032960249828966599
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17462,7 +16118,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17506,12 +16162,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10279333054613073968
-    SubobjectId: 17066321557448807684
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17521,7 +16171,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9984704124365236103
+  Id: 3907999567211528971
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17540,7 +16190,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17584,12 +16234,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9984704124365236103
-    SubobjectId: 16780566716829500083
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17599,7 +16243,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15879888744881375257
+  Id: 15895063891194237976
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17618,7 +16262,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17662,12 +16306,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15879888744881375257
-    SubobjectId: 13695716224755281197
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17677,7 +16315,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12891592425135141769
+  Id: 1763205943565798837
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17696,7 +16334,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17740,12 +16378,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12891592425135141769
-    SubobjectId: 15030874774395721405
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17755,7 +16387,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5688241694291007472
+  Id: 15529343708263179268
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17774,7 +16406,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17818,12 +16450,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5688241694291007472
-    SubobjectId: 3206833777586172612
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17833,7 +16459,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9447263305328385118
+  Id: 1332253706766722547
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17852,7 +16478,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17896,12 +16522,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9447263305328385118
-    SubobjectId: 16243124955449473386
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17911,7 +16531,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8700098700456174710
+  Id: 9826545844358844037
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -17930,7 +16550,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17974,12 +16594,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8700098700456174710
-    SubobjectId: 1931114423509860674
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17989,7 +16603,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11544631861749452701
+  Id: 11688741998571666322
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18008,7 +16622,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18052,12 +16666,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11544631861749452701
-    SubobjectId: 13999019949680290473
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18067,7 +16675,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16228372308293629571
+  Id: 11413370352291271725
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18086,7 +16694,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18130,12 +16738,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16228372308293629571
-    SubobjectId: 9459394695522669495
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18145,7 +16747,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11901327062026232344
+  Id: 14073784216800607276
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18164,7 +16766,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18208,12 +16810,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11901327062026232344
-    SubobjectId: 14364871006079043372
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18223,7 +16819,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2294203938859412557
+  Id: 4624317558607425131
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18242,7 +16838,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18286,12 +16882,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2294203938859412557
-    SubobjectId: 9054172219868121465
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18301,7 +16891,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8399418069495727611
+  Id: 8328012640611966632
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18320,7 +16910,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18364,12 +16954,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8399418069495727611
-    SubobjectId: 1648596469092786383
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18379,7 +16963,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11858078967209036495
+  Id: 6359995750415604063
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18398,7 +16982,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18442,12 +17026,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11858078967209036495
-    SubobjectId: 14330484818225262587
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18457,7 +17035,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7943686195114670918
+  Id: 10250929952997592745
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18476,7 +17054,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18520,12 +17098,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7943686195114670918
-    SubobjectId: 886614822245670514
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18535,7 +17107,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1636007482718750940
+  Id: 15260118191168840068
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18554,7 +17126,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18598,12 +17170,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1636007482718750940
-    SubobjectId: 8413854235705372136
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18613,7 +17179,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13479230659391292015
+  Id: 2133249055022669709
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18632,7 +17198,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18676,12 +17242,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13479230659391292015
-    SubobjectId: 15672420205590865755
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18691,7 +17251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12953415638358961381
+  Id: 2249529002006372529
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18710,7 +17270,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18754,12 +17314,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12953415638358961381
-    SubobjectId: 15110563144601651665
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18769,7 +17323,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12272913315385688035
+  Id: 40032091608952427
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18788,7 +17342,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18832,12 +17386,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12272913315385688035
-    SubobjectId: 14421197090326502103
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18847,7 +17395,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7029465297675013989
+  Id: 6172570396369752789
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18866,7 +17414,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18910,12 +17458,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7029465297675013989
-    SubobjectId: 287643837074877009
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18925,7 +17467,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 850750017695234066
+  Id: 6218860164160783078
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -18944,7 +17486,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18988,12 +17530,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 850750017695234066
-    SubobjectId: 7619597267872701734
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19003,7 +17539,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1194732718407785707
+  Id: 8190878744611909291
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19022,7 +17558,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19066,12 +17602,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1194732718407785707
-    SubobjectId: 8278967318869768671
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19081,7 +17611,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9788481675497604396
+  Id: 3421046409509860802
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19100,7 +17630,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19144,12 +17674,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9788481675497604396
-    SubobjectId: 16548454576668532760
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19159,7 +17683,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15351789344599880508
+  Id: 10922252489666200332
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19178,7 +17702,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19222,12 +17746,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15351789344599880508
-    SubobjectId: 13221659107334280712
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19237,7 +17755,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 601860246236563776
+  Id: 17937895032439182630
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19256,7 +17774,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19300,12 +17818,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 601860246236563776
-    SubobjectId: 7650062496059583604
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19315,7 +17827,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3741003161997850776
+  Id: 3536014728312619357
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19334,7 +17846,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19378,12 +17890,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3741003161997850776
-    SubobjectId: 5880277745749581228
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19393,7 +17899,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14354445866017681975
+  Id: 1540237333854328386
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19412,7 +17918,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19456,12 +17962,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14354445866017681975
-    SubobjectId: 11909060631715223299
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19471,7 +17971,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6160096778165640172
+  Id: 7827609781544179362
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19490,7 +17990,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19534,12 +18034,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6160096778165640172
-    SubobjectId: 3966906680073010904
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19549,7 +18043,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1465297011032086508
+  Id: 7046480704121768567
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19568,7 +18062,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19612,12 +18106,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1465297011032086508
-    SubobjectId: 8513351564054049496
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19627,7 +18115,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13125658127879582438
+  Id: 11620456304681243621
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19646,7 +18134,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19690,12 +18178,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13125658127879582438
-    SubobjectId: 15300965973940262866
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19705,7 +18187,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17872549153130320869
+  Id: 7579398398104888444
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19724,7 +18206,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19768,12 +18250,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17872549153130320869
-    SubobjectId: 11130729189269698257
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19783,7 +18259,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10524410074734610354
+  Id: 5803567750465452102
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19802,7 +18278,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19846,12 +18322,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10524410074734610354
-    SubobjectId: 17329412427735769734
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19861,7 +18331,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5824294552294879420
+  Id: 10675143147001174721
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19880,7 +18350,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -19924,12 +18394,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5824294552294879420
-    SubobjectId: 3649124005726655880
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -19939,7 +18403,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12811213376265408872
+  Id: 5488563251001854819
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -19958,7 +18422,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20002,12 +18466,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12811213376265408872
-    SubobjectId: 15256741201819153500
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20017,7 +18475,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11654521145459355753
+  Id: 9729285755901223615
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20036,7 +18494,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20080,12 +18538,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11654521145459355753
-    SubobjectId: 14109050587737052509
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20095,7 +18547,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17408762109985329199
+  Id: 161118395003308659
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20114,7 +18566,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20158,12 +18610,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17408762109985329199
-    SubobjectId: 10657802728635626779
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20173,7 +18619,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4640865007117539097
+  Id: 10610433897989321420
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20192,7 +18638,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20236,12 +18682,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4640865007117539097
-    SubobjectId: 2456693636973163053
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20251,7 +18691,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15502562455378664315
+  Id: 13620597590358090266
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20270,7 +18710,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20314,12 +18754,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15502562455378664315
-    SubobjectId: 13066188887159766607
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20329,7 +18763,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14558139579149721020
+  Id: 11995622437965202995
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20348,7 +18782,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20392,12 +18826,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14558139579149721020
-    SubobjectId: 12139630001292146824
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20407,7 +18835,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3290793983319461768
+  Id: 11752890995065438048
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20426,7 +18854,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20470,12 +18898,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3290793983319461768
-    SubobjectId: 5754325213265832636
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20485,7 +18907,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15981405840277560297
+  Id: 12053873444705096516
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20504,7 +18926,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20548,12 +18970,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15981405840277560297
-    SubobjectId: 13815104162275245789
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20563,7 +18979,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4731764873068109369
+  Id: 3066246456643677602
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20582,7 +18998,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20626,12 +19042,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4731764873068109369
-    SubobjectId: 2583620257278212877
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20641,7 +19051,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8683277801840184800
+  Id: 12607895987018637006
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20660,7 +19070,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20704,12 +19114,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8683277801840184800
-    SubobjectId: 1941461410513905876
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20719,7 +19123,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9941662852430877635
+  Id: 12678190552604007488
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20738,7 +19142,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20782,12 +19186,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9941662852430877635
-    SubobjectId: 16971716560171415287
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20797,7 +19195,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4702896794465558136
+  Id: 17984501871005215214
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20816,7 +19214,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20860,12 +19258,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4702896794465558136
-    SubobjectId: 2536736387051699020
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20875,7 +19267,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3205740058525056723
+  Id: 2602716935534475021
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20894,7 +19286,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -20938,12 +19330,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3205740058525056723
-    SubobjectId: 5624244294921968615
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -20953,7 +19339,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 272548881377359990
+  Id: 15448116508147653719
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -20972,7 +19358,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21016,12 +19402,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 272548881377359990
-    SubobjectId: 7041393655572733250
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21031,7 +19411,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10217182295179978736
+  Id: 7648632252987923987
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21050,7 +19430,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21094,12 +19474,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10217182295179978736
-    SubobjectId: 17274399491850207940
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21109,7 +19483,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18178646370346944719
+  Id: 2766045572641066953
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21128,7 +19502,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21172,12 +19546,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18178646370346944719
-    SubobjectId: 11400793691570187771
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21187,7 +19555,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7837557979419712317
+  Id: 16063726778701857553
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21206,7 +19574,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21250,12 +19618,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7837557979419712317
-    SubobjectId: 1059716520040496649
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21265,7 +19627,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6941917516929027712
+  Id: 9548775012541865286
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21284,7 +19646,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21328,12 +19690,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6941917516929027712
-    SubobjectId: 155060593847086004
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21343,7 +19699,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16237705481125636725
+  Id: 15845207186123568501
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21362,7 +19718,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21406,12 +19762,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16237705481125636725
-    SubobjectId: 9450712424750468929
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21421,7 +19771,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6403325978385107691
+  Id: 10231276567238076995
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21440,7 +19790,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21484,12 +19834,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6403325978385107691
-    SubobjectId: 4228151036929093599
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21499,7 +19843,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11247626989921261673
+  Id: 16950828629845858807
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21518,7 +19862,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21562,12 +19906,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11247626989921261673
-    SubobjectId: 18331865852530212189
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21577,7 +19915,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2156984385833533110
+  Id: 15103185527092339330
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21596,7 +19934,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21640,12 +19978,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2156984385833533110
-    SubobjectId: 9196176873319340930
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21655,7 +19987,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17164984995727981364
+  Id: 18158736486047120440
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21674,7 +20006,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21718,12 +20050,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17164984995727981364
-    SubobjectId: 10107767593372868096
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21733,7 +20059,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7554715706188866349
+  Id: 12978664627211937922
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21752,7 +20078,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21796,12 +20122,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7554715706188866349
-    SubobjectId: 767857216840844825
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21811,7 +20131,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5074156461827904843
+  Id: 6730512206293106110
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21830,7 +20150,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21874,12 +20194,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5074156461827904843
-    SubobjectId: 2601745302716559487
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21889,7 +20203,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16799577180405028308
+  Id: 9373936422392515449
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21908,7 +20222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -21952,12 +20266,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16799577180405028308
-    SubobjectId: 10039739124354363616
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -21967,7 +20275,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1534115595293146151
+  Id: 6364258165983562234
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -21986,7 +20294,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22030,12 +20338,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1534115595293146151
-    SubobjectId: 8591181416906283283
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22045,7 +20347,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14531163600927181928
+  Id: 4396674123250381100
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22064,7 +20366,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22108,12 +20410,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14531163600927181928
-    SubobjectId: 12383025082248636764
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22123,7 +20419,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13631882700348551822
+  Id: 10020720714570937862
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22140,7 +20436,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22184,12 +20480,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13631882700348551822
-    SubobjectId: 16095419684952086458
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22199,7 +20489,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13457614077785641520
+  Id: 18416096253316527681
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22216,7 +20506,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22260,12 +20550,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13457614077785641520
-    SubobjectId: 15614907112893904644
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22275,7 +20559,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7991163340298641178
+  Id: 663501246077421706
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22294,7 +20578,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22338,12 +20622,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7991163340298641178
-    SubobjectId: 906937948923542062
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22353,7 +20631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7478080028884446002
+  Id: 7246312448697684835
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22372,7 +20650,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22416,12 +20694,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7478080028884446002
-    SubobjectId: 411865854992371206
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22431,7 +20703,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12653302044278411350
+  Id: 14070920083715289442
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22450,7 +20722,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22494,12 +20766,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12653302044278411350
-    SubobjectId: 14837611247968925026
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22509,7 +20775,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17584606476545877867
+  Id: 17735265870797069676
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22528,7 +20794,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22572,12 +20838,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17584606476545877867
-    SubobjectId: 10842791681208320607
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22587,7 +20847,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3378575369618596315
+  Id: 9014428082476224173
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22606,7 +20866,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22650,12 +20910,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3378575369618596315
-    SubobjectId: 5517854709189657839
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22665,7 +20919,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17870578521030729102
+  Id: 5111978275931718747
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22684,7 +20938,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22728,12 +20982,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17870578521030729102
-    SubobjectId: 11128759175703984314
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22743,7 +20991,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 497662620722817396
+  Id: 16348517943103059839
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22762,7 +21010,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22806,12 +21054,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 497662620722817396
-    SubobjectId: 7248625506224639040
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22821,7 +21063,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8034834470300707902
+  Id: 17334128896088656309
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22840,7 +21082,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22884,12 +21126,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8034834470300707902
-    SubobjectId: 1004637634848426250
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22899,7 +21135,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16225137289449576933
+  Id: 6367226416514552940
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22918,7 +21154,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -22962,12 +21198,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16225137289449576933
-    SubobjectId: 9465163010665446609
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -22977,7 +21207,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10287477802228914499
+  Id: 15911215264774162419
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -22996,7 +21226,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23040,12 +21270,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10287477802228914499
-    SubobjectId: 17056312063898778743
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23055,7 +21279,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3751504345035919409
+  Id: 17663265320353499808
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23074,7 +21298,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23118,12 +21342,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3751504345035919409
-    SubobjectId: 6224047979268158725
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23133,7 +21351,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5961252382975341322
+  Id: 12043131428904042349
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23152,7 +21370,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23196,12 +21414,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5961252382975341322
-    SubobjectId: 3515860568777250366
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23211,7 +21423,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3815029557583061323
+  Id: 11644211833867564557
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23230,7 +21442,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23274,12 +21486,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3815029557583061323
-    SubobjectId: 6233530338806449279
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23289,7 +21495,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14168056470275722844
+  Id: 5336929294035946084
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23308,7 +21514,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23352,12 +21558,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14168056470275722844
-    SubobjectId: 12028916354284448616
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23367,7 +21567,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6060375868778238602
+  Id: 5892499338919541408
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23386,7 +21586,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23430,12 +21630,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6060375868778238602
-    SubobjectId: 3921087456091781054
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23445,7 +21639,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1988515713901075914
+  Id: 1302581689086210536
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23464,7 +21658,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23508,12 +21702,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1988515713901075914
-    SubobjectId: 8784525592464488702
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23523,7 +21711,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12225279964723428685
+  Id: 24138578785773188
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23542,7 +21730,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23586,12 +21774,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12225279964723428685
-    SubobjectId: 14688679994297505913
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23601,7 +21783,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13110480746721059228
+  Id: 3659757819430466819
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23620,7 +21802,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23664,12 +21846,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13110480746721059228
-    SubobjectId: 15528850480840000680
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23679,7 +21855,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9553736393207229603
+  Id: 3532831939614019612
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23698,7 +21874,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23742,12 +21918,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9553736393207229603
-    SubobjectId: 16637976372037405079
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23757,7 +21927,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4239313392583759010
+  Id: 14871026391332553350
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23776,7 +21946,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23820,12 +21990,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4239313392583759010
-    SubobjectId: 6387607216747557270
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23835,7 +21999,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 813735205018265663
+  Id: 6352882174252414809
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23854,7 +22018,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23898,12 +22062,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 813735205018265663
-    SubobjectId: 7582566582608497931
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23913,7 +22071,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12359027583735656634
+  Id: 6186494114338036695
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -23932,7 +22090,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -23976,12 +22134,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12359027583735656634
-    SubobjectId: 14552346323684038030
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -23991,7 +22143,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8679860955436079912
+  Id: 16738987385260470875
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24010,7 +22162,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24054,12 +22206,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8679860955436079912
-    SubobjectId: 1874984497468653084
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24069,7 +22215,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15655154524514463839
+  Id: 15573215749409660817
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24086,7 +22232,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24130,12 +22276,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15655154524514463839
-    SubobjectId: 13488861297399289195
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24145,7 +22285,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16535431934059978869
+  Id: 7449343692445019255
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24162,7 +22302,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24206,12 +22346,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16535431934059978869
-    SubobjectId: 9730555062156838209
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24221,7 +22355,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12075214928199041868
+  Id: 12665850652938210026
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24240,7 +22374,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24284,12 +22418,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12075214928199041868
-    SubobjectId: 14259381606492612216
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24299,7 +22427,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6873833922949052098
+  Id: 12957716449279022097
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24318,7 +22446,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24362,12 +22490,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6873833922949052098
-    SubobjectId: 4401288364500653046
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24377,7 +22499,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12484016193420377787
+  Id: 7227793797054618927
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24396,7 +22518,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24440,12 +22562,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12484016193420377787
-    SubobjectId: 14929544295462263695
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24455,7 +22571,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15353277546667712802
+  Id: 4549800137156572277
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24474,7 +22590,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24518,12 +22634,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15353277546667712802
-    SubobjectId: 13213996090898727958
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24533,7 +22643,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8931840234807379190
+  Id: 7196616939862245515
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24552,7 +22662,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24596,12 +22706,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8931840234807379190
-    SubobjectId: 1838597453759848898
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24611,7 +22715,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3381359888567397004
+  Id: 15364391470707421192
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24630,7 +22734,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24674,12 +22778,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3381359888567397004
-    SubobjectId: 5520646908938751928
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24689,7 +22787,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14099109746010621510
+  Id: 15815636451813514403
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24708,7 +22806,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24752,12 +22850,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14099109746010621510
-    SubobjectId: 11662737983286633330
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24767,7 +22859,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8887022460590953643
+  Id: 1454751212927506654
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24786,7 +22878,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24830,12 +22922,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8887022460590953643
-    SubobjectId: 1811938184935141791
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24845,7 +22931,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13797999507792535032
+  Id: 9937000430812971184
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24864,7 +22950,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24908,12 +22994,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13797999507792535032
-    SubobjectId: 15928124162674686156
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -24923,7 +23003,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12530326346918586934
+  Id: 4497725678516898688
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -24942,7 +23022,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -24986,12 +23066,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12530326346918586934
-    SubobjectId: 14957842594673692418
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25001,7 +23075,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11624815456748113666
+  Id: 14437992320551678773
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25020,7 +23094,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25064,12 +23138,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11624815456748113666
-    SubobjectId: 14061333061388626486
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25079,7 +23147,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15212300822096581917
+  Id: 15093632813545506059
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25098,7 +23166,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25142,12 +23210,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15212300822096581917
-    SubobjectId: 12784792478146654249
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25157,7 +23219,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11036548090996571076
+  Id: 14128063646706358118
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25176,7 +23238,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25220,12 +23282,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11036548090996571076
-    SubobjectId: 18111777829601074928
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25235,7 +23291,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9202726002041556671
+  Id: 4716809188151936068
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25254,7 +23310,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25298,12 +23354,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9202726002041556671
-    SubobjectId: 2145650144086289291
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25313,7 +23363,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5455883691671749045
+  Id: 1575841795395300931
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25332,7 +23382,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25376,12 +23426,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5455883691671749045
-    SubobjectId: 3010505399297533057
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25391,7 +23435,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10135917497030274161
+  Id: 1029212675497497397
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25410,7 +23454,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25454,12 +23498,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10135917497030274161
-    SubobjectId: 17211144485922179397
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25469,7 +23507,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7735841083749674320
+  Id: 10687284279662736728
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25488,7 +23526,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25532,12 +23570,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7735841083749674320
-    SubobjectId: 660759762500241508
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25547,7 +23579,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14024285869112632131
+  Id: 11150516412697824556
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25566,7 +23598,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25610,12 +23642,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14024285869112632131
-    SubobjectId: 11587764365701039735
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25625,7 +23651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10325712176794024008
+  Id: 15090856973991965975
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25644,7 +23670,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25688,12 +23714,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10325712176794024008
-    SubobjectId: 17094550922338295164
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25703,7 +23723,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10570782202692691486
+  Id: 7467369483074008103
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25722,7 +23742,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25766,12 +23786,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10570782202692691486
-    SubobjectId: 17348623956750598954
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25781,7 +23795,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4996190524640810144
+  Id: 12596524303044183970
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25800,7 +23814,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25844,12 +23858,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4996190524640810144
-    SubobjectId: 2821029309355143572
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25859,7 +23867,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3217192667150074629
+  Id: 12196133820663858620
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25878,7 +23886,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25922,12 +23930,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3217192667150074629
-    SubobjectId: 5680592005689746993
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -25937,7 +23939,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6670963804707708319
+  Id: 3794186613643305439
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -25956,7 +23958,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26000,12 +24002,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6670963804707708319
-    SubobjectId: 4531819443824638123
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26015,7 +24011,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18173738527422337004
+  Id: 1081954776875561327
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26034,7 +24030,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26078,12 +24074,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18173738527422337004
-    SubobjectId: 11404892289640803032
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26093,7 +24083,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14092109093734593511
+  Id: 4293552904412049510
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26112,7 +24102,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26156,12 +24146,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14092109093734593511
-    SubobjectId: 11664742450432136915
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26171,7 +24155,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 841332748789632303
+  Id: 2639070164750313763
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26190,7 +24174,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26234,12 +24218,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 841332748789632303
-    SubobjectId: 7628328484757383195
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26249,7 +24227,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12076887061660365947
+  Id: 800300257977255923
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26268,7 +24246,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26312,12 +24290,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12076887061660365947
-    SubobjectId: 14261210283391422799
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26327,7 +24299,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12649654867369182500
+  Id: 17491137557123854087
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26346,7 +24318,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26390,12 +24362,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12649654867369182500
-    SubobjectId: 14842982489175334928
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26405,7 +24371,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13118734298159780799
+  Id: 4348841413392724431
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26424,7 +24390,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26468,12 +24434,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13118734298159780799
-    SubobjectId: 15312059155762345611
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26483,7 +24443,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4679297899816649904
+  Id: 16060247735946543453
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26502,7 +24462,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26546,12 +24506,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4679297899816649904
-    SubobjectId: 2486113849031975300
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26561,7 +24515,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10731383188370324255
+  Id: 12020113839203747622
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26580,7 +24534,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26624,12 +24578,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10731383188370324255
-    SubobjectId: 17770588254867693099
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26639,7 +24587,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15988986318777514273
+  Id: 4692002762166201405
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26658,7 +24606,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26702,12 +24650,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15988986318777514273
-    SubobjectId: 13804673796879621141
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26717,7 +24659,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5589823945208185486
+  Id: 15857666849456690657
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26736,7 +24678,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26780,12 +24722,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5589823945208185486
-    SubobjectId: 3450686098650179514
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26795,7 +24731,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5332617347664123387
+  Id: 5657944125012934203
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26814,7 +24750,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26858,12 +24794,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5332617347664123387
-    SubobjectId: 2914115669935812815
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26873,7 +24803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11091254170987350038
+  Id: 4534071652854717247
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26892,7 +24822,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -26936,12 +24866,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11091254170987350038
-    SubobjectId: 18130448791993724194
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -26951,7 +24875,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5096220458425517394
+  Id: 5586600410908479825
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -26970,7 +24894,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27014,12 +24938,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5096220458425517394
-    SubobjectId: 2650700965795029094
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27029,7 +24947,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 838495595819752355
+  Id: 5626709777070523691
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27048,7 +24966,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27092,12 +25010,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 838495595819752355
-    SubobjectId: 7625342623844646551
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27107,7 +25019,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11474683798052618999
+  Id: 9332077918549827480
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27126,7 +25038,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27170,12 +25082,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11474683798052618999
-    SubobjectId: 18252530618014115779
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27185,7 +25091,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15028015746308613364
+  Id: 15313443721926058501
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27204,7 +25110,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27248,12 +25154,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15028015746308613364
-    SubobjectId: 12897881938375000512
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27263,7 +25163,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2180418921135170546
+  Id: 5810053650437740544
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27282,7 +25182,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27326,12 +25226,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2180418921135170546
-    SubobjectId: 8949251206509364934
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27341,7 +25235,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9501706199717101684
+  Id: 3611949805067288640
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27360,7 +25254,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27404,12 +25298,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9501706199717101684
-    SubobjectId: 16261531269328053568
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27419,7 +25307,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12255161121114214286
+  Id: 5692783971729262288
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27438,7 +25326,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27482,12 +25370,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12255161121114214286
-    SubobjectId: 14439477058784963258
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27497,7 +25379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12918450155586145902
+  Id: 15639638586019722922
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27516,7 +25398,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27560,12 +25442,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12918450155586145902
-    SubobjectId: 15075740390977579866
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27575,7 +25451,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12766973137400802490
+  Id: 8109424398067813522
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27594,7 +25470,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27638,12 +25514,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12766973137400802490
-    SubobjectId: 15230366448901540238
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27653,7 +25523,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12574927232001543331
+  Id: 8609475127277744355
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27672,7 +25542,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27716,12 +25586,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12574927232001543331
-    SubobjectId: 14768246881878403479
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27731,7 +25595,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1324886330617214969
+  Id: 14057544083366934386
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27750,7 +25614,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27794,12 +25658,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1324886330617214969
-    SubobjectId: 8075718169349771981
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27809,7 +25667,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14296588282158628791
+  Id: 789088955261409646
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27828,7 +25686,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27872,12 +25730,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14296588282158628791
-    SubobjectId: 11824175196752108163
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27887,7 +25739,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 141348323540872108
+  Id: 6690572142356390389
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27906,7 +25758,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27950,12 +25802,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 141348323540872108
-    SubobjectId: 7171538716336803480
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -27965,7 +25811,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3526257264306720803
+  Id: 3982667223156470826
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -27984,7 +25830,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28028,12 +25874,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3526257264306720803
-    SubobjectId: 5953635248545985815
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28043,7 +25883,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8219339427643921838
+  Id: 9784231808528560996
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28062,7 +25902,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28106,12 +25946,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8219339427643921838
-    SubobjectId: 1180139172718145690
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28121,7 +25955,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 502252209347000253
+  Id: 802569973607679581
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28140,7 +25974,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28184,12 +26018,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 502252209347000253
-    SubobjectId: 7244071076253078153
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28199,7 +26027,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2196924266466579530
+  Id: 1393325944108249619
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28218,7 +26046,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28262,12 +26090,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2196924266466579530
-    SubobjectId: 8938885504025915774
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28277,7 +26099,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7005431052441194763
+  Id: 13147767726996157508
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28296,7 +26118,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28340,12 +26162,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7005431052441194763
-    SubobjectId: 236453924595889215
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28355,7 +26171,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15286426023156456525
+  Id: 12288105302936611363
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28374,7 +26190,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28418,12 +26234,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15286426023156456525
-    SubobjectId: 13138139758283749753
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28433,7 +26243,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2293616097972717765
+  Id: 1764875371175574492
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28452,7 +26262,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28496,12 +26306,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2293616097972717765
-    SubobjectId: 9053581371422764529
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28511,7 +26315,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11618819039731951884
+  Id: 6676957638626341899
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28530,7 +26334,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28574,12 +26378,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11618819039731951884
-    SubobjectId: 14073205272838655032
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28589,7 +26387,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5508744501454594711
+  Id: 12409985576914110175
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28608,7 +26406,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28652,12 +26450,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5508744501454594711
-    SubobjectId: 3315416877368412067
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28667,7 +26459,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16824480006875573065
+  Id: 12274311784988096324
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28686,7 +26478,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28730,12 +26522,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16824480006875573065
-    SubobjectId: 10019603823234748029
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28745,7 +26531,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13487182544573927672
+  Id: 17858173007281053467
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28762,7 +26548,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28806,12 +26592,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13487182544573927672
-    SubobjectId: 15662497965759198668
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28821,7 +26601,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11016680338376575954
+  Id: 11660466685945693932
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28840,7 +26620,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28884,12 +26664,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11016680338376575954
-    SubobjectId: 18055876058418261734
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28899,7 +26673,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13479973351987504539
+  Id: 10508650773409307327
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28918,7 +26692,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28962,12 +26736,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13479973351987504539
-    SubobjectId: 15664148070520914095
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -28977,7 +26745,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11428268842771566520
+  Id: 8281634902224919246
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -28996,7 +26764,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29040,12 +26808,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11428268842771566520
-    SubobjectId: 18224126010090531468
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29055,7 +26817,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12553892823968246481
+  Id: 5147882169010264744
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29074,7 +26836,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29118,12 +26880,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12553892823968246481
-    SubobjectId: 14720056033498402789
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29133,7 +26889,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15279602583525138259
+  Id: 4676009335805236805
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29152,7 +26908,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29196,12 +26952,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15279602583525138259
-    SubobjectId: 13149466797761591911
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29211,7 +26961,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13672620691039992385
+  Id: 16422726806064425160
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29230,7 +26980,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29274,12 +27024,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13672620691039992385
-    SubobjectId: 16127020733480001397
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29289,7 +27033,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1777735631598852209
+  Id: 11294082505328264368
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29308,7 +27052,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29352,12 +27096,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1777735631598852209
-    SubobjectId: 8852826555931852101
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29367,7 +27105,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6760211606490643491
+  Id: 5538866482436575206
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29386,7 +27124,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29430,12 +27168,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6760211606490643491
-    SubobjectId: 4585050735341705495
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29445,7 +27177,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3977807271880624997
+  Id: 10918555803989823848
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29464,7 +27196,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29508,12 +27240,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3977807271880624997
-    SubobjectId: 6144112040314039889
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29523,7 +27249,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7837646332489001619
+  Id: 10903345572475172123
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29542,7 +27268,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29586,12 +27312,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7837646332489001619
-    SubobjectId: 1059663308376838055
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29601,7 +27321,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16502646430397855109
+  Id: 9341497664273175975
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29620,7 +27340,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29664,12 +27384,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16502646430397855109
-    SubobjectId: 9760824882962895025
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29679,7 +27393,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8638362485475016471
+  Id: 3966474016616816392
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29698,7 +27412,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29742,12 +27456,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8638362485475016471
-    SubobjectId: 1554277419198388771
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29757,7 +27465,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8498860163462302649
+  Id: 6143580719053910308
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29776,7 +27484,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29820,12 +27528,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8498860163462302649
-    SubobjectId: 1693990834524188301
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29835,7 +27537,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7079578375655178245
+  Id: 7988703512792650072
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29854,7 +27556,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29898,12 +27600,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7079578375655178245
-    SubobjectId: 22501490262385969
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29913,7 +27609,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1246607385364540578
+  Id: 9297382478544283029
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -29932,7 +27628,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -29976,12 +27672,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1246607385364540578
-    SubobjectId: 8303671472426011030
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -29991,7 +27681,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4193194547544319218
+  Id: 13580352834927782862
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30010,7 +27700,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30054,12 +27744,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4193194547544319218
-    SubobjectId: 6359504624554901958
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30069,7 +27753,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8693059057312538112
+  Id: 5614039249551913271
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30088,7 +27772,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30132,12 +27816,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8693059057312538112
-    SubobjectId: 1933087529925114676
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30147,7 +27825,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3919917249797266198
+  Id: 2466315762932362526
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30166,7 +27844,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30210,12 +27888,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3919917249797266198
-    SubobjectId: 6059047950009564706
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30225,7 +27897,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5775866914761368108
+  Id: 5613494776542127606
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30244,7 +27916,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30288,12 +27960,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5775866914761368108
-    SubobjectId: 3627728257102579480
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30303,7 +27969,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4586255937186305241
+  Id: 18361087191925303172
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30322,7 +27988,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30366,12 +28032,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4586255937186305241
-    SubobjectId: 6761557271621366253
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30381,7 +28041,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 345141313465599145
+  Id: 7569806581721966811
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30400,7 +28060,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30444,12 +28104,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 345141313465599145
-    SubobjectId: 7402360639959245213
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30459,7 +28113,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12710573690688960797
+  Id: 16064218364750693888
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30478,7 +28132,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30522,12 +28176,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12710573690688960797
-    SubobjectId: 15138076743694785577
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30537,7 +28185,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10570573955659581085
+  Id: 16168775469915871021
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30556,7 +28204,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30600,12 +28248,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10570573955659581085
-    SubobjectId: 17348568333592732585
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30615,7 +28257,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5321660700097947994
+  Id: 10967027479983954993
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30634,7 +28276,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30678,12 +28320,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5321660700097947994
-    SubobjectId: 3146346859321740398
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30693,7 +28329,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1556313434956785369
+  Id: 15567147509890612857
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30712,7 +28348,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30756,12 +28392,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1556313434956785369
-    SubobjectId: 8640548585776284653
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30771,7 +28401,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18135721220805934631
+  Id: 14377287766783074821
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30790,7 +28420,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30834,12 +28464,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18135721220805934631
-    SubobjectId: 11087652991007841043
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30849,7 +28473,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17883767009351180145
+  Id: 6707005721983114385
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30868,7 +28492,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30912,12 +28536,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17883767009351180145
-    SubobjectId: 11123786272878721605
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -30927,7 +28545,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9540538259014434133
+  Id: 15871499044018626317
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -30946,7 +28564,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -30990,12 +28608,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9540538259014434133
-    SubobjectId: 16579591935306717281
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31005,7 +28617,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16379004525260569349
+  Id: 8253801991147367734
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31024,7 +28636,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31068,12 +28680,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16379004525260569349
-    SubobjectId: 9312791110367354417
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31083,7 +28689,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17838752686987420288
+  Id: 10529123289132720461
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31102,7 +28708,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31146,12 +28752,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17838752686987420288
-    SubobjectId: 10808565388507957172
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31161,7 +28761,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 558317478121733979
+  Id: 6808250011079448999
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31180,7 +28780,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31224,12 +28824,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 558317478121733979
-    SubobjectId: 7336307940109916783
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31239,7 +28833,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 565771141456355824
+  Id: 271272612891640703
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31258,7 +28852,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31302,12 +28896,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 565771141456355824
-    SubobjectId: 7325740455266288836
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31317,7 +28905,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12537924247710826144
+  Id: 2464258522995612989
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31336,7 +28924,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31380,12 +28968,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12537924247710826144
-    SubobjectId: 14956419551182986132
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31395,7 +28977,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11019021702477133791
+  Id: 10333171223160227263
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31414,7 +28996,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31458,12 +29040,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11019021702477133791
-    SubobjectId: 18058073452531634923
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31473,7 +29049,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5449483232828734919
+  Id: 4995075672968995169
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31492,7 +29068,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31536,12 +29112,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5449483232828734919
-    SubobjectId: 3012965165735041267
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31551,7 +29121,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3513209479621677293
+  Id: 3110356916074572805
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31570,7 +29140,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31614,12 +29184,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3513209479621677293
-    SubobjectId: 5958590588945561049
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31629,7 +29193,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6478500377101925391
+  Id: 4282399577629709880
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31648,7 +29212,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31692,12 +29256,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6478500377101925391
-    SubobjectId: 4294189111278016827
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31707,7 +29265,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16136916229643289532
+  Id: 2316379871946014044
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31726,7 +29284,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31770,12 +29328,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16136916229643289532
-    SubobjectId: 13655354055770809992
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31785,7 +29337,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5681099919913499920
+  Id: 7415681036770977288
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31804,7 +29356,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31848,12 +29400,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5681099919913499920
-    SubobjectId: 3217564362244282404
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31863,7 +29409,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10612816232367237543
+  Id: 5443631366890570381
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31882,7 +29428,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -31926,12 +29472,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10612816232367237543
-    SubobjectId: 17381655784895073427
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -31941,7 +29481,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8610602966778427727
+  Id: 13460268117127617075
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -31960,7 +29500,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32004,12 +29544,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8610602966778427727
-    SubobjectId: 1517508829245856891
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32019,7 +29553,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5469940239873217386
+  Id: 17340956244001261465
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32038,7 +29572,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32082,12 +29616,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5469940239873217386
-    SubobjectId: 2997539523899258462
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32097,7 +29625,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4375165137591082775
+  Id: 11333625373230071104
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32116,7 +29644,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32160,12 +29688,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4375165137591082775
-    SubobjectId: 6829693963142527523
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32175,7 +29697,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14149870462838033429
+  Id: 2028208842577004288
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32194,7 +29716,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32238,12 +29760,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14149870462838033429
-    SubobjectId: 11974569813054302497
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32253,7 +29769,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16829112197348831195
+  Id: 9761700870406813017
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32272,7 +29788,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32316,12 +29832,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16829112197348831195
-    SubobjectId: 10087293075498781423
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32331,7 +29841,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9579837740310424891
+  Id: 3721237492612029814
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32348,7 +29858,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32392,12 +29902,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9579837740310424891
-    SubobjectId: 16609887103632934927
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32407,7 +29911,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3251519124453340193
+  Id: 10790713006350825729
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32426,7 +29930,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32470,12 +29974,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3251519124453340193
-    SubobjectId: 5724058156688560405
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32485,7 +29983,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14429411776859407123
+  Id: 17950159607508768140
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32504,7 +30002,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32548,12 +30046,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14429411776859407123
-    SubobjectId: 12272263311835031079
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32563,7 +30055,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13463039886737219006
+  Id: 14051059811147195074
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32582,7 +30074,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32626,12 +30118,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13463039886737219006
-    SubobjectId: 15611187733405661322
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32641,7 +30127,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8575057806976601987
+  Id: 3881240047748004094
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32660,7 +30146,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32704,12 +30190,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8575057806976601987
-    SubobjectId: 1545014355747187383
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32719,7 +30199,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18341716358955170106
+  Id: 4450551466854922444
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32738,7 +30218,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32782,12 +30262,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18341716358955170106
-    SubobjectId: 11311522893034757134
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32797,7 +30271,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6610822362415426631
+  Id: 15086716408245173138
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32816,7 +30290,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32860,12 +30334,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6610822362415426631
-    SubobjectId: 4165297576759626099
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32875,7 +30343,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14401519727804871448
+  Id: 4891345252651830662
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32894,7 +30362,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -32938,12 +30406,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14401519727804871448
-    SubobjectId: 11937984992164025900
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -32953,7 +30415,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 470534057633984974
+  Id: 18328613946345249577
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -32972,7 +30434,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33016,12 +30478,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 470534057633984974
-    SubobjectId: 7275542937361470714
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33031,7 +30487,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17298552115639527497
+  Id: 11437750954930121864
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33050,7 +30506,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33094,12 +30550,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17298552115639527497
-    SubobjectId: 10547582631861669245
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33109,7 +30559,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4347412581333091684
+  Id: 2345877793276728552
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33128,7 +30578,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33172,12 +30622,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4347412581333091684
-    SubobjectId: 6783928812793700432
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33187,7 +30631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5025032075508053946
+  Id: 7393891649551935036
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33206,7 +30650,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33250,12 +30694,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5025032075508053946
-    SubobjectId: 2867886926196544142
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33265,7 +30703,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17665851984357735763
+  Id: 1942290743391567980
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33284,7 +30722,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33328,12 +30766,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17665851984357735763
-    SubobjectId: 10906013170782099559
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33343,7 +30775,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16411606389765467859
+  Id: 15523755709963154129
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33362,7 +30794,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33406,12 +30838,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16411606389765467859
-    SubobjectId: 9345526633722219495
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33421,7 +30847,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3154381385243542236
+  Id: 14639328082619238693
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33440,7 +30866,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33484,12 +30910,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3154381385243542236
-    SubobjectId: 5311673406947370984
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33499,7 +30919,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9582129053742747625
+  Id: 1715636838006586545
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33518,7 +30938,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33562,12 +30982,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9582129053742747625
-    SubobjectId: 16612310496028011229
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33577,7 +30991,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15127415231549242623
+  Id: 10786380807744463864
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33596,7 +31010,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33640,12 +31054,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15127415231549242623
-    SubobjectId: 12943107814555130315
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33655,7 +31063,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1579719177169553368
+  Id: 13468964624568352998
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33674,7 +31082,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33718,12 +31126,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1579719177169553368
-    SubobjectId: 8618778916546880236
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33733,7 +31135,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16698696509585902245
+  Id: 919854273715890562
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33750,7 +31152,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33794,12 +31196,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16698696509585902245
-    SubobjectId: 9641635034538127249
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33809,7 +31205,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17009499372359691100
+  Id: 14865502151311455258
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33828,7 +31224,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33872,12 +31268,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17009499372359691100
-    SubobjectId: 10267545748774964840
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33887,7 +31277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9865479059779876353
+  Id: 3502802484206014308
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33906,7 +31296,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -33950,12 +31340,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9865479059779876353
-    SubobjectId: 16904682404605367093
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -33965,7 +31349,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 592159411181826244
+  Id: 18039747492702129395
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -33984,7 +31368,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34028,12 +31412,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 592159411181826244
-    SubobjectId: 7658232776852952560
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34043,7 +31421,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 589387967816328405
+  Id: 14497051168770017919
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34060,7 +31438,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34104,12 +31482,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 589387967816328405
-    SubobjectId: 7664469889425572321
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34119,7 +31491,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4895647784121949867
+  Id: 15673251254603898468
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34138,7 +31510,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34182,12 +31554,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4895647784121949867
-    SubobjectId: 2414090216067513247
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34197,7 +31563,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6166577631269821137
+  Id: 3423673103551695838
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34216,7 +31582,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34260,12 +31626,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6166577631269821137
-    SubobjectId: 4027434493710335973
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34275,7 +31635,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13708164334495065569
+  Id: 6760569045054841750
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34292,7 +31652,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34336,12 +31696,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13708164334495065569
-    SubobjectId: 15874459912776351957
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34351,7 +31705,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15027458546563308005
+  Id: 621788126036693421
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34368,7 +31722,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34412,12 +31766,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15027458546563308005
-    SubobjectId: 12897190131263814865
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34427,7 +31775,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14276573296455923838
+  Id: 3072873011922771172
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34444,7 +31792,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34488,12 +31836,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14276573296455923838
-    SubobjectId: 11840196790615956810
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34503,7 +31845,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6889167117678468292
+  Id: 15992859715839095218
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34520,7 +31862,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34564,12 +31906,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6889167117678468292
-    SubobjectId: 4461795114191272432
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34579,7 +31915,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1179668842021108502
+  Id: 8130845035996909813
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34596,7 +31932,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34640,12 +31976,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1179668842021108502
-    SubobjectId: 8227867018204077602
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34655,7 +31985,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1631559222053630254
+  Id: 18377558195151451801
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34672,7 +32002,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34716,12 +32046,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1631559222053630254
-    SubobjectId: 8418408087856321562
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34731,7 +32055,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15239166859564882193
+  Id: 8199133961067047013
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34748,7 +32072,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34792,12 +32116,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15239166859564882193
-    SubobjectId: 12757609772739623973
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34807,7 +32125,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1106674978032697514
+  Id: 13888352478841620729
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34826,7 +32144,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34870,12 +32188,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1106674978032697514
-    SubobjectId: 7866650541680797086
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34885,7 +32197,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7575317974735938529
+  Id: 4631130909883969079
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34904,7 +32216,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -34948,12 +32260,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7575317974735938529
-    SubobjectId: 815336755278579413
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -34963,7 +32269,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13074945213346529814
+  Id: 13283080188049625472
   Name: "Diamond - 6-Sided"
   Transform {
     Location {
@@ -34982,7 +32288,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -35026,12 +32332,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13074945213346529814
-    SubobjectId: 15493454328420738850
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -35041,7 +32341,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7633816070614396389
+  Id: 13538894951171759688
   Name: "Gem - Diamond 6-Sided Polished"
   Transform {
     Location {
@@ -35060,7 +32360,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13222532057562025839
+  ParentId: 10660954883817094094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -35103,12 +32403,6 @@ Objects {
       }
       BoundsScale: 1
     }
-  }
-  InstanceHistory {
-    SelfId: 7633816070614396389
-    SubobjectId: 828808288246483153
-    InstanceId: 8536402894368294906
-    TemplateId: 18288991582552941164
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

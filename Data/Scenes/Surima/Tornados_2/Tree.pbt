@@ -1,7 +1,7 @@
 Name: "Tornados_2"
-RootId: 10835503382346193492
+RootId: 4890512767708040222
 Objects {
-  Id: 2228643481717859867
+  Id: 1503426878296914130
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10835503382346193492
+  ParentId: 4890512767708040222
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -124,7 +124,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8313930107737680478
+  Id: 18280944692854980006
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -139,7 +139,7 @@ Objects {
       Z: 2.8
     }
   }
-  ParentId: 10835503382346193492
+  ParentId: 4890512767708040222
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -241,7 +241,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12897992263216871199
+  Id: 16951539650693807432
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -256,7 +256,7 @@ Objects {
       Z: 1.5999999
     }
   }
-  ParentId: 10835503382346193492
+  ParentId: 4890512767708040222
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -358,7 +358,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2283229223633116796
+  Id: 11431163484231165346
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -373,7 +373,7 @@ Objects {
       Z: 4
     }
   }
-  ParentId: 10835503382346193492
+  ParentId: 4890512767708040222
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"

@@ -1,7 +1,7 @@
 Name: "Gameplay Settings"
-RootId: 13423494729631232456
+RootId: 15869883806060577551
 Objects {
-  Id: 2383980367662951348
+  Id: 13733519361483896911
   Name: "Third Person Camera Settings"
   Transform {
     Location {
@@ -15,9 +15,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13423494729631232456
-  ChildIds: 17831248209921460202
-  ChildIds: 8100558073406978484
+  ParentId: 15869883806060577551
+  ChildIds: 12689002857035952268
+  ChildIds: 8346575575604360887
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -38,7 +38,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8100558073406978484
+  Id: 8346575575604360887
   Name: "Client Context"
   Transform {
     Location {
@@ -51,8 +51,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2383980367662951348
-  ChildIds: 17708062165346552674
+  ParentId: 13733519361483896911
+  ChildIds: 6898985901222801065
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -78,7 +78,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17708062165346552674
+  Id: 6898985901222801065
   Name: "Third Person Camera"
   Transform {
     Location {
@@ -92,7 +92,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8100558073406978484
+  ParentId: 8346575575604360887
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -134,7 +134,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17831248209921460202
+  Id: 12689002857035952268
   Name: "Third Person Player Settings"
   Transform {
     Location {
@@ -147,7 +147,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2383980367662951348
+  ParentId: 13733519361483896911
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -220,7 +220,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2291657133028583979
+  Id: 14977384880632226328
   Name: "Default Bindings"
   Transform {
     Location {
@@ -234,7 +234,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13423494729631232456
+  ParentId: 15869883806060577551
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -260,7 +260,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16838570300541121419
+  Id: 17251035783222635159
   Name: "Game Settings"
   Transform {
     Location {
@@ -273,7 +273,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13423494729631232456
+  ParentId: 15869883806060577551
   UnregisteredParameters {
   }
   Collidable_v2 {
