@@ -105207,9 +105207,9 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: -2996.15918
-            Y: 3052.05981
-            Z: 2569.89941
+            X: -3482.90527
+            Y: 8254.4248
+            Z: 2579.43
           }
         }
         Overrides {
@@ -152681,9 +152681,9 @@ Objects {
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -3585
-      Y: 8405
-      Z: 2700
+      X: -3642.31543
+      Y: 8727.44922
+      Z: 2646.43555
     }
     Rotation {
       Yaw: 89.9999847

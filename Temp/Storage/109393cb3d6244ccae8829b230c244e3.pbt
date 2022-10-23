@@ -1,5 +1,13 @@
 Entries {
   Key {
+    StringVar: "hasJoinedBefore"
+  }
+  SimpleValue {
+    BoolVar: true
+  }
+}
+Entries {
+  Key {
     StringVar: "resources"
   }
   SimpleValue {
@@ -30,5 +38,30 @@ Entries {
         }
       }
     }
+  }
+}
+Entries {
+  Key {
+    StringVar: "STATS"
+  }
+  SimpleValue {
+    Table {
+      Entries {
+        Key {
+          StringVar: "experience"
+        }
+        SimpleValue {
+          IntVar: 0
+        }
+      }
+    }
+  }
+}
+Entries {
+  Key {
+    StringVar: "inventoryHash"
+  }
+  SimpleValue {
+    StringVar: "P"
   }
 }

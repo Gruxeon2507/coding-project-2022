@@ -7127,9 +7127,9 @@ Objects {
   Name: "Carpet Tile 01"
   Transform {
     Location {
-      X: -1796.81506
-      Y: 888.492432
-      Z: -184.538162
+      X: -1761.72009
+      Y: 888.492676
+      Z: -184.538086
     }
     Rotation {
     }

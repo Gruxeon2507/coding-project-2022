@@ -39764,8 +39764,9 @@ Objects {
   Name: "Spawn Point"
   Transform {
     Location {
-      Y: -20350
-      Z: 4350
+      X: -3054.08
+      Y: -19838.4141
+      Z: 2595.61768
     }
     Rotation {
     }
@@ -39793,6 +39794,7 @@ Objects {
   PlayerSpawnPoint {
     TeamInt: 1
     PlayerScaleMultiplier: 1
+    SpawnKey: "BeginMystic"
     SpawnEffectsTemplate {
       Id: 841534158063459245
     }

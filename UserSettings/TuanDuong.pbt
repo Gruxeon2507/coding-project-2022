@@ -927,3 +927,7 @@ PreviewDetailLevelPerScene {
   key: "PvP"
   value: 1
 }
+PreviewDetailLevelPerScene {
+  key: "RuneTerra"
+  value: 1
+}
