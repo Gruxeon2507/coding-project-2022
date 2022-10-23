@@ -918,7 +918,7 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Surima"
+LastSavedScene: "Hall"
 PreviewDetailLevelPerScene {
   key: "Hall"
   value: 1
