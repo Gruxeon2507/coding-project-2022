@@ -2,7 +2,7 @@ local TRIGGER = script.parent
 
 function OnInteracted(trigger, other)
 	if other:IsA("Player") then
-		other:TransferToScene("Hall", { spawnKey = "Spawn key" })	
+		other:TransferToScene("Hall", { spawnKey = "BeginHall" })	
 		print(trigger.name .. ": Trigger Interacted " .. other.name)
 		
 	end

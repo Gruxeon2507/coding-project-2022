@@ -101281,7 +101281,6 @@ ObjectSettings {
   ObjectStates {
     key: 10503864133138954285
     value {
-      IsHidden: true
     }
   }
   ObjectStates {
@@ -177833,7 +177832,7 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Mystic Forest"
+LastSavedScene: "RuneTerra"
 PreviewDetailLevelPerScene {
   key: "Hall"
   value: 0

@@ -17,10 +17,35 @@ Entries {
 }
 Entries {
   Key {
+    StringVar: "STATS"
+  }
+  SimpleValue {
+    Table {
+      Entries {
+        Key {
+          StringVar: "experience"
+        }
+        SimpleValue {
+          IntVar: 0
+        }
+      }
+    }
+  }
+}
+Entries {
+  Key {
     StringVar: "resources"
   }
   SimpleValue {
     Table {
+      Entries {
+        Key {
+          StringVar: "XP"
+        }
+        SimpleValue {
+          IntVar: 6600
+        }
+      }
       Entries {
         Key {
           StringVar: "65502E987BC2639D"
@@ -31,26 +56,18 @@ Entries {
       }
       Entries {
         Key {
+          StringVar: "Coins"
+        }
+        SimpleValue {
+          IntVar: 45
+        }
+      }
+      Entries {
+        Key {
           StringVar: "Level"
         }
         SimpleValue {
           IntVar: 4
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "EF36EE2161A3B127"
-        }
-        SimpleValue {
-          IntVar: 1
-        }
-      }
-      Entries {
-        Key {
-          StringVar: "XP"
-        }
-        SimpleValue {
-          IntVar: 6600
         }
       }
       Entries {
@@ -71,27 +88,10 @@ Entries {
       }
       Entries {
         Key {
-          StringVar: "Coins"
+          StringVar: "EF36EE2161A3B127"
         }
         SimpleValue {
-          IntVar: 45
-        }
-      }
-    }
-  }
-}
-Entries {
-  Key {
-    StringVar: "STATS"
-  }
-  SimpleValue {
-    Table {
-      Entries {
-        Key {
-          StringVar: "experience"
-        }
-        SimpleValue {
-          IntVar: 0
+          IntVar: 1
         }
       }
     }
