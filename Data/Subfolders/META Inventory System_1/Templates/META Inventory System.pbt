@@ -1,5 +1,5 @@
 Assets {
-  Id: 7993698681583454811
+  Id: 8719093110701770898
   Name: "META Inventory System"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,13 +25,13 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 7674356426752041898
+              Id: 6095997471803002987
             }
             ReferencedAssets {
-              Id: 2896166981411483319
+              Id: 11967305869199620299
             }
             ReferencedAssets {
-              Id: 16940525508923917101
+              Id: 5161351700167245992
             }
           }
         }

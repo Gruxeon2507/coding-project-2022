@@ -1,5 +1,5 @@
 Assets {
-  Id: 8204205150170315183
+  Id: 9092788130135645865
   Name: "Destructible Rifle"
   PlatformAssetType: 5
   TemplateAsset {
@@ -40,16 +40,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 1547607529118983990
+              Id: 2237284690040699294
             }
             MuzzleFlashAssetRef {
-              Id: 16376131412216974061
+              Id: 14260145543498567788
             }
             TrailAssetRef {
-              Id: 9601316137296412368
+              Id: 16325748376283019516
             }
             ImpactAssetRef {
-              Id: 8173181588084867301
+              Id: 8596253983893654310
             }
             UseReticle: true
             Muzzle {
@@ -60,10 +60,10 @@ Assets {
             }
             AnimationSet: "2hand_rifle_stance"
             OutOfAmmoSfxAssetRef {
-              Id: 7949833199749868881
+              Id: 8853684475505802027
             }
             ReloadSfxAssetRef {
-              Id: 6227618936762106905
+              Id: 2112877966771947841
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
@@ -78,7 +78,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 10000
             ImpactPlayerAssetRef {
-              Id: 7301626446134621833
+              Id: 16956373898744194668
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -147,7 +147,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11145940437157676083
+            Id: 17680794167091038678
           }
         }
         NetworkRelevanceDistance {
@@ -436,7 +436,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10792369609886551632
+            Id: 13183088030452333770
           }
         }
         NetworkRelevanceDistance {

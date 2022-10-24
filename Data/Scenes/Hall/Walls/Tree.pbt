@@ -1,7 +1,7 @@
 Name: "Walls"
-RootId: 8039155254823111417
+RootId: 5722298100741266858
 Objects {
-  Id: 16277157844598271965
+  Id: 1507329008345513948
   Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.939875722
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -43,6 +43,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1507329008345513948
+    SubobjectId: 17760951340829285772
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -52,7 +58,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14379804466045878248
+  Id: 2634932372973556511
   Name: "Fantasy Castle Wall 03 - Doorway 01"
   Transform {
     Location {
@@ -68,7 +74,7 @@ Objects {
       Z: 0.977958918
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -119,6 +125,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2634932372973556511
+    SubobjectId: 14267862750498124111
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -128,7 +140,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1976937416235817661
+  Id: 3216714635123303671
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -144,7 +156,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -183,6 +195,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3216714635123303671
+    SubobjectId: 14858668683099686567
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -192,7 +210,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9724792382126976410
+  Id: 12292537208882153539
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -208,7 +226,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -247,6 +265,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12292537208882153539
+    SubobjectId: 5190211575629392403
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -256,7 +280,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1202412758605021351
+  Id: 11743888234893456620
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -272,7 +296,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -311,6 +335,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11743888234893456620
+    SubobjectId: 4641562751997925052
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -320,7 +350,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8519937737076976221
+  Id: 8581103265957164064
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -336,7 +366,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -375,6 +405,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8581103265957164064
+    SubobjectId: 10774505244170770032
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -384,7 +420,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18116181466123890142
+  Id: 2709355055343733255
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -401,7 +437,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -440,6 +476,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2709355055343733255
+    SubobjectId: 14342021472764029015
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -449,7 +491,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13481152695164043685
+  Id: 4836223690775711770
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -466,7 +508,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -505,6 +547,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4836223690775711770
+    SubobjectId: 11641030196302197322
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -514,7 +562,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7695102265975822884
+  Id: 14142404040673639275
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -531,7 +579,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -570,6 +618,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14142404040673639275
+    SubobjectId: 2797686515870030139
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -579,7 +633,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7102465580386947735
+  Id: 7117730818772144464
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -595,7 +649,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -658,6 +712,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7117730818772144464
+    SubobjectId: 9248083475912749824
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -667,7 +727,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8362026207352171896
+  Id: 7869127442309111323
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -684,7 +744,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -723,6 +783,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7869127442309111323
+    SubobjectId: 10350478300189506635
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -732,7 +798,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4905392603235649081
+  Id: 5818204571112798902
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -749,7 +815,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -788,6 +854,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5818204571112798902
+    SubobjectId: 12839448766960933094
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -797,7 +869,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1920977760242229138
+  Id: 5895847984991349692
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -814,7 +886,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -877,6 +949,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5895847984991349692
+    SubobjectId: 12917108896856754668
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -886,7 +964,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14351741561667411990
+  Id: 13752212046398762878
   Name: "Fantasy Castle Wall 03"
   Transform {
     Location {
@@ -902,7 +980,7 @@ Objects {
       Z: 0.982324302
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner:id"
@@ -941,6 +1019,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13752212046398762878
+    SubobjectId: 6649885244914781486
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -950,7 +1034,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1753849637385155742
+  Id: 13929685297164266202
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -967,7 +1051,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -1030,6 +1114,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13929685297164266202
+    SubobjectId: 2576241926747900042
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1039,7 +1129,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13870561711512452169
+  Id: 9436635601728010837
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -1055,7 +1145,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -1118,6 +1208,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9436635601728010837
+    SubobjectId: 6945995996572588037
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1127,7 +1223,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 756115021729060656
+  Id: 3444839991978927323
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1144,7 +1240,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1207,6 +1303,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3444839991978927323
+    SubobjectId: 14798282069603862155
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1216,7 +1318,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10341650756724119831
+  Id: 9240480540026895511
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1233,7 +1335,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1266,6 +1368,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9240480540026895511
+    SubobjectId: 7110128883613408967
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1275,7 +1383,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6296412374201109100
+  Id: 15014233123919547583
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1292,7 +1400,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1355,6 +1463,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15014233123919547583
+    SubobjectId: 3660808440908033775
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1364,7 +1478,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11383636293517317682
+  Id: 3577131837236683081
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1381,7 +1495,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1414,6 +1528,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3577131837236683081
+    SubobjectId: 15218805463539270425
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1423,7 +1543,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2410454505566919334
+  Id: 1745086648776091514
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1440,7 +1560,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1503,6 +1623,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1745086648776091514
+    SubobjectId: 18061479133721953578
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1512,7 +1638,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2214082059337027929
+  Id: 12711378746097469337
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1529,7 +1655,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1562,6 +1688,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12711378746097469337
+    SubobjectId: 5978364697691612617
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1571,7 +1703,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6509932158805262195
+  Id: 3655532593277444251
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1587,7 +1719,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1620,6 +1752,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3655532593277444251
+    SubobjectId: 15000231543419028171
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1629,7 +1767,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2574428295893846586
+  Id: 10703964025224266492
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1645,7 +1783,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1708,6 +1846,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10703964025224266492
+    SubobjectId: 8510842365605208236
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1717,7 +1861,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12795191702741502513
+  Id: 156969613597992910
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1733,7 +1877,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1766,6 +1910,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 156969613597992910
+    SubobjectId: 16194138951680394654
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1775,7 +1925,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14351435460490072462
+  Id: 16470653295180452851
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1791,7 +1941,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -1854,6 +2004,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16470653295180452851
+    SubobjectId: 433202580876358051
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1863,7 +2019,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 57316620687871549
+  Id: 5751218920463272347
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -1879,7 +2035,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1912,6 +2068,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5751218920463272347
+    SubobjectId: 12484232947392310219
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1921,7 +2083,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16623129274851378970
+  Id: 554719843080469994
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -1937,7 +2099,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2000,6 +2162,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 554719843080469994
+    SubobjectId: 16510840933187067834
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2009,7 +2177,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15439580339876349280
+  Id: 16855319834195300083
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -2026,7 +2194,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2089,6 +2257,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16855319834195300083
+    SubobjectId: 827158810991619235
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2098,7 +2272,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15430590020422343338
+  Id: 11212170150931159060
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -2115,7 +2289,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2178,6 +2352,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11212170150931159060
+    SubobjectId: 8721548072457255492
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2187,7 +2367,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4461175842947993362
+  Id: 15313700292708978199
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -2204,7 +2384,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2237,6 +2417,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15313700292708978199
+    SubobjectId: 3897225409225632839
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2246,7 +2432,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13077278312064130555
+  Id: 15393366324081056774
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -2263,7 +2449,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2326,6 +2512,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15393366324081056774
+    SubobjectId: 3976873662694047318
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2335,7 +2527,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6768429557789242495
+  Id: 8978565994530109303
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -2352,7 +2544,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2385,6 +2577,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8978565994530109303
+    SubobjectId: 11388141829673030951
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2394,7 +2592,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10118496651787182240
+  Id: 5192347568695174383
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -2411,7 +2609,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2474,6 +2672,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5192347568695174383
+    SubobjectId: 12294373991971522239
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2483,7 +2687,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 363619749428474769
+  Id: 7668618097916721808
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -2500,7 +2704,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2533,6 +2737,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7668618097916721808
+    SubobjectId: 9871027387050154176
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2542,7 +2752,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1782520768501753798
+  Id: 1723018608076184701
   Name: "Craftsman Part - Window 01 3x"
   Transform {
     Location {
@@ -2559,7 +2769,7 @@ Objects {
       Z: 1.2172668
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -2592,6 +2802,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1723018608076184701
+    SubobjectId: 17688429390292532781
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2601,7 +2817,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9941452009927956563
+  Id: 15610802457122295576
   Name: "Fantasy Castle Wall 01 - Doorway 02"
   Transform {
     Location {
@@ -2618,7 +2834,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_TrimOuter:id"
@@ -2681,6 +2897,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15610802457122295576
+    SubobjectId: 4194046128731336008
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2690,7 +2912,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4316932060775301356
+  Id: 11000546729051171609
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -2706,7 +2928,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2769,6 +2991,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11000546729051171609
+    SubobjectId: 8807143581566224713
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2778,7 +3006,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5449771911887460447
+  Id: 17084445153107251897
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -2795,7 +3023,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2858,6 +3086,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17084445153107251897
+    SubobjectId: 1119334460226662633
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2867,7 +3101,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13324878319724124021
+  Id: 3647994149635972044
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -2884,7 +3118,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2947,6 +3181,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3647994149635972044
+    SubobjectId: 15001718792092039580
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2956,7 +3196,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4067567147292934960
+  Id: 5052655313925049112
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -2972,7 +3212,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3035,6 +3275,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5052655313925049112
+    SubobjectId: 11857462866377304392
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3044,7 +3290,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17085806015988115491
+  Id: 634631659807431893
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3061,7 +3307,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3124,6 +3370,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 634631659807431893
+    SubobjectId: 16887973836945505925
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3133,7 +3385,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12168940912416457883
+  Id: 163408942024008001
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3149,7 +3401,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3212,6 +3464,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 163408942024008001
+    SubobjectId: 16200577103312536337
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3221,7 +3479,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9519414578169200625
+  Id: 1483247002783170101
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3238,7 +3496,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3301,6 +3559,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1483247002783170101
+    SubobjectId: 17727581907618520165
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3310,7 +3574,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5600048638678919127
+  Id: 12520984782416284145
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3326,7 +3590,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3389,6 +3653,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12520984782416284145
+    SubobjectId: 5716178200620264353
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3398,7 +3668,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2372772252354871249
+  Id: 18254085305721886607
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3415,7 +3685,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3478,6 +3748,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18254085305721886607
+    SubobjectId: 2288674430056461791
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3487,7 +3763,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17079650728454126299
+  Id: 15533833639891386874
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3504,7 +3780,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3567,6 +3843,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15533833639891386874
+    SubobjectId: 3820121206771590058
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3576,7 +3858,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3042958698717517153
+  Id: 12774834209353522781
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3593,7 +3875,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3656,6 +3938,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12774834209353522781
+    SubobjectId: 6042102938341850125
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3665,7 +3953,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1139165992139155454
+  Id: 1591757777237137557
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -3682,7 +3970,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -3745,6 +4033,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1591757777237137557
+    SubobjectId: 17620201430799137477
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3754,7 +4048,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1740290549324146502
+  Id: 10370682906561230268
   Name: "Fantasy Castle Wall 01 - Door Basic Half Template"
   Transform {
     Location {
@@ -3771,9 +4065,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
-  ChildIds: 11563681229351010698
-  ChildIds: 7249958284724647348
+  ParentId: 5722298100741266858
+  ChildIds: 10090871195847419656
+  ChildIds: 579832263057781997
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3786,13 +4080,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 10370682906561230268
+    SubobjectId: 7889349645132879852
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7249958284724647348
+  Id: 579832263057781997
   Name: "Basic Door - Castle Half Wall"
   Transform {
     Location {
@@ -3808,10 +4108,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1740290549324146502
-  ChildIds: 10857708994794036441
-  ChildIds: 16709709520220469226
-  ChildIds: 15981961644114339496
+  ParentId: 10370682906561230268
+  ChildIds: 10176908192095525089
+  ChildIds: 10641872110976083264
+  ChildIds: 8817255718516898647
   UnregisteredParameters {
     Overrides {
       Name: "cs:AutoOpen"
@@ -3874,13 +4174,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 579832263057781997
+    SubobjectId: 16905231815188240061
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15981961644114339496
+  Id: 8817255718516898647
   Name: "RotationRoot"
   Transform {
     Location {
@@ -3893,9 +4199,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7249958284724647348
-  ChildIds: 16067882828977447562
-  ChildIds: 64156708813942234
+  ParentId: 579832263057781997
+  ChildIds: 7419123278597169115
+  ChildIds: 4855812409066840412
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -3911,13 +4217,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 8817255718516898647
+    SubobjectId: 11010641139593697543
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 64156708813942234
+  Id: 4855812409066840412
   Name: "RotatingTrigger"
   Transform {
     Location {
@@ -3932,7 +4244,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 15981961644114339496
+  ParentId: 8817255718516898647
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -3958,13 +4270,19 @@ Objects {
     BreadcrumbTemplate {
     }
   }
+  InstanceHistory {
+    SelfId: 4855812409066840412
+    SubobjectId: 11669890081496171276
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16067882828977447562
+  Id: 7419123278597169115
   Name: "Geo_StaticContext"
   Transform {
     Location {
@@ -3977,8 +4295,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15981961644114339496
-  ChildIds: 16817444657257369253
+  ParentId: 8817255718516898647
+  ChildIds: 9120463166899294067
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -3994,13 +4312,19 @@ Objects {
   NetworkContext {
     Type: RuntimeStatic
   }
+  InstanceHistory {
+    SelfId: 7419123278597169115
+    SubobjectId: 9540468767619710347
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16817444657257369253
+  Id: 9120463166899294067
   Name: "Fantasy Castle Door 01"
   Transform {
     Location {
@@ -4014,7 +4338,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16067882828977447562
+  ParentId: 7419123278597169115
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4047,6 +4371,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9120463166899294067
+    SubobjectId: 11241807612278402339
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4056,7 +4386,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16709709520220469226
+  Id: 10641872110976083264
   Name: "ClientContext"
   Transform {
     Location {
@@ -4070,10 +4400,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7249958284724647348
-  ChildIds: 13391654952667414773
-  ChildIds: 13372318165385807152
-  ChildIds: 10944248748893710363
+  ParentId: 579832263057781997
+  ChildIds: 6588165170114982629
+  ChildIds: 7609350640354259890
+  ChildIds: 12372843884450166792
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4093,13 +4423,19 @@ Objects {
       Value: "mc:edetaillevel:ultra"
     }
   }
+  InstanceHistory {
+    SelfId: 10641872110976083264
+    SubobjectId: 8160257365978793744
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10944248748893710363
+  Id: 12372843884450166792
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
@@ -4112,7 +4448,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16709709520220469226
+  ParentId: 10641872110976083264
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -4147,13 +4483,19 @@ Objects {
       IsAttenuationEnabled: true
     }
   }
+  InstanceHistory {
+    SelfId: 12372843884450166792
+    SubobjectId: 5270798635292416600
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13372318165385807152
+  Id: 7609350640354259890
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
@@ -4166,7 +4508,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16709709520220469226
+  ParentId: 10641872110976083264
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -4203,13 +4545,19 @@ Objects {
       IsAttenuationEnabled: true
     }
   }
+  InstanceHistory {
+    SelfId: 7609350640354259890
+    SubobjectId: 10018627411518099938
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13391654952667414773
+  Id: 6588165170114982629
   Name: "BasicDoorControllerClient"
   Transform {
     Location {
@@ -4222,24 +4570,24 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16709709520220469226
+  ParentId: 10641872110976083264
   UnregisteredParameters {
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 15981961644114339496
+        SelfId: 8817255718516898647
       }
     }
     Overrides {
       Name: "cs:OpenSound"
       ObjectReference {
-        SelfId: 13372318165385807152
+        SelfId: 7609350640354259890
       }
     }
     Overrides {
       Name: "cs:CloseSound"
       ObjectReference {
-        SelfId: 10944248748893710363
+        SelfId: 12372843884450166792
       }
     }
   }
@@ -4257,13 +4605,19 @@ Objects {
       Id: 14367031294943107248
     }
   }
+  InstanceHistory {
+    SelfId: 6588165170114982629
+    SubobjectId: 13401962395140493493
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10857708994794036441
+  Id: 10176908192095525089
   Name: "ServerContext"
   Transform {
     Location {
@@ -4276,9 +4630,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7249958284724647348
-  ChildIds: 573378289510457592
-  ChildIds: 10297173185291671512
+  ParentId: 579832263057781997
+  ChildIds: 17162186851609031987
+  ChildIds: 13928211567381073945
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4293,13 +4647,19 @@ Objects {
   NetworkContext {
     Type: Server
   }
+  InstanceHistory {
+    SelfId: 10176908192095525089
+    SubobjectId: 8046574153608608433
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10297173185291671512
+  Id: 13928211567381073945
   Name: "StaticTrigger"
   Transform {
     Location {
@@ -4314,7 +4674,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 10857708994794036441
+  ParentId: 10176908192095525089
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4339,13 +4699,19 @@ Objects {
     BreadcrumbTemplate {
     }
   }
+  InstanceHistory {
+    SelfId: 13928211567381073945
+    SubobjectId: 2583511732472230473
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 573378289510457592
+  Id: 17162186851609031987
   Name: "BasicDoorControllerServer"
   Transform {
     Location {
@@ -4358,30 +4724,30 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10857708994794036441
+  ParentId: 10176908192095525089
   UnregisteredParameters {
     Overrides {
       Name: "cs:ComponentRoot"
       ObjectReference {
-        SelfId: 7249958284724647348
+        SelfId: 579832263057781997
       }
     }
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 15981961644114339496
+        SelfId: 8817255718516898647
       }
     }
     Overrides {
       Name: "cs:RotatingTrigger"
       ObjectReference {
-        SelfId: 64156708813942234
+        SelfId: 4855812409066840412
       }
     }
     Overrides {
       Name: "cs:StaticTrigger"
       ObjectReference {
-        SelfId: 10297173185291671512
+        SelfId: 13928211567381073945
       }
     }
   }
@@ -4399,13 +4765,19 @@ Objects {
       Id: 15181712040869785549
     }
   }
+  InstanceHistory {
+    SelfId: 17162186851609031987
+    SubobjectId: 917853170812245859
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11563681229351010698
+  Id: 10090871195847419656
   Name: "Fantasy Castle Wall 01 - Doorway 01 Half"
   Transform {
     Location {
@@ -4418,7 +4790,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1740290549324146502
+  ParentId: 10370682906561230268
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -4475,6 +4847,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10090871195847419656
+    SubobjectId: 7969525776616195416
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4484,7 +4862,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1023019273682669864
+  Id: 575910076789690523
   Name: "Basic Door - Castle Half Wall"
   Transform {
     Location {
@@ -4501,10 +4879,10 @@ Objects {
       Z: 1.0206784
     }
   }
-  ParentId: 8039155254823111417
-  ChildIds: 395507796617198022
-  ChildIds: 18364131511138888082
-  ChildIds: 14564583578340237775
+  ParentId: 5722298100741266858
+  ChildIds: 3052282843828280884
+  ChildIds: 6561365478983439640
+  ChildIds: 14251887870181496835
   UnregisteredParameters {
     Overrides {
       Name: "cs:AutoOpen"
@@ -4567,13 +4945,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 575910076789690523
+    SubobjectId: 16532296084742861515
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14564583578340237775
+  Id: 14251887870181496835
   Name: "RotationRoot"
   Transform {
     Location {
@@ -4586,9 +4970,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1023019273682669864
-  ChildIds: 6651393092128314320
-  ChildIds: 2977298310705196723
+  ParentId: 575910076789690523
+  ChildIds: 286284104310822072
+  ChildIds: 9173626051927736112
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -4604,13 +4988,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 14251887870181496835
+    SubobjectId: 2835130425132595795
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2977298310705196723
+  Id: 9173626051927736112
   Name: "RotatingTrigger"
   Transform {
     Location {
@@ -4625,7 +5015,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 14564583578340237775
+  ParentId: 14251887870181496835
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -4651,13 +5041,19 @@ Objects {
     BreadcrumbTemplate {
     }
   }
+  InstanceHistory {
+    SelfId: 9173626051927736112
+    SubobjectId: 11376036385780145504
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6651393092128314320
+  Id: 286284104310822072
   Name: "Geo_StaticContext"
   Transform {
     Location {
@@ -4670,8 +5066,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14564583578340237775
-  ChildIds: 2010597010025642425
+  ParentId: 14251887870181496835
+  ChildIds: 9184298881391324332
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -4687,13 +5083,19 @@ Objects {
   NetworkContext {
     Type: RuntimeStatic
   }
+  InstanceHistory {
+    SelfId: 286284104310822072
+    SubobjectId: 16242686686578505448
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2010597010025642425
+  Id: 9184298881391324332
   Name: "Fantasy Castle Door 01"
   Transform {
     Location {
@@ -4707,7 +5109,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6651393092128314320
+  ParentId: 286284104310822072
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4740,6 +5142,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9184298881391324332
+    SubobjectId: 11377684441018863356
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4749,7 +5157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18364131511138888082
+  Id: 6561365478983439640
   Name: "ClientContext"
   Transform {
     Location {
@@ -4763,10 +5171,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1023019273682669864
-  ChildIds: 7938654781465962544
-  ChildIds: 4353783789009168111
-  ChildIds: 7979292316174605578
+  ParentId: 575910076789690523
+  ChildIds: 2918848200591468925
+  ChildIds: 5916769782838140801
+  ChildIds: 16127688178517752325
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4786,13 +5194,19 @@ Objects {
       Value: "mc:edetaillevel:ultra"
     }
   }
+  InstanceHistory {
+    SelfId: 6561365478983439640
+    SubobjectId: 13375180411083323208
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7979292316174605578
+  Id: 16127688178517752325
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
@@ -4805,7 +5219,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18364131511138888082
+  ParentId: 6561365478983439640
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -4840,13 +5254,19 @@ Objects {
       IsAttenuationEnabled: true
     }
   }
+  InstanceHistory {
+    SelfId: 16127688178517752325
+    SubobjectId: 4413956894824257621
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4353783789009168111
+  Id: 5916769782838140801
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
@@ -4859,7 +5279,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18364131511138888082
+  ParentId: 6561365478983439640
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -4896,13 +5316,19 @@ Objects {
       IsAttenuationEnabled: true
     }
   }
+  InstanceHistory {
+    SelfId: 5916769782838140801
+    SubobjectId: 12721576441907969489
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7938654781465962544
+  Id: 2918848200591468925
   Name: "BasicDoorControllerClient"
   Transform {
     Location {
@@ -4915,24 +5341,24 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18364131511138888082
+  ParentId: 6561365478983439640
   UnregisteredParameters {
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 14564583578340237775
+        SelfId: 14251887870181496835
       }
     }
     Overrides {
       Name: "cs:OpenSound"
       ObjectReference {
-        SelfId: 4353783789009168111
+        SelfId: 5916769782838140801
       }
     }
     Overrides {
       Name: "cs:CloseSound"
       ObjectReference {
-        SelfId: 7979292316174605578
+        SelfId: 16127688178517752325
       }
     }
   }
@@ -4950,13 +5376,19 @@ Objects {
       Id: 14367031294943107248
     }
   }
+  InstanceHistory {
+    SelfId: 2918848200591468925
+    SubobjectId: 14560520650079406893
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 395507796617198022
+  Id: 3052282843828280884
   Name: "ServerContext"
   Transform {
     Location {
@@ -4969,9 +5401,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1023019273682669864
-  ChildIds: 4703433206450482055
-  ChildIds: 9447079633904663045
+  ParentId: 575910076789690523
+  ChildIds: 2717533608024132139
+  ChildIds: 12137361783043061515
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4986,13 +5418,19 @@ Objects {
   NetworkContext {
     Type: Server
   }
+  InstanceHistory {
+    SelfId: 3052282843828280884
+    SubobjectId: 14468776461954497636
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9447079633904663045
+  Id: 12137361783043061515
   Name: "StaticTrigger"
   Transform {
     Location {
@@ -5007,7 +5445,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 395507796617198022
+  ParentId: 3052282843828280884
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5032,13 +5470,19 @@ Objects {
     BreadcrumbTemplate {
     }
   }
+  InstanceHistory {
+    SelfId: 12137361783043061515
+    SubobjectId: 5395341660661814619
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4703433206450482055
+  Id: 2717533608024132139
   Name: "BasicDoorControllerServer"
   Transform {
     Location {
@@ -5051,30 +5495,30 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 395507796617198022
+  ParentId: 3052282843828280884
   UnregisteredParameters {
     Overrides {
       Name: "cs:ComponentRoot"
       ObjectReference {
-        SelfId: 1023019273682669864
+        SelfId: 575910076789690523
       }
     }
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 14564583578340237775
+        SelfId: 14251887870181496835
       }
     }
     Overrides {
       Name: "cs:RotatingTrigger"
       ObjectReference {
-        SelfId: 2977298310705196723
+        SelfId: 9173626051927736112
       }
     }
     Overrides {
       Name: "cs:StaticTrigger"
       ObjectReference {
-        SelfId: 9447079633904663045
+        SelfId: 12137361783043061515
       }
     }
   }
@@ -5092,13 +5536,19 @@ Objects {
       Id: 15181712040869785549
     }
   }
+  InstanceHistory {
+    SelfId: 2717533608024132139
+    SubobjectId: 14350182485835720827
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7156548953106421230
+  Id: 2244958082999543670
   Name: "Fantasy Castle Wall 02"
   Transform {
     Location {
@@ -5115,7 +5565,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimInner:id"
@@ -5166,6 +5616,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2244958082999543670
+    SubobjectId: 18282144850090886438
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5175,7 +5631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 943231179753249417
+  Id: 9506456705907504260
   Name: "Fantasy Castle Wall 02"
   Transform {
     Location {
@@ -5192,7 +5648,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5243,6 +5699,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9506456705907504260
+    SubobjectId: 7024824432104101588
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5252,7 +5714,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18028189154392249725
+  Id: 5894250221298826244
   Name: "Fantasy Castle Wall 02"
   Transform {
     Location {
@@ -5269,7 +5731,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5320,6 +5782,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5894250221298826244
+    SubobjectId: 12924237755092524628
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5329,7 +5797,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14853280812754472046
+  Id: 8520848037239559283
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5346,7 +5814,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5409,6 +5877,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8520848037239559283
+    SubobjectId: 10723258451654112803
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5418,7 +5892,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7630453935717977916
+  Id: 10260346403173426171
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5435,7 +5909,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5498,6 +5972,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10260346403173426171
+    SubobjectId: 7851069557885632939
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5507,7 +5987,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9824379661729599777
+  Id: 638948306477864103
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -5524,7 +6004,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5587,6 +6067,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 638948306477864103
+    SubobjectId: 16883582148546705143
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5596,7 +6082,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16122395768573063876
+  Id: 11132005069208573218
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -5613,7 +6099,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5676,6 +6162,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11132005069208573218
+    SubobjectId: 8713439687164147570
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5685,7 +6177,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1132375585158786851
+  Id: 13834730798178843302
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5702,7 +6194,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5765,6 +6257,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13834730798178843302
+    SubobjectId: 6732422702388795638
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5774,7 +6272,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11074093069204092895
+  Id: 13550619197661267568
   Name: "Fantasy Castle Wall 01 - Curved"
   Transform {
     Location {
@@ -5791,7 +6289,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5854,6 +6352,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13550619197661267568
+    SubobjectId: 6817870144405218336
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5863,7 +6367,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12853627228964211589
+  Id: 17213324181335546231
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5880,7 +6384,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -5943,6 +6447,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17213324181335546231
+    SubobjectId: 896932929078721319
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5952,7 +6462,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 725811464035853676
+  Id: 9844136639594237849
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -5969,7 +6479,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6032,6 +6542,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9844136639594237849
+    SubobjectId: 7642026400439856585
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6041,7 +6557,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15121864733646924877
+  Id: 6748577591587713923
   Name: "Fantasy Castle Wall 01 - Curved"
   Transform {
     Location {
@@ -6058,7 +6574,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6121,6 +6637,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6748577591587713923
+    SubobjectId: 13778564098877608403
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6130,7 +6652,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5298298574174216429
+  Id: 8192663247059566464
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6147,7 +6669,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6210,6 +6732,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8192663247059566464
+    SubobjectId: 10602220411944033744
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6219,7 +6747,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12617371109757864778
+  Id: 5817326116105293514
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6236,7 +6764,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6299,6 +6827,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5817326116105293514
+    SubobjectId: 12838570513823231130
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6308,7 +6842,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 110710905873583612
+  Id: 1374871271561286220
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6325,7 +6859,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6388,6 +6922,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1374871271561286220
+    SubobjectId: 17403051046598553628
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6397,7 +6937,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13941873289559194739
+  Id: 6642118863854355337
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -6414,7 +6954,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6477,6 +7017,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6642118863854355337
+    SubobjectId: 13744145425609662937
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6486,7 +7032,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6932822693485442955
+  Id: 8220407951032929452
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -6503,7 +7049,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6566,6 +7112,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8220407951032929452
+    SubobjectId: 10413529473250930428
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6575,7 +7127,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15468316159954834231
+  Id: 10143524562332448431
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6592,7 +7144,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6655,6 +7207,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10143524562332448431
+    SubobjectId: 7950402843657475327
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6664,7 +7222,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2668298958583271973
+  Id: 6724045425018567161
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6681,7 +7239,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -6744,6 +7302,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6724045425018567161
+    SubobjectId: 13817064735983639465
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6753,7 +7317,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12965010022306305570
+  Id: 6810526789088055024
   Name: "Craftsman Part - Window 01"
   Transform {
     Location {
@@ -6769,7 +7333,7 @@ Objects {
       Z: 0.720066071
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -6802,6 +7366,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6810526789088055024
+    SubobjectId: 13552266534962064544
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6811,7 +7381,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17908641330650035641
+  Id: 1375722295116355052
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -6827,7 +7397,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -6866,6 +7436,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1375722295116355052
+    SubobjectId: 17403884476887283644
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6875,7 +7451,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6503319120282473761
+  Id: 3491929287197232983
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -6891,7 +7467,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -6930,6 +7506,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3491929287197232983
+    SubobjectId: 15196653346973773063
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6939,7 +7521,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5348452341233760375
+  Id: 3435354605729812809
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -6956,7 +7538,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7019,6 +7601,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3435354605729812809
+    SubobjectId: 14788796756408988441
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7028,7 +7616,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17689690667187984907
+  Id: 4417362436916604844
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7045,7 +7633,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7108,6 +7696,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4417362436916604844
+    SubobjectId: 16131074870034468348
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7117,7 +7711,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1315669034663617304
+  Id: 4639068378521692063
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7134,7 +7728,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7197,6 +7791,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4639068378521692063
+    SubobjectId: 11741377390251312591
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7206,7 +7806,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5934717748343937814
+  Id: 15313616005936688670
   Name: "Fantasy Castle Wall 01 - Curved"
   Transform {
     Location {
@@ -7223,7 +7823,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7286,6 +7886,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15313616005936688670
+    SubobjectId: 3896858346139176014
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7295,7 +7901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6138302807802310491
+  Id: 175156658384212169
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -7311,7 +7917,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7374,6 +7980,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 175156658384212169
+    SubobjectId: 16212607459632280217
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7383,7 +7995,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7149632616888331776
+  Id: 16098717584835079015
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -7400,7 +8012,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimOuter:id"
@@ -7463,6 +8075,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16098717584835079015
+    SubobjectId: 4466069734556567863
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7472,7 +8090,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 106386618317003850
+  Id: 14848841930672946202
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -7489,7 +8107,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -7528,6 +8146,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14848841930672946202
+    SubobjectId: 3206887890212380234
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7537,7 +8161,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10942112389230002436
+  Id: 15538841510457819191
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -7553,7 +8177,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7616,6 +8240,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15538841510457819191
+    SubobjectId: 3834118667228750439
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7625,7 +8255,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13131211375057474879
+  Id: 16375195697122394708
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7642,7 +8272,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7705,6 +8335,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16375195697122394708
+    SubobjectId: 130860720346603524
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7714,7 +8350,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3424128836682265859
+  Id: 8461699047849807438
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7731,7 +8367,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7794,6 +8430,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8461699047849807438
+    SubobjectId: 10952040608015494174
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7803,7 +8445,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9743214945681334632
+  Id: 15821736208738888700
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -7820,7 +8462,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -7883,6 +8525,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15821736208738888700
+    SubobjectId: 4108006178068548012
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7892,7 +8540,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4174629968701284761
+  Id: 13831047476534980216
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -7909,7 +8557,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimOuter:id"
@@ -7972,6 +8620,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13831047476534980216
+    SubobjectId: 6728739574016494632
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7981,7 +8635,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12865079337640572500
+  Id: 1001141261330334212
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -7998,7 +8652,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -8037,6 +8691,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1001141261330334212
+    SubobjectId: 17254499875272728660
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8046,7 +8706,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9865445571598284121
+  Id: 2475566924139962814
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -8062,7 +8722,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -8125,6 +8785,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2475566924139962814
+    SubobjectId: 13892043114331390958
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8134,7 +8800,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 437718675763552149
+  Id: 715257438144094246
   Name: "Castle Part - Window 01"
   Transform {
     Location {
@@ -8151,7 +8817,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail2:id"
@@ -8190,6 +8856,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 715257438144094246
+    SubobjectId: 16968879783481639542
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8199,7 +8871,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11056198584756955062
+  Id: 12394656488074333614
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -8216,7 +8888,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimOuter:id"
@@ -8279,6 +8951,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12394656488074333614
+    SubobjectId: 5661626148855656446
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8288,7 +8966,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13404704714175593317
+  Id: 11091690759467812931
   Name: "Fantasy Castle Wall 01"
   Transform {
     Location {
@@ -8304,7 +8982,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -8367,6 +9045,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11091690759467812931
+    SubobjectId: 8898287547562338835
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8376,7 +9060,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6271485732929076921
+  Id: 6195885962533366762
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -8393,7 +9077,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -8456,6 +9140,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6195885962533366762
+    SubobjectId: 13217147840764217786
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8465,7 +9155,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12016840559722854833
+  Id: 15924652300559112727
   Name: "Fantasy Castle Wall Interior 01 - Door Double Template"
   Transform {
     Location {
@@ -8481,9 +9171,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
-  ChildIds: 1043305211804233023
-  ChildIds: 12718885697037014898
+  ParentId: 5722298100741266858
+  ChildIds: 4206828355373922374
+  ChildIds: 2100207401965461073
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -8496,13 +9186,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 15924652300559112727
+    SubobjectId: 4498870072657131591
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12718885697037014898
+  Id: 2100207401965461073
   Name: "Double Door - Castle"
   Transform {
     Location {
@@ -8519,11 +9215,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12016840559722854833
-  ChildIds: 2215665103192589339
-  ChildIds: 8390567617337156194
-  ChildIds: 5233631754120383004
-  ChildIds: 91253089179325156
+  ParentId: 15924652300559112727
+  ChildIds: 15611035959190216574
+  ChildIds: 1692721944103733853
+  ChildIds: 15734533496527704091
+  ChildIds: 14824646388642675773
   UnregisteredParameters {
     Overrides {
       Name: "cs:AutoOpen"
@@ -8586,13 +9282,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 2100207401965461073
+    SubobjectId: 18425887551827999745
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 91253089179325156
+  Id: 14824646388642675773
   Name: "RotationRoot2"
   Transform {
     Location {
@@ -8606,9 +9308,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12718885697037014898
-  ChildIds: 15800939190161184487
-  ChildIds: 1931735668130545963
+  ParentId: 2100207401965461073
+  ChildIds: 12940067108664831070
+  ChildIds: 10546251177211617134
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8624,13 +9326,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 14824646388642675773
+    SubobjectId: 3398865058357386861
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1931735668130545963
+  Id: 10546251177211617134
   Name: "RotatingTrigger2"
   Transform {
     Location {
@@ -8646,7 +9354,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 91253089179325156
+  ParentId: 14824646388642675773
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8672,13 +9380,19 @@ Objects {
     BreadcrumbTemplate {
     }
   }
+  InstanceHistory {
+    SelfId: 10546251177211617134
+    SubobjectId: 8127668061207379262
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15800939190161184487
+  Id: 12940067108664831070
   Name: "Geo_StaticContext"
   Transform {
     Location {
@@ -8692,8 +9406,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 91253089179325156
-  ChildIds: 15934656011419093301
+  ParentId: 14824646388642675773
+  ChildIds: 7969298067363705624
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8709,13 +9423,19 @@ Objects {
   NetworkContext {
     Type: RuntimeStatic
   }
+  InstanceHistory {
+    SelfId: 12940067108664831070
+    SubobjectId: 5838022887039897102
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15934656011419093301
+  Id: 7969298067363705624
   Name: "Fantasy Castle Door 02"
   Transform {
     Location {
@@ -8731,7 +9451,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15800939190161184487
+  ParentId: 12940067108664831070
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8764,6 +9484,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7969298067363705624
+    SubobjectId: 10090361994467627336
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8773,7 +9499,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5233631754120383004
+  Id: 15734533496527704091
   Name: "RotationRoot1"
   Transform {
     Location {
@@ -8786,8 +9512,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12718885697037014898
-  ChildIds: 641890040248540222
+  ParentId: 2100207401965461073
+  ChildIds: 11290464233167985938
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8803,13 +9529,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 15734533496527704091
+    SubobjectId: 4092859751006155339
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 641890040248540222
+  Id: 11290464233167985938
   Name: "Geo_StaticContext"
   Transform {
     Location {
@@ -8822,8 +9554,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5233631754120383004
-  ChildIds: 14250676084536938427
+  ParentId: 15734533496527704091
+  ChildIds: 8092107666439832868
   UnregisteredParameters {
   }
   WantsNetworking: true
@@ -8839,13 +9571,19 @@ Objects {
   NetworkContext {
     Type: RuntimeStatic
   }
+  InstanceHistory {
+    SelfId: 11290464233167985938
+    SubobjectId: 9097062327966564162
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14250676084536938427
+  Id: 8092107666439832868
   Name: "Fantasy Castle Door 02"
   Transform {
     Location {
@@ -8859,7 +9597,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 641890040248540222
+  ParentId: 11290464233167985938
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8892,6 +9630,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8092107666439832868
+    SubobjectId: 10582466917609465716
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8901,7 +9645,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8390567617337156194
+  Id: 1692721944103733853
   Name: "ClientContext"
   Transform {
     Location {
@@ -8915,12 +9659,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12718885697037014898
-  ChildIds: 1725304406874494784
-  ChildIds: 9411564249422877718
-  ChildIds: 8154617865784008079
-  ChildIds: 11491719886034965751
-  ChildIds: 3831133299856810968
+  ParentId: 2100207401965461073
+  ChildIds: 5791554429469102202
+  ChildIds: 6945780797559032772
+  ChildIds: 13744790579458830177
+  ChildIds: 12223683986442655818
+  ChildIds: 6392215353188728098
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8940,13 +9684,19 @@ Objects {
       Value: "mc:edetaillevel:ultra"
     }
   }
+  InstanceHistory {
+    SelfId: 1692721944103733853
+    SubobjectId: 17720900615334012941
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3831133299856810968
+  Id: 6392215353188728098
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
@@ -8962,7 +9712,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8390567617337156194
+  ParentId: 1692721944103733853
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -8997,13 +9747,19 @@ Objects {
       IsAttenuationEnabled: true
     }
   }
+  InstanceHistory {
+    SelfId: 6392215353188728098
+    SubobjectId: 13413194567846420338
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11491719886034965751
+  Id: 12223683986442655818
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
@@ -9019,7 +9775,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8390567617337156194
+  ParentId: 1692721944103733853
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -9056,13 +9812,19 @@ Objects {
       IsAttenuationEnabled: true
     }
   }
+  InstanceHistory {
+    SelfId: 12223683986442655818
+    SubobjectId: 5418876304100981274
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8154617865784008079
+  Id: 13744790579458830177
   Name: "Helper_DoorCloseSound"
   Transform {
     Location {
@@ -9076,7 +9838,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8390567617337156194
+  ParentId: 1692721944103733853
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -9111,13 +9873,19 @@ Objects {
       IsAttenuationEnabled: true
     }
   }
+  InstanceHistory {
+    SelfId: 13744790579458830177
+    SubobjectId: 6642746426591055153
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9411564249422877718
+  Id: 6945780797559032772
   Name: "Helper_DoorOpenSound"
   Transform {
     Location {
@@ -9131,7 +9899,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8390567617337156194
+  ParentId: 1692721944103733853
   UnregisteredParameters {
     Overrides {
       Name: "bp:Door Type"
@@ -9168,13 +9936,19 @@ Objects {
       IsAttenuationEnabled: true
     }
   }
+  InstanceHistory {
+    SelfId: 6945780797559032772
+    SubobjectId: 9436402751472904596
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1725304406874494784
+  Id: 5791554429469102202
   Name: "DoubleDoorControllerClient"
   Transform {
     Location {
@@ -9187,36 +9961,36 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8390567617337156194
+  ParentId: 1692721944103733853
   UnregisteredParameters {
     Overrides {
       Name: "cs:RotationRoot"
       ObjectReference {
-        SelfId: 5233631754120383004
+        SelfId: 15734533496527704091
       }
     }
     Overrides {
       Name: "cs:OpenSound1"
       ObjectReference {
-        SelfId: 9411564249422877718
+        SelfId: 6945780797559032772
       }
     }
     Overrides {
       Name: "cs:CloseSound1"
       ObjectReference {
-        SelfId: 8154617865784008079
+        SelfId: 13744790579458830177
       }
     }
     Overrides {
       Name: "cs:OpenSound2"
       ObjectReference {
-        SelfId: 11491719886034965751
+        SelfId: 12223683986442655818
       }
     }
     Overrides {
       Name: "cs:CloseSound2"
       ObjectReference {
-        SelfId: 3831133299856810968
+        SelfId: 6392215353188728098
       }
     }
   }
@@ -9234,13 +10008,19 @@ Objects {
       Id: 9977959096054945993
     }
   }
+  InstanceHistory {
+    SelfId: 5791554429469102202
+    SubobjectId: 12884574827061146154
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2215665103192589339
+  Id: 15611035959190216574
   Name: "ServerContext"
   Transform {
     Location {
@@ -9253,10 +10033,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12718885697037014898
-  ChildIds: 3130400726253222121
-  ChildIds: 4475390058134242189
-  ChildIds: 1239381484284074004
+  ParentId: 2100207401965461073
+  ChildIds: 5251323500515462698
+  ChildIds: 7635365214790157656
+  ChildIds: 1836788943626501305
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9271,13 +10051,19 @@ Objects {
   NetworkContext {
     Type: Server
   }
+  InstanceHistory {
+    SelfId: 15611035959190216574
+    SubobjectId: 4194261814199074094
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1239381484284074004
+  Id: 1836788943626501305
   Name: "StaticTrigger2"
   Transform {
     Location {
@@ -9293,7 +10079,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 2215665103192589339
+  ParentId: 15611035959190216574
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9318,13 +10104,19 @@ Objects {
     BreadcrumbTemplate {
     }
   }
+  InstanceHistory {
+    SelfId: 1836788943626501305
+    SubobjectId: 18153197883661950697
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4475390058134242189
+  Id: 7635365214790157656
   Name: "StaticTrigger1"
   Transform {
     Location {
@@ -9339,7 +10131,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 2215665103192589339
+  ParentId: 15611035959190216574
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9364,13 +10156,19 @@ Objects {
     BreadcrumbTemplate {
     }
   }
+  InstanceHistory {
+    SelfId: 7635365214790157656
+    SubobjectId: 10044941070296606472
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3130400726253222121
+  Id: 5251323500515462698
   Name: "DoubleDoorControllerServer"
   Transform {
     Location {
@@ -9383,18 +10181,18 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2215665103192589339
+  ParentId: 15611035959190216574
   UnregisteredParameters {
     Overrides {
       Name: "cs:ComponentRoot"
       ObjectReference {
-        SelfId: 12718885697037014898
+        SelfId: 2100207401965461073
       }
     }
     Overrides {
       Name: "cs:RotationRoot1"
       ObjectReference {
-        SelfId: 5233631754120383004
+        SelfId: 15734533496527704091
       }
     }
     Overrides {
@@ -9406,25 +10204,25 @@ Objects {
     Overrides {
       Name: "cs:RotationRoot2"
       ObjectReference {
-        SelfId: 91253089179325156
+        SelfId: 14824646388642675773
       }
     }
     Overrides {
       Name: "cs:RotatingTrigger2"
       ObjectReference {
-        SelfId: 1931735668130545963
+        SelfId: 10546251177211617134
       }
     }
     Overrides {
       Name: "cs:StaticTrigger1"
       ObjectReference {
-        SelfId: 4475390058134242189
+        SelfId: 7635365214790157656
       }
     }
     Overrides {
       Name: "cs:StaticTrigger2"
       ObjectReference {
-        SelfId: 1239381484284074004
+        SelfId: 1836788943626501305
       }
     }
   }
@@ -9442,13 +10240,19 @@ Objects {
       Id: 9337411399673617092
     }
   }
+  InstanceHistory {
+    SelfId: 5251323500515462698
+    SubobjectId: 12281591598781918330
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1043305211804233023
+  Id: 4206828355373922374
   Name: "Fantasy Castle Wall 02 - Doorway 02"
   Transform {
     Location {
@@ -9464,7 +10268,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12016840559722854833
+  ParentId: 15924652300559112727
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9521,6 +10325,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4206828355373922374
+    SubobjectId: 15632311524702919190
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9530,7 +10340,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4599464342202866062
+  Id: 13288584325530367167
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -9547,7 +10357,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9610,6 +10420,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13288584325530367167
+    SubobjectId: 6555553935816152815
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9619,7 +10435,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8317530534194065409
+  Id: 14527634380129173457
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -9636,7 +10452,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9699,6 +10515,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14527634380129173457
+    SubobjectId: 3101870619515035009
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9708,7 +10530,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3989879797586938769
+  Id: 6540808359170816145
   Name: "Fantasy Castle Wall 01 - Curved"
   Transform {
     Location {
@@ -9725,7 +10547,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9788,6 +10610,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6540808359170816145
+    SubobjectId: 13282546967956413121
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9797,7 +10625,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4461538050477508343
+  Id: 15442513775936462133
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -9814,7 +10642,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -9877,6 +10705,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15442513775936462133
+    SubobjectId: 3809584510815125349
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9886,7 +10720,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2300062035259139197
+  Id: 16895242863830238694
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -9902,7 +10736,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimInner:id"
@@ -9965,6 +10799,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16895242863830238694
+    SubobjectId: 641619207460349878
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9974,7 +10814,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11803385632702707931
+  Id: 18376577276164321383
   Name: "Fantasy Castle Wall 01 - Window 01"
   Transform {
     Location {
@@ -9990,7 +10830,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimInner:id"
@@ -10053,6 +10893,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18376577276164321383
+    SubobjectId: 2131960953233330743
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10062,7 +10908,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11095510176222068211
+  Id: 10712434317736282382
   Name: "Fantasy Castle Wall 01 Half - Window 02"
   Transform {
     Location {
@@ -10079,7 +10925,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_LowerTrimInner:id"
@@ -10142,6 +10988,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10712434317736282382
+    SubobjectId: 8519331492618562398
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10151,7 +11003,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7625785044624706669
+  Id: 1147258523733730294
   Name: "Fantasy Castle Wall 01 Half"
   Transform {
     Location {
@@ -10168,7 +11020,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8039155254823111417
+  ParentId: 5722298100741266858
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -10230,6 +11082,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 1147258523733730294
+    SubobjectId: 17112386757258887590
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

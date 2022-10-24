@@ -1,5 +1,5 @@
 Assets {
-  Id: 2381158559571814563
+  Id: 9503686469681146028
   Name: "Fire Magic Material"
   PlatformAssetType: 13
   SerializationVersion: 119

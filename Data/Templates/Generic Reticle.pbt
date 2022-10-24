@@ -161,7 +161,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 17586365689296088662
+              Id: 5196377603841433560
             }
             Color {
               R: 1
@@ -264,7 +264,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 17586365689296088662
+              Id: 5196377603841433560
             }
             Color {
               R: 1
@@ -329,7 +329,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 17586365689296088662
+              Id: 5196377603841433560
             }
             Color {
               R: 1
@@ -394,7 +394,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 17586365689296088662
+              Id: 5196377603841433560
             }
             Color {
               R: 1
@@ -458,7 +458,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 17586365689296088662
+              Id: 5196377603841433560
             }
             Color {
               R: 1
@@ -487,7 +487,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17586365689296088662
+      Id: 5196377603841433560
       Name: "BG Gradient 001"
       PlatformAssetType: 9
       PrimaryAsset {

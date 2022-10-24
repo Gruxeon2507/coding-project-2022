@@ -260,7 +260,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13776228291040685428
+            Id: 7801859645287117218
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -3038,7 +3038,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2954037056948186721
+            Id: 5836430349218932838
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -3098,7 +3098,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2954037056948186721
+            Id: 5836430349218932838
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -3611,7 +3611,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13410490565345583042
+            Id: 5047196344696403889
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -37765,7 +37765,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13776228291040685428
+      Id: 7801859645287117218
       Name: "Cone - Truncated"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -37792,7 +37792,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2954037056948186721
+      Id: 5836430349218932838
       Name: "Pipe - Thin"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -37810,7 +37810,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13410490565345583042
+      Id: 5047196344696403889
       Name: "Gem - Diamond 6-Sided Polished"
       PlatformAssetType: 1
       PrimaryAsset {

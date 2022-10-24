@@ -1,5 +1,5 @@
 Assets {
-  Id: 1602383109211951132
+  Id: 1992718037386948466
   Name: "Emissive Blue"
   PlatformAssetType: 13
   SerializationVersion: 119

@@ -96,7 +96,7 @@ function OnPropertyChanged(object, propertyName)
 		UpdateArt(GetCurrentState())
 	end
 end
-ROOT.customPropertyChangedEvent:Connect(OnPropertyChanged)
+ROOT.networkedPropertyChangedEvent:Connect(OnPropertyChanged)
 
 
 function OnObjectDamaged(id, prevHealth, dmgAmount, impactPosition, impactRotation, sourceObject)

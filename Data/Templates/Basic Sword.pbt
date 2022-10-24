@@ -220,7 +220,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3194930412626622494
+            Id: 6542170114427865587
           }
         }
         NetworkRelevanceDistance {
@@ -254,7 +254,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10251728999306098252
+            Id: 11145628254934127387
           }
         }
         NetworkRelevanceDistance {
@@ -507,7 +507,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
         }
@@ -522,7 +522,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10109220941690346490
+            Id: 14150387368533688185
           }
         }
         NetworkRelevanceDistance {
@@ -827,7 +827,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -890,7 +890,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -953,7 +953,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1056,7 +1056,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9854914266440959975
+            Id: 3682206342183528038
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1158,7 +1158,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 10219341742639680186
+              Id: 15487062404605779941
             }
           }
           Overrides {
@@ -1240,7 +1240,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4405588034365082590
+            Id: 12510064410993333055
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1289,7 +1289,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8174682436388858304
+            Id: 9675776263369201294
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1368,7 +1368,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 12442620765563305637
+              Id: 1364294402302747595
             }
           }
           Overrides {
@@ -1390,7 +1390,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13410490565345583042
+            Id: 5047196344696403889
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1433,7 +1433,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 12442620765563305637
+              Id: 1364294402302747595
             }
           }
           Overrides {
@@ -1455,7 +1455,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13410490565345583042
+            Id: 5047196344696403889
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1815,7 +1815,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9854914266440959975
+      Id: 3682206342183528038
       Name: "Fantasy Sword Grip 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1842,7 +1842,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10219341742639680186
+      Id: 15487062404605779941
       Name: "Metal Steel Brushed"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1851,7 +1851,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4405588034365082590
+      Id: 12510064410993333055
       Name: "Fantasy Pommel 04"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1860,7 +1860,7 @@ Assets {
       }
     }
     Assets {
-      Id: 8174682436388858304
+      Id: 9675776263369201294
       Name: "Fantasy Pommel 03"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1869,7 +1869,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13410490565345583042
+      Id: 5047196344696403889
       Name: "Gem - Diamond 6-Sided Polished"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1878,7 +1878,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12442620765563305637
+      Id: 1364294402302747595
       Name: "Amethyst"
       PlatformAssetType: 2
       PrimaryAsset {

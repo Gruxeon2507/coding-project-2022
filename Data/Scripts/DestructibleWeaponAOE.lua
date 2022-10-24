@@ -14,6 +14,8 @@ function COMBAT() return MODULE.Get("standardcombo.Combat.Wrap") end
 local WEAPON = script.parent
 local ATTACK_ABILITY = script:GetCustomProperty("AttackAbility"):WaitForObject()
 
+local CombatStats = require(script:GetCustomProperty("CombatStats"))
+
 local BLAST_IMPACT_TEMPLATE = script:GetCustomProperty("BlastImpactTemplate")
 local BLAST_DAMAGE_RANGE = script:GetCustomProperty("BlastDamageRange")
 local BLAST_RADIUS = script:GetCustomProperty("BlastRadius")
@@ -51,14 +53,10 @@ local function OnTargetImpact(theWeapon, impactData)
 			damageAmount = CoreMath.Round(damageAmount)
 			
 			-- Create damage object
-			local dmg = Damage.New(damageAmount)
-			dmg:SetHitResult(hitResult)
-			dmg.reason = DamageReason.COMBAT
-			dmg.sourcePlayer = impactData.weaponOwner
-			dmg.sourceAbility = ATTACK_ABILITY
-			
+			local dmg = CombatStats:GetAttackDamage(theWeapon.owner)
+
 			-- Apply damage to enemy
-			COMBAT().ApplyDamage(enemy, dmg, dmg.sourcePlayer, enemyPos)
+			COMBAT().ApplyDamage({ object = enemy, damage = dmg, source = theWeapon.owner, position = enemyPos})
 			
 			BroadcastDamageFeedback(dmg.amount, enemyPos)
 		end

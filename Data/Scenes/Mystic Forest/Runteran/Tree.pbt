@@ -1,7 +1,7 @@
 Name: "Runteran"
-RootId: 7119694552728076501
+RootId: 14784000909502167293
 Objects {
-  Id: 7311405120768334319
+  Id: 10172116663648567090
   Name: "Cube"
   Transform {
     Location {
@@ -17,8 +17,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7119694552728076501
-  ChildIds: 8407790286271647638
+  ParentId: 14784000909502167293
+  ChildIds: 16923921311681543236
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -56,7 +56,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8407790286271647638
+  Id: 16923921311681543236
   Name: "Trigger"
   Transform {
     Location {
@@ -72,8 +72,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7311405120768334319
-  ChildIds: 8776479223532066236
+  ParentId: 10172116663648567090
+  ChildIds: 5997836080125676252
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceon"
   }
@@ -107,7 +107,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8776479223532066236
+  Id: 5997836080125676252
   Name: "tele_mystic_run_1"
   Transform {
     Location {
@@ -123,7 +123,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8407790286271647638
+  ParentId: 16923921311681543236
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

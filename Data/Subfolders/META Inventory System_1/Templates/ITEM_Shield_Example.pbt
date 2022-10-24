@@ -1,5 +1,5 @@
 Assets {
-  Id: 4293696886725983950
+  Id: 7817856049540059297
   Name: "ITEM_Shield_Example"
   PlatformAssetType: 5
   TemplateAsset {

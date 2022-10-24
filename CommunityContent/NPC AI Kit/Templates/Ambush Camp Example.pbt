@@ -1,5 +1,5 @@
 Assets {
-  Id: 14033980246018938224
+  Id: 14468880773213025414
   Name: "Ambush Camp Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -63,7 +63,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12381289681378146111
+            Id: 8143775089932357756
           }
         }
         NetworkRelevanceDistance {
@@ -97,7 +97,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11080848432216748597
+            Id: 15324937701443637392
           }
         }
         NetworkRelevanceDistance {
@@ -186,7 +186,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9663007347248346926
+            Id: 508037586842104814
           }
         }
         NetworkRelevanceDistance {
@@ -242,7 +242,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8609302424149188430
+            Id: 10338844507562579281
           }
         }
         NetworkRelevanceDistance {
@@ -393,13 +393,13 @@ Assets {
           Overrides {
             Name: "cs:dragon"
             AssetReference {
-              Id: 12692302729365005027
+              Id: 4513260399177762156
             }
           }
           Overrides {
             Name: "cs:dragon2"
             AssetReference {
-              Id: 3174724363290821286
+              Id: 456252990401554869
             }
           }
         }
@@ -444,13 +444,13 @@ Assets {
           Overrides {
             Name: "cs:dragon"
             AssetReference {
-              Id: 3174724363290821286
+              Id: 456252990401554869
             }
           }
           Overrides {
             Name: "cs:dragon2"
             AssetReference {
-              Id: 6169059624859198116
+              Id: 3499961885302417940
             }
           }
         }
@@ -495,7 +495,7 @@ Assets {
           Overrides {
             Name: "cs:boss"
             AssetReference {
-              Id: 5219337663834844768
+              Id: 16253400899343246034
             }
           }
         }

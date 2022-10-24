@@ -1,5 +1,5 @@
 Assets {
-  Id: 12058958572538445956
+  Id: 12161099144628555562
   Name: "DisableOnEmptyAmmo"
   PlatformAssetType: 3
   TextAsset {

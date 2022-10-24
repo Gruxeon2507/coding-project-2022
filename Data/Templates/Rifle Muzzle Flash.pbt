@@ -1,61 +1,21 @@
 Assets {
-  Id: 13235592136068060647
+  Id: 16376131412216974061
   Name: "Rifle Muzzle Flash"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 17035684860207208329
-      Objects {
-        Id: 17035684860207208329
-        Name: "Rifle Muzzle Flash"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12436546004889713338
-        ChildIds: 11736491869790306490
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
+      RootId: 11736491869790306490
       Objects {
         Id: 11736491869790306490
         Name: "Client Context"
         Transform {
-          Location {
-          }
-          Rotation {
-          }
           Scale {
             X: 1
             Y: 1
             Z: 1
           }
         }
-        ParentId: 17035684860207208329
+        ParentId: 4781671109827199097
         ChildIds: 9124873603230429680
         ChildIds: 13614593215932494344
         UnregisteredParameters {

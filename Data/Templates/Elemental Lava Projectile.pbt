@@ -113,7 +113,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 857480732411356966
+            Id: 11067021488661371149
           }
           TeamSettings {
           }
@@ -168,7 +168,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 18244274405329183209
+            Id: 4975089110440955790
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -229,7 +229,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 18244274405329183209
+            Id: 4975089110440955790
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -261,7 +261,7 @@ Assets {
       }
     }
     Assets {
-      Id: 857480732411356966
+      Id: 11067021488661371149
       Name: "Spark Trail Wavy VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -270,7 +270,7 @@ Assets {
       }
     }
     Assets {
-      Id: 18244274405329183209
+      Id: 4975089110440955790
       Name: "Rock 03"
       PlatformAssetType: 1
       PrimaryAsset {

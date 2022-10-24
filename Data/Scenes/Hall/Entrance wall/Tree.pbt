@@ -1,7 +1,7 @@
 Name: "Entrance wall"
-RootId: 17793772011074368742
+RootId: 17566593564973927596
 Objects {
-  Id: 17430216718820131480
+  Id: 11248118136869377500
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -57,6 +57,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11248118136869377500
+    SubobjectId: 7277513233366522340
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -66,7 +72,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6509243705549696576
+  Id: 10052045844484846557
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -83,7 +89,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -122,6 +128,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10052045844484846557
+    SubobjectId: 8315815433488547813
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -131,7 +143,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7009573195319401423
+  Id: 16036500112206232026
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -150,7 +162,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -183,6 +195,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16036500112206232026
+    SubobjectId: 2768213491313423842
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -192,7 +210,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4144033402653065819
+  Id: 3538352913398439557
   Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
@@ -208,7 +226,7 @@ Objects {
       Z: 1.5
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -244,6 +262,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3538352913398439557
+    SubobjectId: 14554927394850558653
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -253,7 +277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16367473717328889949
+  Id: 18278772350088154795
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -270,7 +294,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -309,6 +333,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18278772350088154795
+    SubobjectId: 381824072658633363
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -318,7 +348,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10064688771127595994
+  Id: 11736114780494173643
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -337,7 +367,7 @@ Objects {
       Z: 1.95096493
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -370,6 +400,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11736114780494173643
+    SubobjectId: 6501142143307831795
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -379,7 +415,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2267442843052929140
+  Id: 3417617245518851801
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -396,7 +432,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -435,6 +471,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3417617245518851801
+    SubobjectId: 15531345720494269153
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -444,7 +486,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 179262332728623686
+  Id: 9127010845060287313
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -461,7 +503,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -500,6 +542,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9127010845060287313
+    SubobjectId: 9677695061752186729
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -509,7 +557,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4196893401320285249
+  Id: 18313929193320560134
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -526,7 +574,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -565,6 +613,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18313929193320560134
+    SubobjectId: 490780149222570558
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -574,7 +628,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5192311898745022351
+  Id: 15891483188538017861
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -591,7 +645,7 @@ Objects {
       Z: 0.616718709
     }
   }
-  ParentId: 17793772011074368742
+  ParentId: 17566593564973927596
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -629,6 +683,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 15891483188538017861
+    SubobjectId: 2625140775856948349
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

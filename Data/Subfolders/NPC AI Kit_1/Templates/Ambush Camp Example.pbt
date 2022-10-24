@@ -1,5 +1,5 @@
 Assets {
-  Id: 3377822318445947055
+  Id: 8178871510934111388
   Name: "Ambush Camp Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -63,7 +63,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7661263765837367693
+            Id: 12005394195804255867
           }
         }
         NetworkRelevanceDistance {
@@ -97,7 +97,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6662320149321212024
+            Id: 4999912482635587837
           }
         }
         NetworkRelevanceDistance {
@@ -186,7 +186,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9217575145008434579
+            Id: 5739212458735223309
           }
         }
         NetworkRelevanceDistance {
@@ -242,7 +242,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17099923623488865346
+            Id: 1686314178788053257
           }
         }
         NetworkRelevanceDistance {
@@ -393,13 +393,13 @@ Assets {
           Overrides {
             Name: "cs:dragon"
             AssetReference {
-              Id: 2574498854322356880
+              Id: 15577478696391105220
             }
           }
           Overrides {
             Name: "cs:dragon2"
             AssetReference {
-              Id: 841534158063459245
+              Id: 6760480288632268353
             }
           }
         }
@@ -444,13 +444,13 @@ Assets {
           Overrides {
             Name: "cs:dragon"
             AssetReference {
-              Id: 841534158063459245
+              Id: 6760480288632268353
             }
           }
           Overrides {
             Name: "cs:dragon2"
             AssetReference {
-              Id: 1648770029998107282
+              Id: 2062928632004352621
             }
           }
         }
@@ -495,7 +495,7 @@ Assets {
           Overrides {
             Name: "cs:boss"
             AssetReference {
-              Id: 175750435025203503
+              Id: 11051445883307375555
             }
           }
         }

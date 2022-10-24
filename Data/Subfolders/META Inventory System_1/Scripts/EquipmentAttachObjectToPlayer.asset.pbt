@@ -1,5 +1,5 @@
 Assets {
-  Id: 15335404042840951348
+  Id: 12333492428321500440
   Name: "EquipmentAttachObjectToPlayer"
   PlatformAssetType: 3
   TextAsset {

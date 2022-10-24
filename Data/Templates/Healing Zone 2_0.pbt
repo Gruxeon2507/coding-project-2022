@@ -1,6 +1,6 @@
 Assets {
   Id: 13733285254401400859
-  Name: "Healing Zone 2.0"
+  Name: "Healing Zone 2_0"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
@@ -95,7 +95,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 9487564131846698712
+            Id: 7240897054821455019
           }
           TeamSettings {
           }
@@ -133,7 +133,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15596870760343554385
+              Id: 12283213404376067439
             }
           }
           Overrides {
@@ -373,7 +373,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 14712933603237464674
+            Id: 15241932347484407348
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -420,7 +420,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 7383268314462933678
+            Id: 18054493775010134803
           }
           TeamSettings {
           }
@@ -473,7 +473,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 11703155121820248699
+            Id: 18051006286259672960
           }
           TeamSettings {
           }
@@ -596,7 +596,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9487564131846698712
+      Id: 7240897054821455019
       Name: "Fairy Dot Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -614,7 +614,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15596870760343554385
+      Id: 12283213404376067439
       Name: "Additive Edgeline Top Fade"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -632,7 +632,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14712933603237464674
+      Id: 15241932347484407348
       Name: "Flower Daisy Patch 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -641,7 +641,7 @@ Assets {
       }
     }
     Assets {
-      Id: 7383268314462933678
+      Id: 18054493775010134803
       Name: "Magic Swirl Element Volume"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -650,7 +650,7 @@ Assets {
       }
     }
     Assets {
-      Id: 11703155121820248699
+      Id: 18051006286259672960
       Name: "Callout Sparkle"
       PlatformAssetType: 8
       PrimaryAsset {

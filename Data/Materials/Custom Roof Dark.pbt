@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 5728899686605306447
+    BaseMaterialId: 4648238563842797210
     ParameterOverrides {
       Overrides {
         Name: "color"
@@ -21,7 +21,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5728899686605306447
+      Id: 4648238563842797210
       Name: "Roof Square Shingles 02"
       PlatformAssetType: 2
       PrimaryAsset {

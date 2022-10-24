@@ -1,5 +1,5 @@
 Assets {
-  Id: 1547607529118983990
+  Id: 2237284690040699294
   Name: "Generic Bullet"
   PlatformAssetType: 5
   TemplateAsset {

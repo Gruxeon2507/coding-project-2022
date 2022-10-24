@@ -1,5 +1,5 @@
 Assets {
-  Id: 17165827486701192746
+  Id: 4078961945049475
   Name: "ItemSystems_Database"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:Item"
         AssetReference {
-          Id: 64649889139326175
+          Id: 4508048841569297377
         }
       }
     }

@@ -1182,8 +1182,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Hammer"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

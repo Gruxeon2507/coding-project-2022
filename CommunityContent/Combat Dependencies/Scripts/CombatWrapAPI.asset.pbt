@@ -1,5 +1,5 @@
 Assets {
-  Id: 18091478408418928060
+  Id: 140415118518006251
   Name: "CombatWrapAPI"
   PlatformAssetType: 3
   TextAsset {
@@ -7,19 +7,19 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 17807719965529491286
+          Id: 13361854234990273127
         }
       }
       Overrides {
         Name: "cs:CombatWrapPlayer"
         AssetReference {
-          Id: 12461074803019180262
+          Id: 993371933419502691
         }
       }
       Overrides {
         Name: "cs:CombatWrapNPC"
         AssetReference {
-          Id: 282645494095716115
+          Id: 9897870482050584189
         }
       }
       Overrides {

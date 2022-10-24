@@ -1,5 +1,5 @@
 Assets {
-  Id: 10372553043952767293
+  Id: 3563632801339739436
   Name: "AnimControllerHideAttackProp"
   PlatformAssetType: 3
   TextAsset {

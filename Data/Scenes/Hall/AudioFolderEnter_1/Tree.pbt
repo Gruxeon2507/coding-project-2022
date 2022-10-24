@@ -1,7 +1,7 @@
 Name: "AudioFolderEnter_1"
-RootId: 4851499669008496837
+RootId: 10862822500294845326
 Objects {
-  Id: 5120703257178732715
+  Id: 16423238817916069559
   Name: "\"Epic Tides Battle\" Music Construction Kit (Layers) 01"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4851499669008496837
+  ParentId: 10862822500294845326
   UnregisteredParameters {
     Overrides {
       Name: "bp:String Melody 1 High Volume"

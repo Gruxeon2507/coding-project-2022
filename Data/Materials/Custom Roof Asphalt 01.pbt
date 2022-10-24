@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 12362917702039650425
+    BaseMaterialId: 16222935215986049883
     ParameterOverrides {
       Overrides {
         Name: "color"
@@ -21,7 +21,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12362917702039650425
+      Id: 16222935215986049883
       Name: "Roof Asphalt 01"
       PlatformAssetType: 2
       PrimaryAsset {

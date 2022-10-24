@@ -1,5 +1,5 @@
 Assets {
-  Id: 5110659780058318604
+  Id: 742731910943586700
   Name: "WeaponAimScopeClient"
   PlatformAssetType: 3
   TextAsset {

@@ -1,7 +1,7 @@
 Name: "Main"
-RootId: 4953961174145778141
+RootId: 11560871426476592131
 Objects {
-  Id: 4682450950353500846
+  Id: 6725498899020152433
   Name: "Oil Lamp Equipment"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   WantsNetworking: true
   TemplateInstance {
     ParameterOverrideMap {
@@ -56,7 +56,7 @@ Objects {
   }
 }
 Objects {
-  Id: 17773571209069597592
+  Id: 3039581416888809468
   Name: "FloatingIsland"
   Transform {
     Location {
@@ -72,7 +72,7 @@ Objects {
       Z: 7.75000095
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   TemplateInstance {
     ParameterOverrideMap {
       key: 10593085915237118304
@@ -151,7 +151,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6817317701067444114
+  Id: 12121039362234912513
   Name: "Telekit"
   Transform {
     Location {
@@ -167,7 +167,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   WantsNetworking: true
   TemplateInstance {
     ParameterOverrideMap {
@@ -206,7 +206,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5011453439243043313
+  Id: 1002298524266107443
   Name: "Spike Equipment"
   Transform {
     Location {
@@ -222,7 +222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   WantsNetworking: true
   TemplateInstance {
     ParameterOverrideMap {
@@ -306,7 +306,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10773078354000907394
+  Id: 6943190765569624036
   Name: "Mystical Cape"
   Transform {
     Location {
@@ -322,7 +322,7 @@ Objects {
       Z: 0.25
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   TemplateInstance {
     ParameterOverrideMap {
       key: 15763110854380731051
@@ -360,7 +360,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11322030415328888902
+  Id: 18314566633314897841
   Name: "Mystical umbrella axe with effects"
   Transform {
     Location {
@@ -376,7 +376,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   WantsNetworking: true
   TemplateInstance {
     ParameterOverrideMap {
@@ -415,7 +415,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6419400692310580123
+  Id: 9806322910049917794
   Name: "WaveManager"
   Transform {
     Location {
@@ -431,7 +431,7 @@ Objects {
       Z: 20.25
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   TemplateInstance {
     ParameterOverrideMap {
       key: 10859963069759094350
@@ -469,7 +469,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7722699960229806516
+  Id: 16840684059923781613
   Name: "Default Sky"
   Transform {
     Location {
@@ -483,11 +483,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4953961174145778141
-  ChildIds: 18272163862981912513
-  ChildIds: 2148022434541610981
-  ChildIds: 8637133857733539003
-  ChildIds: 17654590511400973418
+  ParentId: 11560871426476592131
+  ChildIds: 13993933619247917914
+  ChildIds: 2380231210151767148
+  ChildIds: 16778908307614275225
+  ChildIds: 325002705323053466
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -508,7 +508,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17654590511400973418
+  Id: 325002705323053466
   Name: "Magical Foggy Sky"
   Transform {
     Location {
@@ -521,7 +521,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7722699960229806516
+  ParentId: 16840684059923781613
   TemplateInstance {
     ParameterOverrideMap {
       key: 12264064429097760372
@@ -557,7 +557,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8637133857733539003
+  Id: 16778908307614275225
   Name: "Sun Light"
   Transform {
     Location {
@@ -573,7 +573,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7722699960229806516
+  ParentId: 16840684059923781613
   UnregisteredParameters {
     Overrides {
       Name: "bp:Use Temperature"
@@ -663,7 +663,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2148022434541610981
+  Id: 2380231210151767148
   Name: "Skylight"
   Transform {
     Location {
@@ -676,7 +676,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7722699960229806516
+  ParentId: 16840684059923781613
   UnregisteredParameters {
     Overrides {
       Name: "bp:Index"
@@ -749,7 +749,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18272163862981912513
+  Id: 13993933619247917914
   Name: "Sky Dome"
   Transform {
     Location {
@@ -762,7 +762,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7722699960229806516
+  ParentId: 16840684059923781613
   UnregisteredParameters {
     Overrides {
       Name: "bp:Zenith Color"
@@ -886,7 +886,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8908676319730571127
+  Id: 10025032242610641385
   Name: "Spawn Point"
   Transform {
     Location {
@@ -901,7 +901,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -930,7 +930,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15869883806060577551
+  Id: 4777537847692583233
   Name: "Gameplay Settings"
   Transform {
     Location {
@@ -943,7 +943,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -968,7 +968,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11827527561205621894
+  Id: 13469333614242049639
   Name: "Map"
   Transform {
     Location {
@@ -981,7 +981,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4953961174145778141
+  ParentId: 11560871426476592131
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

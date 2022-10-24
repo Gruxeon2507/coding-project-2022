@@ -528,7 +528,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
         }
@@ -606,7 +606,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16354317593366277883
+      Id: 16623719373387814516
       Name: "Metal Old Beaten Gold 02"
       PlatformAssetType: 2
       PrimaryAsset {

@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 11935663318352004752
+    BaseMaterialId: 11366038998560429186
     ParameterOverrides {
       Overrides {
         Name: "u tiles"
@@ -16,12 +16,12 @@ Assets {
       }
     }
     Assets {
-      Id: 11935663318352004752
-      Name: "Artificial Grass 01"
+      Id: 11366038998560429186
+      Name: "Generic Water"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_grass_artificial_001_uv_ref"
+        AssetId: "fxma_parameter_driven_water_manual"
       }
     }
   }

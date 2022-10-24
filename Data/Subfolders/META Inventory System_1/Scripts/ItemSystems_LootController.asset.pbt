@@ -1,5 +1,5 @@
 Assets {
-  Id: 4213243020992921409
+  Id: 12171990145097593514
   Name: "ItemSystems_LootController"
   PlatformAssetType: 3
   TextAsset {
@@ -12,7 +12,7 @@ Assets {
       Overrides {
         Name: "cs:ItemSystems_Item"
         AssetReference {
-          Id: 64649889139326175
+          Id: 4508048841569297377
         }
       }
       Overrides {
@@ -52,7 +52,7 @@ Assets {
       Overrides {
         Name: "cs:ItemSystems_Database"
         AssetReference {
-          Id: 17165827486701192746
+          Id: 4078961945049475
         }
       }
     }

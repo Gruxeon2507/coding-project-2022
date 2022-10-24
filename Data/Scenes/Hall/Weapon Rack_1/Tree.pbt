@@ -1,7 +1,7 @@
 Name: "Weapon Rack_1"
-RootId: 13671472466095835257
+RootId: 6956183436830582652
 Objects {
-  Id: 6823884061547936898
+  Id: 1341761034030241047
   Name: "Fantasy Shield 02"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1.30703366
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -69,6 +69,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1341761034030241047
+    SubobjectId: 17297882062935996231
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -78,7 +84,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13139324624785145574
+  Id: 15828610153035151765
   Name: "Fantasy Weapon - Hammer 01 (Prop)"
   Transform {
     Location {
@@ -97,13 +103,13 @@ Objects {
       Z: 1.72481132
     }
   }
-  ParentId: 13671472466095835257
-  ChildIds: 7204098267644303552
-  ChildIds: 15058253693044757305
-  ChildIds: 15696410104091881723
-  ChildIds: 8809946077438341818
-  ChildIds: 8554651810006743666
-  ChildIds: 2140132616294097065
+  ParentId: 6956183436830582652
+  ChildIds: 17905575345359922243
+  ChildIds: 13356411172457890223
+  ChildIds: 10991236361567814097
+  ChildIds: 6256886539604100036
+  ChildIds: 12752945627239144861
+  ChildIds: 13577501485093021033
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -116,13 +122,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 15828610153035151765
+    SubobjectId: 4123623293875837893
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2140132616294097065
+  Id: 13577501485093021033
   Name: "Fantasy Hammer Head 01"
   Transform {
     Location {
@@ -138,7 +150,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13139324624785145574
+  ParentId: 15828610153035151765
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -183,6 +195,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13577501485093021033
+    SubobjectId: 6844469994827089721
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -192,7 +210,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8554651810006743666
+  Id: 12752945627239144861
   Name: "Fantasy Hammer Head 01"
   Transform {
     Location {
@@ -207,7 +225,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13139324624785145574
+  ParentId: 15828610153035151765
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -252,6 +270,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12752945627239144861
+    SubobjectId: 5938867890383372237
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -261,7 +285,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8809946077438341818
+  Id: 6256886539604100036
   Name: "Fantasy Hammer Guard 01"
   Transform {
     Location {
@@ -275,7 +299,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13139324624785145574
+  ParentId: 15828610153035151765
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -314,6 +338,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6256886539604100036
+    SubobjectId: 12989619048612716948
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -323,7 +353,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15696410104091881723
+  Id: 10991236361567814097
   Name: "Fantasy Mace Guard 01"
   Transform {
     Location {
@@ -337,7 +367,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13139324624785145574
+  ParentId: 15828610153035151765
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -370,6 +400,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10991236361567814097
+    SubobjectId: 8797851859578037121
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -379,7 +415,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15058253693044757305
+  Id: 13356411172457890223
   Name: "Fantasy Hammer Base 01"
   Transform {
     Location {
@@ -393,7 +429,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13139324624785145574
+  ParentId: 15828610153035151765
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -426,6 +462,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13356411172457890223
+    SubobjectId: 6614391101616464895
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -435,7 +477,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7204098267644303552
+  Id: 17905575345359922243
   Name: "Fantasy Axe Grip 01"
   Transform {
     Location {
@@ -449,7 +491,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13139324624785145574
+  ParentId: 15828610153035151765
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -488,6 +530,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17905575345359922243
+    SubobjectId: 1940463694699316755
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -497,7 +545,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15382481243762382533
+  Id: 17612866569217238050
   Name: "Fantasy Shield 02"
   Transform {
     Location {
@@ -514,7 +562,7 @@ Objects {
       Z: 1.30703366
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -565,6 +613,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17612866569217238050
+    SubobjectId: 1656744431173764722
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -574,7 +628,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12924447338007410589
+  Id: 12614054282329935918
   Name: "Fantasy Weapon - Axe 01 (Prop)"
   Transform {
     Location {
@@ -593,12 +647,12 @@ Objects {
       Z: 1.7195344
     }
   }
-  ParentId: 13671472466095835257
-  ChildIds: 12406940631148072915
-  ChildIds: 4949723135176777887
-  ChildIds: 10257649238077658184
-  ChildIds: 6813078220140541473
-  ChildIds: 17934341712600312056
+  ParentId: 6956183436830582652
+  ChildIds: 9032067351516545667
+  ChildIds: 13106886290186429140
+  ChildIds: 4464580412464235125
+  ChildIds: 4450260307403270259
+  ChildIds: 1423197682053661489
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -611,13 +665,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 12614054282329935918
+    SubobjectId: 5593073890855662206
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17934341712600312056
+  Id: 1423197682053661489
   Name: "Fantasy Axe Blade 01"
   Transform {
     Location {
@@ -633,7 +693,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12924447338007410589
+  ParentId: 12614054282329935918
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -678,6 +738,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1423197682053661489
+    SubobjectId: 17388607463535944033
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -687,7 +753,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6813078220140541473
+  Id: 4450260307403270259
   Name: "Fantasy Axe Blade 01"
   Transform {
     Location {
@@ -702,7 +768,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12924447338007410589
+  ParentId: 12614054282329935918
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -747,6 +813,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4450260307403270259
+    SubobjectId: 16091933972400507427
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -756,7 +828,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10257649238077658184
+  Id: 4464580412464235125
   Name: "Fantasy Axe Base 01"
   Transform {
     Location {
@@ -770,7 +842,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12924447338007410589
+  ParentId: 12614054282329935918
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -809,6 +881,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4464580412464235125
+    SubobjectId: 16097528220037603365
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -818,7 +896,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4949723135176777887
+  Id: 13106886290186429140
   Name: "Fantasy Pommel 02"
   Transform {
     Location {
@@ -832,7 +910,7 @@ Objects {
       Z: 1.18333292
     }
   }
-  ParentId: 12924447338007410589
+  ParentId: 12614054282329935918
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -865,6 +943,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13106886290186429140
+    SubobjectId: 6302096328839921796
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -874,7 +958,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12406940631148072915
+  Id: 9032067351516545667
   Name: "Fantasy Axe Grip 01"
   Transform {
     Location {
@@ -888,7 +972,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12924447338007410589
+  ParentId: 12614054282329935918
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -927,6 +1011,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9032067351516545667
+    SubobjectId: 11513683333468905683
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -936,7 +1026,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14307285802454153378
+  Id: 11044866794360681072
   Name: "Sword"
   Transform {
     Location {
@@ -954,7 +1044,7 @@ Objects {
       Z: 0.626797438
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -968,13 +1058,19 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Sword_3"
   }
+  InstanceHistory {
+    SelfId: 11044866794360681072
+    SubobjectId: 8923802738405658656
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13806391331959899604
+  Id: 11128287891857364354
   Name: "Craftsman Roof 01 Bracket"
   Transform {
     Location {
@@ -990,7 +1086,7 @@ Objects {
       Z: 0.264965326
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1023,6 +1119,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11128287891857364354
+    SubobjectId: 8718712121170573266
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1032,7 +1134,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6151475150471623117
+  Id: 3682912431776186712
   Name: "Craftsman Roof 01 Bracket"
   Transform {
     Location {
@@ -1049,7 +1151,7 @@ Objects {
       Z: 0.264965326
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1082,6 +1184,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3682912431776186712
+    SubobjectId: 15099687483003118344
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1091,7 +1199,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10226840860821738603
+  Id: 16171969898816528670
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1107,7 +1215,7 @@ Objects {
       Z: 0.318922162
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1132,6 +1240,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16171969898816528670
+    SubobjectId: 215865378695742286
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1141,7 +1255,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10899416778358219259
+  Id: 965933710266969747
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -1158,7 +1272,7 @@ Objects {
       Z: 0.0575869642
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1191,6 +1305,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 965933710266969747
+    SubobjectId: 17291332230500207811
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1200,7 +1320,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3026683021945447555
+  Id: 8408381095391458828
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -1217,7 +1337,7 @@ Objects {
       Z: 0.0575869642
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1250,6 +1370,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8408381095391458828
+    SubobjectId: 10817675532864918620
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1259,7 +1385,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15959246779741500625
+  Id: 8524259400119229965
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -1276,7 +1402,7 @@ Objects {
       Z: 0.0575869642
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1309,6 +1435,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8524259400119229965
+    SubobjectId: 10726668698885028957
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1318,7 +1450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5134615553663936985
+  Id: 15444047337439715174
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -1335,7 +1467,7 @@ Objects {
       Z: 0.0575869642
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1368,6 +1500,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15444047337439715174
+    SubobjectId: 3802392278276422966
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1377,7 +1515,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12821716064288883235
+  Id: 14408410536833464272
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1394,7 +1532,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1419,6 +1557,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14408410536833464272
+    SubobjectId: 2694416538542790016
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1428,7 +1572,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8252209997294438051
+  Id: 2360905098016664286
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1445,7 +1589,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1470,6 +1614,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2360905098016664286
+    SubobjectId: 14002560088456480910
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1479,7 +1629,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13153479272632785268
+  Id: 5451643275475225928
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1496,7 +1646,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1521,6 +1671,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5451643275475225928
+    SubobjectId: 12193680947126398744
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1530,7 +1686,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 601914975963344703
+  Id: 16570830219477621178
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1547,7 +1703,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1572,6 +1728,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16570830219477621178
+    SubobjectId: 533644473519209450
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1581,7 +1743,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2411144938424327805
+  Id: 11371358571404704420
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1600,7 +1762,7 @@ Objects {
       Z: 0.481319487
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1625,6 +1787,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11371358571404704420
+    SubobjectId: 9178237929688422644
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1634,7 +1802,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15508305423576622135
+  Id: 9464703181594910735
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1653,7 +1821,7 @@ Objects {
       Z: 0.481319487
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1678,6 +1846,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9464703181594910735
+    SubobjectId: 7046420370777866847
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1687,7 +1861,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9454753374286487516
+  Id: 3322108827156339270
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1703,7 +1877,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1728,6 +1902,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3322108827156339270
+    SubobjectId: 14738602605238564886
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1737,7 +1917,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7180703574638710439
+  Id: 341241513568827620
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -1753,7 +1933,7 @@ Objects {
       Z: 0.174231142
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1778,6 +1958,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 341241513568827620
+    SubobjectId: 16585875355673369268
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1787,7 +1973,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5507427968651664672
+  Id: 4246321798261042519
   Name: "Craftsman Roof 01 Bracket"
   Transform {
     Location {
@@ -1804,7 +1990,7 @@ Objects {
       Z: 0.264965326
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1837,6 +2023,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4246321798261042519
+    SubobjectId: 15599765107472273159
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1846,7 +2038,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 417674793961658791
+  Id: 3180666323035077924
   Name: "Craftsman Roof 01 Bracket"
   Transform {
     Location {
@@ -1862,7 +2054,7 @@ Objects {
       Z: 0.264965326
     }
   }
-  ParentId: 13671472466095835257
+  ParentId: 6956183436830582652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Trim:id"
@@ -1894,6 +2086,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 3180666323035077924
+    SubobjectId: 14894379993072033652
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

@@ -545,7 +545,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 5187819157485721233
+            Id: 11706657001456537486
           }
           TeamSettings {
           }
@@ -665,7 +665,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5187819157485721233
+      Id: 11706657001456537486
       Name: "Dust Motes Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {

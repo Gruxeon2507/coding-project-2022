@@ -97,7 +97,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
           Overrides {
@@ -146,7 +146,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
           }
@@ -229,7 +229,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
           }
@@ -312,7 +312,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
           }
@@ -393,7 +393,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
           }
@@ -450,7 +450,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 4603537691901304316
+            Id: 17273320435588562321
           }
           TeamSettings {
           }
@@ -468,7 +468,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12434974458467685788
+      Id: 15614259856505195515
       Name: "Sphere"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -477,7 +477,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3702191406046426907
+      Id: 8375575103126610230
       Name: "Emissive Glow Transparent"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -486,7 +486,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4603537691901304316
+      Id: 17273320435588562321
       Name: "Torch Fire VFX"
       PlatformAssetType: 8
       PrimaryAsset {

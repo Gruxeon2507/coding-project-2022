@@ -1,5 +1,5 @@
 Assets {
-  Id: 4462285256573231487
+  Id: 3932683180263715281
   Name: "SFX_InventoryItemMagical"
   PlatformAssetType: 5
   TemplateAsset {

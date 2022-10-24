@@ -238,7 +238,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 14712933603237464674
+            Id: 15241932347484407348
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -285,7 +285,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 7383268314462933678
+            Id: 18054493775010134803
           }
           TeamSettings {
           }
@@ -338,7 +338,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 11703155121820248699
+            Id: 18051006286259672960
           }
           TeamSettings {
           }
@@ -468,7 +468,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14712933603237464674
+      Id: 15241932347484407348
       Name: "Flower Daisy Patch 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -477,7 +477,7 @@ Assets {
       }
     }
     Assets {
-      Id: 7383268314462933678
+      Id: 18054493775010134803
       Name: "Magic Swirl Element Volume"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -486,7 +486,7 @@ Assets {
       }
     }
     Assets {
-      Id: 11703155121820248699
+      Id: 18051006286259672960
       Name: "Callout Sparkle"
       PlatformAssetType: 8
       PrimaryAsset {

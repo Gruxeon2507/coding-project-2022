@@ -108,7 +108,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -166,7 +166,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -224,7 +224,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -282,7 +282,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -340,7 +340,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4854270377050611262
+            Id: 17573120111418082711
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -932,7 +932,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
         }
         NetworkRelevanceDistance {
@@ -1063,7 +1063,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
         }
         NetworkRelevanceDistance {
@@ -1196,7 +1196,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
         }
         NetworkRelevanceDistance {
@@ -1329,7 +1329,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
         }
         NetworkRelevanceDistance {
@@ -1461,7 +1461,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
         }
         NetworkRelevanceDistance {
@@ -1594,7 +1594,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
         }
         NetworkRelevanceDistance {
@@ -1761,7 +1761,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 16240317532245028206
+            Id: 2370323440038391995
           }
           DecalBP {
           }
@@ -1831,7 +1831,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 16240317532245028206
+            Id: 2370323440038391995
           }
           DecalBP {
           }
@@ -1902,7 +1902,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 16240317532245028206
+            Id: 2370323440038391995
           }
           DecalBP {
           }
@@ -1972,7 +1972,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 16240317532245028206
+            Id: 2370323440038391995
           }
           DecalBP {
           }
@@ -2042,7 +2042,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 16240317532245028206
+            Id: 2370323440038391995
           }
           DecalBP {
           }
@@ -2111,7 +2111,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 16240317532245028206
+            Id: 2370323440038391995
           }
           DecalBP {
           }
@@ -2126,7 +2126,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15653822500763649258
+      Id: 5888775678528531739
       Name: "Fantasy Castle Stairs 01 - 150cm Corner 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2135,7 +2135,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4854270377050611262
+      Id: 17573120111418082711
       Name: "Pipe"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2171,7 +2171,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6677237403455816226
+      Id: 6950558847410687192
       Name: "Portal VFX"
       PlatformAssetType: 6
       PrimaryAsset {
@@ -2180,7 +2180,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16240317532245028206
+      Id: 2370323440038391995
       Name: "Decal Elven Symbols"
       PlatformAssetType: 14
       PrimaryAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 6336118367534477743
+  Id: 2344964896422960671
   Name: "Default Swimmable Water"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,7 +25,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 11442203651218561860
+              Id: 8459402430014414156
             }
           }
         }

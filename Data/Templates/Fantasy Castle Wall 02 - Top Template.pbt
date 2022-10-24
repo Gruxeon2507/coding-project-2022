@@ -110,7 +110,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4565574025644870814
+            Id: 12874084555355652477
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -158,7 +158,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15686909077460378362
+            Id: 7746675281084900771
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -190,7 +190,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4565574025644870814
+      Id: 12874084555355652477
       Name: "Fantasy Castle Trim - Battlement 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -199,7 +199,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15686909077460378362
+      Id: 7746675281084900771
       Name: "Fantasy Castle Trim - Parapet 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -208,8 +208,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Fantasy_Castle_Wall_02_-_Top_Template"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 4247430867898109902
+    BaseMaterialId: 17338465930320997567
     ParameterOverrides {
       Overrides {
         Name: "material_scale"
@@ -21,7 +21,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4247430867898109902
+      Id: 17338465930320997567
       Name: "Stucco Tintable"
       PlatformAssetType: 2
       PrimaryAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 8294250324085165808
+  Id: 15654146279946508339
   Name: "Ice Sword Full Circle Swipe Effect"
   PlatformAssetType: 5
   TemplateAsset {

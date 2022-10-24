@@ -1,5 +1,5 @@
 Assets {
-  Id: 14913967275964153821
+  Id: 4447843295952857827
   Name: "Combat Dependencies"
   PlatformAssetType: 5
   TemplateAsset {
@@ -20,6 +20,7 @@ Assets {
         ChildIds: 4513339989685681768
         ChildIds: 15693643951607791127
         ChildIds: 3305255709801741084
+        ChildIds: 9409702795888361092
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -63,7 +64,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 225821381090121257
+            Id: 1374282534868842382
           }
         }
         NetworkRelevanceDistance {
@@ -99,7 +100,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 18091478408418928060
+            Id: 140415118518006251
           }
         }
         NetworkRelevanceDistance {
@@ -133,7 +134,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1039561866481711506
+            Id: 6685477641202065241
           }
         }
         NetworkRelevanceDistance {
@@ -169,7 +170,41 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15660999692471644332
+            Id: 14831725293528229931
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 9409702795888361092
+        Name: "NPCKitKillFeedAdapter"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 8014650375856875642
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Script {
+          ScriptAsset {
+            Id: 11543270510057559331
           }
         }
         NetworkRelevanceDistance {
@@ -184,7 +219,7 @@ Assets {
     }
   }
   Marketplace {
-    Description: "Common dependencies for Player and NPC combat, extracted into a separate template to reduce depencency and asset duplication across community content pieces.\r\n\r\nv1.0.1\r\n- Fixed a crash when using AOE weapons separate from the NPC Kit."
+    Description: "Common dependencies for Player and NPC combat, extracted into a separate template to reduce depencency and asset duplication across community content pieces.\r\n\r\nv1.1.1\r\n- Combat Wrap API - v0.11.2\r\n- Includes the new NPCKitKillFeedAdapter - v1.0\r\n- Breaking change: The ApplyDamage() function has been refactored. It now takes a single table parameter. This allows much more flexibility and power in implementing auxilary systems that react to combat events. E.g. damage types, defensive moves, quest progress, etc.\r\n- Added GetVelocity()\r\n- Added GetMaxHitPoints()\r\n- Optional parameters for FindInSphere() are now implemented to match those of Player API.\r\n\r\nv1.0.1\r\n- Fixed a crash when using AOE weapons separate from the NPC Kit."
   }
   SerializationVersion: 119
   DirectlyPublished: true

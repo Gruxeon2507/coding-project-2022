@@ -143,7 +143,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 17593637809061010819
+            Id: 17069761961690292468
           }
           TeamSettings {
           }
@@ -170,7 +170,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17593637809061010819
+      Id: 17069761961690292468
       Name: "Basic Explosion VFX"
       PlatformAssetType: 8
       PrimaryAsset {

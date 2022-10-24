@@ -93,7 +93,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8237693653740452203
+            Id: 12832756553054756259
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -135,7 +135,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 9012634881940008866
+              Id: 8375575103126610230
             }
           }
           Overrides {
@@ -636,7 +636,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
           Overrides {
@@ -660,7 +660,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 6747614045051753376
+            Id: 17527385231155160101
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -838,7 +838,7 @@ Assets {
       }
     }
     Assets {
-      Id: 8237693653740452203
+      Id: 12832756553054756259
       Name: "Column Base 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -865,7 +865,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9012634881940008866
+      Id: 8375575103126610230
       Name: "Emissive Glow Transparent"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -928,21 +928,12 @@ Assets {
       }
     }
     Assets {
-      Id: 6747614045051753376
+      Id: 17527385231155160101
       Name: "Cylinder - Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_cylinder_001"
-      }
-    }
-    Assets {
-      Id: 3702191406046426907
-      Name: "Emissive Glow Transparent"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_basic_emissive_001"
       }
     }
     PrimaryAssetId {

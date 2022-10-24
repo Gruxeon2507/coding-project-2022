@@ -1,7 +1,7 @@
 Name: "Lights"
-RootId: 6090882039017936692
+RootId: 7744266397629585141
 Objects {
-  Id: 9841748678612846906
+  Id: 8568791366371344085
   Name: "Area Light"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -70,7 +70,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14663776038655368035
+  Id: 18369944348277915074
   Name: "Area Light"
   Transform {
     Location {
@@ -89,7 +89,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -139,7 +139,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8601572440028269267
+  Id: 9532266170608973584
   Name: "Area Light"
   Transform {
     Location {
@@ -158,7 +158,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -208,7 +208,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7724097576160819799
+  Id: 8222776949243583219
   Name: "Area Light"
   Transform {
     Location {
@@ -227,7 +227,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -277,7 +277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1941231360447916444
+  Id: 8840959739561224453
   Name: "Area Light"
   Transform {
     Location {
@@ -296,7 +296,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -346,7 +346,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2785319560248471519
+  Id: 15506159759148599662
   Name: "Area Light"
   Transform {
     Location {
@@ -365,7 +365,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -415,7 +415,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9762842536013926068
+  Id: 16641279336280796451
   Name: "Area Light"
   Transform {
     Location {
@@ -434,7 +434,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -484,7 +484,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12014239429485228805
+  Id: 9157614755494667958
   Name: "Area Light"
   Transform {
     Location {
@@ -503,7 +503,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -553,7 +553,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18015262983506279355
+  Id: 10208170277901299000
   Name: "Area Light"
   Transform {
     Location {
@@ -572,7 +572,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -622,7 +622,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9415743323510845200
+  Id: 5315492791584194544
   Name: "Area Light"
   Transform {
     Location {
@@ -641,7 +641,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -691,7 +691,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15582661287087386946
+  Id: 11293162034963875216
   Name: "Area Light"
   Transform {
     Location {
@@ -710,7 +710,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -760,7 +760,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6135740980821053409
+  Id: 5024040197848264462
   Name: "Area Light"
   Transform {
     Location {
@@ -779,7 +779,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -829,7 +829,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10882670357876341365
+  Id: 11337399899807928965
   Name: "Area Light"
   Transform {
     Location {
@@ -848,7 +848,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -898,7 +898,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 369223166894502466
+  Id: 13320306740621046088
   Name: "Area Light"
   Transform {
     Location {
@@ -917,7 +917,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -967,7 +967,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13157902907861209456
+  Id: 12251511711972412077
   Name: "Area Light"
   Transform {
     Location {
@@ -986,7 +986,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1035,7 +1035,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14729571406409270014
+  Id: 14194370367308883140
   Name: "Area Light"
   Transform {
     Location {
@@ -1054,7 +1054,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1103,7 +1103,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8861711669119301343
+  Id: 12506219524843121233
   Name: "Area Light"
   Transform {
     Location {
@@ -1122,7 +1122,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1171,7 +1171,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8810387766751593399
+  Id: 16996661761955616224
   Name: "Area Light"
   Transform {
     Location {
@@ -1190,7 +1190,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1239,7 +1239,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10070494842817648868
+  Id: 6594506383976952472
   Name: "Area Light"
   Transform {
     Location {
@@ -1258,7 +1258,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1307,7 +1307,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3460350071083596084
+  Id: 8025831629474351477
   Name: "Area Light"
   Transform {
     Location {
@@ -1326,7 +1326,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1375,7 +1375,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7511455469342577213
+  Id: 3149450148428332770
   Name: "Area Light"
   Transform {
     Location {
@@ -1394,7 +1394,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1443,7 +1443,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12116558349873905072
+  Id: 1795046030189589360
   Name: "Area Light"
   Transform {
     Location {
@@ -1462,7 +1462,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1511,7 +1511,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16992361963079549760
+  Id: 76984035246375109
   Name: "Area Light"
   Transform {
     Location {
@@ -1530,7 +1530,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1579,7 +1579,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13507779569873199344
+  Id: 8231265644425963577
   Name: "Area Light"
   Transform {
     Location {
@@ -1598,7 +1598,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1647,7 +1647,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9516809086496142387
+  Id: 5937967023219748751
   Name: "Area Light"
   Transform {
     Location {
@@ -1666,7 +1666,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1715,7 +1715,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7623515398109470953
+  Id: 7904677265618294142
   Name: "Area Light"
   Transform {
     Location {
@@ -1734,7 +1734,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1783,7 +1783,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7977260747121929925
+  Id: 15284618535472298269
   Name: "Area Light"
   Transform {
     Location {
@@ -1802,7 +1802,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1851,7 +1851,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2677917481019962851
+  Id: 13634035275611990823
   Name: "Area Light"
   Transform {
     Location {
@@ -1870,7 +1870,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1919,7 +1919,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11700857063126107673
+  Id: 14080696475756374280
   Name: "Area Light"
   Transform {
     Location {
@@ -1938,7 +1938,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1987,7 +1987,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12196205811124037786
+  Id: 528650787800955867
   Name: "Area Light"
   Transform {
     Location {
@@ -2006,7 +2006,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2055,7 +2055,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9155611937841211126
+  Id: 11963139209815393113
   Name: "Area Light"
   Transform {
     Location {
@@ -2074,7 +2074,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2123,7 +2123,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13275597152396570268
+  Id: 9979311097656971732
   Name: "Area Light"
   Transform {
     Location {
@@ -2142,7 +2142,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2191,7 +2191,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16352702383576599170
+  Id: 17899921156906600477
   Name: "Area Light"
   Transform {
     Location {
@@ -2210,7 +2210,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2259,7 +2259,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11008118916969124660
+  Id: 10198517888277588673
   Name: "Area Light"
   Transform {
     Location {
@@ -2278,7 +2278,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2327,7 +2327,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9740724795222968046
+  Id: 1221055594432522508
   Name: "Area Light"
   Transform {
     Location {
@@ -2346,7 +2346,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2395,7 +2395,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2704331772992666169
+  Id: 2133609398402994734
   Name: "Area Light"
   Transform {
     Location {
@@ -2414,7 +2414,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2463,7 +2463,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9960722412049946405
+  Id: 16164008589413372471
   Name: "Area Light"
   Transform {
     Location {
@@ -2482,7 +2482,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2532,7 +2532,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3513621157070249473
+  Id: 2242313413675388364
   Name: "Area Light"
   Transform {
     Location {
@@ -2551,7 +2551,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2601,7 +2601,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10357035164434541614
+  Id: 2758100881233027570
   Name: "Area Light"
   Transform {
     Location {
@@ -2620,7 +2620,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2670,7 +2670,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3926342514639038541
+  Id: 6318700428725082324
   Name: "Area Light"
   Transform {
     Location {
@@ -2689,7 +2689,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2738,7 +2738,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17875586120697662189
+  Id: 8045636322028962616
   Name: "Area Light"
   Transform {
     Location {
@@ -2757,7 +2757,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2806,7 +2806,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9983912300644879870
+  Id: 17258938518317365065
   Name: "Area Light"
   Transform {
     Location {
@@ -2825,7 +2825,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2874,7 +2874,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11732184948097557328
+  Id: 15023246377443655053
   Name: "Area Light"
   Transform {
     Location {
@@ -2893,7 +2893,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2943,7 +2943,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9539575181824499543
+  Id: 10850011028121404877
   Name: "Area Light"
   Transform {
     Location {
@@ -2962,7 +2962,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3012,7 +3012,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10707151203068882470
+  Id: 691990903816022844
   Name: "Area Light"
   Transform {
     Location {
@@ -3031,7 +3031,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3080,7 +3080,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14467678155850702466
+  Id: 938898420121057434
   Name: "Area Light"
   Transform {
     Location {
@@ -3099,7 +3099,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3149,7 +3149,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12995191838045245078
+  Id: 11325519738150271917
   Name: "Area Light"
   Transform {
     Location {
@@ -3168,7 +3168,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3218,7 +3218,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6892810483212598297
+  Id: 13483348513630343326
   Name: "Area Light"
   Transform {
     Location {
@@ -3237,7 +3237,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3286,7 +3286,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6869519502729670576
+  Id: 17945195879874933634
   Name: "Area Light"
   Transform {
     Location {
@@ -3305,7 +3305,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3354,7 +3354,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1966940120055341150
+  Id: 5323878909013612555
   Name: "Area Light"
   Transform {
     Location {
@@ -3373,7 +3373,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3423,7 +3423,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8072408179034441326
+  Id: 3857175430604396387
   Name: "Area Light"
   Transform {
     Location {
@@ -3442,7 +3442,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3492,7 +3492,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8409500168210591595
+  Id: 13083181189266425479
   Name: "Area Light"
   Transform {
     Location {
@@ -3511,7 +3511,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3561,7 +3561,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7234234635362283973
+  Id: 637558033818660172
   Name: "Area Light"
   Transform {
     Location {
@@ -3580,7 +3580,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3630,7 +3630,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2047112518667232635
+  Id: 14558180478009026633
   Name: "Area Light"
   Transform {
     Location {
@@ -3649,7 +3649,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3699,7 +3699,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14159298004075227871
+  Id: 4261816087034276360
   Name: "Area Light"
   Transform {
     Location {
@@ -3718,7 +3718,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3768,7 +3768,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3972962585372859209
+  Id: 4339257568989995814
   Name: "Area Light"
   Transform {
     Location {
@@ -3787,7 +3787,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3837,7 +3837,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14453586037614891790
+  Id: 7872805055580993857
   Name: "Area Light"
   Transform {
     Location {
@@ -3856,7 +3856,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3906,7 +3906,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13071011335830176877
+  Id: 17941399610717043923
   Name: "Area Light"
   Transform {
     Location {
@@ -3925,7 +3925,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3975,7 +3975,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16119926400314636545
+  Id: 15954556252668901141
   Name: "Area Light"
   Transform {
     Location {
@@ -3994,7 +3994,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4044,7 +4044,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2650991099312979404
+  Id: 15241895905962461983
   Name: "Area Light"
   Transform {
     Location {
@@ -4063,7 +4063,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4113,7 +4113,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16792390269415208094
+  Id: 15195880174248629701
   Name: "Area Light"
   Transform {
     Location {
@@ -4132,7 +4132,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4182,7 +4182,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4903903571115247223
+  Id: 9704737950503253039
   Name: "Area Light"
   Transform {
     Location {
@@ -4201,7 +4201,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4251,7 +4251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2310709114353541799
+  Id: 10913477243132344568
   Name: "Area Light"
   Transform {
     Location {
@@ -4270,7 +4270,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4320,7 +4320,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 51345087020900606
+  Id: 7326290176661038188
   Name: "Area Light"
   Transform {
     Location {
@@ -4339,7 +4339,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4389,7 +4389,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12424847186175258325
+  Id: 18133070305405527890
   Name: "Area Light"
   Transform {
     Location {
@@ -4408,7 +4408,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4458,7 +4458,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15700197985681468080
+  Id: 9277985166611793182
   Name: "Area Light"
   Transform {
     Location {
@@ -4477,7 +4477,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4527,7 +4527,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2753450120488525857
+  Id: 17394430319647406850
   Name: "Area Light"
   Transform {
     Location {
@@ -4546,7 +4546,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4596,7 +4596,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5798489065006346873
+  Id: 1536810758387806272
   Name: "Area Light"
   Transform {
     Location {
@@ -4615,7 +4615,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4665,7 +4665,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12762951279393256401
+  Id: 3860492177877592169
   Name: "Area Light"
   Transform {
     Location {
@@ -4684,7 +4684,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4734,7 +4734,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1296864918976107510
+  Id: 12770538183423699831
   Name: "Area Light"
   Transform {
     Location {
@@ -4753,7 +4753,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4803,7 +4803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 935215667527099186
+  Id: 12202112813231476601
   Name: "Area Light"
   Transform {
     Location {
@@ -4822,7 +4822,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4872,7 +4872,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5174460127044674593
+  Id: 1559299883777309556
   Name: "Area Light"
   Transform {
     Location {
@@ -4891,7 +4891,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4941,7 +4941,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3935558567802097767
+  Id: 2439648379587893596
   Name: "Area Light"
   Transform {
     Location {
@@ -4960,7 +4960,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5010,7 +5010,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5659555636731689096
+  Id: 2332208278220872976
   Name: "Area Light"
   Transform {
     Location {
@@ -5029,7 +5029,7 @@ Objects {
       Z: 0.02
     }
   }
-  ParentId: 6090882039017936692
+  ParentId: 7744266397629585141
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

@@ -1,7 +1,7 @@
 Name: "Portal"
-RootId: 11537836127534206484
+RootId: 17207419436831548202
 Objects {
-  Id: 4536215866893601030
+  Id: 5248674163340367937
   Name: "Portal Stand"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 11537836127534206484
+  ParentId: 17207419436831548202
   TemplateInstance {
     ParameterOverrideMap {
       key: 4634161856962455781
@@ -68,7 +68,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11642293358299234180
+  Id: 7679817400382779057
   Name: "SkullPortal"
   Transform {
     Location {
@@ -84,7 +84,7 @@ Objects {
       Z: 1.5
     }
   }
-  ParentId: 11537836127534206484
+  ParentId: 17207419436831548202
   TemplateInstance {
     ParameterOverrideMap {
       key: 5318157011607424253
@@ -122,7 +122,7 @@ Objects {
   }
 }
 Objects {
-  Id: 9690006043563150562
+  Id: 4176296157216157731
   Name: "Rock Portal"
   Transform {
     Location {
@@ -141,7 +141,7 @@ Objects {
       Z: 0.621743083
     }
   }
-  ParentId: 11537836127534206484
+  ParentId: 17207419436831548202
   TemplateInstance {
     ParameterOverrideMap {
       key: 13384650677538986668
@@ -182,7 +182,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5908758434821897696
+  Id: 2243363856674541173
   Name: "True Portal w\303\255th Teleport"
   Transform {
     Scale {
@@ -191,7 +191,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11537836127534206484
+  ParentId: 17207419436831548202
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"

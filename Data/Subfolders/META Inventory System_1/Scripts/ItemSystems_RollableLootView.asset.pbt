@@ -1,5 +1,5 @@
 Assets {
-  Id: 9474154434715420162
+  Id: 12932782787355570791
   Name: "ItemSystems_RollableLootView"
   PlatformAssetType: 3
   TextAsset {

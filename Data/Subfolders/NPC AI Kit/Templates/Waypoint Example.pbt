@@ -1,5 +1,5 @@
 Assets {
-  Id: 16931741207120062879
+  Id: 6779368140500103084
   Name: "Waypoint Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -68,7 +68,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13729608467126556898
+            Id: 11734002723979686254
           }
         }
         NetworkRelevanceDistance {
@@ -102,7 +102,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9630473079285135562
+            Id: 17221689616334603503
           }
         }
         NetworkRelevanceDistance {
@@ -189,7 +189,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3981611820429407664
+            Id: 7960262687445395090
           }
         }
         NetworkRelevanceDistance {
@@ -236,7 +236,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16264466650197149399
+            Id: 15575440485217553150
           }
         }
         NetworkRelevanceDistance {
@@ -301,7 +301,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 14864534054951153042
+              Id: 841534158063459245
             }
           }
         }
@@ -346,7 +346,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 14095984786153720455
+              Id: 841534158063459245
             }
           }
         }
@@ -391,7 +391,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 6887873937434095336
+              Id: 841534158063459245
             }
           }
         }
@@ -491,7 +491,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7394097906146350946
+            Id: 15033676479257084051
           }
         }
         NetworkRelevanceDistance {
@@ -613,7 +613,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7394097906146350946
+            Id: 15033676479257084051
           }
         }
         NetworkRelevanceDistance {
@@ -736,7 +736,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7394097906146350946
+            Id: 15033676479257084051
           }
         }
         NetworkRelevanceDistance {

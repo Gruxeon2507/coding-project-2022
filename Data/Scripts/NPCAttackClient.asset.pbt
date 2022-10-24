@@ -1,5 +1,5 @@
 Assets {
-  Id: 162151367198570398
+  Id: 13935421930719532631
   Name: "NPCAttackClient"
   PlatformAssetType: 3
   TextAsset {

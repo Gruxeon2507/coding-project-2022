@@ -1,6 +1,6 @@
 Assets {
-  Id: 8031104017213994216
-  Name: "ResourcePickupServer"
+  Id: 16147031275284732970
+  Name: "ResourcePickupServer_1"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {

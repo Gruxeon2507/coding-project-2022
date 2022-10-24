@@ -1,5 +1,5 @@
 Assets {
-  Id: 12296172081241942983
+  Id: 12579048967911142590
   Name: "EquipmentMeleeAttacksClient_2"
   PlatformAssetType: 3
   TextAsset {
@@ -7,5 +7,4 @@ Assets {
     }
   }
   SerializationVersion: 119
-  VirtualFolderPath: "Equipment"
 }

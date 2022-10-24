@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 2478496247570783009
+    BaseMaterialId: 1082809058784319555
     ParameterOverrides {
       Overrides {
         Name: "hot color"
@@ -41,9 +41,9 @@ Assets {
       Overrides {
         Name: "color"
         Color {
-          R: 0.669999957
-          G: 0.842648864
-          B: 1
+          R: 0.4935
+          G: 0.619520426
+          B: 0.734375
           A: 1
         }
       }
@@ -76,13 +76,9 @@ Assets {
         Name: "smooth noise"
         Float: 0
       }
-      Overrides {
-        Name: "tessellation multiplier"
-        Float: 20
-      }
     }
     Assets {
-      Id: 2478496247570783009
+      Id: 1082809058784319555
       Name: "Explosion Cloud"
       PlatformAssetType: 2
       PrimaryAsset {

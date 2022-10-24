@@ -1,5 +1,5 @@
 Assets {
-  Id: 7207251054844171383
+  Id: 4185858084984604343
   Name: "Basic Staff"
   PlatformAssetType: 5
   TemplateAsset {
@@ -56,16 +56,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 14406936386632287551
+              Id: 12495952782895140644
             }
             MuzzleFlashAssetRef {
-              Id: 18352488712279545506
+              Id: 2002613503343748477
             }
             TrailAssetRef {
-              Id: 1355442287339256715
+              Id: 1281559625348719309
             }
             ImpactAssetRef {
-              Id: 5473906486021613373
+              Id: 795968832547103514
             }
             UseReticle: true
             Muzzle {
@@ -77,10 +77,10 @@ Assets {
             }
             AnimationSet: "2hand_staff_stance"
             OutOfAmmoSfxAssetRef {
-              Id: 12500578513771318027
+              Id: 12902694476831037733
             }
             ReloadSfxAssetRef {
-              Id: 16679906103051700598
+              Id: 1883856674610071250
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
@@ -94,7 +94,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 20000
             ImpactPlayerAssetRef {
-              Id: 1353520495077463700
+              Id: 12186587800654758569
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -170,13 +170,13 @@ Assets {
           Overrides {
             Name: "cs:BlastImpactTemplate"
             AssetReference {
-              Id: 12376691664535912346
+              Id: 5436452027701127584
             }
           }
           Overrides {
             Name: "cs:CombatStats"
             AssetReference {
-              Id: 7910916886577143753
+              Id: 12568911486390079672
             }
           }
         }
@@ -192,7 +192,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 78410913597657087
+            Id: 16671958906831024158
           }
         }
         NetworkRelevanceDistance {
@@ -262,7 +262,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11145628254934127387
+            Id: 3820925941018720372
           }
         }
         NetworkRelevanceDistance {
@@ -369,7 +369,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14772313579232998117
+              Id: 6847002890894885131
             }
           }
         }
@@ -384,7 +384,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14150387368533688185
+            Id: 15217026285343297011
           }
         }
         NetworkRelevanceDistance {
@@ -441,7 +441,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1144590072372630290
+            Id: 10984383359750883916
           }
         }
         NetworkRelevanceDistance {
@@ -498,7 +498,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1144590072372630290
+            Id: 10984383359750883916
           }
         }
         NetworkRelevanceDistance {

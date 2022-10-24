@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 16845241941935487831
+    BaseMaterialId: 10766975867019021707
     ParameterOverrides {
       Overrides {
         Name: "color"
@@ -16,7 +16,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16845241941935487831
+      Id: 10766975867019021707
       Name: "Glass 01 (no distortion)"
       PlatformAssetType: 2
       PrimaryAsset {

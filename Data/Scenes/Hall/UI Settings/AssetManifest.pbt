@@ -17,15 +17,6 @@ Assets {
   }
 }
 Assets {
-  Id: 14263746284030313578
-  Name: "Frame Outlined Thick 006"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "FrameFlat_015"
-  }
-}
-Assets {
   Id: 11757390778361009318
   Name: "Icon Profile"
   PlatformAssetType: 9
@@ -41,15 +32,6 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "UI_Fantasy_Crafting_Gem_005"
-  }
-}
-Assets {
-  Id: 6724534832103276994
-  Name: "BG Flat 006"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "BackgroundNoOutline_015"
   }
 }
 Assets {

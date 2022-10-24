@@ -79,7 +79,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 594315991841207773
+            Id: 6391999908224949722
           }
           AudioBP {
             AutoPlay: true
@@ -276,7 +276,7 @@ Assets {
       }
     }
     Assets {
-      Id: 594315991841207773
+      Id: 6391999908224949722
       Name: "Fire and Flame Burning Loop Set 01 SFX"
       PlatformAssetType: 10
       PrimaryAsset {

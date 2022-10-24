@@ -1,5 +1,5 @@
 Assets {
-  Id: 4740979893003667914
+  Id: 18356149154429497369
   Name: "DestructibleWeaponClient"
   PlatformAssetType: 3
   TextAsset {

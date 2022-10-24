@@ -1,5 +1,5 @@
 Assets {
-  Id: 6199452757239551275
+  Id: 11803407337753029124
   Name: "Sky Cape Canaveral"
   PlatformAssetType: 5
   TemplateAsset {
@@ -338,8 +338,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Sky_Cape_Canaveral"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

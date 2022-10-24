@@ -126,7 +126,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
           TeamSettings {
           }
@@ -202,7 +202,7 @@ Assets {
           Overrides {
             Name: "cs:Targetlocation"
             ObjectReference {
-              SelfId: 15182344854585981966
+              SelfId: 1759295242684979804
             }
           }
           Overrides {
@@ -238,7 +238,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6677237403455816226
+      Id: 6950558847410687192
       Name: "Portal VFX"
       PlatformAssetType: 6
       PrimaryAsset {

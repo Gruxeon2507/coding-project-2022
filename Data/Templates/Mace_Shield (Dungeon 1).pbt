@@ -1,6 +1,6 @@
 Assets {
   Id: 17268613213077616683
-  Name: "Mace&Shield (Dungeon 1)"
+  Name: "Mace_Shield (Dungeon 1)"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
@@ -132,7 +132,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8558740852122825455
+            Id: 1427829216143793458
           }
         }
         NetworkRelevanceDistance {
@@ -185,7 +185,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13341484533511325250
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -219,7 +219,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16890234921798940068
+            Id: 6542170114427865587
           }
         }
         NetworkRelevanceDistance {
@@ -253,7 +253,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16334840297422696574
+            Id: 11145628254934127387
           }
         }
         NetworkRelevanceDistance {
@@ -554,7 +554,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
         }
@@ -569,7 +569,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12300960555627151165
+            Id: 14150387368533688185
           }
         }
         NetworkRelevanceDistance {
@@ -629,7 +629,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13341484533511325250
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -689,7 +689,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13341484533511325250
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -789,7 +789,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 9237238264367741815
+              Id: 14782481216819325752
             }
           }
           Overrides {
@@ -871,7 +871,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 9237238264367741815
+              Id: 14782481216819325752
             }
           }
         }
@@ -948,7 +948,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 9237238264367741815
+              Id: 14782481216819325752
             }
           }
         }
@@ -996,7 +996,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1059,7 +1059,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1122,7 +1122,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1185,7 +1185,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1401,7 +1401,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15254065093370168427
+              Id: 6668635038579556327
             }
           }
           Overrides {
@@ -1420,7 +1420,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
           }
@@ -1460,13 +1460,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15254065093370168427
+              Id: 6668635038579556327
             }
           }
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 10219341742639680186
+              Id: 15487062404605779941
             }
           }
           Overrides {
@@ -1561,7 +1561,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
           }
@@ -1678,7 +1678,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4289160600405295316
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -1697,7 +1697,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 14703776964117709299
+            Id: 273448105943087596
           }
           Teams {
           }
@@ -1943,13 +1943,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 5961184720642333683
+              Id: 10291375382347379579
             }
           }
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 15254065093370168427
+              Id: 6668635038579556327
             }
           }
           Overrides {
@@ -1963,7 +1963,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim2:id"
             AssetReference {
-              Id: 2819717477027926411
+              Id: 16447630291553548532
             }
           }
           Overrides {
@@ -2036,25 +2036,25 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 15254065093370168427
+              Id: 6668635038579556327
             }
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15254065093370168427
+              Id: 6668635038579556327
             }
           }
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 15254065093370168427
+              Id: 6668635038579556327
             }
           }
           Overrides {
             Name: "ma:Shared_Trim2:id"
             AssetReference {
-              Id: 15254065093370168427
+              Id: 6668635038579556327
             }
           }
         }
@@ -2632,7 +2632,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12434974458467685788
+      Id: 15614259856505195515
       Name: "Sphere"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2650,7 +2650,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10219341742639680186
+      Id: 15487062404605779941
       Name: "Metal Steel Brushed"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2668,7 +2668,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14703776964117709299
+      Id: 273448105943087596
       Name: "Fantasy Mace Guard 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2677,7 +2677,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4289160600405295316
+      Id: 5398196167973053154
       Name: "Metal Basic 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2713,7 +2713,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5961184720642333683
+      Id: 10291375382347379579
       Name: "Metal Iron 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2722,7 +2722,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2819717477027926411
+      Id: 16447630291553548532
       Name: "Metal Basic Steel"
       PlatformAssetType: 2
       PrimaryAsset {

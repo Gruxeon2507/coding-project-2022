@@ -8,6 +8,33 @@ Assets {
   }
 }
 Assets {
+  Id: 18107980605465968105
+  Name: "Wedge - Corner Complex"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_corelogo_shape_001"
+  }
+}
+Assets {
+  Id: 17985331605386890916
+  Name: "Rock 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_003"
+  }
+}
+Assets {
+  Id: 17725739707032393018
+  Name: "Wedge"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_001"
+  }
+}
+Assets {
   Id: 17706334203701286670
   Name: "Fantasy Castle Bannister 01 - Curve Small"
   PlatformAssetType: 1
@@ -17,48 +44,21 @@ Assets {
   }
 }
 Assets {
-  Id: 17535774303364286580
-  Name: "Cube - Rounded"
+  Id: 17573120111418082711
+  Name: "Pipe"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_rounded_002"
+    AssetId: "sm_pipe_001"
   }
 }
 Assets {
-  Id: 17414982147574706609
-  Name: "Metal Iron Rusted 02"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_iron_003"
-  }
-}
-Assets {
-  Id: 17217850866371478986
-  Name: "Bricks Layered Stone Floor 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_brick_stone_floor_layered_001"
-  }
-}
-Assets {
-  Id: 16910548765697957619
-  Name: "Wedge"
+  Id: 17216429571024405227
+  Name: "Ring - Beveled Thick"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_wedge_001"
-  }
-}
-Assets {
-  Id: 16771326791595919331
-  Name: "Wedge - Corner Complex"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_corelogo_shape_001"
+    AssetId: "sm_ring_faceted_003"
   }
 }
 Assets {
@@ -80,21 +80,21 @@ Assets {
   }
 }
 Assets {
-  Id: 16403034636661860405
-  Name: "Waterfall Straight"
+  Id: 16328551500108928921
+  Name: "Stone Wall End 6m"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "fxsm_waterfall_straight"
+    AssetId: "sm_stone-edge_6m_001"
   }
 }
 Assets {
-  Id: 16077824162186241922
-  Name: "Sci-fi Panel 2x3m Triangle"
-  PlatformAssetType: 1
+  Id: 16149600767424441723
+  Name: "Magic Glass"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_panel_2x3m_triangle_001"
+    AssetType: "MaterialAssetRef"
+    AssetId: "fxmi_magic_glass"
   }
 }
 Assets {
@@ -116,39 +116,48 @@ Assets {
   }
 }
 Assets {
-  Id: 15704748778545065967
-  Name: "Cone - Truncated Concave"
+  Id: 15785876743814996770
+  Name: "Wedge - Convex"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_truncated_concave_001"
+    AssetId: "sm_wedge_curved_convex_001"
   }
 }
 Assets {
-  Id: 15458552409138573844
-  Name: "Street Light Pole 01"
+  Id: 15614259856505195515
+  Name: "Sphere"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_st_post_lights_pole_001"
+    AssetId: "sm_sphere_002"
   }
 }
 Assets {
-  Id: 15199807455569890782
-  Name: "Gear - generic small solid"
-  PlatformAssetType: 1
+  Id: 15435266645019974066
+  Name: "Bricks Layered Stone Floor 01"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_gen_gear_small_001"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_stone_floor_layered_001"
   }
 }
 Assets {
-  Id: 15122627484037100445
-  Name: "Wedge - Concave"
+  Id: 15376746980629380905
+  Name: "Cone - Concave"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_wedge_curved_concave_001"
+    AssetId: "sm_cone_convex_001"
+  }
+}
+Assets {
+  Id: 14875491995579066764
+  Name: "Sphere - Half Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hemisphere_002"
   }
 }
 Assets {
@@ -161,48 +170,48 @@ Assets {
   }
 }
 Assets {
-  Id: 14733388195609418119
-  Name: "Cone"
+  Id: 14328158517471887235
+  Name: "Wedge - Concave"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_001"
+    AssetId: "sm_wedge_curved_concave_001"
   }
 }
 Assets {
-  Id: 14436889473313034175
-  Name: "Metal Iron Rusted 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_iron_002"
-  }
-}
-Assets {
-  Id: 14306369924268485361
-  Name: "Stone Railing 8m"
+  Id: 14269726687746388118
+  Name: "Pipe - Half"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_railing_6m_001"
+    AssetId: "sm_half-pipe_001"
   }
 }
 Assets {
-  Id: 14111462984768911247
-  Name: "Decal Stone Cracks Variants 01"
-  PlatformAssetType: 14
+  Id: 13642204757580273705
+  Name: "Cube - Chamfered Small Polished"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_stone_cracks_001"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_hq_003"
   }
 }
 Assets {
-  Id: 13215618480391556817
-  Name: "Decal Stains Round 01"
-  PlatformAssetType: 14
+  Id: 13395551209377067128
+  Name: "Cube - Rounded"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_stain_round_001"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_rounded_002"
+  }
+}
+Assets {
+  Id: 13372972268553014344
+  Name: "Ring - Beveled"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ring_faceted_001"
   }
 }
 Assets {
@@ -215,12 +224,30 @@ Assets {
   }
 }
 Assets {
-  Id: 12841662008656175962
+  Id: 13051496213952777320
+  Name: "Crescent - 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crescent_002"
+  }
+}
+Assets {
+  Id: 12919518582124205178
   Name: "Rock 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_rock_generic_001"
+  }
+}
+Assets {
+  Id: 12837011313870552923
+  Name: "Rock Block 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_007"
   }
 }
 Assets {
@@ -233,15 +260,6 @@ Assets {
   }
 }
 Assets {
-  Id: 12138854700403883799
-  Name: "Rock Hexagonal"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rock_generic_008"
-  }
-}
-Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
@@ -251,12 +269,21 @@ Assets {
   }
 }
 Assets {
-  Id: 11830853431581167055
-  Name: "Arch"
+  Id: 12037622918791899186
+  Name: "Chain Tile 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_arch_001"
+    AssetId: "sm_chain_001"
+  }
+}
+Assets {
+  Id: 11945720307984521509
+  Name: "Pipe - Half Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_half-pipe_002"
   }
 }
 Assets {
@@ -269,15 +296,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11164078238085905566
-  Name: "Bricks Stone Block 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_bricks_stone_block_001"
-  }
-}
-Assets {
   Id: 11141235834653275138
   Name: "Text 03: 9"
   PlatformAssetType: 1
@@ -287,39 +305,21 @@ Assets {
   }
 }
 Assets {
-  Id: 11033954894497358491
-  Name: "Bricks Cobblestone Floor Arches 001"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_brick_cobblestone_floor_arch_001"
-  }
-}
-Assets {
-  Id: 10677603568069985551
-  Name: "Chain Tile 01"
+  Id: 10782112515531017680
+  Name: "Pipe - Quarter Thin"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_chain_001"
+    AssetId: "sm_quarter-pipe_002"
   }
 }
 Assets {
-  Id: 10572089337263920772
-  Name: "Ring - Beveled Thick"
+  Id: 10646437916172963454
+  Name: "Ellipsoid - Truncated"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ring_faceted_003"
-  }
-}
-Assets {
-  Id: 10557675366422489105
-  Name: "Rock Block 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rock_generic_007"
+    AssetId: "sm_ellipsoid_truncated_001"
   }
 }
 Assets {
@@ -332,21 +332,21 @@ Assets {
   }
 }
 Assets {
-  Id: 10025016968525642407
-  Name: "Pipe - Half Thin"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_half-pipe_002"
-  }
-}
-Assets {
   Id: 9943683679932065697
   Name: "Bone Human Ulna 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_bones_human_ulna_01_ref"
+  }
+}
+Assets {
+  Id: 9393654402579227323
+  Name: "Pipe - Half Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_half-pipe_003"
   }
 }
 Assets {
@@ -368,6 +368,15 @@ Assets {
   }
 }
 Assets {
+  Id: 9032936026866967627
+  Name: "Metal Iron Rusted 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_002"
+  }
+}
+Assets {
   Id: 8850313386271918389
   Name: "Pipe - 4-Sided Thick"
   PlatformAssetType: 1
@@ -377,12 +386,12 @@ Assets {
   }
 }
 Assets {
-  Id: 8732590970713562054
-  Name: "Stone Wall End 6m"
+  Id: 8766032951383490347
+  Name: "Cube - Chamfered Large"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_stone-edge_6m_001"
+    AssetId: "sm_cube_chamfer"
   }
 }
 Assets {
@@ -413,30 +422,12 @@ Assets {
   }
 }
 Assets {
-  Id: 8063868133702323256
-  Name: "Sphere - Half Thin"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_hemisphere_002"
-  }
-}
-Assets {
   Id: 8018361724162248509
   Name: "Text 03: 1"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "F5_Text_027"
-  }
-}
-Assets {
-  Id: 7943641777486679467
-  Name: "Rock 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rock_generic_003"
   }
 }
 Assets {
@@ -449,21 +440,12 @@ Assets {
   }
 }
 Assets {
-  Id: 7516257627012008757
-  Name: "Pipe - Half"
+  Id: 7291008403313833831
+  Name: "Sci-fi Panel 2x3m Triangle"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_half-pipe_001"
-  }
-}
-Assets {
-  Id: 7485563736598818923
-  Name: "Ring - Beveled"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ring_faceted_001"
+    AssetId: "sm_panel_2x3m_triangle_001"
   }
 }
 Assets {
@@ -476,30 +458,57 @@ Assets {
   }
 }
 Assets {
-  Id: 6911114479791182023
-  Name: "Cube - Chamfered Small Polished"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_hq_003"
-  }
-}
-Assets {
-  Id: 6775716895401016415
-  Name: "Sci-fi Gear Small 02"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_sf_gen_gear_small_02"
-  }
-}
-Assets {
   Id: 6715358537954404854
   Name: "Text 03: 3"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "F5_Text_029"
+  }
+}
+Assets {
+  Id: 6707213875633993378
+  Name: "Bricks Mismatched Stone 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_stone_mismatch_001"
+  }
+}
+Assets {
+  Id: 6633911215066249406
+  Name: "Cone"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_001"
+  }
+}
+Assets {
+  Id: 6382662502274878333
+  Name: "Cylinder - Chamfered Small Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_hq_003"
+  }
+}
+Assets {
+  Id: 6262356252011452365
+  Name: "Sand 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_sand_001_uv"
+  }
+}
+Assets {
+  Id: 6187109122988055669
+  Name: "Street Light Pole 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_st_post_lights_pole_001"
   }
 }
 Assets {
@@ -512,12 +521,30 @@ Assets {
   }
 }
 Assets {
-  Id: 5598155043797260843
-  Name: "Ellipsoid - Truncated"
+  Id: 5864244724568329871
+  Name: "Rock Hexagonal"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ellipsoid_truncated_001"
+    AssetId: "sm_rock_generic_008"
+  }
+}
+Assets {
+  Id: 5836430349218932838
+  Name: "Pipe - Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_003"
+  }
+}
+Assets {
+  Id: 5626035503592688696
+  Name: "Rocky Ground 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "rocky_001"
   }
 }
 Assets {
@@ -530,6 +557,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5510859783792700609
+  Name: "Decal Soil Cracks Smal Variants 02"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_soil_cracks_002"
+  }
+}
+Assets {
   Id: 5489775416547967874
   Name: "Sphere - Half"
   PlatformAssetType: 1
@@ -539,12 +575,12 @@ Assets {
   }
 }
 Assets {
-  Id: 5396509525015014969
-  Name: "Sphere"
+  Id: 5479308801012026449
+  Name: "Gear - generic large five-spoked"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_sphere_002"
+    AssetId: "sm_gen_gear_001_spoke5x"
   }
 }
 Assets {
@@ -557,66 +593,48 @@ Assets {
   }
 }
 Assets {
-  Id: 4989604991520671731
-  Name: "Gear - generic large five-spoked"
-  PlatformAssetType: 1
+  Id: 5159221197509481978
+  Name: "Decal Stone Cracks Variants 01"
+  PlatformAssetType: 14
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_gen_gear_001_spoke5x"
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_stone_cracks_001"
   }
 }
 Assets {
-  Id: 4971730068834247983
-  Name: "Cone - Concave"
+  Id: 5042991368857546603
+  Name: "Stone Block Small"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_convex_001"
+    AssetId: "sm_fantasy_block_02"
   }
 }
 Assets {
-  Id: 4854270377050611262
-  Name: "Pipe"
+  Id: 4887463216853819466
+  Name: "Arch"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_001"
+    AssetId: "sm_arch_001"
   }
 }
 Assets {
-  Id: 4749301570215610414
-  Name: "Sand 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_sand_001_uv"
-  }
-}
-Assets {
-  Id: 4496690329232230714
-  Name: "Pipe - Quarter Thin"
+  Id: 4311924259831349264
+  Name: "Cone - Truncated Concave"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_quarter-pipe_002"
+    AssetId: "sm_cone_truncated_concave_001"
   }
 }
 Assets {
-  Id: 3948481864877955731
-  Name: "Pipe - Half Thick"
+  Id: 4228395793885122462
+  Name: "Sci-fi Gear Small 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_half-pipe_003"
-  }
-}
-Assets {
-  Id: 3715487088176351191
-  Name: "Cube - Chamfered Large"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cube_chamfer"
+    AssetId: "sm_sf_gen_gear_small_02"
   }
 }
 Assets {
@@ -638,33 +656,6 @@ Assets {
   }
 }
 Assets {
-  Id: 3394457442150182118
-  Name: "Bricks Mismatched Stone 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_brick_stone_mismatch_001"
-  }
-}
-Assets {
-  Id: 3303732937696383089
-  Name: "Decal Soil Cracks Smal Variants 02"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_soil_cracks_002"
-  }
-}
-Assets {
-  Id: 3186102535427735464
-  Name: "Cylinder - Chamfered Small Polished"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_hq_003"
-  }
-}
-Assets {
   Id: 3126623012523873502
   Name: "Text 03: 7"
   PlatformAssetType: 1
@@ -674,21 +665,21 @@ Assets {
   }
 }
 Assets {
-  Id: 2954037056948186721
-  Name: "Pipe - Thin"
-  PlatformAssetType: 1
+  Id: 3080982999999392268
+  Name: "Bricks Cobblestone Floor Arches 001"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_pipe_003"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_cobblestone_floor_arch_001"
   }
 }
 Assets {
-  Id: 2575126455934188980
-  Name: "Wedge - Convex"
-  PlatformAssetType: 1
+  Id: 2435130330433788635
+  Name: "Decal Sand Patch"
+  PlatformAssetType: 14
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_wedge_curved_convex_001"
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_sand_patch_001"
   }
 }
 Assets {
@@ -698,6 +689,33 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_pipe_curve90_001"
+  }
+}
+Assets {
+  Id: 2317176784191669138
+  Name: "Stone Block Small Broken"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_fantasy_block_broken_02"
+  }
+}
+Assets {
+  Id: 2170709924011066081
+  Name: "Bricks Stone Block 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_bricks_stone_block_001"
+  }
+}
+Assets {
+  Id: 2170489941041560753
+  Name: "Gear - generic small solid"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_gen_gear_small_001"
   }
 }
 Assets {
@@ -719,12 +737,21 @@ Assets {
   }
 }
 Assets {
-  Id: 1338419718664033625
-  Name: "Magic Glass"
+  Id: 1757471084585227701
+  Name: "Stone Railing 8m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_railing_6m_001"
+  }
+}
+Assets {
+  Id: 1321536556956774297
+  Name: "Metal Iron Rusted 02"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
-    AssetId: "fxmi_magic_glass"
+    AssetId: "mi_metal_iron_003"
   }
 }
 Assets {
@@ -737,56 +764,29 @@ Assets {
   }
 }
 Assets {
-  Id: 977113582827283166
-  Name: "Crescent - 02"
+  Id: 408082777080296192
+  Name: "Waterfall Straight"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_crescent_002"
+    AssetId: "fxsm_waterfall_straight"
   }
 }
 Assets {
-  Id: 836222090067578535
-  Name: "Stone Block Small"
-  PlatformAssetType: 1
+  Id: 196176571301539896
+  Name: "Decal Stains Round 01"
+  PlatformAssetType: 14
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_block_02"
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_stain_round_001"
   }
 }
 Assets {
-  Id: 688321739154238145
+  Id: 181318686039733865
   Name: "Ring - Beveled Thin"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ring_faceted_002"
-  }
-}
-Assets {
-  Id: 492794829435795019
-  Name: "Rocky Ground 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "rocky_001"
-  }
-}
-Assets {
-  Id: 488743462784862805
-  Name: "Stone Block Small Broken"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_block_broken_02"
-  }
-}
-Assets {
-  Id: 197629535092081840
-  Name: "Decal Sand Patch"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_sand_patch_001"
   }
 }

@@ -20,7 +20,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17803366332466114312
+              Id: 1848963245568864173
             }
           }
         }
@@ -36,7 +36,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 5109129970559468393
+            Id: 12095835209017042614
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -59,7 +59,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5109129970559468393
+      Id: 12095835209017042614
       Name: "Cube"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -68,7 +68,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17803366332466114312
+      Id: 1848963245568864173
       Name: "Invisible"
       PlatformAssetType: 2
       PrimaryAsset {

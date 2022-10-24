@@ -178,7 +178,7 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 16313312156352177803
+              Id: 454342676869593369
             }
             MuzzleFlashAssetRef {
               Id: 17229066248892506112
@@ -925,7 +925,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12455293356321247304
+            Id: 2453752092485500821
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -976,7 +976,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12888726374622842928
+            Id: 8896065045855419906
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1028,7 +1028,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 10506670914039958683
+            Id: 17798409052959246679
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1131,7 +1131,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12888726374622842928
+            Id: 8896065045855419906
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1346,7 +1346,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12455293356321247304
+      Id: 2453752092485500821
       Name: "Modern Weapon - Magazine 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1355,7 +1355,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12888726374622842928
+      Id: 8896065045855419906
       Name: "Modern Weapon - Disc 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1364,7 +1364,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10506670914039958683
+      Id: 17798409052959246679
       Name: "Modern Weapon - Grip 03"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1382,8 +1382,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Revolver"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

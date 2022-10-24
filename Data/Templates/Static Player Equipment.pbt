@@ -1,5 +1,5 @@
 Assets {
-  Id: 14615028099963445761
+  Id: 18342804137754180231
   Name: "Static Player Equipment"
   PlatformAssetType: 5
   TemplateAsset {
@@ -7,7 +7,7 @@ Assets {
       RootId: 16657464430720987128
       Objects {
         Id: 16657464430720987128
-        Name: "Starting Weapon"
+        Name: "Static Player Equipment"
         Transform {
           Scale {
             X: 1
@@ -15,13 +15,13 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 10412379021265105746
+        ParentId: 12384732404067500785
         ChildIds: 17230748584674696639
         UnregisteredParameters {
           Overrides {
             Name: "cs:EquipmentTemplate"
             AssetReference {
-              Id: 841534158063459245
+              Id: 8238802937670550134
             }
           }
           Overrides {

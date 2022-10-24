@@ -1,5 +1,5 @@
 Assets {
-  Id: 1135181687660923891
+  Id: 6514586947070373637
   Name: "Portal To A Location"
   PlatformAssetType: 5
   TemplateAsset {
@@ -65,7 +65,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
           TeamSettings {
           }
@@ -157,7 +157,7 @@ Assets {
           Overrides {
             Name: "cs:SpawnedVFXSFXPortal"
             AssetReference {
-              Id: 4826316601240854259
+              Id: 1472354308449291601
             }
           }
         }
@@ -202,7 +202,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 16742948254161141551
+              Id: 3908766552658389863
             }
           }
         }
@@ -241,7 +241,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6677237403455816226
+      Id: 6950558847410687192
       Name: "Portal VFX"
       PlatformAssetType: 6
       PrimaryAsset {
@@ -259,7 +259,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16742948254161141551
+      Id: 3908766552658389863
       Name: "Food Watermelon 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -273,4 +273,5 @@ Assets {
     }
   }
   SerializationVersion: 119
+  DirectlyPublished: true
 }

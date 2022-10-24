@@ -1,5 +1,5 @@
 Assets {
-  Id: 17649761221516168462
+  Id: 12310634881703538667
   Name: "PoisonPlayerEffect"
   PlatformAssetType: 5
   TemplateAsset {
@@ -163,7 +163,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7096596955692521783
+            Id: 15547084785801184739
           }
         }
         NetworkRelevanceDistance {

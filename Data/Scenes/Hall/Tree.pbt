@@ -15,15 +15,16 @@ Objects {
     }
   }
   ChildIds: 6373052561438822010
-  ChildIds: 15566105762265291340
-  ChildIds: 17381867705656856149
+  ChildIds: 413991195585998862
+  ChildIds: 2654916338316290302
+  ChildIds: 5628166357863187692
+  ChildIds: 18014765257829886886
   ChildIds: 9405536486675326188
   ChildIds: 9269022959351244847
-  ChildIds: 17143672940714185611
-  ChildIds: 8293519177200016785
-  ChildIds: 10486361941980911231
-  ChildIds: 71672849839739079
-  ChildIds: 7535653644354851464
+  ChildIds: 10840886533551413562
+  ChildIds: 16153467121590742472
+  ChildIds: 5431360534382517102
+  ChildIds: 206564349996057401
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -43,7 +44,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7535653644354851464
+  Id: 206564349996057401
   Name: "Duong"
   Transform {
     Location {
@@ -79,7 +80,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 71672849839739079
+  Id: 5431360534382517102
   Name: "Duc"
   Transform {
     Location {
@@ -115,7 +116,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10486361941980911231
+  Id: 16153467121590742472
   Name: "Huy"
   Transform {
     Location {
@@ -151,7 +152,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8293519177200016785
+  Id: 10840886533551413562
   Name: "Hieu"
   Transform {
     Location {
@@ -180,42 +181,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Hieu"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 17143672940714185611
-  Name: "Main"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Main"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -325,9 +290,13 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17381867705656856149
-  Name: "Sky Cape Canaveral"
+  Id: 18014765257829886886
+  Name: "Framework Documentation"
   Transform {
+    Location {
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -335,30 +304,18 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15742431864397169539
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sky Cape Canaveral"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3352.20874
-            Y: 14425.998
-            Z: 2569.89941
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11803407337753029124
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Framework Documentation"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -366,9 +323,13 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15566105762265291340
-  Name: "Kill Zone"
+  Id: 5628166357863187692
+  Name: "UI Settings"
   Transform {
+    Location {
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -376,51 +337,84 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 13591331349196528036
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 297.483582
-            Y: 393.760956
-            Z: 27.9559364
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 761.888672
-            Y: -2132.64551
-            Z: -2273.47363
-          }
-        }
-      }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "UI Settings"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 2654916338316290302
+  Name: "Game Settings"
+  Transform {
+    Location {
     }
-    ParameterOverrideMap {
-      key: 13648825478633622894
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kill Zone"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 32338.8379
-            Y: 2293.29126
-            Z: 4243.94238
-          }
-        }
-      }
+    Rotation {
     }
-    TemplateAsset {
-      Id: 2235629690676643330
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
     }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Game Settings"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 413991195585998862
+  Name: "Map"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Map_1"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -455,7 +449,7 @@ Objects {
   }
   Terrain {
     Material {
-      Id: 6713867817812412659
+      Id: 185854530037663472
     }
     VoxelSize: 100
     OctreeDepth: 5

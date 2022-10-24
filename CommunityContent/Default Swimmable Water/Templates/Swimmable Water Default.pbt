@@ -1,5 +1,5 @@
 Assets {
-  Id: 11442203651218561860
+  Id: 8459402430014414156
   Name: "Swimmable Water Default"
   PlatformAssetType: 5
   TemplateAsset {
@@ -21,7 +21,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6218501084515004764
+              Id: 193614454272547323
             }
           }
         }

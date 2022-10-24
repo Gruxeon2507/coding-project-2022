@@ -381,7 +381,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 10457055295305168447
+            Id: 2005816398156911896
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -404,7 +404,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10457055295305168447
+      Id: 2005816398156911896
       Name: "Chest Small Closed"
       PlatformAssetType: 1
       PrimaryAsset {

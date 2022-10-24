@@ -9,15 +9,11 @@ Assets {
       Overrides {
         Name: "color"
         Color {
-          R: 1
-          G: 1
+          R: 0.0699999928
+          G: 0.815231681
           B: 1
           A: 1
         }
-      }
-      Overrides {
-        Name: "emissive_boost"
-        Float: 12.6248817
       }
     }
     Assets {

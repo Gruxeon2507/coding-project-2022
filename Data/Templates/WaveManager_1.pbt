@@ -246,7 +246,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 157062828155991875
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -305,7 +305,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 12227202952181176328
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -416,7 +416,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -525,7 +525,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 3425030876297556833
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -701,7 +701,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 157062828155991875
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -760,7 +760,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 12227202952181176328
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -879,7 +879,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -996,7 +996,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 3425030876297556833
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -1205,7 +1205,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 157062828155991875
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -1420,7 +1420,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -1563,7 +1563,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 157062828155991875
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -1622,7 +1622,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -1681,7 +1681,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -1810,7 +1810,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 157062828155991875
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -1869,7 +1869,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -1928,7 +1928,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2065,7 +2065,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2124,7 +2124,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2183,7 +2183,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 17203669531471425286
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2326,7 +2326,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2385,7 +2385,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2444,7 +2444,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2587,7 +2587,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2646,7 +2646,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2713,7 +2713,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 3425030876297556833
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2917,7 +2917,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -2982,7 +2982,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3176,7 +3176,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3243,7 +3243,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 17203669531471425286
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3446,7 +3446,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 12227202952181176328
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3592,7 +3592,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 157062828155991875
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3649,7 +3649,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3708,7 +3708,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 12227202952181176328
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3767,7 +3767,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3913,7 +3913,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 157062828155991875
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -3972,7 +3972,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 12227202952181176328
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4031,7 +4031,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4098,7 +4098,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4252,7 +4252,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 157062828155991875
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4311,7 +4311,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4370,7 +4370,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4437,7 +4437,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4591,7 +4591,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4650,7 +4650,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 10505002907030374296
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4709,7 +4709,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 13672238229797432874
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4827,7 +4827,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 17203669531471425286
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -4979,7 +4979,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 12227202952181176328
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -5038,7 +5038,7 @@ Assets {
           Overrides {
             Name: "cs:Enemy"
             AssetReference {
-              Id: 6345380860918707432
+              Id: 841534158063459245
             }
           }
           Overrides {
@@ -8045,7 +8045,7 @@ Assets {
           }
           Image {
             Brush {
-              Id: 14276935985026022417
+              Id: 8852479342219163484
             }
             Color {
               R: 1
@@ -14756,7 +14756,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14276935985026022417
+      Id: 8852479342219163484
       Name: "Icon Skull"
       PlatformAssetType: 9
       PrimaryAsset {

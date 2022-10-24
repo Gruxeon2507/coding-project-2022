@@ -1,29 +1,30 @@
 Assets {
-  Id: 13485454785687081648
+  Id: 4977999654058684115
   Name: "Custom Edgeline Wavy Object Fade Advanced"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 2488913109945773785
+    BaseMaterialId: 13549539976900896759
     ParameterOverrides {
       Overrides {
         Name: "color"
         Color {
-          R: 0.559999943
-          G: 0.178013235
+          R: 0.490000129
+          G: 2.33650269e-07
           A: 1
         }
       }
       Overrides {
         Name: "noise color"
         Color {
-          R: 0.9
+          R: 0.586000085
+          G: 2.79426615e-07
           A: 1
         }
       }
     }
     Assets {
-      Id: 2488913109945773785
+      Id: 13549539976900896759
       Name: "Edgeline Wavy Object Fade Advanced"
       PlatformAssetType: 2
       PrimaryAsset {

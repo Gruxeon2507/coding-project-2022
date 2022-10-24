@@ -1,11 +1,13 @@
 --[[
 	Animation Controller - Dragon
-	v1.0
+	v1.1.1
 	by: standardcombo, blackdheart
 	
 	Controls the animations for an NPC based on the Dragon Animated Mesh.
 	Changes in animation occur in response to movement and state machine changes.
 --]]
+
+Task.Wait()
 
 local MESH = script:GetCustomProperty("AnimatedMesh"):WaitForObject()
 local ROOT = script:GetCustomProperty("Root"):WaitForObject()
@@ -27,6 +29,10 @@ function PlayAttack()
 	MESH.playbackRateMultiplier = 1
 end
 
+function PlayDamaged()
+	MESH:PlayAnimation("unarmed_react_damage")
+end
+
 function PlayDeath()
 	MESH:PlayAnimation("unarmed_death")
 	MESH.playbackRateMultiplier = 1.5
@@ -37,11 +43,6 @@ function PlayDeath()
 	MESH:PlayAnimation("unarmed_death_impact")
 	Task.Wait(0.5)
 	MESH.playbackRateMultiplier = 0
-end
-
-function PlayDamaged()
-	MESH:PlayAnimation("unarmed_react_damage", {playbackRate = 0.8})
-	MESH.playbackRateMultiplier = 1
 end
 
 function Tick(deltaTime)
@@ -84,17 +85,7 @@ function UpdateArt(state)
 end
 
 
-function GetID()
-	if Object.IsValid(ROOT) then
-		return ROOT:GetCustomProperty("ObjectId")
-	end
-	return nil
-end
-
 function GetCurrentState()
-	if not Object.IsValid(ROOT) then
-		return 0
-	end
 	return ROOT:GetCustomProperty("CurrentState")
 end
 
@@ -105,6 +96,8 @@ function OnPropertyChanged(object, propertyName)
 		UpdateArt(GetCurrentState())
 	end
 end
+ROOT.customPropertyChangedEvent:Connect(OnPropertyChanged)
+
 
 function OnObjectDamaged(id, prevHealth, dmgAmount, impactPosition, impactRotation, sourceObject)
 	local state = GetCurrentState()
@@ -112,7 +105,8 @@ function OnObjectDamaged(id, prevHealth, dmgAmount, impactPosition, impactRotati
 	if state >= STATE_DEAD_1 then return end
 	
 	-- Ignore other NPCs, make sure this event is about this NPC
-	if id == GetID() then
+	local myId = ROOT:GetCustomProperty("ObjectId")
+	if id == myId then
 		PlayDamaged()
 	end
 end
@@ -127,7 +121,7 @@ function OnDestroyed(obj)
 end
 
 ROOT.destroyEvent:Connect(OnDestroyed)
-ROOT.networkedPropertyChangedEvent:Connect(OnPropertyChanged)
+
 
 --[[
 function OnBindingPressed(player, action)

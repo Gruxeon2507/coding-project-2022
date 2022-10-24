@@ -1,7 +1,7 @@
 Name: "Broken wall 1"
-RootId: 47497520515484815
+RootId: 407994946298874973
 Objects {
-  Id: 633884329229551535
+  Id: 1269484003451133591
   Name: "Stone Block Standard Broken"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 47497520515484815
+  ParentId: 407994946298874973
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -51,6 +51,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1269484003451133591
+    SubobjectId: 16823654467395162799
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -60,7 +66,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9729282135231059495
+  Id: 6797251099136087522
   Name: "Rock Block 01"
   Transform {
     Location {
@@ -78,7 +84,7 @@ Objects {
       Z: 0.762851536
     }
   }
-  ParentId: 47497520515484815
+  ParentId: 407994946298874973
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -111,6 +117,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6797251099136087522
+    SubobjectId: 12011966344831277530
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -120,7 +132,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6698019074506162240
+  Id: 15252164740681407125
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -139,7 +151,7 @@ Objects {
       Z: 1.8717109
     }
   }
-  ParentId: 47497520515484815
+  ParentId: 407994946298874973
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -172,6 +184,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15252164740681407125
+    SubobjectId: 3120202233324754605
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -181,7 +199,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5327275483041181592
+  Id: 10395884068476014038
   Name: "Rock Block 01"
   Transform {
     Location {
@@ -200,7 +218,7 @@ Objects {
       Z: 0.762846172
     }
   }
-  ParentId: 47497520515484815
+  ParentId: 407994946298874973
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -233,6 +251,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10395884068476014038
+    SubobjectId: 7539629514991174126
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -242,7 +266,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13099968869392777206
+  Id: 6693833708687884615
   Name: "Stone Block Long Broken"
   Transform {
     Location {
@@ -261,7 +285,7 @@ Objects {
       Z: 1.87140524
     }
   }
-  ParentId: 47497520515484815
+  ParentId: 407994946298874973
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -294,6 +318,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6693833708687884615
+    SubobjectId: 11818283426297859455
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -303,7 +333,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13670908734524978308
+  Id: 9466428285736332522
   Name: "Whitebox Wall 01"
   Transform {
     Location {
@@ -319,7 +349,7 @@ Objects {
       Z: 0.590370834
     }
   }
-  ParentId: 47497520515484815
+  ParentId: 407994946298874973
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallInner2:id"
@@ -357,6 +387,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 9466428285736332522
+    SubobjectId: 8914943895162872018
+    InstanceId: 16194465117648698467
+    TemplateId: 12259639372157929225
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

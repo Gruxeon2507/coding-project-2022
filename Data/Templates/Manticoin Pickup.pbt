@@ -379,7 +379,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4289160600405295316
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -407,7 +407,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8803369277840038394
+            Id: 17441290424813224728
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -451,7 +451,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4289160600405295316
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -479,7 +479,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2433235999455009803
+            Id: 17205809747589074999
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -522,7 +522,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4289160600405295316
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -594,7 +594,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4289160600405295316
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -645,7 +645,7 @@ Assets {
       }
     }
     Assets {
-      Id: 8803369277840038394
+      Id: 17441290424813224728
       Name: "Cylinder - Polished"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -654,7 +654,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4289160600405295316
+      Id: 5398196167973053154
       Name: "Metal Basic 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -663,7 +663,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2433235999455009803
+      Id: 17205809747589074999
       Name: "Ring"
       PlatformAssetType: 1
       PrimaryAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 1787315390502345229
+  Id: 10180776669892736592
   Name: "IndicatorsUIControl"
   PlatformAssetType: 3
   TextAsset {

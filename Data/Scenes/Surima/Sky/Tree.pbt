@@ -1,7 +1,7 @@
 Name: "Sky"
-RootId: 14818024156428500505
+RootId: 7124824039622566739
 Objects {
-  Id: 6090882039017936692
+  Id: 7744266397629585141
   Name: "Lights"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 50
     }
   }
-  ParentId: 14818024156428500505
+  ParentId: 7124824039622566739
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -40,7 +40,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16360114447950251196
+  Id: 14062528798051838778
   Name: "Post Processing"
   Transform {
     Location {
@@ -56,7 +56,7 @@ Objects {
       Z: 1600
     }
   }
-  ParentId: 14818024156428500505
+  ParentId: 7124824039622566739
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -79,7 +79,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10524984132967599611
+  Id: 896783314503974186
   Name: "Sky Lighting"
   Transform {
     Location {
@@ -92,15 +92,15 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14818024156428500505
-  ChildIds: 9275093948123915075
-  ChildIds: 12991957418734933220
-  ChildIds: 5243819563134513450
-  ChildIds: 16409362399064821494
-  ChildIds: 7443308950561899321
-  ChildIds: 5270947233972096612
-  ChildIds: 17118573419887739307
-  ChildIds: 3047996473173138126
+  ParentId: 7124824039622566739
+  ChildIds: 1544729263741635152
+  ChildIds: 10008980542538353808
+  ChildIds: 318338744123840552
+  ChildIds: 10560346471672655565
+  ChildIds: 17799863816914465373
+  ChildIds: 12186976498496336306
+  ChildIds: 12572846535614900972
+  ChildIds: 17759246126307092355
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -121,7 +121,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3047996473173138126
+  Id: 17759246126307092355
   Name: "Simple Sketch Line Post Process"
   Transform {
     Location {
@@ -137,7 +137,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10524984132967599611
+  ParentId: 896783314503974186
   UnregisteredParameters {
     Overrides {
       Name: "bp:Background Color"
@@ -230,7 +230,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17118573419887739307
+  Id: 12572846535614900972
   Name: "Ambient Occlusion Recolor Post Process"
   Transform {
     Location {
@@ -246,7 +246,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10524984132967599611
+  ParentId: 896783314503974186
   UnregisteredParameters {
     Overrides {
       Name: "bp:Volume Type"
@@ -304,7 +304,7 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 14128379670143283462
+      Id: 12827527876417252929
     }
   }
   NetworkRelevanceDistance {
@@ -313,7 +313,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5270947233972096612
+  Id: 12186976498496336306
   Name: "Bloom Post Process"
   Transform {
     Location {
@@ -329,7 +329,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10524984132967599611
+  ParentId: 896783314503974186
   UnregisteredParameters {
     Overrides {
       Name: "bp:Intensity"
@@ -355,7 +355,7 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 4343127784576134200
+      Id: 10151547298258526858
     }
   }
   NetworkRelevanceDistance {
@@ -364,7 +364,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7443308950561899321
+  Id: 17799863816914465373
   Name: "Point Light"
   Transform {
     Location {
@@ -381,7 +381,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10524984132967599611
+  ParentId: 896783314503974186
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -431,7 +431,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16409362399064821494
+  Id: 10560346471672655565
   Name: "Point Light"
   Transform {
     Location {
@@ -448,7 +448,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10524984132967599611
+  ParentId: 896783314503974186
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -498,7 +498,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5243819563134513450
+  Id: 318338744123840552
   Name: "Skylight"
   Transform {
     Location {
@@ -513,7 +513,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10524984132967599611
+  ParentId: 896783314503974186
   UnregisteredParameters {
     Overrides {
       Name: "bp:Index"
@@ -589,7 +589,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12991957418734933220
+  Id: 10008980542538353808
   Name: "Sun Light"
   Transform {
     Location {
@@ -607,7 +607,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10524984132967599611
+  ParentId: 896783314503974186
   UnregisteredParameters {
     Overrides {
       Name: "bp:Intensity"
@@ -715,7 +715,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9275093948123915075
+  Id: 1544729263741635152
   Name: "Sky Dome"
   Transform {
     Location {
@@ -732,7 +732,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10524984132967599611
+  ParentId: 896783314503974186
   UnregisteredParameters {
     Overrides {
       Name: "bp:Cloud Shape"
@@ -915,7 +915,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3324637831616367783
+  Id: 9116846904665518789
   Name: "Default Sky"
   Transform {
     Location {
@@ -930,10 +930,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14818024156428500505
-  ChildIds: 6886295852257196884
-  ChildIds: 2897381398215544412
-  ChildIds: 1939653529059015011
+  ParentId: 7124824039622566739
+  ChildIds: 1850916454318091844
+  ChildIds: 1527793445857281894
+  ChildIds: 12198986138002481960
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -954,7 +954,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1939653529059015011
+  Id: 12198986138002481960
   Name: "Sun Light"
   Transform {
     Location {
@@ -970,7 +970,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3324637831616367783
+  ParentId: 9116846904665518789
   UnregisteredParameters {
     Overrides {
       Name: "bp:Use Temperature"
@@ -1062,7 +1062,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2897381398215544412
+  Id: 1527793445857281894
   Name: "Skylight"
   Transform {
     Location {
@@ -1075,7 +1075,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3324637831616367783
+  ParentId: 9116846904665518789
   UnregisteredParameters {
     Overrides {
       Name: "bp:Index"
@@ -1160,7 +1160,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6886295852257196884
+  Id: 1850916454318091844
   Name: "Sky Dome"
   Transform {
     Location {
@@ -1173,7 +1173,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3324637831616367783
+  ParentId: 9116846904665518789
   UnregisteredParameters {
     Overrides {
       Name: "bp:Zenith Color"

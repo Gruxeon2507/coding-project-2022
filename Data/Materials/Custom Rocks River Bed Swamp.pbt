@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 9941753294601038966
+    BaseMaterialId: 6899199347189866619
     ParameterOverrides {
       Overrides {
         Name: "material_scale"
@@ -12,7 +12,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9941753294601038966
+      Id: 6899199347189866619
       Name: "Rocks River Bed 01"
       PlatformAssetType: 2
       PrimaryAsset {

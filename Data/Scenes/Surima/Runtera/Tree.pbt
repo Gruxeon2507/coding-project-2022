@@ -1,7 +1,7 @@
 Name: "Runtera"
-RootId: 1591049795156664105
+RootId: 11717384094620885097
 Objects {
-  Id: 13363725254840408787
+  Id: 897821002927613072
   Name: "Cube - Arcade 02"
   Transform {
     Location {
@@ -17,8 +17,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1591049795156664105
-  ChildIds: 12881172908254583656
+  ParentId: 11717384094620885097
+  ChildIds: 14905665017412792948
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -56,7 +56,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12881172908254583656
+  Id: 14905665017412792948
   Name: "Trigger"
   Transform {
     Location {
@@ -72,8 +72,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13363725254840408787
-  ChildIds: 369788809686288578
+  ParentId: 897821002927613072
+  ChildIds: 2492917577500955002
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceon"
   }
@@ -107,7 +107,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 369788809686288578
+  Id: 2492917577500955002
   Name: "teleport_runtera"
   Transform {
     Location {
@@ -123,7 +123,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12881172908254583656
+  ParentId: 14905665017412792948
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

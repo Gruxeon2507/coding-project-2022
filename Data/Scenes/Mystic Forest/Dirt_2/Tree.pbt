@@ -1,7 +1,7 @@
 Name: "Dirt_2"
-RootId: 15774192975875920066
+RootId: 14834729004728885417
 Objects {
-  Id: 18410018757553545277
+  Id: 15850020736488793780
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -19,7 +19,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -76,7 +76,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2870147275300391981
+  Id: 5308823252987429088
   Name: "Cube - Polished"
   Transform {
     Location {
@@ -92,7 +92,7 @@ Objects {
       Z: 14.2108603
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -149,7 +149,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9068850074738210190
+  Id: 17496807185014816991
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -168,7 +168,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -225,7 +225,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4636354575450527808
+  Id: 4208449075513716701
   Name: "Cube - Polished"
   Transform {
     Location {
@@ -241,7 +241,7 @@ Objects {
       Z: 1.00997949
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -274,7 +274,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12905923173550510229
+      Id: 17441290424813224728
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -298,7 +298,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5140618357952273606
+  Id: 1188687465928908592
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -316,7 +316,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -373,7 +373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3132898897541396126
+  Id: 1674408159576805446
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -391,7 +391,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -448,7 +448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11056765711514134738
+  Id: 2989405956592376270
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -466,7 +466,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -523,7 +523,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14069749126692962328
+  Id: 4617689249003780774
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -542,7 +542,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -599,7 +599,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17815559770897391431
+  Id: 12448513893211989244
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -617,7 +617,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -674,7 +674,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5175938296111487111
+  Id: 5612862416762241918
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -693,7 +693,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -750,7 +750,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7897182767899392845
+  Id: 15683052648733453093
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -769,7 +769,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -826,7 +826,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13306815290634195432
+  Id: 169346863442849351
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -844,7 +844,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -901,7 +901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2804789192803777313
+  Id: 4303176030448788813
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -918,7 +918,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -975,7 +975,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5441593414146052919
+  Id: 4112701821055205074
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -992,7 +992,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1049,7 +1049,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 935675408803953249
+  Id: 10145972181949777571
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1066,7 +1066,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1123,7 +1123,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6002175548122217582
+  Id: 2797562185959392913
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1141,7 +1141,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1198,7 +1198,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13631525036653978652
+  Id: 4044174565454484814
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1216,7 +1216,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1273,7 +1273,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4949323387603247293
+  Id: 15284246226208817664
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1291,7 +1291,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1348,7 +1348,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1635141883317349215
+  Id: 15457296741294490363
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1366,7 +1366,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1423,7 +1423,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8639369299828885108
+  Id: 2884079716436608427
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1441,7 +1441,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1498,7 +1498,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 665520650410626242
+  Id: 14932769806279233483
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1516,7 +1516,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1573,7 +1573,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6459710392099551249
+  Id: 15690435542811196154
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1592,7 +1592,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1649,7 +1649,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7251893011872972771
+  Id: 8487947240960785195
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1668,7 +1668,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1725,7 +1725,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5921564015645348864
+  Id: 2691408553067697944
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1744,7 +1744,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1801,7 +1801,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9797342224610470717
+  Id: 5975351386858406311
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1819,7 +1819,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1876,7 +1876,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11975932860151473056
+  Id: 11269595401825199276
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1894,7 +1894,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1951,7 +1951,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9809177624879129766
+  Id: 11092222822902392887
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -1970,7 +1970,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2027,7 +2027,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5506917077043285866
+  Id: 16180588640108144777
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2045,7 +2045,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2102,7 +2102,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9959609217827729075
+  Id: 1545181298048490287
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2120,7 +2120,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2177,7 +2177,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14667317532338394964
+  Id: 17475962242821172884
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2195,7 +2195,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2252,7 +2252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14769017060602793143
+  Id: 6268114022553020410
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2270,7 +2270,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2327,7 +2327,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11548243094059590045
+  Id: 2846770799587559296
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2346,7 +2346,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2403,7 +2403,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6080718654585093662
+  Id: 11194895336519703645
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2421,7 +2421,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2478,7 +2478,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9844461749849399306
+  Id: 6940595713733496394
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2496,7 +2496,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2553,7 +2553,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7523895932033670658
+  Id: 15452419493058761240
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2571,7 +2571,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2628,7 +2628,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3565530650347285439
+  Id: 3082307043282998801
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2647,7 +2647,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2704,7 +2704,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9630368203429747072
+  Id: 7051652769905192404
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2723,7 +2723,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2780,7 +2780,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9636521787460003502
+  Id: 4904887890469848375
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2799,7 +2799,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2856,7 +2856,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5164270604467919843
+  Id: 4865311797640924888
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2874,7 +2874,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2931,7 +2931,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4713086494087257086
+  Id: 4596073750891614376
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -2950,7 +2950,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3007,7 +3007,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8822384584961183258
+  Id: 5892540245251291394
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3025,7 +3025,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3082,7 +3082,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 608665344012509890
+  Id: 7551903866373150235
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3100,7 +3100,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3157,7 +3157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9469563587351942136
+  Id: 11804463187486485285
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3176,7 +3176,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3233,7 +3233,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6360616519914002240
+  Id: 13477381469793000281
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3252,7 +3252,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3309,7 +3309,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15785828172090916506
+  Id: 3871967810389810191
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3328,7 +3328,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3385,7 +3385,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9693586502873817206
+  Id: 15705775615654864913
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3403,7 +3403,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3460,7 +3460,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1616476380950119540
+  Id: 11122475793332699973
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3478,7 +3478,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3535,7 +3535,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8802117975571194445
+  Id: 10633544784908756853
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3553,7 +3553,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3610,7 +3610,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17671343845612137729
+  Id: 12012425319688615865
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3628,7 +3628,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3685,7 +3685,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6756068479091679990
+  Id: 5539709486728584332
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3701,7 +3701,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3758,7 +3758,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 504769539919520765
+  Id: 10736457801607387332
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3776,7 +3776,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3833,7 +3833,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11222954494410125656
+  Id: 2105545023484232302
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3850,7 +3850,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3907,7 +3907,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6911138065088698826
+  Id: 9981882351044229778
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -3924,7 +3924,7 @@ Objects {
       Z: 1.2
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3981,7 +3981,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3158145681530161839
+  Id: 9525806556393185273
   Name: "Cone - Truncated Hollow Wide"
   Transform {
     Location {
@@ -3999,7 +3999,7 @@ Objects {
       Z: 20.5
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4032,7 +4032,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 13776228291040685428
+      Id: 7801859645287117218
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -4056,7 +4056,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10113780133009668029
+  Id: 395107398613551859
   Name: "Cube - Polished"
   Transform {
     Location {
@@ -4072,7 +4072,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15774192975875920066
+  ParentId: 14834729004728885417
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

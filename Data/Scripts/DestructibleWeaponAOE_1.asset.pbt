@@ -1,5 +1,5 @@
 Assets {
-  Id: 15054413873000723247
+  Id: 10359484898385545996
   Name: "DestructibleWeaponAOE_1"
   PlatformAssetType: 3
   TextAsset {

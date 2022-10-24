@@ -22,11 +22,11 @@ Assets {
       }
       Overrides {
         Name: "cs:WalkStance"
-        String: "2hand_staff_walk_fwd"
+        String: "2hand_staff_walk_forward"
       }
       Overrides {
         Name: "cs:RunStance"
-        String: "2hand_staff_run_fwd"
+        String: "2hand_staff_run_forward"
       }
       Overrides {
         Name: "cs:AnimatedMesh:tooltip"

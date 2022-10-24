@@ -1,5 +1,5 @@
 Assets {
-  Id: 7569250083106348559
+  Id: 6282028041811411151
   Name: "Effect Announcer"
   PlatformAssetType: 5
   TemplateAsset {
@@ -111,7 +111,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15010611503219171147
+            Id: 18188098160262625069
           }
         }
         NetworkRelevanceDistance {
@@ -363,6 +363,9 @@ Assets {
       AssetType: "None"
       AssetId: "None"
     }
+  }
+  Marketplace {
+    Description: "Bundle of all the magical weapons from Spellshock game.\r\nThis package is a neat example of advanced use of Weapon system in Core.\r\nYou are free to grab, edit, and put these weapons into your games.\r\n\r\nNote: To see how to setup the weapons, put the template \"_Spellshock Weapons Example Setup\" into the hierarchy\r\nand play with the weapons. \r\n\r\nWhat\'s Included:\r\n- Weapons: Fire Staff, Ice Sword, Poison Crossbow, Lightning Gauntlet and Rock Hammer\r\n- Objects: Effect System, Effect Annoncer and Abilities UI\r\n- Example setup template"
   }
   SerializationVersion: 119
   DirectlyPublished: true

@@ -1,5 +1,5 @@
 Assets {
-  Id: 9719338562787820137
+  Id: 16909307361484432197
   Name: "Weapon - Ice Material"
   PlatformAssetType: 13
   SerializationVersion: 119

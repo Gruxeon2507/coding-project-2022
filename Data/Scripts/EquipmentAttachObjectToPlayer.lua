@@ -28,52 +28,34 @@ end
 local OBJECT = script:GetCustomProperty("Object"):WaitForObject()
 
 -- User exposed properties
-local PLAYER_SOCKET = script:GetCustomProperty("PlayerSocket")
-local LOCAL_POSITION = script:GetCustomProperty("LocalPosition")
-local LOCAL_ROTATION = script:GetCustomProperty("LocalRotation")
+local PLAYER_SOCKET = OBJECT:GetCustomProperty("PlayerSocket")
+local LOCAL_POSITION = OBJECT:GetCustomProperty("LocalPosition")
+local LOCAL_ROTATION = OBJECT:GetCustomProperty("LocalRotation")
 
 -- Constants
 local PARENT = OBJECT.parent
 local ORIGINAL_LOCAL_TRANSFORM = OBJECT:GetTransform()
 
--- Internal variables
-local attached = false
-
 -- nil OnEquipped(Equipment, Player)
 -- Attach to equipment owner's socket and set a new local position
 function OnEquipped(equipment, player)
-    if Object.IsValid(player) and player:IsA("Player") then
-        OBJECT:AttachToPlayer(player, PLAYER_SOCKET)
-        OBJECT:SetPosition(LOCAL_POSITION)
-        OBJECT:SetRotation(LOCAL_ROTATION)
-        attached = true
-    end
+    OBJECT:AttachToPlayer(player, PLAYER_SOCKET)
+    OBJECT:SetPosition(LOCAL_POSITION)
+    OBJECT:SetRotation(LOCAL_ROTATION)
 end
 
 -- nil OnUnequipped()
 -- Returns the object back to original parent
 function OnUnequipped()
-    Task.Wait() -- Wait a frame so we can tell if the equipment was unequipped because it was destroyed
-    -- If both the object or the equipment exists, then reattach back the objects
-    if Object.IsValid(PARENT) and Object.IsValid(EQUIPMENT) then
+    if Object.IsValid(PARENT) then
         OBJECT:Detach()
         OBJECT.parent = PARENT
         OBJECT:SetTransform(ORIGINAL_LOCAL_TRANSFORM)
     else
         OBJECT:Destroy()
     end
-    attached = false
-end
-
--- nil Tick()
--- Always check if the equipment object is attached for every player (if the equipment has owner)
-function Tick()
-    if not attached and Object.IsValid(EQUIPMENT.owner) then
-        OnEquipped(EQUIPMENT, EQUIPMENT.owner)
-    end
 end
 
 -- Initialize
 EQUIPMENT.equippedEvent:Connect(OnEquipped)
 EQUIPMENT.unequippedEvent:Connect(OnUnequipped)
-

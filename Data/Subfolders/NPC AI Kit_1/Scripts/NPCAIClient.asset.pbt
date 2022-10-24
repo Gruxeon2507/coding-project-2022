@@ -1,5 +1,5 @@
 Assets {
-  Id: 6953624707658893103
+  Id: 17300920816602569018
   Name: "NPCAIClient"
   PlatformAssetType: 3
   TextAsset {

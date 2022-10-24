@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 1487738039921823588
+    BaseMaterialId: 5225851799403858510
     ParameterOverrides {
       Overrides {
         Name: "u_tiles"
@@ -33,7 +33,7 @@ Assets {
       }
     }
     Assets {
-      Id: 1487738039921823588
+      Id: 5225851799403858510
       Name: "Tech Panel 01"
       PlatformAssetType: 2
       PrimaryAsset {

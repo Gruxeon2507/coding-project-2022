@@ -20,7 +20,6 @@ function OnDestroyed(obj)
 	GEO_ROOT:StopRotate()
 	GEO_ROOT:Destroy()
 end
-Task.Wait()
 ROOT.destroyEvent:Connect(OnDestroyed)
 
 GEO_ROOT.parent = nil
@@ -67,5 +66,5 @@ function OnPropertyChanged(object, propertyName)
 		currentState = newState
 	end
 end
-ROOT.customPropertyChangedEvent:Connect(OnPropertyChanged)
+ROOT.networkedPropertyChangedEvent:Connect(OnPropertyChanged)
 

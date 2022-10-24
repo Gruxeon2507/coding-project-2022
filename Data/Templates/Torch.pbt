@@ -114,7 +114,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1096245630587945751
+            Id: 4282984547224587305
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -175,7 +175,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16572118038922470237
+            Id: 377159667400922669
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -242,7 +242,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15288970234502648924
+            Id: 5604237310652087622
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -304,7 +304,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15288970234502648924
+            Id: 5604237310652087622
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -398,7 +398,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 4603537691901304316
+            Id: 17273320435588562321
           }
           TeamSettings {
           }
@@ -575,7 +575,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 594315991841207773
+            Id: 6391999908224949722
           }
           TeamSettings {
           }
@@ -639,7 +639,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 12142542151466613204
+            Id: 4170659662924572825
           }
           TeamSettings {
           }
@@ -657,7 +657,7 @@ Assets {
       }
     }
     Assets {
-      Id: 1096245630587945751
+      Id: 4282984547224587305
       Name: "Torch Holder Metal"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -666,7 +666,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16572118038922470237
+      Id: 377159667400922669
       Name: "Torch Metal"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -675,7 +675,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15288970234502648924
+      Id: 5604237310652087622
       Name: "Rock Pile 002"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -684,7 +684,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4603537691901304316
+      Id: 17273320435588562321
       Name: "Torch Fire VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -693,7 +693,7 @@ Assets {
       }
     }
     Assets {
-      Id: 594315991841207773
+      Id: 6391999908224949722
       Name: "Fire and Flame Burning Loop Set 01 SFX"
       PlatformAssetType: 10
       PrimaryAsset {
@@ -702,7 +702,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12142542151466613204
+      Id: 4170659662924572825
       Name: "Smoke Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {

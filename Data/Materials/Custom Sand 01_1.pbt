@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 4749301570215610414
+    BaseMaterialId: 6262356252011452365
     ParameterOverrides {
       Overrides {
         Name: "fresnel_color"
@@ -38,7 +38,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4749301570215610414
+      Id: 6262356252011452365
       Name: "Sand 01"
       PlatformAssetType: 2
       PrimaryAsset {

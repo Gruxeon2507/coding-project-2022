@@ -1,7 +1,7 @@
 Name: "AudioFolderEnter_10"
-RootId: 7808082152466903099
+RootId: 17828290311744431765
 Objects {
-  Id: 16888830320226178114
+  Id: 16190864943471132490
   Name: "\"Furious Epic Battle\" Music Construction Kit (Sections) 01"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7808082152466903099
+  ParentId: 17828290311744431765
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

@@ -1,5 +1,5 @@
 Assets {
-  Id: 14406936386632287551
+  Id: 12495952782895140644
   Name: "Generic Staff Projectile"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 9630473079285135562
+  Id: 17221689616334603503
   Name: "NPC_KIT_README"
   PlatformAssetType: 3
   TextAsset {

@@ -1,7 +1,7 @@
 Name: "AudioFolderEnter"
-RootId: 6039464625516226098
+RootId: 4313393658270290488
 Objects {
-  Id: 12153857940078485831
+  Id: 2828172763959196764
   Name: "\"Heroic Fantasy Battle\" Music Construction Kit (Layers) 01"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6039464625516226098
+  ParentId: 4313393658270290488
   UnregisteredParameters {
     Overrides {
       Name: "bp:Active Strings Volume"

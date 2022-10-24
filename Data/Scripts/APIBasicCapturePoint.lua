@@ -33,7 +33,7 @@ Capture point state is represented by the following table:
 {
 	string id										Id of the point
 	string name										Name assigned to the capture point
-	string worldPosition							World position of the point
+	Vector3 worldPosition							World position of the point
 	int progressedTeam								Which team currently has progress on the point
 	int owningTeam									Which team currently owns the point
 	float captureProgress							How much capture progress the capturing team has [0.0, 1.0]
@@ -100,9 +100,11 @@ end
 -- <string> GetPlayerCurrentCapturePoint(player) [Client, Server]
 -- Returns the ID of the capture point the player is on
 function API.GetPlayerCurrentCapturePoint(player)
-	for id, functionTable in pairs(_G.APICapturePoints) do
-		if functionTable.IsPlayerPresent(player) then
-			return id
+	if _G.APICapturePoints then
+		for id, functionTable in pairs(_G.APICapturePoints) do
+			if functionTable.IsPlayerPresent(player) then
+				return id
+			end
 		end
 	end
 

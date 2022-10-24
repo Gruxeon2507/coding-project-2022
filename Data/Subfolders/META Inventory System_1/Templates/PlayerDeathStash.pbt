@@ -1,5 +1,5 @@
 Assets {
-  Id: 2219433549208556574
+  Id: 15417501993957715987
   Name: "PlayerDeathStash"
   PlatformAssetType: 5
   TemplateAsset {
@@ -89,7 +89,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14062983197703701821
+            Id: 17216738990879324414
           }
         }
         NetworkRelevanceDistance {

@@ -32,7 +32,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 4285444842691428538
+              Id: 17918977484770002406
             }
           }
           Overrides {
@@ -795,7 +795,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 10354475835429315773
+              Id: 13890632722498209815
             }
           }
         }
@@ -850,7 +850,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 6522244484860834116
+              Id: 3253590200665902781
             }
           }
           Overrides {
@@ -926,7 +926,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 6522244484860834116
+              Id: 3253590200665902781
             }
           }
           Overrides {
@@ -1005,7 +1005,13 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 5079346785379132337
             }
           }
         }
@@ -1062,7 +1068,13 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 5079346785379132337
             }
           }
         }
@@ -1119,7 +1131,13 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 5079346785379132337
             }
           }
         }
@@ -1173,7 +1191,7 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 9785407000400236326
+              Id: 13386378558210270594
             }
           }
           Overrides {
@@ -1182,7 +1200,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
             }
           }
         }
@@ -2587,21 +2605,30 @@ Assets {
       }
     }
     Assets {
-      Id: 4285444842691428538
-      Name: "Axe"
+      Id: 17918977484770002406
+      Name: "Fantasy Shield 005"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_icon_Axe"
+        AssetId: "UI_Fantasy_Weapon_Shield_005"
       }
     }
     Assets {
-      Id: 9785407000400236326
-      Name: "Shield"
+      Id: 5079346785379132337
+      Name: "Fantasy Ability Yellow 020"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_icon_Shield"
+        AssetId: "UI_Fantasy_Ability_Yellow_021"
+      }
+    }
+    Assets {
+      Id: 13386378558210270594
+      Name: "Fantasy Ability Blue 051"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Fantasy_Ability_Blue_051"
       }
     }
     Assets {

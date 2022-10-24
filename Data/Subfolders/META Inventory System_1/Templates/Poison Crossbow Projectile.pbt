@@ -1,5 +1,5 @@
 Assets {
-  Id: 13619046547454220544
+  Id: 13747910008215976995
   Name: "Poison Crossbow Projectile"
   PlatformAssetType: 5
   TemplateAsset {
@@ -62,7 +62,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 15708210414969300328
+              Id: 18169130899942204489
             }
           }
           Overrides {
@@ -130,7 +130,7 @@ Assets {
           Overrides {
             Name: "cs:WhizbySound"
             AssetReference {
-              Id: 5540394580047732610
+              Id: 1858380240119312879
             }
           }
           Overrides {
@@ -149,7 +149,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2354432642609271795
+            Id: 10309849786350248453
           }
         }
         NetworkRelevanceDistance {

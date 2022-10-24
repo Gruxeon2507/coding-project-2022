@@ -93,7 +93,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 100000
             ImpactPlayerAssetRef {
-              Id: 9237238264367741815
+              Id: 14782481216819325752
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -232,7 +232,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16334840297422696574
+            Id: 11145628254934127387
           }
         }
         NetworkRelevanceDistance {
@@ -339,7 +339,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
         }
@@ -354,7 +354,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12300960555627151165
+            Id: 14150387368533688185
           }
         }
         NetworkRelevanceDistance {
@@ -649,7 +649,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14788968592325731695
+              Id: 14767494438938602775
             }
           }
           Overrides {
@@ -713,19 +713,19 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14788968592325731695
+              Id: 14767494438938602775
             }
           }
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 14788968592325731695
+              Id: 14767494438938602775
             }
           }
           Overrides {
             Name: "ma:Shared_Trim2:id"
             AssetReference {
-              Id: 14788968592325731695
+              Id: 14767494438938602775
             }
           }
         }
@@ -919,13 +919,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
         }
@@ -981,13 +981,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
         }
@@ -1043,19 +1043,19 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
           Overrides {
             Name: "ma:Shared_Trim2:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
         }
@@ -1111,13 +1111,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 14079350214165306805
+              Id: 5035148444678116856
             }
           }
         }
@@ -1452,7 +1452,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14788968592325731695
+      Id: 14767494438938602775
       Name: "Camouflage - Woodland"
       PlatformAssetType: 2
       PrimaryAsset {

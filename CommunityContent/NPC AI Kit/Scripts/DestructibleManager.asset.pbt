@@ -1,5 +1,5 @@
 Assets {
-  Id: 18216266785581179908
+  Id: 11327971464838267156
   Name: "DestructibleManager"
   PlatformAssetType: 3
   TextAsset {

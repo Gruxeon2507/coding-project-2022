@@ -366,7 +366,7 @@ Assets {
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 14373757464648078715
+              Id: 14782481216819325752
             }
           }
           Overrides {
@@ -453,7 +453,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsEnemyCollisionEnabled: true
@@ -691,7 +691,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 162151367198570398
+            Id: 13935421930719532631
           }
         }
         NetworkRelevanceDistance {
@@ -987,7 +987,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12434974458467685788
+      Id: 15614259856505195515
       Name: "Sphere"
       PlatformAssetType: 1
       PrimaryAsset {

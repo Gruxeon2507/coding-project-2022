@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 14212988502358508072
+    BaseMaterialId: 16447630291553548532
     ParameterOverrides {
       Overrides {
         Name: "roughness"
@@ -21,7 +21,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14212988502358508072
+      Id: 16447630291553548532
       Name: "Metal Basic Steel"
       PlatformAssetType: 2
       PrimaryAsset {

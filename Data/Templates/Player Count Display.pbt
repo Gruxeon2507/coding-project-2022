@@ -549,8 +549,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Player_Count_Display"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

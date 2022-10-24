@@ -1,5 +1,5 @@
 Assets {
-  Id: 4820461853941587001
+  Id: 9937253989072526124
   Name: "ITEM_Sword_ExampleSuperSword"
   PlatformAssetType: 5
   TemplateAsset {
@@ -25,19 +25,19 @@ Assets {
           Overrides {
             Name: "cs:PickupSound"
             AssetReference {
-              Id: 16268931454179835414
+              Id: 15217807220593850130
             }
           }
           Overrides {
             Name: "cs:SwingSound"
             AssetReference {
-              Id: 13055366365362601970
+              Id: 15816126915578263762
             }
           }
           Overrides {
             Name: "cs:PlayerImpact"
             AssetReference {
-              Id: 4523874701720735493
+              Id: 5117130580035970300
             }
           }
           Overrides {
@@ -174,7 +174,7 @@ Assets {
           Overrides {
             Name: "cs:SwingEffect"
             AssetReference {
-              Id: 16628576400365725993
+              Id: 17450654000855646993
             }
           }
           Overrides {
@@ -293,7 +293,7 @@ Assets {
           Overrides {
             Name: "cs:SwingEffect"
             AssetReference {
-              Id: 16628576400365725993
+              Id: 17450654000855646993
             }
           }
           Overrides {
@@ -446,7 +446,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5642071919357286907
+            Id: 2142252993758762406
           }
         }
         NetworkRelevanceDistance {
@@ -473,13 +473,13 @@ Assets {
           Overrides {
             Name: "cs:ModuleManager"
             AssetReference {
-              Id: 16859791369248754591
+              Id: 1960343504784185513
             }
           }
           Overrides {
             Name: "cs:PlayerStats_Combat"
             AssetReference {
-              Id: 7910916886577143753
+              Id: 12568911486390079672
             }
           }
         }
@@ -494,7 +494,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16266739666505483738
+            Id: 6868626267521535701
           }
         }
         NetworkRelevanceDistance {
@@ -540,7 +540,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17048724124963223967
+            Id: 16757989789603687290
           }
         }
         NetworkRelevanceDistance {
@@ -1044,7 +1044,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9405103211376251934
+            Id: 1197084258066149842
           }
         }
         NetworkRelevanceDistance {
@@ -1080,7 +1080,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12579048967911142590
+            Id: 18243096150359133599
           }
         }
         NetworkRelevanceDistance {

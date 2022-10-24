@@ -1,5 +1,5 @@
 Assets {
-  Id: 12104533560499334590
+  Id: 14463772314766010854
   Name: "Custom Detail 1 from Dragon Mob"
   PlatformAssetType: 13
   SerializationVersion: 119

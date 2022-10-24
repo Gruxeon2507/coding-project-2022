@@ -1,5 +1,5 @@
 Assets {
-  Id: 15071229205639795999
+  Id: 16665329664257288638
   Name: "Poison Staff Trail"
   PlatformAssetType: 5
   TemplateAsset {

@@ -357,7 +357,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 9487564131846698712
+            Id: 7240897054821455019
           }
           TeamSettings {
           }
@@ -413,7 +413,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2386654746316259992
+            Id: 2035703309626028854
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -488,7 +488,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2386654746316259992
+            Id: 2035703309626028854
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -571,7 +571,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 9487564131846698712
+            Id: 7240897054821455019
           }
           TeamSettings {
           }
@@ -652,7 +652,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9487564131846698712
+      Id: 7240897054821455019
       Name: "Fairy Dot Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -661,7 +661,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2386654746316259992
+      Id: 2035703309626028854
       Name: "Chest Big Closed"
       PlatformAssetType: 1
       PrimaryAsset {

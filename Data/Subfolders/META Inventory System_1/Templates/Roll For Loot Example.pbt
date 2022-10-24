@@ -1,5 +1,5 @@
 Assets {
-  Id: 2896166981411483319
+  Id: 11967305869199620299
   Name: "Roll For Loot Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -23,7 +23,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17522136738897089694
+              Id: 16901860629907014018
             }
           }
           Overrides {
@@ -157,7 +157,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12936347216505508941
+            Id: 6776306626254783852
           }
         }
         NetworkRelevanceDistance {

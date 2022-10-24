@@ -1,5 +1,5 @@
 Assets {
-  Id: 9873090683490679748
+  Id: 6705860250792121928
   Name: "Fantasy Weapon - Axe 01 (Prop)"
   PlatformAssetType: 5
   TemplateAsset {

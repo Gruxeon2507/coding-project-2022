@@ -1092,8 +1092,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_2-Handed_Sword"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

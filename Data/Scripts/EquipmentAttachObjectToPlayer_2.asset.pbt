@@ -1,14 +1,9 @@
 Assets {
-  Id: 10642049740792087510
-  Name: "EquipmentAttachObjectToPlayer"
+  Id: 17048724124963223967
+  Name: "EquipmentAttachObjectToPlayer_2"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
-      Overrides {
-        Name: "cs:Object"
-        ObjectReference {
-        }
-      }
     }
   }
   SerializationVersion: 119

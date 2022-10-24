@@ -1,5 +1,5 @@
 Assets {
-  Id: 2351067389433231005
+  Id: 5322534200820657119
   Name: "Gold Flat"
   PlatformAssetType: 13
   SerializationVersion: 119

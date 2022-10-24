@@ -14,12 +14,12 @@ Objects {
       Z: 1
     }
   }
-  ChildIds: 13485178820182086209
-  ChildIds: 7863320322857722862
-  ChildIds: 15748739516737150608
-  ChildIds: 6407077137193155566
-  ChildIds: 15054057469327536830
-  ChildIds: 5919723082232567132
+  ChildIds: 5171401545723156788
+  ChildIds: 18006927550639156088
+  ChildIds: 11797327254214668711
+  ChildIds: 13610095578206237612
+  ChildIds: 13107932539163557492
+  ChildIds: 6307349831569756261
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -39,7 +39,49 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5919723082232567132
+  Id: 6307349831569756261
+  Name: "Terrain"
+  Transform {
+    Location {
+      Z: -933.022461
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Terrain {
+    Material {
+      Id: 9813763912140087505
+    }
+    VoxelSize: 200
+    OctreeDepth: 5
+    GeneratorID: "DEPRECATED"
+    MaxLOD: 32
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 13107932539163557492
   Name: "Duc"
   Transform {
     Location {
@@ -75,7 +117,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15054057469327536830
+  Id: 13610095578206237612
   Name: "Duong"
   Transform {
     Location {
@@ -111,7 +153,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6407077137193155566
+  Id: 11797327254214668711
   Name: "Huy"
   Transform {
     Location {
@@ -147,7 +189,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15748739516737150608
+  Id: 18006927550639156088
   Name: "Hieu"
   Transform {
     Location {
@@ -183,49 +225,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7863320322857722862
-  Name: "Terrain"
-  Transform {
-    Location {
-      Z: -858.193359
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Terrain {
-    Material {
-      Id: 9598036688851347665
-    }
-    VoxelSize: 200
-    OctreeDepth: 5
-    GeneratorID: "DEPRECATED"
-    MaxLOD: 32
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 13485178820182086209
+  Id: 5171401545723156788
   Name: "Main"
   Transform {
     Location {
@@ -239,14 +239,14 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  ChildIds: 3236875137329459816
-  ChildIds: 439451343013607954
-  ChildIds: 14818024156428500505
-  ChildIds: 5670391326735284400
-  ChildIds: 4707650591373126207
-  ChildIds: 1703770321117070903
-  ChildIds: 14099972233258080904
-  ChildIds: 11506239736210352661
+  ChildIds: 3159395483841445025
+  ChildIds: 18026639948816061019
+  ChildIds: 7124824039622566739
+  ChildIds: 9040423248238083423
+  ChildIds: 5436304077007485400
+  ChildIds: 10566879482753414907
+  ChildIds: 17178985769858496003
+  ChildIds: 857757742199698415
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -268,7 +268,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11506239736210352661
+  Id: 857757742199698415
   Name: "Sand Decals"
   Transform {
     Location {
@@ -287,7 +287,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13485178820182086209
+  ParentId: 5171401545723156788
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -310,7 +310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14099972233258080904
+  Id: 17178985769858496003
   Name: "Fog"
   Transform {
     Location {
@@ -326,7 +326,7 @@ Objects {
       Z: 50
     }
   }
-  ParentId: 13485178820182086209
+  ParentId: 5171401545723156788
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -349,7 +349,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1703770321117070903
+  Id: 10566879482753414907
   Name: "Tornados"
   Transform {
     Location {
@@ -365,7 +365,7 @@ Objects {
       Z: 50
     }
   }
-  ParentId: 13485178820182086209
+  ParentId: 5171401545723156788
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -388,7 +388,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4707650591373126207
+  Id: 5436304077007485400
   Name: "Game Settings"
   Transform {
     Location {
@@ -407,7 +407,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13485178820182086209
+  ParentId: 5171401545723156788
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -531,7 +531,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5670391326735284400
+  Id: 9040423248238083423
   Name: "Default Floor - Sand"
   Transform {
     Location {
@@ -545,7 +545,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13485178820182086209
+  ParentId: 5171401545723156788
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -587,7 +587,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14818024156428500505
+  Id: 7124824039622566739
   Name: "Sky"
   Transform {
     Location {
@@ -600,7 +600,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13485178820182086209
+  ParentId: 5171401545723156788
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -623,7 +623,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 439451343013607954
+  Id: 18026639948816061019
   Name: "Building"
   Transform {
     Location {
@@ -636,7 +636,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13485178820182086209
+  ParentId: 5171401545723156788
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -659,7 +659,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3236875137329459816
+  Id: 3159395483841445025
   Name: "Gameplay Settings"
   Transform {
     Location {
@@ -672,7 +672,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13485178820182086209
+  ParentId: 5171401545723156788
   UnregisteredParameters {
   }
   Collidable_v2 {

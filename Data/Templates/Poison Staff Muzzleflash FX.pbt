@@ -1,5 +1,5 @@
 Assets {
-  Id: 3691668285842845988
+  Id: 2189825456317445293
   Name: "Poison Staff Muzzleflash FX"
   PlatformAssetType: 5
   TemplateAsset {

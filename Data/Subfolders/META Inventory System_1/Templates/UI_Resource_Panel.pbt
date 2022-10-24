@@ -1,5 +1,5 @@
 Assets {
-  Id: 14105607550427633517
+  Id: 8751564996639914941
   Name: "UI_Resource_Panel"
   PlatformAssetType: 5
   TemplateAsset {

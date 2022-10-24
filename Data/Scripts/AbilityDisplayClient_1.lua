@@ -31,12 +31,9 @@ local LEFT_SHADOW = script:GetCustomProperty("LeftShadow"):WaitForObject()
 local BINDING = COMPONENT_ROOT:GetCustomProperty("Binding")
 local BINDING_HINT = COMPONENT_ROOT:GetCustomProperty("BindingHint")
 local SHOW_ABILITY_NAME = COMPONENT_ROOT:GetCustomProperty("ShowAbilityName")
-local HIDE_WHEN_DISABLED = COMPONENT_ROOT:GetCustomProperty("HideWhenDisabled")
 
 -- Constants
 local LOCAL_PLAYER = Game.GetLocalPlayer()
-local DEFAULT_IMAGE = ICON:GetImage()
-local ICON_COLOR = ICON:GetColor()
 
 -- Variables
 local currentAbility = nil
@@ -47,6 +44,7 @@ local cooldownDuration = 0.0
 -- <Ability> GetLocalPlayerAbilityWithBinding()
 -- Finds the first ability that matches the given binding
 function GetLocalPlayerAbilityWithBinding()
+    if not Object.IsValid(LOCAL_PLAYER) then return end
     local abilities = LOCAL_PLAYER:GetAbilities()
     for _, ability in pairs(abilities) do
         if ability.actionBinding == BINDING then 
@@ -69,14 +67,12 @@ function UpdateCurrentAbility()
     currentAbility = newAbility
 
     if currentAbility then
-        CANVAS.visibility = Visibility.INHERIT
+        CANVAS.isVisible = true
 
         local icon = AOI.GetObjectIcon(currentAbility)
 
         if icon then
             ICON:SetImage(icon)
-        else
-            ICON:SetImage(DEFAULT_IMAGE)
         end
 
         NAME_TEXT.text = currentAbility.name
@@ -84,7 +80,7 @@ function UpdateCurrentAbility()
         recoveryDuration = currentAbility.recoveryPhaseSettings.duration
         cooldownDuration = currentAbility.cooldownPhaseSettings.duration
     else
-        CANVAS.visibility = Visibility.FORCE_OFF
+        CANVAS.isVisible = false
     end
 end
 
@@ -97,28 +93,12 @@ function Tick(deltaTime)
         local currentPhase = currentAbility:GetCurrentPhase()
         local phaseTime = currentAbility:GetPhaseTimeRemaining()
 
-        if HIDE_WHEN_DISABLED then
-            if currentAbility.isEnabled then
-                CANVAS.visibility = Visibility.INHERIT
-            else
-                CANVAS.visibility = Visibility.FORCE_OFF
-            end
-        else
-            if currentAbility.isEnabled then
-                ICON:SetColor(ICON_COLOR)
-            else
-                local newIconColor = Color.New(ICON_COLOR)
-                newIconColor.a = newIconColor.a / 5.0
-                ICON:SetColor(newIconColor)
-            end
-        end
-
         if currentPhase == AbilityPhase.READY or currentPhase == AbilityPhase.CAST then
-            COUNTDOWN_TEXT.visibility = Visibility.FORCE_OFF
-            PROGRESS_INDICATOR.visibility = Visibility.FORCE_OFF
+            COUNTDOWN_TEXT.isVisible = false
+            PROGRESS_INDICATOR.isVisible = false
         else
-            COUNTDOWN_TEXT.visibility = Visibility.INHERIT
-            PROGRESS_INDICATOR.visibility = Visibility.INHERIT
+            COUNTDOWN_TEXT.isVisible = true
+            PROGRESS_INDICATOR.isVisible = true
 
             -- For a player, recovery, cooldown and execute phases all constitute an ability's cooldown
             local playerCooldownRemaining = phaseTime
@@ -135,17 +115,15 @@ function Tick(deltaTime)
             COUNTDOWN_TEXT.text = string.format("%.1f", playerCooldownRemaining)
 
             -- Update the shadow
-            if totalPlayerCooldown > 0.3 then
-                local shadowAngle = CoreMath.Clamp(1.0 - playerCooldownRemaining / totalPlayerCooldown, 0.0, 1.0) * 360.0
+            local shadowAngle = CoreMath.Clamp(1.0 - playerCooldownRemaining / totalPlayerCooldown, 0.0, 1.0) * 360.0
 
-                if shadowAngle <= 180.0 then
-                    LEFT_SHADOW.rotationAngle = 0.0
-                    RIGHT_SHADOW.visibility = Visibility.INHERIT
-                    RIGHT_SHADOW.rotationAngle = shadowAngle
-                else
-                    LEFT_SHADOW.rotationAngle = shadowAngle - 180.0
-                    RIGHT_SHADOW.visibility = Visibility.FORCE_OFF
-                end
+            if shadowAngle <= 180.0 then
+                LEFT_SHADOW.rotationAngle = 0.0
+                RIGHT_SHADOW.isVisible = true
+                RIGHT_SHADOW.rotationAngle = shadowAngle
+            else
+                LEFT_SHADOW.rotationAngle = shadowAngle - 180.0
+                RIGHT_SHADOW.isVisible = false
             end
         end
     end
@@ -153,8 +131,8 @@ end
 
 -- Initialize
 if not SHOW_ABILITY_NAME then
-    NAME_TEXT.visibility = Visibility.FORCE_OFF
+    NAME_TEXT.isVisible = false
 end
 
-CANVAS.visibility = Visibility.FORCE_OFF
+CANVAS.isVisible = false
 BINDING_TEXT.text = BINDING_HINT

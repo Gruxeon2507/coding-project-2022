@@ -1,5 +1,5 @@
 Assets {
-  Id: 4231308166832060540
+  Id: 1136160245452485145
   Name: "PoisonBlastImpact"
   PlatformAssetType: 5
   TemplateAsset {
@@ -252,7 +252,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 11805553451547936753
+              Id: 11468887682361951045
             }
           }
           Overrides {
@@ -324,7 +324,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4266539903913002302
+              Id: 13082920049495773939
             }
           }
           Overrides {

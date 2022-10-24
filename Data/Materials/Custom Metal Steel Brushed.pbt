@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 6777447344140592468
+    BaseMaterialId: 15487062404605779941
     ParameterOverrides {
       Overrides {
         Name: "metallic"
@@ -24,7 +24,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6777447344140592468
+      Id: 15487062404605779941
       Name: "Metal Steel Brushed"
       PlatformAssetType: 2
       PrimaryAsset {

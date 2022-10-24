@@ -1,5 +1,5 @@
 Assets {
-  Id: 14334940842448190249
+  Id: 18330482821717742233
   Name: "Green Potion Liquid"
   PlatformAssetType: 13
   SerializationVersion: 119

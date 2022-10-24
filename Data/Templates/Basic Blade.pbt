@@ -220,7 +220,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3194930412626622494
+            Id: 6542170114427865587
           }
         }
         NetworkRelevanceDistance {
@@ -254,7 +254,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10251728999306098252
+            Id: 11145628254934127387
           }
         }
         NetworkRelevanceDistance {
@@ -507,7 +507,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
         }
@@ -522,7 +522,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10109220941690346490
+            Id: 14150387368533688185
           }
         }
         NetworkRelevanceDistance {
@@ -813,7 +813,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -876,7 +876,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -939,7 +939,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1040,7 +1040,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9854914266440959975
+            Id: 3682206342183528038
           }
           Teams {
           }
@@ -1579,7 +1579,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9854914266440959975
+      Id: 3682206342183528038
       Name: "Fantasy Sword Grip 01"
       PlatformAssetType: 1
       PrimaryAsset {

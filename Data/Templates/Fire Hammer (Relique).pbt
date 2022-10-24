@@ -220,7 +220,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3194930412626622494
+            Id: 6542170114427865587
           }
         }
         NetworkRelevanceDistance {
@@ -254,7 +254,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10251728999306098252
+            Id: 11145628254934127387
           }
         }
         NetworkRelevanceDistance {
@@ -522,7 +522,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10109220941690346490
+            Id: 14150387368533688185
           }
         }
         NetworkRelevanceDistance {
@@ -620,7 +620,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 14373757464648078715
+              Id: 14782481216819325752
             }
           }
           Overrides {
@@ -702,7 +702,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 14373757464648078715
+              Id: 14782481216819325752
             }
           }
         }
@@ -779,7 +779,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 14373757464648078715
+              Id: 14782481216819325752
             }
           }
         }
@@ -1092,7 +1092,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 12442620765563305637
+              Id: 1364294402302747595
             }
           }
           Overrides {
@@ -1114,7 +1114,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13410490565345583042
+            Id: 5047196344696403889
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1157,7 +1157,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 12442620765563305637
+              Id: 1364294402302747595
             }
           }
           Overrides {
@@ -1179,7 +1179,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13410490565345583042
+            Id: 5047196344696403889
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1246,7 +1246,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 2494920176024075778
+            Id: 13110421772076029559
           }
           TeamSettings {
           }
@@ -1402,7 +1402,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
         }
@@ -2246,7 +2246,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13410490565345583042
+      Id: 5047196344696403889
       Name: "Gem - Diamond 6-Sided Polished"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2255,7 +2255,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12442620765563305637
+      Id: 1364294402302747595
       Name: "Amethyst"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2264,7 +2264,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2494920176024075778
+      Id: 13110421772076029559
       Name: "Fire Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -2300,7 +2300,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3702191406046426907
+      Id: 8375575103126610230
       Name: "Emissive Glow Transparent"
       PlatformAssetType: 2
       PrimaryAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 8711203869274681577
+  Id: 10393537064204180527
   Name: "Lava_2"
   PlatformAssetType: 13
   SerializationVersion: 119
@@ -34,9 +34,9 @@ Assets {
       Overrides {
         Name: "speed"
         Color {
-          R: 0.77
-          G: 0.522636235
-          B: 0.1283333
+          R: 3
+          G: 2.15069056
+          B: 0.796875
           A: 1
         }
       }
@@ -75,7 +75,7 @@ Assets {
       }
       Overrides {
         Name: "noise scale"
-        Float: 5
+        Float: 2
       }
       Overrides {
         Name: "displacement max"
@@ -85,7 +85,7 @@ Assets {
         Name: "hot color"
         Color {
           R: 30
-          G: 2.68898058
+          G: 0.582
           A: 1
         }
       }

@@ -1,5 +1,5 @@
 Assets {
-  Id: 9754313940285145496
+  Id: 9733926042653235300
   Name: "LightningGauntlet_OutOfAmmo"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 16934742153646881473
+  Id: 4254613509677403597
   Name: "PlayerHomingTargetObject"
   PlatformAssetType: 5
   TemplateAsset {

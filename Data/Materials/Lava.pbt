@@ -1,97 +1,101 @@
 Assets {
-  Id: 13400525336309634950
+  Id: 1135739098489727232
   Name: "Lava"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 1082809058784319555
+    BaseMaterialId: 16149600767424441723
     ParameterOverrides {
       Overrides {
         Name: "color"
         Color {
-          R: 0.77
-          G: 0.260066211
+          R: 0.950000048
+          G: 0.0377483256
           A: 1
         }
       }
       Overrides {
-        Name: "hot high threshold"
-        Float: -0.386686683
-      }
-      Overrides {
-        Name: "color2"
+        Name: "color b"
         Color {
+          R: 0.450000048
+          G: 0.00894039404
           A: 1
         }
       }
       Overrides {
-        Name: "color3"
+        Name: "color c"
         Color {
+          R: 8
+          G: 0.402
           A: 1
         }
       }
       Overrides {
-        Name: "smooth noise"
+        Name: "glass color"
+        Color {
+          R: 0.74
+          G: 0.279337794
+          A: 1
+        }
+      }
+      Overrides {
+        Name: "speed"
+        Float: 2
+      }
+      Overrides {
+        Name: "object normal strength"
+        Float: 1
+      }
+      Overrides {
+        Name: "magic distortion"
+        Float: 0.243445098
+      }
+      Overrides {
+        Name: "magic color blend power"
+        Float: 2.22280693
+      }
+      Overrides {
+        Name: "brightness"
+        Float: 5
+      }
+      Overrides {
+        Name: "metallic"
+        Float: 0.360289156
+      }
+      Overrides {
+        Name: "scale"
+        Float: 10
+      }
+      Overrides {
+        Name: "direction"
+        Vector {
+          Z: 1
+        }
+      }
+      Overrides {
+        Name: "magic gradient low"
         Float: 0
       }
       Overrides {
-        Name: "flatten amount"
+        Name: "magic gradient high"
+        Float: 2.39751077
+      }
+      Overrides {
+        Name: "specular"
         Float: 0
       }
       Overrides {
         Name: "roughness"
         Float: 1
       }
-      Overrides {
-        Name: "sss thickness"
-        Float: 0.900355637
-      }
-      Overrides {
-        Name: "displacement scale"
-        Float: 150
-      }
-      Overrides {
-        Name: "sss"
-        Color {
-          R: 0.38
-          G: 0.218940392
-          A: 1
-        }
-      }
-      Overrides {
-        Name: "tessellation multiplier"
-        Float: 2
-      }
-      Overrides {
-        Name: "noise scale"
-        Float: 50
-      }
-      Overrides {
-        Name: "displacement max"
-        Float: 150
-      }
-      Overrides {
-        Name: "hot color"
-        Color {
-          R: 0.820000052
-          G: 0.114039734
-          A: 1
-        }
-      }
-      Overrides {
-        Name: "speed"
-        Vector {
-          Z: 0.5
-        }
-      }
     }
     Assets {
-      Id: 1082809058784319555
-      Name: "Explosion Cloud"
+      Id: 16149600767424441723
+      Name: "Magic Glass"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "fxma_explosion_cloud"
+        AssetId: "fxmi_magic_glass"
       }
     }
   }

@@ -112,7 +112,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 4037298589509087562
+            Id: 14580297661185880422
           }
           TeamSettings {
           }
@@ -197,7 +197,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 4037298589509087562
+            Id: 14580297661185880422
           }
           TeamSettings {
           }
@@ -297,7 +297,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4037298589509087562
+      Id: 14580297661185880422
       Name: "Sword Swipe Full Circle"
       PlatformAssetType: 8
       PrimaryAsset {

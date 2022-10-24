@@ -1,5 +1,5 @@
 Assets {
-  Id: 3848516862796959939
+  Id: 17926056181475040344
   Name: "Sky Core default"
   PlatformAssetType: 5
   TemplateAsset {

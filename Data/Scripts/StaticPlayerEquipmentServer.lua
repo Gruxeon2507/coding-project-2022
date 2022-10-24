@@ -56,9 +56,7 @@ end
 function GivePlayerEquipment(player)
 	equipment[player] = World.SpawnAsset(EQUIPMENT_TEMPLATE)
 	assert(equipment[player]:IsA("Equipment"))
-	if player then
-		equipment[player]:Equip(player)
-	end
+	equipment[player]:Equip(player)
 end
 
 -- nil RemovePlayerEquipment(Player)

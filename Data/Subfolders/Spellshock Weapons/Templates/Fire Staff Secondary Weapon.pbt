@@ -1,5 +1,5 @@
 Assets {
-  Id: 12416516191179551848
+  Id: 11550003635786688100
   Name: "Fire Staff Secondary Weapon"
   PlatformAssetType: 5
   TemplateAsset {
@@ -35,16 +35,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 2467801199380637699
+              Id: 9436863593122288894
             }
             MuzzleFlashAssetRef {
-              Id: 883948206680258696
+              Id: 5767545536320341392
             }
             TrailAssetRef {
               Id: 841534158063459245
             }
             ImpactAssetRef {
-              Id: 4549121699096036832
+              Id: 9892251779442785733
             }
             UseReticle: true
             Muzzle {
@@ -59,7 +59,7 @@ Assets {
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
-              Id: 6943333668856825659
+              Id: 17151110819179476132
             }
             BeamAssetRef {
               Id: 841534158063459245
@@ -69,7 +69,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 100000
             ImpactPlayerAssetRef {
-              Id: 7473039137614056492
+              Id: 3093669637739086240
             }
             ReticleType {
               Value: "mc:ereticletype:none"
@@ -214,19 +214,19 @@ Assets {
           Overrides {
             Name: "cs:API_Damage"
             AssetReference {
-              Id: 16915150100797142409
+              Id: 8854165461151319026
             }
           }
           Overrides {
             Name: "cs:API_Effect"
             AssetReference {
-              Id: 11192919480659211898
+              Id: 14789230034841820082
             }
           }
           Overrides {
             Name: "cs:BlastImpactTemplate"
             AssetReference {
-              Id: 8912368573622694351
+              Id: 5387458217443380157
             }
           }
           Overrides {
@@ -267,7 +267,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerEffectTemplate"
             AssetReference {
-              Id: 7358781774307562864
+              Id: 4450785078291892679
             }
           }
           Overrides {
@@ -287,7 +287,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17745912846091818266
+            Id: 18436872454227311509
           }
         }
         NetworkRelevanceDistance {
@@ -355,7 +355,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 13039838708654056087
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -376,7 +376,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16552815933987324064
+            Id: 16908287304099768027
           }
         }
         NetworkRelevanceDistance {

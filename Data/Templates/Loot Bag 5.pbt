@@ -557,7 +557,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -593,7 +593,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 7364460640411375594
+            Id: 8936463881719161671
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -635,7 +635,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -671,7 +671,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 7364460640411375594
+            Id: 8936463881719161671
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -715,7 +715,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -751,7 +751,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -795,7 +795,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -831,7 +831,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -919,7 +919,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -955,7 +955,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 7511473365680159662
+            Id: 8222939063106431448
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1044,7 +1044,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -1080,7 +1080,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1121,7 +1121,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -1157,7 +1157,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 289956829384114960
+            Id: 10227161647766562745
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1203,7 +1203,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 643713811288060970
+              Id: 13349528077905922012
             }
           }
           Overrides {
@@ -1225,7 +1225,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13828127444655325311
+            Id: 7337149670721195130
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1313,7 +1313,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -1349,7 +1349,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 7511473365680159662
+            Id: 8222939063106431448
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1438,7 +1438,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -1474,7 +1474,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1515,7 +1515,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -1551,7 +1551,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 289956829384114960
+            Id: 10227161647766562745
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1597,7 +1597,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 643713811288060970
+              Id: 13349528077905922012
             }
           }
           Overrides {
@@ -1619,7 +1619,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13828127444655325311
+            Id: 7337149670721195130
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1696,7 +1696,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2057,7 +2057,7 @@ Assets {
       }
     }
     Assets {
-      Id: 7364460640411375594
+      Id: 8936463881719161671
       Name: "Ring - Thick"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2066,7 +2066,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15076015910339775634
+      Id: 12629436541872600207
       Name: "Rope"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2075,7 +2075,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12434974458467685788
+      Id: 15614259856505195515
       Name: "Sphere"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2084,7 +2084,7 @@ Assets {
       }
     }
     Assets {
-      Id: 7511473365680159662
+      Id: 8222939063106431448
       Name: "Ring - Quarter"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2093,7 +2093,7 @@ Assets {
       }
     }
     Assets {
-      Id: 289956829384114960
+      Id: 10227161647766562745
       Name: "Horn"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2102,7 +2102,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13828127444655325311
+      Id: 7337149670721195130
       Name: "Cylinder - Rounded"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2111,7 +2111,7 @@ Assets {
       }
     }
     Assets {
-      Id: 643713811288060970
+      Id: 13349528077905922012
       Name: "Plastic Shiny"
       PlatformAssetType: 2
       PrimaryAsset {

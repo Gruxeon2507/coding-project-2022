@@ -1040,7 +1040,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12455293356321247304
+            Id: 2453752092485500821
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1197,7 +1197,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 17957142290660849378
+            Id: 13121218701886643650
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1249,7 +1249,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12888726374622842928
+            Id: 8896065045855419906
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1302,7 +1302,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12888726374622842928
+            Id: 8896065045855419906
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1354,7 +1354,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1737305543685255753
+            Id: 16660186097214861606
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1409,7 +1409,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 17957142290660849378
+            Id: 13121218701886643650
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1712,7 +1712,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12455293356321247304
+      Id: 2453752092485500821
       Name: "Modern Weapon - Magazine 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1730,7 +1730,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17957142290660849378
+      Id: 13121218701886643650
       Name: "Modern Weapon - Foregrip 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1739,7 +1739,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12888726374622842928
+      Id: 8896065045855419906
       Name: "Modern Weapon - Disc 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1748,7 +1748,7 @@ Assets {
       }
     }
     Assets {
-      Id: 1737305543685255753
+      Id: 16660186097214861606
       Name: "Modern Weapon - Body 04"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1757,8 +1757,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Grenade_Launcher"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

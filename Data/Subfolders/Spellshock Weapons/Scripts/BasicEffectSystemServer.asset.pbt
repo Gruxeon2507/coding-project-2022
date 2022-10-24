@@ -1,5 +1,5 @@
 Assets {
-  Id: 8743848130519535426
+  Id: 1420843286743093904
   Name: "BasicEffectSystemServer"
   PlatformAssetType: 3
   TextAsset {

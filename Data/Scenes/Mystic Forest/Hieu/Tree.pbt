@@ -1,7 +1,7 @@
 Name: "Hieu"
-RootId: 14465705016064259753
+RootId: 14834367447100320855
 Objects {
-  Id: 11537836127534206484
+  Id: 17207419436831548202
   Name: "Portal"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14465705016064259753
+  ParentId: 14834367447100320855
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37,7 +37,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8607376629379078581
+  Id: 12446457858408014653
   Name: "Portal location"
   Transform {
     Location {
@@ -50,7 +50,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14465705016064259753
+  ParentId: 14834367447100320855
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

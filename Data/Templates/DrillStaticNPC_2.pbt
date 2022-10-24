@@ -552,7 +552,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 916665379155427451
+            Id: 15961349352539224933
           }
           Teams {
             IsEnemyCollisionEnabled: true
@@ -1366,7 +1366,7 @@ Assets {
       }
     }
     Assets {
-      Id: 916665379155427451
+      Id: 15961349352539224933
       Name: "Capsule"
       PlatformAssetType: 1
       PrimaryAsset {

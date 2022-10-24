@@ -1,7 +1,7 @@
 Name: "PierTile_17"
-RootId: 8123570449610978597
+RootId: 13122693046968156112
 Objects {
-  Id: 10354256217886813402
+  Id: 1493080235356973140
   Name: "Post"
   Transform {
     Location {
@@ -18,9 +18,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8123570449610978597
-  ChildIds: 16588441565936343026
-  ChildIds: 15723239830264502862
+  ParentId: 13122693046968156112
+  ChildIds: 1511639553052407279
+  ChildIds: 14512685848452460869
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,7 +41,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15723239830264502862
+  Id: 14512685848452460869
   Name: "ClientContext"
   Transform {
     Location {
@@ -57,9 +57,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10354256217886813402
-  ChildIds: 17299116867973115134
-  ChildIds: 6290240935054694671
+  ParentId: 1493080235356973140
+  ChildIds: 15323124012588332828
+  ChildIds: 12134085224013328803
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -83,7 +83,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6290240935054694671
+  Id: 12134085224013328803
   Name: "Ring - Thick"
   Transform {
     Location {
@@ -102,7 +102,7 @@ Objects {
       Z: 0.390394747
     }
   }
-  ParentId: 15723239830264502862
+  ParentId: 14512685848452460869
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -166,7 +166,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17299116867973115134
+  Id: 15323124012588332828
   Name: "Ring - Thick"
   Transform {
     Location {
@@ -185,7 +185,7 @@ Objects {
       Z: 0.390394747
     }
   }
-  ParentId: 15723239830264502862
+  ParentId: 14512685848452460869
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -249,7 +249,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16588441565936343026
+  Id: 1511639553052407279
   Name: "Large Round Wood Beam 8m"
   Transform {
     Location {
@@ -268,7 +268,7 @@ Objects {
       Z: 0.562187314
     }
   }
-  ParentId: 10354256217886813402
+  ParentId: 1493080235356973140
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -335,7 +335,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18424109377398438030
+  Id: 9935798681370489674
   Name: "Post"
   Transform {
     Location {
@@ -352,13 +352,13 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8123570449610978597
-  ChildIds: 15508422250799302617
-  ChildIds: 14096109012828794374
-  ChildIds: 9953004500632675220
-  ChildIds: 8882608745475768147
-  ChildIds: 17799004876701905495
-  ChildIds: 5209617654005457463
+  ParentId: 13122693046968156112
+  ChildIds: 701594312670947673
+  ChildIds: 4069759275854515493
+  ChildIds: 11561215852777655024
+  ChildIds: 3151476005400535001
+  ChildIds: 10387326474126999169
+  ChildIds: 3153594379592944017
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -379,7 +379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5209617654005457463
+  Id: 3153594379592944017
   Name: "Large Round Wood Beam 8m"
   Transform {
     Location {
@@ -398,7 +398,7 @@ Objects {
       Z: 0.562187314
     }
   }
-  ParentId: 18424109377398438030
+  ParentId: 9935798681370489674
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -465,7 +465,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17799004876701905495
+  Id: 10387326474126999169
   Name: "Large Round Wood Beam 8m"
   Transform {
     Location {
@@ -484,7 +484,7 @@ Objects {
       Z: 0.562187314
     }
   }
-  ParentId: 18424109377398438030
+  ParentId: 9935798681370489674
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -551,7 +551,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8882608745475768147
+  Id: 3151476005400535001
   Name: "Large Round Wood Beam 8m"
   Transform {
     Location {
@@ -570,7 +570,7 @@ Objects {
       Z: 0.562181115
     }
   }
-  ParentId: 18424109377398438030
+  ParentId: 9935798681370489674
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -637,7 +637,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9953004500632675220
+  Id: 11561215852777655024
   Name: "Large Round Wood Beam 8m"
   Transform {
     Location {
@@ -656,7 +656,7 @@ Objects {
       Z: 0.562187314
     }
   }
-  ParentId: 18424109377398438030
+  ParentId: 9935798681370489674
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -723,7 +723,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14096109012828794374
+  Id: 4069759275854515493
   Name: "ClientContext"
   Transform {
     Location {
@@ -739,9 +739,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18424109377398438030
-  ChildIds: 558687105109190809
-  ChildIds: 17072708612422338075
+  ParentId: 9935798681370489674
+  ChildIds: 1362688699214170860
+  ChildIds: 5537823897722820446
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -765,7 +765,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17072708612422338075
+  Id: 5537823897722820446
   Name: "Ring - Thick"
   Transform {
     Location {
@@ -781,7 +781,7 @@ Objects {
       Z: 0.390394747
     }
   }
-  ParentId: 14096109012828794374
+  ParentId: 4069759275854515493
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -845,7 +845,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 558687105109190809
+  Id: 1362688699214170860
   Name: "Ring - Thick"
   Transform {
     Location {
@@ -859,7 +859,7 @@ Objects {
       Z: 0.390394747
     }
   }
-  ParentId: 14096109012828794374
+  ParentId: 4069759275854515493
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -923,7 +923,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15508422250799302617
+  Id: 701594312670947673
   Name: "Large Round Wood Beam 8m"
   Transform {
     Location {
@@ -942,7 +942,7 @@ Objects {
       Z: 0.562187314
     }
   }
-  ParentId: 18424109377398438030
+  ParentId: 9935798681370489674
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -1009,7 +1009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18272988846044701157
+  Id: 2640287703290558219
   Name: "ClientContext"
   Transform {
     Location {
@@ -1025,15 +1025,15 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8123570449610978597
-  ChildIds: 11791086117314839556
-  ChildIds: 11443283917743809717
-  ChildIds: 14345923287608874994
-  ChildIds: 2021633570526041402
-  ChildIds: 15326116363839960604
-  ChildIds: 5079340193784870795
-  ChildIds: 12769900416623402688
-  ChildIds: 18413957982536874204
+  ParentId: 13122693046968156112
+  ChildIds: 13855479598481293463
+  ChildIds: 5374825456881476642
+  ChildIds: 15346826604716611345
+  ChildIds: 5309244851149626820
+  ChildIds: 5319233105417533323
+  ChildIds: 8145521290624596746
+  ChildIds: 11087792619576254527
+  ChildIds: 9921361506668889666
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1057,7 +1057,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18413957982536874204
+  Id: 9921361506668889666
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1075,7 +1075,7 @@ Objects {
       Z: 0.315937281
     }
   }
-  ParentId: 18272988846044701157
+  ParentId: 2640287703290558219
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1134,7 +1134,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12769900416623402688
+  Id: 11087792619576254527
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1153,7 +1153,7 @@ Objects {
       Z: 0.315939128
     }
   }
-  ParentId: 18272988846044701157
+  ParentId: 2640287703290558219
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1212,7 +1212,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5079340193784870795
+  Id: 8145521290624596746
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1231,7 +1231,7 @@ Objects {
       Z: 0.315930158
     }
   }
-  ParentId: 18272988846044701157
+  ParentId: 2640287703290558219
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1290,7 +1290,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15326116363839960604
+  Id: 5319233105417533323
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1309,7 +1309,7 @@ Objects {
       Z: 0.315936446
     }
   }
-  ParentId: 18272988846044701157
+  ParentId: 2640287703290558219
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1368,7 +1368,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2021633570526041402
+  Id: 5309244851149626820
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1387,7 +1387,7 @@ Objects {
       Z: 0.315950543
     }
   }
-  ParentId: 18272988846044701157
+  ParentId: 2640287703290558219
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1446,7 +1446,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14345923287608874994
+  Id: 15346826604716611345
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1465,7 +1465,7 @@ Objects {
       Z: 0.315938264
     }
   }
-  ParentId: 18272988846044701157
+  ParentId: 2640287703290558219
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1524,7 +1524,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11443283917743809717
+  Id: 5374825456881476642
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1543,7 +1543,7 @@ Objects {
       Z: 0.31592983
     }
   }
-  ParentId: 18272988846044701157
+  ParentId: 2640287703290558219
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1602,7 +1602,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11791086117314839556
+  Id: 13855479598481293463
   Name: "Group"
   Transform {
     Location {
@@ -1618,21 +1618,21 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18272988846044701157
-  ChildIds: 11939115120095570623
-  ChildIds: 5598276113010302928
-  ChildIds: 1277938919058929528
-  ChildIds: 4999565421042923480
-  ChildIds: 16222768375490635071
-  ChildIds: 17913581951984903808
-  ChildIds: 8232552092108249374
-  ChildIds: 5541889973982936521
-  ChildIds: 14423237186418080591
-  ChildIds: 1924722861804940851
-  ChildIds: 11857853640375410474
-  ChildIds: 13671138552872907551
-  ChildIds: 13842863819513072747
-  ChildIds: 12109793716247954364
+  ParentId: 2640287703290558219
+  ChildIds: 15770376091535386046
+  ChildIds: 12489545537032422878
+  ChildIds: 860392502071589153
+  ChildIds: 14398021325795024731
+  ChildIds: 10737175226488157762
+  ChildIds: 6319323242276603953
+  ChildIds: 15771279281010123693
+  ChildIds: 14810772519087326115
+  ChildIds: 6298193033386099868
+  ChildIds: 15400398430521349304
+  ChildIds: 12262721426547441320
+  ChildIds: 13346322418389235925
+  ChildIds: 6067261646642160015
+  ChildIds: 16796894146045891518
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1651,7 +1651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12109793716247954364
+  Id: 16796894146045891518
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1670,7 +1670,7 @@ Objects {
       Z: 0.315930665
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1729,7 +1729,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13842863819513072747
+  Id: 6067261646642160015
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1745,7 +1745,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1804,7 +1804,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13671138552872907551
+  Id: 13346322418389235925
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1820,7 +1820,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1878,7 +1878,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11857853640375410474
+  Id: 12262721426547441320
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1895,7 +1895,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1954,7 +1954,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1924722861804940851
+  Id: 15400398430521349304
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -1971,7 +1971,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2030,7 +2030,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14423237186418080591
+  Id: 6298193033386099868
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2049,7 +2049,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2107,7 +2107,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5541889973982936521
+  Id: 14810772519087326115
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2123,7 +2123,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2182,7 +2182,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8232552092108249374
+  Id: 15771279281010123693
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2201,7 +2201,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2259,7 +2259,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17913581951984903808
+  Id: 6319323242276603953
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2276,7 +2276,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2334,7 +2334,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16222768375490635071
+  Id: 10737175226488157762
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2350,7 +2350,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2409,7 +2409,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4999565421042923480
+  Id: 14398021325795024731
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2425,7 +2425,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2483,7 +2483,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1277938919058929528
+  Id: 860392502071589153
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2500,7 +2500,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2558,7 +2558,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5598276113010302928
+  Id: 12489545537032422878
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2574,7 +2574,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2632,7 +2632,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11939115120095570623
+  Id: 15770376091535386046
   Name: "Craftsman Roof 01 Beam"
   Transform {
     Location {
@@ -2651,7 +2651,7 @@ Objects {
       Z: 0.315929979
     }
   }
-  ParentId: 11791086117314839556
+  ParentId: 13855479598481293463
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

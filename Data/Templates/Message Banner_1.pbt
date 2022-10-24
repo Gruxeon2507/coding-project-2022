@@ -1,6 +1,6 @@
 Assets {
-  Id: 16558251170500315706
-  Name: "Message Banner"
+  Id: 5987772215700147652
+  Name: "Message Banner_1"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6344321037654884984
+        ParentId: 5628166357863187692
         ChildIds: 11273653940987149079
         UnregisteredParameters {
           Overrides {
@@ -23,8 +23,16 @@ Assets {
             Float: 3
           }
           Overrides {
+            Name: "cs:LocalMessageSpawnOffset"
+            Float: 200
+          }
+          Overrides {
             Name: "cs:DefaultDuration:tooltip"
             String: "Default duration of a message if none is specified"
+          }
+          Overrides {
+            Name: "cs:LocalMessageSpawnOffset:tooltip"
+            String: "World local player offset to display local message on the player"
           }
         }
         Collidable_v2 {
@@ -108,6 +116,12 @@ Assets {
             }
           }
           Overrides {
+            Name: "cs:Canvas"
+            ObjectReference {
+              SubObjectId: 13042368893488459696
+            }
+          }
+          Overrides {
             Name: "cs:Panel"
             ObjectReference {
               SubObjectId: 13469228761640500648
@@ -117,6 +131,12 @@ Assets {
             Name: "cs:TextBox"
             ObjectReference {
               SubObjectId: 2215929790428371099
+            }
+          }
+          Overrides {
+            Name: "cs:Helper"
+            AssetReference {
+              Id: 3237383946689991651
             }
           }
         }
@@ -217,6 +237,7 @@ Assets {
           }
         }
         ParentId: 13042368893488459696
+        ChildIds: 17231795282907160772
         ChildIds: 2215929790428371099
         UnregisteredParameters {
         }
@@ -224,15 +245,15 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
+          Value: "mc:evisibilitysetting:forceoff"
         }
         CameraCollidable {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Control {
-          Width: 600
-          Height: 100
-          UIY: -250
+          Width: 650
+          Height: 80
+          UIY: 150
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -246,12 +267,76 @@ Assets {
           AnchorLayout {
             SelfAnchor {
               Anchor {
-                Value: "mc:euianchor:middlecenter"
+                Value: "mc:euianchor:topcenter"
               }
             }
             TargetAnchor {
               Anchor {
-                Value: "mc:euianchor:middlecenter"
+                Value: "mc:euianchor:topcenter"
+              }
+            }
+          }
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 17231795282907160772
+        Name: "Background"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 13469228761640500648
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Control {
+          Width: 200
+          Height: 200
+          RenderTransformPivot {
+            Anchor {
+              Value: "mc:euianchor:middlecenter"
+            }
+          }
+          UseParentWidth: true
+          UseParentHeight: true
+          Image {
+            Brush {
+              Id: 16241833908851998054
+            }
+            Color {
+              A: 0.7
+            }
+            TeamSettings {
+            }
+          }
+          AnchorLayout {
+            SelfAnchor {
+              Anchor {
+                Value: "mc:euianchor:topleft"
+              }
+            }
+            TargetAnchor {
+              Anchor {
+                Value: "mc:euianchor:topleft"
               }
             }
           }
@@ -288,13 +373,15 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Control {
-          Width: 600
+          Width: 1000
           Height: 100
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
             }
           }
+          UseParentWidth: true
+          UseParentHeight: true
           Text {
             Label: "Message Banner"
             Color {
@@ -303,7 +390,7 @@ Assets {
               B: 1
               A: 1
             }
-            Size: 50
+            Size: 35
             Justification {
               Value: "mc:etextjustify:center"
             }
@@ -330,9 +417,18 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
     }
+    Assets {
+      Id: 16241833908851998054
+      Name: "BG Flat 001"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "BackgroundNoOutline_020"
+      }
+    }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Message_Banner"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

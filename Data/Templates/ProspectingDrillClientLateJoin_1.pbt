@@ -4633,7 +4633,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail2:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
           Overrides {
@@ -4706,7 +4706,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail2:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
           Overrides {
@@ -4779,7 +4779,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail2:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
           Overrides {
@@ -8770,7 +8770,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 176657189573041657
+            Id: 16422402715484218975
           }
           TeamSettings {
           }
@@ -8924,7 +8924,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 15098207180537156255
+            Id: 17772147750865925804
           }
           TeamSettings {
           }
@@ -9571,7 +9571,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13846976516959842924
+            Id: 14033516595759912113
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -9638,7 +9638,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13846976516959842924
+            Id: 14033516595759912113
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -9823,7 +9823,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3702191406046426907
+      Id: 8375575103126610230
       Name: "Emissive Glow Transparent"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -10165,7 +10165,7 @@ Assets {
       }
     }
     Assets {
-      Id: 176657189573041657
+      Id: 16422402715484218975
       Name: "Resurrection VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -10183,7 +10183,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15098207180537156255
+      Id: 17772147750865925804
       Name: "Smoke Puff VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -10210,7 +10210,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13846976516959842924
+      Id: 14033516595759912113
       Name: "Cylinder - Rounded Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {

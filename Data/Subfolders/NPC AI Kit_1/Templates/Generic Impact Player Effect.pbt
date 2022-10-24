@@ -1,5 +1,5 @@
 Assets {
-  Id: 10450562880352998963
+  Id: 17700892954660083031
   Name: "Generic Impact Player Effect"
   PlatformAssetType: 5
   TemplateAsset {

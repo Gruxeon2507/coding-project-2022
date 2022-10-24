@@ -174,7 +174,7 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 16313312156352177803
+              Id: 454342676869593369
             }
             MuzzleFlashAssetRef {
               Id: 10464718583626148499
@@ -1046,7 +1046,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13382674751763746283
+            Id: 5313138906443410855
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1403,7 +1403,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13382674751763746283
+      Id: 5313138906443410855
       Name: "Modern Weapon - Barrel Tip 03"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1430,8 +1430,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Shotgun"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

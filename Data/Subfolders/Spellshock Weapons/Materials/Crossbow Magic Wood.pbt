@@ -1,5 +1,5 @@
 Assets {
-  Id: 13877822243645595477
+  Id: 4530429820015276324
   Name: "Crossbow Magic Wood"
   PlatformAssetType: 13
   SerializationVersion: 119

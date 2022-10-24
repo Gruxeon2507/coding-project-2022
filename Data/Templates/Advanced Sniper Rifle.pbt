@@ -196,7 +196,7 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 16313312156352177803
+              Id: 454342676869593369
             }
             MuzzleFlashAssetRef {
               Id: 14699126022621410800
@@ -933,7 +933,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6777447344140592468
+              Id: 15487062404605779941
             }
           }
         }
@@ -948,7 +948,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4191189716791684405
+            Id: 6000681835192046231
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1000,7 +1000,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9468343199086191247
+            Id: 4350409863342671922
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1156,7 +1156,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1905297035267569611
+            Id: 2301451289793951865
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1208,7 +1208,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2555126108594706721
+            Id: 104993620348747623
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1475,7 +1475,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4191189716791684405
+      Id: 6000681835192046231
       Name: "Pipe - Thick"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1484,7 +1484,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6777447344140592468
+      Id: 15487062404605779941
       Name: "Metal Steel Brushed"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1493,7 +1493,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9468343199086191247
+      Id: 4350409863342671922
       Name: "Modern Weapon - Barrel Tip 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1520,7 +1520,7 @@ Assets {
       }
     }
     Assets {
-      Id: 1905297035267569611
+      Id: 2301451289793951865
       Name: "Modern Weapon - Stock 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1529,7 +1529,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2555126108594706721
+      Id: 104993620348747623
       Name: "Modern Weapon - Magazine 03"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1547,8 +1547,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Sniper_Rifle"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

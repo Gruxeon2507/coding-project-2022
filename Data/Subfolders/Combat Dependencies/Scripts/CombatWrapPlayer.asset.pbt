@@ -1,5 +1,5 @@
 Assets {
-  Id: 8460438841108947210
+  Id: 11422777986337933230
   Name: "CombatWrapPlayer"
   PlatformAssetType: 3
   TextAsset {

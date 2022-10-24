@@ -1,5 +1,5 @@
 Assets {
-  Id: 9998745348949083936
+  Id: 5830575252537800596
   Name: "Kustom ArmourSet1 Coloured Metal "
   PlatformAssetType: 13
   SerializationVersion: 119

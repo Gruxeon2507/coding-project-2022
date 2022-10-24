@@ -1,5 +1,5 @@
 Assets {
-  Id: 18154052875178810801
+  Id: 14732409602630050242
   Name: "DestructibleWeaponServer"
   PlatformAssetType: 3
   TextAsset {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 1583226035276894740
+  Id: 12032594900836236228
   Name: "AnimControllerRaptor"
   PlatformAssetType: 3
   TextAsset {
@@ -13,18 +13,6 @@ Assets {
         Name: "cs:Root"
         ObjectReference {
         }
-      }
-      Overrides {
-        Name: "cs:IdleStance"
-        String: "unarmed_idle_ready"
-      }
-      Overrides {
-        Name: "cs:WalkStance"
-        String: "unarmed_walk_forward"
-      }
-      Overrides {
-        Name: "cs:RunStance"
-        String: "unarmed_run_forward"
       }
       Overrides {
         Name: "cs:AnimatedMesh:tooltip"

@@ -1,5 +1,5 @@
 Assets {
-  Id: 16131689083535508831
+  Id: 13827295165921752638
   Name: "VFX_ItemSystems_LootRare"
   PlatformAssetType: 5
   TemplateAsset {

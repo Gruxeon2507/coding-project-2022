@@ -1,7 +1,7 @@
 --[[
 	NPC Manager
+	v0.11.2
 	by: standardcombo
-	v0.9.0
 	
 	Provides bookkeeping on all NPCs contained in a game.
 --]]
@@ -26,6 +26,11 @@ end
 
 function API.RegisterCollider(npc, collider)
 	npcColliders[collider] = npc
+end
+
+
+function API.IsRegistered(npc)
+	return allNPCs[npc] ~= nil
 end
 
 

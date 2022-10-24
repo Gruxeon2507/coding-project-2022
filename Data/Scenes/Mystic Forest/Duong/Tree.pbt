@@ -1,7 +1,7 @@
 Name: "Duong"
-RootId: 10363231036204020364
+RootId: 8390567608735832519
 Objects {
-  Id: 7119694552728076501
+  Id: 14784000909502167293
   Name: "Runteran"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10363231036204020364
+  ParentId: 8390567608735832519
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

@@ -26,7 +26,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 12956774454661636931
+              Id: 10582278170124815413
             }
           }
           Overrides {
@@ -387,7 +387,7 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 8464091643503470018
+              Id: 6293136703299536603
             }
           }
           Overrides {
@@ -396,7 +396,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
             }
           }
         }
@@ -444,7 +444,7 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 11830505573971306659
+              Id: 5102476851655589481
             }
           }
           Overrides {
@@ -453,7 +453,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
             }
           }
         }
@@ -1374,30 +1374,30 @@ Assets {
       }
     }
     Assets {
-      Id: 12956774454661636931
-      Name: "Icon Weapon Crossbow"
+      Id: 10582278170124815413
+      Name: "Fantasy Crossbow 006"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_WeaponCrossbow"
+        AssetId: "UI_Fantasy_Weapon_Crossbow_006"
       }
     }
     Assets {
-      Id: 8464091643503470018
-      Name: "Target"
+      Id: 6293136703299536603
+      Name: "Fantasy Ability Green 002"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_icon_Target"
+        AssetId: "UI_Fantasy_Ability_Green_002"
       }
     }
     Assets {
-      Id: 11830505573971306659
-      Name: "Icon Rotate"
+      Id: 5102476851655589481
+      Name: "Fantasy Ability Green 045"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_ArrowRotate"
+        AssetId: "UI_Fantasy_Ability_Green_045"
       }
     }
     Assets {

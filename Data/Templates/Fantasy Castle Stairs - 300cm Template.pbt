@@ -1,5 +1,5 @@
 Assets {
-  Id: 11806819023727256620
+  Id: 1921757534067127091
   Name: "Fantasy Castle Stairs - 300cm Template"
   PlatformAssetType: 5
   TemplateAsset {
@@ -63,7 +63,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9842143421296066252
+            Id: 13184115999073471692
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -112,7 +112,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9842143421296066252
+            Id: 13184115999073471692
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -194,7 +194,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13895290989889815401
+            Id: 16975873185550533488
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -244,7 +244,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16626931919023374994
+            Id: 2064701301702192237
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -293,7 +293,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 5690610490455183775
+            Id: 13588964613684620058
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -376,7 +376,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13895290989889815401
+            Id: 16975873185550533488
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -426,7 +426,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16626931919023374994
+            Id: 2064701301702192237
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -475,7 +475,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 5690610490455183775
+            Id: 13588964613684620058
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -498,7 +498,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9842143421296066252
+      Id: 13184115999073471692
       Name: "Fantasy Castle Stairs 01 - 150cm"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -507,7 +507,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13895290989889815401
+      Id: 16975873185550533488
       Name: "Stair Bannister - Bottom"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -516,7 +516,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16626931919023374994
+      Id: 2064701301702192237
       Name: "Stair Bannister - Mid"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -525,7 +525,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5690610490455183775
+      Id: 13588964613684620058
       Name: "Stair Bannister - Top"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -534,8 +534,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Fantasy_Castle_Stairs_-_300cm_Template"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

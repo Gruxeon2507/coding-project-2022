@@ -8,6 +8,15 @@ Assets {
   }
 }
 Assets {
+  Id: 17441290424813224728
+  Name: "Cylinder - Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_hq_test_001"
+  }
+}
+Assets {
   Id: 17205809747589074999
   Name: "Ring"
   PlatformAssetType: 1
@@ -26,21 +35,12 @@ Assets {
   }
 }
 Assets {
-  Id: 13776228291040685428
+  Id: 7801859645287117218
   Name: "Cone - Truncated"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cone_truncated_001"
-  }
-}
-Assets {
-  Id: 12905923173550510229
-  Name: "Cylinder - Polished"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_hq_test_001"
   }
 }
 Assets {

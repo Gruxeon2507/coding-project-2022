@@ -1,30 +1,18 @@
 Assets {
-  Id: 17519468288784102499
+  Id: 15284449155210967813
   Name: "Custom Leaves from Kelp Tall Bush 01"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 8251872854438622409
+    BaseMaterialId: 15427301567778243938
     ParameterOverrides {
       Overrides {
-        Name: "color"
-        Color {
-          R: 0.210728481
-          G: 0.37
-          A: 1
-        }
-      }
-      Overrides {
-        Name: "color_accent"
-        Color {
-          R: 0.364238381
-          G: 0.5
-          A: 1
-        }
+        Name: "wind_speed"
+        Float: 0
       }
     }
     Assets {
-      Id: 8251872854438622409
+      Id: 15427301567778243938
       Name: "Kelp (default)"
       PlatformAssetType: 2
       PrimaryAsset {

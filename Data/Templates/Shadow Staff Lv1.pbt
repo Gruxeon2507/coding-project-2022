@@ -94,7 +94,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 20000
             ImpactPlayerAssetRef {
-              Id: 9237238264367741815
+              Id: 14782481216819325752
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -256,7 +256,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16334840297422696574
+            Id: 11145628254934127387
           }
         }
         NetworkRelevanceDistance {
@@ -363,7 +363,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
         }
@@ -378,7 +378,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12300960555627151165
+            Id: 14150387368533688185
           }
         }
         NetworkRelevanceDistance {
@@ -656,7 +656,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15076015910339775634
+              Id: 12629436541872600207
             }
           }
           Overrides {
@@ -1057,7 +1057,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15076015910339775634
+      Id: 12629436541872600207
       Name: "Rope"
       PlatformAssetType: 2
       PrimaryAsset {

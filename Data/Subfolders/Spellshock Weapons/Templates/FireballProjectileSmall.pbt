@@ -1,5 +1,5 @@
 Assets {
-  Id: 17394256842907642079
+  Id: 4199167198625080835
   Name: "FireballProjectileSmall"
   PlatformAssetType: 5
   TemplateAsset {
@@ -157,7 +157,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 7873046479115333864
+              Id: 9180821862924418703
             }
           }
           Overrides {

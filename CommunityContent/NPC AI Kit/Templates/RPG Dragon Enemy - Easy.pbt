@@ -1,5 +1,5 @@
 Assets {
-  Id: 12692302729365005027
+  Id: 4513260399177762156
   Name: "RPG Dragon Enemy - Easy"
   PlatformAssetType: 5
   TemplateAsset {
@@ -301,7 +301,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14355663156094277575
+            Id: 3445262167931217952
           }
         }
         NetworkRelevanceDistance {
@@ -348,25 +348,25 @@ Assets {
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 15236417850284746349
+              Id: 5974107287307707605
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 9231322887817367046
+              Id: 11703719828164912067
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 2926696628362732479
+              Id: 8723218998259786350
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 6284695012719478567
+              Id: 14610469048655208060
             }
           }
           Overrides {
@@ -398,7 +398,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14496785910523820594
+            Id: 8900240983404364511
           }
         }
         NetworkRelevanceDistance {
@@ -635,7 +635,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3222042287547308441
+            Id: 10958983619166347657
           }
         }
         NetworkRelevanceDistance {
@@ -668,13 +668,13 @@ Assets {
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 4987140227369595307
+              Id: 14290793500159662310
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 4987140227369595307
+              Id: 14290793500159662310
             }
           }
         }
@@ -689,7 +689,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6305287414204589942
+            Id: 16336659432588462161
           }
         }
         NetworkRelevanceDistance {
@@ -801,7 +801,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11845897920668479704
+            Id: 9670715559910214853
           }
         }
         NetworkRelevanceDistance {
@@ -853,7 +853,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8744227315071594010
+            Id: 5011010806513705945
           }
         }
         NetworkRelevanceDistance {

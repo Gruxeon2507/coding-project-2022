@@ -1,7 +1,7 @@
 Name: "Book set"
-RootId: 13241095077184483119
+RootId: 7005289635843926713
 Objects {
-  Id: 6813097160260870642
+  Id: 1038175990249246237
   Name: "Book "
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13241095077184483119
+  ParentId: 7005289635843926713
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34,13 +34,19 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Book"
   }
+  InstanceHistory {
+    SelfId: 1038175990249246237
+    SubobjectId: 17075643228332928077
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11603321914805162572
+  Id: 12235055315293696423
   Name: "Book "
   Transform {
     Location {
@@ -59,7 +65,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13241095077184483119
+  ParentId: 7005289635843926713
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -73,13 +79,19 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Book_1"
   }
+  InstanceHistory {
+    SelfId: 12235055315293696423
+    SubobjectId: 5429983698586309623
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3048434603201431402
+  Id: 4515681675953786357
   Name: "Book "
   Transform {
     Location {
@@ -96,7 +108,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13241095077184483119
+  ParentId: 7005289635843926713
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -110,13 +122,19 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Book_2"
   }
+  InstanceHistory {
+    SelfId: 4515681675953786357
+    SubobjectId: 15869106276282970021
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16266475959531847196
+  Id: 17013597639098972515
   Name: "Book "
   Transform {
     Location {
@@ -133,7 +151,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13241095077184483119
+  ParentId: 7005289635843926713
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -146,6 +164,12 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Book_3"
+  }
+  InstanceHistory {
+    SelfId: 17013597639098972515
+    SubobjectId: 1048485984143465267
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

@@ -16,8 +16,8 @@ end
 function ShowEffectText(targetPlayer, sourcePlayer, effectName)
     if effectsTexts[effectName] then
         if LOCAL_PLAYER == targetPlayer then
-            Events.Broadcast("FlyUpText", targetPlayer:GetWorldPosition(),
-                            effectsTexts[effectName].text, effectsTexts[effectName].color, 1)
+            UI.ShowFlyUpText(effectsTexts[effectName].text, targetPlayer:GetWorldPosition(),
+            {color = effectsTexts[effectName].color, duration = 1})
         end
     end
 end

@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 4367680979899409124
+    BaseMaterialId: 12442910455658758482
     ParameterOverrides {
       Overrides {
         Name: "color"
@@ -27,7 +27,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4367680979899409124
+      Id: 12442910455658758482
       Name: "Wireframe"
       PlatformAssetType: 2
       PrimaryAsset {

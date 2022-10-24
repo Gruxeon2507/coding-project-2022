@@ -1,5 +1,5 @@
 Assets {
-  Id: 7788901531937892726
+  Id: 15162446166091514048
   Name: "LightningGauntlet_ProjectileBody"
   PlatformAssetType: 5
   TemplateAsset {

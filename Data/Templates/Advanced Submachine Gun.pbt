@@ -174,7 +174,7 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 16313312156352177803
+              Id: 454342676869593369
             }
             MuzzleFlashAssetRef {
               Id: 15428046884929289480
@@ -1307,8 +1307,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Submachine_Gun"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

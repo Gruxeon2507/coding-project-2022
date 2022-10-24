@@ -1,5 +1,5 @@
 Assets {
-  Id: 13544716362116832690
+  Id: 14658433674354087559
   Name: "Third Person Camera Settings"
   PlatformAssetType: 5
   TemplateAsset {
@@ -39,7 +39,7 @@ Assets {
       }
       Objects {
         Id: 11592647923584693331
-        Name: "Player Settings"
+        Name: "Third Person Player Settings"
         Transform {
           Location {
           }
@@ -208,7 +208,6 @@ Assets {
           }
           MinPitch: -89
           MaxPitch: 89
-          DoesPositionOffsetSpring: true
           UseAsAudioListener: true
           IsCameraCollisionEnabled: true
         }

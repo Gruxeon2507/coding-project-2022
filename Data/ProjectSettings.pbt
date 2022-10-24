@@ -1,1 +1,3 @@
-MainScene: "Main"
+LeaderboardConfigs {
+}
+MainScene: "NewScene"

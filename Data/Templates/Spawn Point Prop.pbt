@@ -80,7 +80,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13629958479359906438
+            Id: 14033516595759912113
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -167,7 +167,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13629958479359906438
+      Id: 14033516595759912113
       Name: "Cylinder - Rounded Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {

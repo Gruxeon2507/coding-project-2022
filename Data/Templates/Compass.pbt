@@ -371,8 +371,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Compass"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

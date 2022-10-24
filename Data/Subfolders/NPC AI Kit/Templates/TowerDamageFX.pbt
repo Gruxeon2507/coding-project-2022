@@ -1,5 +1,5 @@
 Assets {
-  Id: 2867894960563358675
+  Id: 8386543184372739831
   Name: "TowerDamageFX"
   PlatformAssetType: 5
   TemplateAsset {

@@ -1,48 +1,39 @@
 Assets {
-  Id: 7387080870665285861
+  Id: 5492359657789813799
   Name: "Custom Jungle Vine (tileable)"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 8367892700241526517
+    BaseMaterialId: 3948644573112367886
     ParameterOverrides {
       Overrides {
         Name: "material_scale"
-        Float: 3
+        Float: 3.91321564
+      }
+      Overrides {
+        Name: "wind_weight"
+        Float: 0.428402156
+      }
+      Overrides {
+        Name: "wind_intensity"
+        Float: 0.2
+      }
+      Overrides {
+        Name: "wind_speed"
+        Float: 0.2
       }
       Overrides {
         Name: "color"
         Color {
-          R: 0.729166687
-          G: 0.729166687
-          B: 0.729166687
+          R: 1
+          G: 1
+          B: 1
           A: 1
         }
-      }
-      Overrides {
-        Name: "SSS"
-        Color {
-          R: 0.229427293
-          G: 0.296875
-          B: 0.102665439
-          A: 1
-        }
-      }
-      Overrides {
-        Name: "wind_intensity"
-        Float: 0
-      }
-      Overrides {
-        Name: "wind_weight"
-        Float: 0
-      }
-      Overrides {
-        Name: "wind_speed"
-        Float: 0
       }
     }
     Assets {
-      Id: 8367892700241526517
+      Id: 3948644573112367886
       Name: "Jungle Vine (tileable)"
       PlatformAssetType: 2
       PrimaryAsset {

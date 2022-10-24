@@ -1,7 +1,7 @@
 Name: "Tornados_3"
-RootId: 12915068522068387343
+RootId: 7617844969364467267
 Objects {
-  Id: 9663007390060916541
+  Id: 1671727758756216167
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12915068522068387343
+  ParentId: 7617844969364467267
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -113,7 +113,7 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 15004758038195365583
+      Id: 14664694296490447970
     }
     TeamSettings {
     }
@@ -124,7 +124,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12042251598869788315
+  Id: 2288327247073328399
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -139,7 +139,7 @@ Objects {
       Z: 2.8
     }
   }
-  ParentId: 12915068522068387343
+  ParentId: 7617844969364467267
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -230,7 +230,7 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 15004758038195365583
+      Id: 14664694296490447970
     }
     TeamSettings {
     }
@@ -241,7 +241,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15400112832140718530
+  Id: 18350975872993144712
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -256,7 +256,7 @@ Objects {
       Z: 1.5999999
     }
   }
-  ParentId: 12915068522068387343
+  ParentId: 7617844969364467267
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -347,7 +347,7 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 15004758038195365583
+      Id: 14664694296490447970
     }
     TeamSettings {
     }
@@ -358,7 +358,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2693364639793764113
+  Id: 10661050467617266245
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -373,7 +373,7 @@ Objects {
       Z: 4
     }
   }
-  ParentId: 12915068522068387343
+  ParentId: 7617844969364467267
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -464,7 +464,7 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 15004758038195365583
+      Id: 14664694296490447970
     }
     TeamSettings {
     }

@@ -1,5 +1,5 @@
 Assets {
-  Id: 4270339374912796494
+  Id: 5215180160545542510
   Name: "Combat Dependencies"
   PlatformAssetType: 5
   TemplateAsset {
@@ -63,7 +63,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12145186844436576557
+            Id: 940246663610618094
           }
         }
         NetworkRelevanceDistance {
@@ -99,7 +99,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4215859112195530347
+            Id: 14696893350203112001
           }
         }
         NetworkRelevanceDistance {
@@ -133,7 +133,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13396501217959946747
+            Id: 11098645403751945226
           }
         }
         NetworkRelevanceDistance {
@@ -169,7 +169,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8958324762470824125
+            Id: 10922181564088941823
           }
         }
         NetworkRelevanceDistance {

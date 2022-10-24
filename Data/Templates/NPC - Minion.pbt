@@ -36,15 +36,15 @@ Assets {
           }
           Overrides {
             Name: "cs:CurrentHealth"
-            Float: 100
+            Float: 7000
           }
           Overrides {
             Name: "cs:MoveSpeed"
-            Float: 400
+            Float: 600
           }
           Overrides {
             Name: "cs:TurnSpeed"
-            Float: 2
+            Float: 10
           }
           Overrides {
             Name: "cs:LogicalPeriod"
@@ -52,7 +52,7 @@ Assets {
           }
           Overrides {
             Name: "cs:ReturnToSpawn"
-            Bool: false
+            Bool: true
           }
           Overrides {
             Name: "cs:VisionHalfAngle"
@@ -100,15 +100,15 @@ Assets {
           }
           Overrides {
             Name: "cs:IsPushable"
-            Bool: true
+            Bool: false
           }
           Overrides {
             Name: "cs:RewardResourceType"
-            String: "Coins"
+            String: "XP"
           }
           Overrides {
             Name: "cs:RewardResourceAmount"
-            Int: 1
+            Int: 2500
           }
           Overrides {
             Name: "cs:CurrentState:isrep"
@@ -462,14 +462,15 @@ Assets {
         Name: "Trigger"
         Transform {
           Location {
-            Z: 75
+            Y: 4.48681641
+            Z: 207.085449
           }
           Rotation {
           }
           Scale {
-            X: 1.99963439
-            Y: 1.99963439
-            Z: 1.99963439
+            X: 1.04979062
+            Y: 2.40024924
+            Z: 4.20946217
           }
         }
         ParentId: 10824057110103732665
@@ -489,7 +490,7 @@ Assets {
             IsEnemyCollisionEnabled: true
           }
           TriggerShape_v2 {
-            Value: "mc:etriggershape:sphere"
+            Value: "mc:etriggershape:capsule"
           }
           InteractionTemplate {
           }
@@ -721,7 +722,7 @@ Assets {
         Name: "GeoRoot"
         Transform {
           Location {
-            Z: 100
+            Z: 408.197266
           }
           Rotation {
           }
@@ -732,6 +733,7 @@ Assets {
           }
         }
         ParentId: 15237453016277013120
+        ChildIds: 11847961577584498926
         ChildIds: 689249790830115118
         ChildIds: 3008540531654709362
         ChildIds: 11009184272177931474
@@ -748,6 +750,64 @@ Assets {
         }
         Folder {
           IsGroup: true
+        }
+        NetworkRelevanceDistance {
+          Value: "mc:eproxyrelevance:critical"
+        }
+        IsReplicationEnabledByDefault: true
+      }
+      Objects {
+        Id: 11847961577584498926
+        Name: "Sphere"
+        Transform {
+          Location {
+            Z: -236.794922
+          }
+          Rotation {
+          }
+          Scale {
+            X: 3
+            Y: 3
+            Z: 3
+          }
+        }
+        ParentId: 12339521916787226805
+        UnregisteredParameters {
+          Overrides {
+            Name: "ma:Shared_BaseMaterial:id"
+            AssetReference {
+              Id: 1523214900353875295
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        CameraCollidable {
+          Value: "mc:ecollisionsetting:forceoff"
+        }
+        CoreMesh {
+          MeshAsset {
+            Id: 12434974458467685788
+          }
+          Teams {
+            IsTeamCollisionEnabled: true
+            IsEnemyCollisionEnabled: true
+          }
+          InteractWithTriggers: true
+          StaticMesh {
+            Physics {
+              Mass: 100
+              LinearDamping: 0.01
+            }
+            BoundsScale: 1
+          }
+        }
+        Relevance {
+          Value: "mc:eproxyrelevance:critical"
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -890,7 +950,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10184847056121543272
+              Id: 1523214900353875295
             }
           }
         }
@@ -1664,7 +1724,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10184847056121543272
+              Id: 1523214900353875295
             }
           }
         }
@@ -2561,7 +2621,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10184847056121543272
+              Id: 1523214900353875295
             }
           }
         }
@@ -5311,7 +5371,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10184847056121543272
+              Id: 1523214900353875295
             }
           }
         }
@@ -5847,6 +5907,15 @@ Assets {
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
         AssetId: "mi_basic_pbr_material_001"
+      }
+    }
+    Assets {
+      Id: 1523214900353875295
+      Name: "Snow 01"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_snow_001_uv"
       }
     }
     Assets {

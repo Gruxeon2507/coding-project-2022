@@ -9,13 +9,13 @@ Assets {
       Overrides {
         Name: "cmp:Material1"
         AssetReference {
-          Id: 11430665397504945347
+          Id: 13560184903873632544
         }
       }
       Overrides {
         Name: "cmp:Material2"
         AssetReference {
-          Id: 10066279727218454518
+          Id: 3080982999999392268
         }
       }
       Overrides {
@@ -79,7 +79,7 @@ Assets {
       }
     }
     Assets {
-      Id: 11430665397504945347
+      Id: 13560184903873632544
       Name: "Moss 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -88,7 +88,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10066279727218454518
+      Id: 3080982999999392268
       Name: "Bricks Cobblestone Floor Arches 001"
       PlatformAssetType: 2
       PrimaryAsset {

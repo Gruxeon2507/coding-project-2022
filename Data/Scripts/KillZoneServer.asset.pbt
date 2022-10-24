@@ -1,5 +1,5 @@
 Assets {
-  Id: 3908110495107565482
+  Id: 1477968424916458495
   Name: "KillZoneServer"
   PlatformAssetType: 3
   TextAsset {

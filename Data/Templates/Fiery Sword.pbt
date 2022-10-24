@@ -31,15 +31,14 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 15201232689808388272
+              Id: 5982043299559036472
             }
           }
           Overrides {
             Name: "cs:EquipmentColor"
             Color {
-              R: 1
-              G: 0.49900651
-              B: 0.110000014
+              R: 0.330000043
+              G: 0.0852317959
               A: 1
             }
           }
@@ -834,9 +833,15 @@ Assets {
             Name: "cs:Color"
             Color {
               R: 1
-              G: 0.499006629
-              B: 0.110000014
-              A: 0.5
+              G: 1
+              B: 1
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 2042353230298908149
             }
           }
         }
@@ -891,9 +896,15 @@ Assets {
             Name: "cs:Color"
             Color {
               R: 1
-              G: 0.499006629
-              B: 0.110000014
-              A: 0.5
+              G: 1
+              B: 1
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 2042353230298908149
             }
           }
         }
@@ -948,9 +959,15 @@ Assets {
             Name: "cs:Color"
             Color {
               R: 1
-              G: 0.499006629
-              B: 0.110000014
-              A: 0.5
+              G: 1
+              B: 1
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 2042353230298908149
             }
           }
         }
@@ -3370,12 +3387,21 @@ Assets {
       }
     }
     Assets {
-      Id: 15201232689808388272
-      Name: "Icon Weapon Sword"
+      Id: 5982043299559036472
+      Name: "Fantasy Sword 017"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_WeaponSword"
+        AssetId: "UI_Fantasy_Weapon_Sword_017"
+      }
+    }
+    Assets {
+      Id: 2042353230298908149
+      Name: "Fantasy Ability Yellow 024"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Fantasy_Ability_Yellow_024"
       }
     }
     Assets {

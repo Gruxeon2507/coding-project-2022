@@ -108,7 +108,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -182,7 +182,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -256,7 +256,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -330,7 +330,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -443,7 +443,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -470,7 +470,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 5843968779716309529
+            Id: 13408400831664161508
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -515,13 +515,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -678,19 +678,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -755,19 +755,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -832,19 +832,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -862,7 +862,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12191325166408117371
+            Id: 16705290588942572512
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -908,19 +908,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -984,19 +984,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1060,19 +1060,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1136,19 +1136,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1212,19 +1212,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1288,19 +1288,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1365,19 +1365,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1442,19 +1442,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1519,19 +1519,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1596,19 +1596,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1673,19 +1673,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1749,19 +1749,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1825,19 +1825,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1901,19 +1901,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -1978,19 +1978,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2054,19 +2054,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2130,19 +2130,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2206,19 +2206,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2283,19 +2283,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2359,19 +2359,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2435,19 +2435,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2512,19 +2512,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2589,19 +2589,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
         }
@@ -2713,19 +2713,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -2810,19 +2810,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -2907,19 +2907,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3004,19 +3004,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3100,19 +3100,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3196,19 +3196,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3293,19 +3293,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3392,19 +3392,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3491,19 +3491,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3590,19 +3590,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3688,19 +3688,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3786,19 +3786,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3884,19 +3884,19 @@ Assets {
           Overrides {
             Name: "ma:Font.Bevel:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Faces:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
             Name: "ma:Font.Sides:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -3979,7 +3979,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -4073,7 +4073,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 1649456766954840161
+            Id: 5159221197509481978
           }
           TeamSettings {
           }
@@ -4134,7 +4134,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 1649456766954840161
+            Id: 5159221197509481978
           }
           TeamSettings {
           }
@@ -4193,7 +4193,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15288970234502648924
+            Id: 5604237310652087622
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -4261,7 +4261,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 7014242178112382135
+            Id: 12837011313870552923
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -4391,7 +4391,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 14526011897238267198
+            Id: 13224958844655693086
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -4449,7 +4449,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13517815348962596472
+            Id: 16904236265444783799
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -4588,7 +4588,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15653822500763649258
+      Id: 5888775678528531739
       Name: "Fantasy Castle Stairs 01 - 150cm Corner 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -4606,7 +4606,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5843968779716309529
+      Id: 13408400831664161508
       Name: "Cylinder - Chamfered"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -4615,7 +4615,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14652545573389172725
+      Id: 12559796121075739811
       Name: "Stone Basic"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -4642,7 +4642,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16354317593366277883
+      Id: 16623719373387814516
       Name: "Metal Old Beaten Gold 02"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -4651,7 +4651,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12191325166408117371
+      Id: 16705290588942572512
       Name: "Text 03: 0"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -4696,7 +4696,7 @@ Assets {
       }
     }
     Assets {
-      Id: 1649456766954840161
+      Id: 5159221197509481978
       Name: "Decal Stone Cracks Variants 01"
       PlatformAssetType: 14
       PrimaryAsset {
@@ -4705,7 +4705,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15288970234502648924
+      Id: 5604237310652087622
       Name: "Rock Pile 002"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -4714,7 +4714,7 @@ Assets {
       }
     }
     Assets {
-      Id: 7014242178112382135
+      Id: 12837011313870552923
       Name: "Rock Block 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -4732,7 +4732,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14526011897238267198
+      Id: 13224958844655693086
       Name: "Ivy 05"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -4741,7 +4741,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13517815348962596472
+      Id: 16904236265444783799
       Name: "Ivy 04"
       PlatformAssetType: 1
       PrimaryAsset {

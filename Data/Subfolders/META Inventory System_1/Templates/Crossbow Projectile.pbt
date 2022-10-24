@@ -1,5 +1,5 @@
 Assets {
-  Id: 7916154570281877881
+  Id: 13764243749472503739
   Name: "Crossbow Projectile"
   PlatformAssetType: 5
   TemplateAsset {
@@ -116,7 +116,7 @@ Assets {
           Overrides {
             Name: "cs:WhizbySound"
             AssetReference {
-              Id: 5540394580047732610
+              Id: 1858380240119312879
             }
           }
           Overrides {
@@ -135,7 +135,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2354432642609271795
+            Id: 10309849786350248453
           }
         }
         NetworkRelevanceDistance {

@@ -55,10 +55,10 @@ local effectTable = {
 -- Creates a blast at the projectile impact position
 -- Damages enemies within the blast
 -- Additionally applies the effect after a blast
-function Blast(impactData)
+function Blast(interaction)
 
     -- Create the position of the blast and find players within radius
-    local center = impactData:GetHitResult():GetImpactPosition()
+    local center = interaction:GetHitResult():GetImpactPosition()
     local players = Game.FindPlayersInSphere(center, BLAST_RADIUS)
 
     if BLAST_IMPACT_TEMPLATE then
@@ -69,7 +69,7 @@ function Blast(impactData)
     for _, player in pairs(players) do
 
         -- Only blast the enemy team
-        if player.team ~= impactData.weaponOwner.team then
+        if Teams.AreTeamsEnemies(player.team, interaction.weaponOwner.team) and player ~= interaction.weaponOwner then
 
             -- Create a direction at which the player is pushed away from the blast
             local displacement = player:GetWorldPosition() - center
@@ -83,7 +83,7 @@ function Blast(impactData)
             local damage = CoreMath.Lerp(maxDamage, minDamage, t)
 
             -- Apply damage to enemy player
-            DAMAGE_API.ApplyDamage(damage, ATTACK_ABILITY, player, impactData.weaponOwner)
+            DAMAGE_API.ApplyDamage(damage, ATTACK_ABILITY, player, interaction.weaponOwner)
 
             -- Apply effect to enemy player
             if APPLY_EFFECT then
@@ -95,13 +95,13 @@ function Blast(impactData)
 end
 
 -- Spawns effects and projectiles on the projectile impact
-local function OnProjectileInteracted(weapon, impactData)
+local function OnProjectileInteracted(interaction)
 
-    if impactData.targetObject then
+    if interaction.targetObject then
         -- Spawning projectile explosion
-        Blast(impactData)
+        Blast(interaction)
     end
 end
 
 -- Initialize
-WEAPON.targetImpactedEvent:Connect(OnProjectileInteracted)
+WEAPON.targetInteractionEvent:Connect(OnProjectileInteracted)

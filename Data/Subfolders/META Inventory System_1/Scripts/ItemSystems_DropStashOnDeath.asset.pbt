@@ -1,5 +1,5 @@
 Assets {
-  Id: 7625202463266053890
+  Id: 13269213953934969057
   Name: "ItemSystems_DropStashOnDeath"
   PlatformAssetType: 3
   TextAsset {

@@ -1256,7 +1256,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 16122861514950347918
+            Id: 17063449512846892296
           }
         }
         NetworkRelevanceDistance {
@@ -1346,7 +1346,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 12916821861922680441
+            Id: 18318916528888927585
           }
         }
         NetworkRelevanceDistance {
@@ -1547,7 +1547,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 10735508760752857422
+            Id: 18441810659176357459
           }
         }
         NetworkRelevanceDistance {
@@ -2220,7 +2220,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 14697405062555329113
+            Id: 14405922657249198859
           }
         }
         NetworkRelevanceDistance {
@@ -2278,7 +2278,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 11470788976083836933
+            Id: 10151547298258526858
           }
         }
         NetworkRelevanceDistance {
@@ -2703,7 +2703,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16122861514950347918
+      Id: 17063449512846892296
       Name: "Planetary Ring"
       PlatformAssetType: 6
       PrimaryAsset {
@@ -2712,9 +2712,9 @@ Assets {
       }
     }
     Assets {
-      Id: 12916821861922680441
+      Id: 18318916528888927585
       Name: "Environment Fog Default VFX"
-      PlatformAssetType: 6
+      PlatformAssetType: 20
       PrimaryAsset {
         AssetType: "BlueprintAssetRef"
         AssetId: "fxbp_env_fog_default"
@@ -2730,7 +2730,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10735508760752857422
+      Id: 18441810659176357459
       Name: "Planet"
       PlatformAssetType: 6
       PrimaryAsset {
@@ -2766,16 +2766,16 @@ Assets {
       }
     }
     Assets {
-      Id: 14697405062555329113
+      Id: 14405922657249198859
       Name: "Ambient Occlusion Post Process"
-      PlatformAssetType: 6
+      PlatformAssetType: 20
       PrimaryAsset {
         AssetType: "BlueprintAssetRef"
         AssetId: "fxbp_post_process_ao"
       }
     }
     Assets {
-      Id: 11470788976083836933
+      Id: 10151547298258526858
       Name: "Bloom Post Process"
       PlatformAssetType: 6
       PrimaryAsset {

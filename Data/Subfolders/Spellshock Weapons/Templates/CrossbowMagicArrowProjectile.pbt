@@ -1,5 +1,5 @@
 Assets {
-  Id: 15286181249944660659
+  Id: 5065830242515003736
   Name: "CrossbowMagicArrowProjectile"
   PlatformAssetType: 5
   TemplateAsset {
@@ -67,7 +67,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -125,7 +125,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -260,7 +260,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -319,7 +319,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -415,7 +415,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -474,7 +474,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -570,7 +570,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -629,7 +629,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -725,7 +725,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }
@@ -784,7 +784,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3556416912647019080
+              Id: 9024585145996697275
             }
           }
         }

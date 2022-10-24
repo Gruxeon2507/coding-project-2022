@@ -1,5 +1,5 @@
 Assets {
-  Id: 15810516557906571220
+  Id: 16688398523305215819
   Name: "Basic Door"
   PlatformAssetType: 5
   TemplateAsset {
@@ -10,12 +10,12 @@ Assets {
         Name: "Basic Door"
         Transform {
           Scale {
-            X: 1.21
-            Y: 1.21
-            Z: 1.21
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
-        ParentId: 5871731971517129518
+        ParentId: 4781671109827199097
         ChildIds: 11128779048250505247
         ChildIds: 10557770524490718929
         ChildIds: 4897414754306192198
@@ -187,15 +187,15 @@ Assets {
         Name: "StaticTrigger"
         Transform {
           Location {
-            Y: 100
-            Z: 175
+            Y: 90
+            Z: 150
           }
           Rotation {
           }
           Scale {
             X: 1.5
-            Y: 2
-            Z: 3.5
+            Y: 1.8
+            Z: 3
           }
         }
         ParentId: 11128779048250505247
@@ -487,10 +487,7 @@ Assets {
           }
         }
         ParentId: 4897414754306192198
-        ChildIds: 15819691064213360256
-        ChildIds: 5594239755528793911
-        ChildIds: 3725244714331910268
-        ChildIds: 16088014808877137002
+        ChildIds: 6674868533651416841
         UnregisteredParameters {
         }
         WantsNetworking: true
@@ -512,39 +509,21 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
       Objects {
-        Id: 15819691064213360256
-        Name: "Cube - bottom aligned"
+        Id: 6674868533651416841
+        Name: "Fantasy Castle Door 01"
         Transform {
           Location {
-            X: -5.64188531e-06
-            Y: 99.9999924
           }
           Rotation {
+            Yaw: 89.9999847
           }
           Scale {
-            X: 0.1
-            Y: 2
-            Z: 3.50000048
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
         ParentId: 18266391154671272119
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10184847056121543272
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.955973685
-              G: 0.356400251
-              B: 0.010329823
-              A: 1
-            }
-          }
-        }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -556,211 +535,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4903499742970695079
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 5594239755528793911
-        Name: "Cylinder - Chamfered"
-        Transform {
-          Location {
-            X: 3.05175781e-05
-            Y: 175
-            Z: 150
-          }
-          Rotation {
-            Pitch: 90
-          }
-          Scale {
-            X: 0.1
-            Y: 0.1
-            Z: 0.3
-          }
-        }
-        ParentId: 18266391154671272119
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10184847056121543272
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.205078766
-              G: 0.205078766
-              B: 0.205078766
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13408400831664161508
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 3725244714331910268
-        Name: "Cylinder - Chamfered"
-        Transform {
-          Location {
-            X: 15
-            Y: 175
-            Z: 150
-          }
-          Rotation {
-            Pitch: 90
-          }
-          Scale {
-            X: 0.2
-            Y: 0.2
-            Z: 0.1
-          }
-        }
-        ParentId: 18266391154671272119
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10184847056121543272
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.205078766
-              G: 0.205078766
-              B: 0.205078766
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13408400831664161508
-          }
-          Teams {
-            IsTeamCollisionEnabled: true
-            IsEnemyCollisionEnabled: true
-          }
-          InteractWithTriggers: true
-          StaticMesh {
-            Physics {
-            }
-            BoundsScale: 1
-          }
-        }
-        Relevance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 16088014808877137002
-        Name: "Cylinder - Chamfered"
-        Transform {
-          Location {
-            X: -15
-            Y: 175
-            Z: 150
-          }
-          Rotation {
-            Pitch: 90
-          }
-          Scale {
-            X: 0.2
-            Y: 0.2
-            Z: 0.1
-          }
-        }
-        ParentId: 18266391154671272119
-        UnregisteredParameters {
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:id"
-            AssetReference {
-              Id: 10184847056121543272
-            }
-          }
-          Overrides {
-            Name: "ma:Shared_BaseMaterial:color"
-            Color {
-              R: 0.205078766
-              G: 0.205078766
-              B: 0.205078766
-              A: 1
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:forceon"
-        }
-        CoreMesh {
-          MeshAsset {
-            Id: 13408400831664161508
+            Id: 9662723091772095612
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -786,15 +561,15 @@ Assets {
         Name: "RotatingTrigger"
         Transform {
           Location {
-            Y: 100
-            Z: 175
+            Y: 90
+            Z: 150
           }
           Rotation {
           }
           Scale {
             X: 1.5
-            Y: 2
-            Z: 3.5
+            Y: 1.8
+            Z: 3
           }
         }
         ParentId: 4897414754306192198
@@ -839,30 +614,12 @@ Assets {
       }
     }
     Assets {
-      Id: 4903499742970695079
-      Name: "Cube - Bottom-Aligned"
+      Id: 9662723091772095612
+      Name: "Fantasy Castle Door 01"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cube_001"
-      }
-    }
-    Assets {
-      Id: 10184847056121543272
-      Name: "Basic Material"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_basic_pbr_material_001"
-      }
-    }
-    Assets {
-      Id: 13408400831664161508
-      Name: "Cylinder - Chamfered"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cylinder_chamfer"
+        AssetId: "sm_ts_fan_cas_door_001"
       }
     }
     PrimaryAssetId {

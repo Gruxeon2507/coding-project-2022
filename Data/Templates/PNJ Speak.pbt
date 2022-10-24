@@ -1,6 +1,6 @@
 Assets {
   Id: 17210220454528537926
-  Name: "PNJ Speak "
+  Name: "PNJ Speak"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {

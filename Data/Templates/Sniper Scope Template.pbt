@@ -122,7 +122,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 10577491396371571795
+            Id: 17292395287131781575
           }
         }
         NetworkRelevanceDistance {
@@ -303,7 +303,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13802195091322210055
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -325,7 +325,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 198353679974341757
+            Id: 13981696299924831856
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -370,7 +370,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13802195091322210055
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -392,7 +392,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 198353679974341757
+            Id: 13981696299924831856
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -437,7 +437,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13802195091322210055
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -459,7 +459,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 198353679974341757
+            Id: 13981696299924831856
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -503,7 +503,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13802195091322210055
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -525,7 +525,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 198353679974341757
+            Id: 13981696299924831856
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -569,7 +569,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13802195091322210055
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -591,7 +591,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 198353679974341757
+            Id: 13981696299924831856
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -635,7 +635,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13802195091322210055
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -657,7 +657,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 46061843978868412
+            Id: 17205809747589074999
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -700,7 +700,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 7625382804772008570
+              Id: 10766975867019021707
             }
           }
           Overrides {
@@ -724,7 +724,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13846976516959842924
+            Id: 14033516595759912113
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -792,7 +792,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11001967573859652020
+            Id: 2498239700380443304
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -834,7 +834,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13802195091322210055
+              Id: 132672053610873933
             }
           }
           Overrides {
@@ -856,7 +856,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2954037056948186721
+            Id: 5836430349218932838
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -881,9 +881,9 @@ Assets {
       }
     }
     Assets {
-      Id: 10577491396371571795
+      Id: 17292395287131781575
       Name: "Depth of Field Post Process"
-      PlatformAssetType: 6
+      PlatformAssetType: 20
       PrimaryAsset {
         AssetType: "BlueprintAssetRef"
         AssetId: "fxbp_post_process_DOF"
@@ -899,57 +899,12 @@ Assets {
       }
     }
     Assets {
-      Id: 198353679974341757
+      Id: 13981696299924831856
       Name: "Cube - Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {
         AssetType: "StaticMeshAssetRef"
         AssetId: "sm_cube_001"
-      }
-    }
-    Assets {
-      Id: 13802195091322210055
-      Name: "Plastic Matte"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "plastic_matte_001"
-      }
-    }
-    Assets {
-      Id: 46061843978868412
-      Name: "Ring"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_torus_004"
-      }
-    }
-    Assets {
-      Id: 13846976516959842924
-      Name: "Cylinder - Rounded Bottom-Aligned"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cylinder_rounded_001"
-      }
-    }
-    Assets {
-      Id: 7625382804772008570
-      Name: "Glass 01 (no distortion)"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_basic_glass_001"
-      }
-    }
-    Assets {
-      Id: 11001967573859652020
-      Name: "Cone - Truncated Hollow Wide"
-      PlatformAssetType: 1
-      PrimaryAsset {
-        AssetType: "StaticMeshAssetRef"
-        AssetId: "sm_cone_truncated_hollow_004"
       }
     }
     Assets {
@@ -962,7 +917,43 @@ Assets {
       }
     }
     Assets {
-      Id: 2954037056948186721
+      Id: 17205809747589074999
+      Name: "Ring"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_torus_004"
+      }
+    }
+    Assets {
+      Id: 14033516595759912113
+      Name: "Cylinder - Rounded Bottom-Aligned"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_cylinder_rounded_001"
+      }
+    }
+    Assets {
+      Id: 10766975867019021707
+      Name: "Glass 01 (no distortion)"
+      PlatformAssetType: 2
+      PrimaryAsset {
+        AssetType: "MaterialAssetRef"
+        AssetId: "mi_basic_glass_001"
+      }
+    }
+    Assets {
+      Id: 2498239700380443304
+      Name: "Cone - Truncated Hollow Wide"
+      PlatformAssetType: 1
+      PrimaryAsset {
+        AssetType: "StaticMeshAssetRef"
+        AssetId: "sm_cone_truncated_hollow_004"
+      }
+    }
+    Assets {
+      Id: 5836430349218932838
       Name: "Pipe - Thin"
       PlatformAssetType: 1
       PrimaryAsset {

@@ -471,8 +471,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Message_Banner"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

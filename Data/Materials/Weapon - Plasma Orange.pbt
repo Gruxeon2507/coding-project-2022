@@ -1,10 +1,10 @@
 Assets {
-  Id: 2334612471939404507
+  Id: 6668635038579556327
   Name: "Weapon - Plasma Orange"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 12789658363081938200
+    BaseMaterialId: 13127507542216413855
     ParameterOverrides {
       Overrides {
         Name: "outer color"
@@ -52,7 +52,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12789658363081938200
+      Id: 13127507542216413855
       Name: "Plasmafield Doublesided"
       PlatformAssetType: 2
       PrimaryAsset {

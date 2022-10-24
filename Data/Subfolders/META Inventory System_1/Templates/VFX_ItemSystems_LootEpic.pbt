@@ -1,5 +1,5 @@
 Assets {
-  Id: 704441958278571400
+  Id: 8661356309159748939
   Name: "VFX_ItemSystems_LootEpic"
   PlatformAssetType: 5
   TemplateAsset {

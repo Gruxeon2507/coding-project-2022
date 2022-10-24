@@ -1,5 +1,5 @@
 Assets {
-  Id: 1373449078680539124
+  Id: 9910668944043622807
   Name: "NPCAttackClient"
   PlatformAssetType: 3
   TextAsset {
@@ -12,13 +12,13 @@ Assets {
       Overrides {
         Name: "cs:DamageFX"
         AssetReference {
-          Id: 10569699133765114283
+          Id: 7944867993460610434
         }
       }
       Overrides {
         Name: "cs:DestroyFX"
         AssetReference {
-          Id: 10569699133765114283
+          Id: 7944867993460610434
         }
       }
       Overrides {

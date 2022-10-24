@@ -1,5 +1,5 @@
 Assets {
-  Id: 2580083533563872171
+  Id: 14601247473373591346
   Name: "LightningGauntlet_MuzzleFlash"
   PlatformAssetType: 5
   TemplateAsset {

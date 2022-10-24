@@ -1,5 +1,5 @@
 Assets {
-  Id: 5886198115124222536
+  Id: 5324563354770952305
   Name: "Poison Staff Projectile"
   PlatformAssetType: 5
   TemplateAsset {
@@ -107,7 +107,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 17568878626614801745
+              Id: 13163627504622977918
             }
           }
           Overrides {
@@ -192,7 +192,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 17568878626614801745
+              Id: 13163627504622977918
             }
           }
           Overrides {
@@ -214,7 +214,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2336807938074105983
+              Id: 10146960102392586378
             }
           }
         }
@@ -275,7 +275,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 17568878626614801745
+              Id: 13163627504622977918
             }
           }
           Overrides {
@@ -297,7 +297,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2336807938074105983
+              Id: 10146960102392586378
             }
           }
         }
@@ -352,7 +352,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 5691675937994463637
+              Id: 7729764368431274299
             }
           }
           Overrides {
@@ -362,7 +362,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 17568878626614801745
+              Id: 13163627504622977918
             }
           }
           Overrides {

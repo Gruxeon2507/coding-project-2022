@@ -193,7 +193,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 17593637809061010819
+            Id: 17069761961690292468
           }
           Vfx {
             AutoPlay: true
@@ -228,7 +228,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10162197449540001622
+              Id: 5035148444678116856
             }
           }
           Overrides {
@@ -260,7 +260,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -332,7 +332,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -355,7 +355,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17593637809061010819
+      Id: 17069761961690292468
       Name: "Basic Explosion VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -364,7 +364,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12434974458467685788
+      Id: 15614259856505195515
       Name: "Sphere"
       PlatformAssetType: 1
       PrimaryAsset {

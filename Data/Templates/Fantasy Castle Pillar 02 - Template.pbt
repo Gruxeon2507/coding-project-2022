@@ -208,8 +208,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Fantasy_Castle_Pillar_02_-_Template"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

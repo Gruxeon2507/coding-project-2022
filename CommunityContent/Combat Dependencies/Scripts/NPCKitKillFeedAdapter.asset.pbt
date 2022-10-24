@@ -1,5 +1,5 @@
 Assets {
-  Id: 16277773265562941056
+  Id: 11543270510057559331
   Name: "NPCKitKillFeedAdapter"
   PlatformAssetType: 3
   TextAsset {

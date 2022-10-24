@@ -43,7 +43,7 @@ function Tick(DeltaTime)
 	local capturePointIds = ABCP.GetCapturePoints()
 	for _, id in pairs(capturePointIds) do
 		if not indicators[id] then
-			indicators[id] = game:SpawnAsset(INDICATOR_COMPONENT, Vector3.ZERO, PANEL)
+			indicators[id] = World.SpawnAsset(INDICATOR_COMPONENT, {position = Vector3.ZERO, parent = PANEL})
 		end
 	end
 
@@ -60,28 +60,45 @@ function Tick(DeltaTime)
 		local indicator = indicators[capturePointState.id]
 
 		local iconImage = indicator:GetCustomProperty("IconImage"):WaitForObject()
+		local iconBackground = indicator:GetCustomProperty("IconBackground"):WaitForObject()
 		local nameText = indicator:GetCustomProperty("NameText"):WaitForObject()
+		local panelClipper = indicator:GetCustomProperty("PanelClipper"):WaitForObject()
+
+		-- Setting panel clip progress
+		panelClipper.height = math.ceil(capturePointState.captureProgress * indicator.height)
 
 		-- Set colors on icon image
 		if iconImage then
 			if capturePointState.isEnabled then
-				if capturePointState.owningTeam == 0 then
+				-- Set icon image to represent current progressing team
+				if capturePointState.progressedTeam == 0 then
 					iconImage.isTeamColorUsed = false
 					iconImage:SetColor(NEUTRAL_COLOR)
 				else
 					iconImage.isTeamColorUsed = true
-					iconImage.team = capturePointState.owningTeam
+					iconImage.team = capturePointState.progressedTeam
+				end
+
+				-- Set icon background to represent current owner team
+				if capturePointState.owningTeam == 0 then
+					iconBackground.isTeamColorUsed = false
+					iconBackground:SetColor(NEUTRAL_COLOR)
+				else
+					iconBackground.isTeamColorUsed = true
+					iconBackground.team = capturePointState.owningTeam
 				end
 			else
 				iconImage.isTeamColorUsed = false
+				iconBackground.isTeamColorUsed = false
 				iconImage:SetColor(DISABLED_COLOR)
+				iconBackground:SetColor(DISABLED_COLOR)
 			end
 		end
 
 		-- Set name text
 		if SHOW_CAPTURE_POINT_NAMES and nameText then
 			nameText.text = capturePointState.name
-			nameText.isVisible = true
+			nameText.isVisible = capturePointState.isEnabled
 		else
 			nameText.isVisible = false
 		end

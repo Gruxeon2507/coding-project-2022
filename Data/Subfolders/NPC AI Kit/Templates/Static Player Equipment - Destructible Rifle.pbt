@@ -1,5 +1,5 @@
 Assets {
-  Id: 9255761451713215260
+  Id: 12265043238357378879
   Name: "Static Player Equipment - Destructible Rifle"
   PlatformAssetType: 5
   TemplateAsset {
@@ -21,7 +21,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentTemplate"
             AssetReference {
-              Id: 8204205150170315183
+              Id: 9092788130135645865
             }
           }
           Overrides {
@@ -35,7 +35,7 @@ Assets {
           Overrides {
             Name: "cs:CombatDependencies"
             AssetReference {
-              Id: 4270339374912796494
+              Id: 5215180160545542510
             }
           }
           Overrides {
@@ -102,7 +102,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17798406622215898019
+            Id: 16176382269670515683
           }
         }
         NetworkRelevanceDistance {

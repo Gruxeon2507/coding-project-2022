@@ -1,3 +1,18 @@
+--[[
+	NavMesh
+	v1.0.1
+	by: Waffle
+	
+	This provides an interface for finding a path between two points on a navigation mesh created by NavMeshGenerator.
+	The NAVMESH_FOLDER custom property points to a folder filled with plane meshes that the pathfinder agent is allowed to walk on.
+	If two planes are adjacent or overlapping/intersecting then the agent is allowed to walk between them.
+	
+	Start by placing planes inside NAVMESH_FOLDER that cover everywhere you want the agent to be able to walk on.
+	Make sure there are no obstacles sticking out through the planes, because the agent will walk through them. If there are obstacles then build the planes around them.
+	Call _G.NavMesh.FindPath(Vector3 startPoint, Vector3 endPoint) to get an ordered table of Vector3 waypoints that are along the path.
+	Toggle NavMeshGenerator.SHOW_DEBUG for pretty lines.
+]]
+
 local NavMeshGenerator = require(script:GetCustomProperty("NavMeshGenerator"))
 local NAVMESH_FOLDER = script:GetCustomProperty("NAVMESH_FOLDER"):WaitForObject()
 
@@ -8,14 +23,18 @@ NavMesh.rectangles = NavMeshGenerator.GetRectangles(NAVMESH_FOLDER)
 
 function pointToNode(point) -- get a "node" from the point by projecting it onto the nearest rectangle
 	local minDistanceSquared, closestPoint, closestRectangle = math.huge
+	local overlappingRectangles = {} -- list of rectangles if the point happens to be on multiple overlapping rectangles
 	for _, rectangle in pairs(NavMesh.rectangles) do
 		local projection = NavMeshGenerator.closestPointOnRectangle(point, rectangle)
 		local distanceSquared = (point - projection).sizeSquared
 		if distanceSquared < minDistanceSquared then
 			minDistanceSquared, closestPoint, closestRectangle = distanceSquared, projection, rectangle
 		end
+		if distanceSquared < 1 then
+			overlappingRectangles[#overlappingRectangles + 1] = rectangle
+		end
 	end
-	return {position = closestPoint, connectedRectangles = {closestRectangle}}
+	return {position = closestPoint, connectedRectangles = #overlappingRectangles == 0 and {closestRectangle} or overlappingRectangles}
 end
 
 local MinHeap = {New = function()
@@ -50,7 +69,10 @@ end}
 function NavMesh.FindPath(startPoint, endPoint)
 	local startNode = pointToNode(startPoint)
 	local endNode = pointToNode(endPoint)
-	local endRectangle = endNode.connectedRectangles[1]
+	local endRectangles = {}
+	for _, rect in pairs(endNode.connectedRectangles) do
+		endRectangles[rect] = true
+	end
 	
 	local pathNodeMetatable = {
 		__le = function(a, b) return a.lengthPlusHeuristic <= b.lengthPlusHeuristic end,
@@ -71,7 +93,7 @@ function NavMesh.FindPath(startPoint, endPoint)
 		if not visitedNodes[currentNode] then
 			visitedNodes[currentNode] = true
 			for _, rectangle in pairs(currentNode.connectedRectangles) do
-				if rectangle == endRectangle then
+				if endRectangles[rectangle] then
 					solutionPath = currentElement.path
 					solutionPath[#solutionPath + 1] = endNode
 					break
@@ -91,156 +113,236 @@ function NavMesh.FindPath(startPoint, endPoint)
 			end
 		end
 	end
-	if iterations > 100 then
-		--print("path found in "..((os.clock() - clock)*1000).." ms "..iterations)
+	if NavMeshGenerator.SHOW_DEBUG then
+		print("path found in "..((os.clock() - clock)*1000).." ms "..iterations)
 	end
 	
 	if solutionPath then
 		-- remove unnecessary nodes when a straight line is possible
-		-- changes in elevation like ramps are a complicated edge case. todo
-		
-		local startNodeIndex = 1
-		while startNodeIndex <= #solutionPath - 2 do
-			--[[local startNode = solutionPath[startNodeIndex] -- WIP
-			
-			local startNodeRectangleDict = {}
-			for _, rect in pairs(startNode.connectedRectangles) do
-				currentNodeRectangleDict[rect] = true
-			end
-			
-			local currentRect -- current rectangle that the line is being projected onto
-			local function setCurrentRect(newRect)
-				currentRect = newRect
-				local connectedRectangles = {}
-				for _, node in pairs(currentRect.nodes) do
-					for _, rect in pairs(node.connectedRectangles) do
-						if rect ~= currentRect then
-							connectedRectanges[rect] = true
-						end
-					end
-				end
-			end
-			setCurrentRect(node1.connectedRectangles[1])
-			
-			local currentShortcut = {startNode.position}
-			for skipNodeIndex = startNodeIndex + 2, #solutionPath do
-				local currentNode = solutionPath[skipNodeIndex - 2]
-				local betweenNode = solutionPath[skipNodeIndex - 1]
-				local skipNode = solutionPath[skipNodeIndex]
-				
-				local currentNodeRectangleDict = {}
-				local betweenNodeRectangleDict = {}
-				local skipNodeRectangleDict = {}
-				local node2RectangleDict = {}
-				for _, rect in pairs(currentNode.connectedRectangles) do
-					currentNodeRectangleDict[rect] = true
-				end
-				for _, rect in pairs(betweenNode.connectedRectangles) do
-					betweenNodeRectangleDict[rect] = true
-				end
-				for _, rect in pairs(skipNode.connectedRectangles) do
-					skipNodeRectangleDict[rect] = true
-				end
-				
-				local node2projection = node2.position - currentRect.normal * (currentRect.normal .. (node2.position - currentRect.vertices[1]))
-				-- find where the projected line intersects a rectangle that's connected to the in-between node and node1 and node2
-				for _, rect in pairs(solutionPath[skipNodeIndex - 1].connectedRectangles) do
-					if node1RectangleDict[rect] and node2RectangleDict[rect] then
-						local linePoint, rectPoint = NavMeshGenerator.closestPointsBetweenLineSegmentAndRectangle(node1.position, node2projection, rect)
-						local intersections = {}
-						if linePoint then -- not coplanar
-							if (linePoint - rectPoint).sizeSquared < 1 then
-								intersections[#intersections + 1] = linePoint
-							end
-						else -- coplanar, check for edge intersections
-							for _, edge in pairs(rect.edges) do
-								local linePoint, edgePoint = NavMeshGenerator.closestPointsBetweenTwoLineSegments(node1.position, node2projection, edge[1], edge[2])
-								if linePoint and (linePoint - edgePoint).sizeSquared < 1 then -- line intersects this edge
-									intersections[#intersections + 1] = linePoint
-								end
-							end
-						end
-						if #intersections == 2 then
-							local linePoint, borderPoint = NavMeshGenerator.closestPointsBetweenTwoLineSegments(node1.position, node2projection, intersections[1], intersections[2])
-							if linePoint and (linePoint - borderPoint).sizeSquared < 1 then -- shortcut is valid
-								setCurrentRect(rect)
-								currentShortcut[#currentShortcut + 1] = 
-								break
-							end
-						end
-					end
-				end
-			end]]
-			
-			local node1 = solutionPath[startNodeIndex]
-			
-			local importantRectangleDict = {}
+		-- boundaries between rectangles are projected onto the same plane to account for elevation changes like ramps
+
+		local rectangleSequence = {} -- sequence of rectangles traversed from the start to the end
+		for i = 2, #solutionPath do
+			local node1, node2 = solutionPath[i-1], solutionPath[i]
+			local node1Rectangles = {}
 			for _, rect in pairs(node1.connectedRectangles) do
-				importantRectangleDict[rect] = true
+				node1Rectangles[rect] = true
 			end
-			
-			while solutionPath[startNodeIndex + 2] do
-				local node2 = solutionPath[startNodeIndex + 2]
-				-- check if the line exits the walkable space. if it doesn't then remove the node in-between
-				for _, rect in pairs(solutionPath[startNodeIndex + 1].connectedRectangles) do
-					importantRectangleDict[rect] = true -- also list rectangles connected to the in-between node
-				end
-				for _, rect in pairs(node2.connectedRectangles) do
-					importantRectangleDict[rect] = true
-				end
-				local intersections = {} -- list all intersections with the rectangles in importantRectangleDict. order them by distance from one end of the line segment.
-				for rect in pairs(importantRectangleDict) do
-					local linePoint, rectPoint = NavMeshGenerator.closestPointsBetweenLineSegmentAndRectangle(node1.position, node2.position, rect)
-					if linePoint then -- not coplanar
-						if (linePoint - rectPoint).sizeSquared < 1 then
-							intersections[#intersections + 1] = linePoint
-						end
-					else -- line is on the same plane as the rectangle, do edge intersection checks instead
-						for _, edge in pairs(rect.edges) do
-							local linePoint, edgePoint = NavMeshGenerator.closestPointsBetweenTwoLineSegments(node1.position, node2.position, edge[1], edge[2])
-							if linePoint and (linePoint - edgePoint).sizeSquared < 1 then -- line intersects this edge
-								intersections[#intersections + 1] = linePoint
-							end
-						end
-					end
-				end
-				table.sort(intersections, function(a, b)
-					return (a - node1.position).sizeSquared < (b - node1.position).sizeSquared
-				end)
-				
-				local canSkipNode = true -- iterate over each adjacent pair of intersections and ensure the midpoint between them is on a walkable surface.
-				for i = 1, #intersections - 1 do
-					local point1, point2 = intersections[i], intersections[i+1]
-					local midpoint = (point1 + point2) / 2
-					local isOnSurface = false
-					for rect in pairs(importantRectangleDict) do -- check whether the midpoint is on a rectangle
-						if (NavMeshGenerator.closestPointOnRectangle(midpoint, rect) - midpoint).sizeSquared < 1 then
-							isOnSurface = true -- found a rectangle that the midpoint is on
-							break
-						end
-					end
-					if not isOnSurface then -- the midpoint of these intersections is outside the walkable space
-						canSkipNode = false
-					end
-				end
-				if canSkipNode then
-					table.remove(solutionPath, startNodeIndex + 1)
-				else
+			for _, rect in pairs(node2.connectedRectangles) do
+				if node1Rectangles[rect] then
+					rectangleSequence[#rectangleSequence + 1] = rect
 					break
 				end
 			end
-			
-			startNodeIndex = startNodeIndex + 1
 		end
 		
-		for i = 1, #solutionPath do -- convert nodes to positions
-			solutionPath[i] = solutionPath[i].position
-			if NavMeshGenerator.SHOW_DEBUG_LINES and i > 1 then
+		local function projectPointOntoRectangle(point, rectangle)
+			return point - rectangle.normal * (rectangle.normal .. (point - rectangle.vertices[1]))
+		end
+		
+		local shortcutPaths = {}
+		
+		if NavMeshGenerator.SHOW_DEBUG then -- un-simplified A* path
+			for i = 2, #solutionPath do
+				CoreDebug.DrawLine(solutionPath[i].position, solutionPath[i-1].position, {duration = 1, thickness = 5, color = Color.New(1, .5, 0)})
+			end
+		end
+		
+		local startNodeIndex = 1 -- try to find a straight line shortcut from this node
+		while startNodeIndex <= #solutionPath - 2 do
+			local nextStartNodeIndex = startNodeIndex + 1
+			local startNode = solutionPath[startNodeIndex]
+			local projectionRectangle = rectangleSequence[startNodeIndex] -- rectangle to flatten points onto the plane of
+			local projectedStartPosition = projectPointOntoRectangle(startNode.position, projectionRectangle)
+			for skipNodeIndex = #solutionPath, startNodeIndex + 2, -1 do
+				local skipNode = solutionPath[skipNodeIndex] -- node to try skip to in a straight line
+				local projectedSkipPosition = projectPointOntoRectangle(skipNode.position, projectionRectangle)
+				local shortcutWaypoints = {} -- list of points between edges that the path must pass through (not projected points)
+				local lineIsValid = true
+				local rectangleIndex = startNodeIndex
+				while rectangleIndex <= skipNodeIndex - 2 do
+					local nextRectangleIndex = rectangleIndex + 1 -- skipping rectangles is sometimes possible
+					local rect1, rect2 = rectangleSequence[rectangleIndex], rectangleSequence[rectangleIndex + 1]
+					local sharedNodes = {}
+					local possibleFutureRectangles = {[rect2] = true}
+					for rectIndex = rectangleIndex + 1, skipNodeIndex - 1 do
+						possibleFutureRectangles[rectangleSequence[rectIndex]] = true
+					end
+					for _, node in pairs(rect1.nodes) do
+						for _, connectedRectangle in pairs(node.connectedRectangles) do
+							if possibleFutureRectangles[connectedRectangle] then
+								sharedNodes[#sharedNodes + 1] = node
+							end
+						end
+					end
+					local validIntersectionExists = false
+					for node1Index = 1, #sharedNodes - 1 do
+						local node1 = sharedNodes[node1Index]
+						local node1Projection = projectPointOntoRectangle(node1.position, projectionRectangle)
+						local newWaypoint = nil
+						for node2Index = node1Index + 1, #sharedNodes do
+							local node2 = sharedNodes[node2Index]
+							-- this node pair represents two intersection points between two rectangles, and the line segment connecting them is a boundary.
+							-- the boundary is only valid if crossing it leads from one rectangle into the other.
+							-- if all vertices of both rectangles are on the same side of the boundary then it is not valid; crossing it may exit the walkable space.
+							local boundaryIsValid = false
+							
+							local sharedRectangleCount = 0
+							local node1RectangleDict = {}
+							local node2RectangleDict = {}
+							for _, rect in pairs(node1.connectedRectangles) do
+								node1RectangleDict[rect] = true
+							end
+							for _, rect in pairs(node2.connectedRectangles) do
+								node2RectangleDict[rect] = true
+								if node1RectangleDict[rect] then
+									sharedRectangleCount = sharedRectangleCount + 1
+								end
+							end
+							if sharedRectangleCount >= 2 then -- boundary is not valid if it doesn't connect two rectangles
+								local vertexList = {}
+								for i = 1, 4 do -- ignore vertices that are colinear with the boundary. check whether the rest are all on the same side
+									local lineStart, lineEnd = node1.position, node2.position
+									local alpha1 = ((rect1.vertices[i] - lineStart) .. (lineEnd - lineStart)) / (lineEnd - lineStart).sizeSquared
+									local alpha2 = ((rect2.vertices[i] - lineStart) .. (lineEnd - lineStart)) / (lineEnd - lineStart).sizeSquared
+									if (lineStart + (lineEnd - lineStart) * alpha1 - rect1.vertices[i]).sizeSquared > 1 then -- not collinear
+										vertexList[#vertexList + 1] = rect1.vertices[i]
+									end
+									if (lineStart + (lineEnd - lineStart) * alpha2 - rect2.vertices[i]).sizeSquared > 1 then -- not collinear
+										vertexList[#vertexList + 1] = rect2.vertices[i]
+									end
+								end
+								for i = 1, #vertexList - 1 do
+									if not NavMeshGenerator.pointsAreOnSameSideOfLine(vertexList[i], vertexList[i+1], node1.position, node2.position) then
+										boundaryIsValid = true -- vertices are not all on the same side of the boundary, which means crossing it leads into a different rectangle
+									end
+								end
+								if boundaryIsValid then -- make sure the shortcut crosses the boundary
+									local node2Projection = projectPointOntoRectangle(node2.position, projectionRectangle)
+									local linePoint, edgePoint = NavMeshGenerator.closestPointsBetweenTwoLineSegments(projectedStartPosition, projectedSkipPosition, node1Projection, node2Projection)
+									if linePoint then
+										local isAtVertex = (linePoint - projectedStartPosition).sizeSquared < 1 or (linePoint - projectedSkipPosition).sizeSquared < 1 -- skipping through a corner can possibly escape the walkable space
+										if (linePoint - edgePoint).sizeSquared < 1 and not isAtVertex then -- intersection is between the two endpoints and not at a vertex
+											validIntersectionExists = true
+											-- figure out if this node pair is skipping a rectangle
+											for index = skipNodeIndex - 1, rectangleIndex + 1, -1 do -- find the furthest rectangle in the sequence that this boundary leads into
+												local rect = rectangleSequence[index]
+												if node1RectangleDict[rect] and node2RectangleDict[rect] then
+													nextRectangleIndex = index
+													break
+												end
+											end
+											local alpha = (edgePoint - node1Projection).size / (node1Projection - node2Projection).size
+											newWaypoint = node1.position + (node2.position - node1.position) * alpha
+											if NavMeshGenerator.SHOW_DEBUG then
+												CoreDebug.DrawLine(node1.position, node2.position, {duration = 1, thickness = 20, color = Color.New(1, 1, 1)})
+											end
+										end
+									end
+								end
+							end
+						end
+						if newWaypoint then
+							shortcutWaypoints[#shortcutWaypoints + 1] = newWaypoint
+						end
+						if validIntersectionExists then break end
+					end
+					if not validIntersectionExists then
+						lineIsValid = false
+						break
+					end
+					rectangleIndex = nextRectangleIndex
+				end
+				if lineIsValid then -- line does not exit the walkable space
+					if not shortcutPaths[startNode] then
+						shortcutPaths[startNode] = {}
+					end
+					shortcutPaths[startNode][skipNode] = shortcutWaypoints
+					if NavMeshGenerator.SHOW_DEBUG then
+						for i = 1, #shortcutWaypoints do
+							CoreDebug.DrawSphere(shortcutWaypoints[i], 15, {duration = 1, thickness = 5, color = Color.New(1, 0, 1)})
+						end
+					end
+					break
+				end
+			end
+			startNodeIndex = nextStartNodeIndex
+		end
+		
+		local newNodes = {} -- old nodes are wrapped in a new node so they can have a separate neighbor list
+		local nodeMap = {} -- map old nodes to new nodes
+		for i = 1, #solutionPath do
+			newNodes[i] = {node = solutionPath[i], position = solutionPath[i].position, neighbors = {}}
+			nodeMap[solutionPath[i]] = newNodes[i]
+		end
+		for i = 2, #newNodes do
+			newNodes[i-1].neighbors[1] = newNodes[i]
+		end
+		for origin, neighbors in pairs(shortcutPaths) do
+			for destination in pairs(neighbors) do
+				table.insert(nodeMap[origin].neighbors, nodeMap[destination])
+			end
+		end
+		
+		local priorityQueue = MinHeap.New() -- do another pass of A* on the simplified graph
+		priorityQueue:Insert(setmetatable({path = {newNodes[1]}, length = 0, lengthPlusHeuristic = 0}, pathNodeMetatable))
+		solutionPath = nil
+		while priorityQueue.heap[1] and not solutionPath do
+			iterations = iterations + 1
+			local currentElement = priorityQueue:Extract()
+			local currentNode = currentElement.path[#currentElement.path]
+			if not visitedNodes[currentNode] then
+				visitedNodes[currentNode] = true
+				for _, node in pairs(currentNode.neighbors) do
+					if node == newNodes[#newNodes] then
+						solutionPath = currentElement.path
+						solutionPath[#solutionPath + 1] = newNodes[#newNodes]
+						break
+					end
+					if not visitedNodes[node] then
+						local newPath = {table.unpack(currentElement.path)}
+						newPath[#newPath + 1] = node
+						local newLength = currentElement.length + (currentNode.position - node.position).size
+						priorityQueue:Insert(setmetatable({
+							path = newPath,
+							length = newLength,
+							lengthPlusHeuristic = newLength + (node.position - endNode.position).size
+						}, pathNodeMetatable))
+					end
+				end
+			end
+		end
+		
+		local newSolutionPath = {}
+		local previousNode = nil
+		for i = 1, #solutionPath do
+			local node = solutionPath[i]
+			if previousNode and shortcutPaths[previousNode.node] then
+				local shortcut = shortcutPaths[previousNode.node][node.node]
+				if shortcut then
+					for j = 1, #shortcut do
+						newSolutionPath[#newSolutionPath + 1] = shortcut[j]
+					end
+				end
+			end
+			previousNode = node
+			newSolutionPath[#newSolutionPath + 1] = node.position
+		end
+		solutionPath = newSolutionPath
+		
+		for i = #solutionPath, 2, -1 do -- remove duplicate positions from the path
+			if (solutionPath[i] - solutionPath[i-1]).sizeSquared < 1 then
+				table.remove(solutionPath, i)
+			end
+		end
+		
+		if NavMeshGenerator.SHOW_DEBUG then
+			for i = 2, #solutionPath do
 				CoreDebug.DrawLine(solutionPath[i-1], solutionPath[i], {duration = 1, thickness = 20, color = Color.New(0, .5, 1)})
 			end
 		end
 		return solutionPath
-	else
+	elseif NavMeshGenerator.SHOW_DEBUG then
 		warn("no path was found between "..tostring(startPoint).." and "..tostring(endPoint))
 	end
 end

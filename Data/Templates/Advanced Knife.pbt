@@ -814,7 +814,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 14237220486008111868
+            Id: 4052146136850262110
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -887,7 +887,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14237220486008111868
+      Id: 4052146136850262110
       Name: "Knife - Blade"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -905,8 +905,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Knife"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

@@ -552,7 +552,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 916665379155427451
+            Id: 15961349352539224933
           }
           Teams {
             IsEnemyCollisionEnabled: true
@@ -857,7 +857,7 @@ Assets {
           Overrides {
             Name: "cs:HealthBarTemplate"
             AssetReference {
-              Id: 17864223494164970248
+              Id: 5113502778148150293
             }
           }
         }
@@ -1366,7 +1366,7 @@ Assets {
       }
     }
     Assets {
-      Id: 916665379155427451
+      Id: 15961349352539224933
       Name: "Capsule"
       PlatformAssetType: 1
       PrimaryAsset {

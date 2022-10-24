@@ -1,6 +1,6 @@
 Assets {
-  Id: 14665763223443633420
-  Name: "DestructibleWeaponServer"
+  Id: 1670785220627740215
+  Name: "DestructibleWeaponServer_1"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
@@ -17,14 +17,6 @@ Assets {
       Overrides {
         Name: "cs:DamageToObjects"
         Int: 1
-      }
-      Overrides {
-        Name: "cs:HeadshotNPCs"
-        Int: 2
-      }
-      Overrides {
-        Name: "cs:HeadshotPlayers"
-        Int: 2
       }
     }
   }

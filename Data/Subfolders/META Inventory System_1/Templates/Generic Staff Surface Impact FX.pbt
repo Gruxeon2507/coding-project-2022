@@ -1,5 +1,5 @@
 Assets {
-  Id: 5473906486021613373
+  Id: 795968832547103514
   Name: "Generic Staff Surface Impact FX"
   PlatformAssetType: 5
   TemplateAsset {

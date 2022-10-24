@@ -131,7 +131,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 8558740852122825455
+            Id: 1427829216143793458
           }
         }
         NetworkRelevanceDistance {
@@ -189,7 +189,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13341484533511325250
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -223,7 +223,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16890234921798940068
+            Id: 6542170114427865587
           }
         }
         NetworkRelevanceDistance {
@@ -257,7 +257,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16334840297422696574
+            Id: 11145628254934127387
           }
         }
         NetworkRelevanceDistance {
@@ -512,7 +512,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
         }
@@ -527,7 +527,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12300960555627151165
+            Id: 14150387368533688185
           }
         }
         NetworkRelevanceDistance {
@@ -588,7 +588,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13341484533511325250
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -686,13 +686,13 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 9237238264367741815
+              Id: 14782481216819325752
             }
           }
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 13853961048588115835
+              Id: 17595504916760055462
             }
           }
         }
@@ -769,7 +769,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 9237238264367741815
+              Id: 14782481216819325752
             }
           }
         }
@@ -846,7 +846,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 9237238264367741815
+              Id: 14782481216819325752
             }
           }
         }
@@ -894,7 +894,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -957,7 +957,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1020,7 +1020,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 4669964952716884430
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1164,7 +1164,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9854914266440959975
+            Id: 3682206342183528038
           }
           Teams {
           }
@@ -1295,7 +1295,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11153952082896433639
+            Id: 4052146136850262110
           }
           Teams {
           }
@@ -1341,7 +1341,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8174682436388858304
+            Id: 9675776263369201294
           }
           Teams {
           }
@@ -1388,7 +1388,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4405588034365082590
+            Id: 12510064410993333055
           }
           Teams {
           }
@@ -1467,7 +1467,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11153952082896433639
+            Id: 4052146136850262110
           }
           Teams {
           }
@@ -1529,7 +1529,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9854914266440959975
+            Id: 3682206342183528038
           }
           Teams {
           }
@@ -1585,7 +1585,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8174682436388858304
+            Id: 9675776263369201294
           }
           Teams {
           }
@@ -1643,7 +1643,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4405588034365082590
+            Id: 12510064410993333055
           }
           Teams {
           }
@@ -1799,7 +1799,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9854914266440959975
+            Id: 3682206342183528038
           }
           Teams {
           }
@@ -1936,7 +1936,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11153952082896433639
+            Id: 4052146136850262110
           }
           Teams {
           }
@@ -1985,7 +1985,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8174682436388858304
+            Id: 9675776263369201294
           }
           Teams {
           }
@@ -2036,7 +2036,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4405588034365082590
+            Id: 12510064410993333055
           }
           Teams {
           }
@@ -2116,7 +2116,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11153952082896433639
+            Id: 4052146136850262110
           }
           Teams {
           }
@@ -2179,7 +2179,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9854914266440959975
+            Id: 3682206342183528038
           }
           Teams {
           }
@@ -2236,7 +2236,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 8174682436388858304
+            Id: 9675776263369201294
           }
           Teams {
           }
@@ -2295,7 +2295,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4405588034365082590
+            Id: 12510064410993333055
           }
           Teams {
           }
@@ -2429,7 +2429,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13341484533511325250
+            Id: 12439034694186114331
           }
         }
         NetworkRelevanceDistance {
@@ -2775,7 +2775,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9854914266440959975
+      Id: 3682206342183528038
       Name: "Fantasy Sword Grip 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2793,7 +2793,7 @@ Assets {
       }
     }
     Assets {
-      Id: 11153952082896433639
+      Id: 4052146136850262110
       Name: "Knife - Blade"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2802,7 +2802,7 @@ Assets {
       }
     }
     Assets {
-      Id: 8174682436388858304
+      Id: 9675776263369201294
       Name: "Fantasy Pommel 03"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2811,7 +2811,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4405588034365082590
+      Id: 12510064410993333055
       Name: "Fantasy Pommel 04"
       PlatformAssetType: 1
       PrimaryAsset {

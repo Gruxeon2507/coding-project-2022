@@ -1254,7 +1254,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2943084065665204035
+              Id: 16630259605395466384
             }
           }
           Overrides {
@@ -1280,7 +1280,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1305705108392058330
+            Id: 5692734142548485196
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1652,7 +1652,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 9805942287566312257
+              Id: 16315900185179330649
             }
           }
           Overrides {
@@ -1720,7 +1720,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2943084065665204035
+              Id: 16630259605395466384
             }
           }
         }
@@ -1784,7 +1784,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2943084065665204035
+              Id: 16630259605395466384
             }
           }
         }
@@ -2002,7 +2002,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 8966794257425387944
+              Id: 14133988226172523242
             }
           }
           Overrides {
@@ -2298,7 +2298,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2943084065665204035
+              Id: 16630259605395466384
             }
           }
           Overrides {
@@ -2324,7 +2324,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1305705108392058330
+            Id: 5692734142548485196
           }
           Teams {
           }
@@ -2392,7 +2392,7 @@ Assets {
       }
     }
     Assets {
-      Id: 1305705108392058330
+      Id: 5692734142548485196
       Name: "Diamond - 6-Sided"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2401,7 +2401,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2943084065665204035
+      Id: 16630259605395466384
       Name: "Frosted Glass"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2437,7 +2437,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9805942287566312257
+      Id: 16315900185179330649
       Name: "Glass 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2482,7 +2482,7 @@ Assets {
       }
     }
     Assets {
-      Id: 8966794257425387944
+      Id: 14133988226172523242
       Name: "Tech Panel 05"
       PlatformAssetType: 2
       PrimaryAsset {

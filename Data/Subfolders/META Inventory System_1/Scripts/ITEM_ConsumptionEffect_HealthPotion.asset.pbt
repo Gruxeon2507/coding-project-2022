@@ -1,5 +1,5 @@
 Assets {
-  Id: 14018816359136740228
+  Id: 4871086606878150157
   Name: "ITEM_ConsumptionEffect_HealthPotion"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:RuntimeContextDetection"
         AssetReference {
-          Id: 584605761119437577
+          Id: 6139421399869147059
         }
       }
     }

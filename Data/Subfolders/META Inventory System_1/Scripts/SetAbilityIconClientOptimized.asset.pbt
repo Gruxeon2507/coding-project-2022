@@ -1,5 +1,5 @@
 Assets {
-  Id: 1144590072372630290
+  Id: 10984383359750883916
   Name: "SetAbilityIconClientOptimized"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:API"
         AssetReference {
-          Id: 14772313579232998117
+          Id: 6847002890894885131
         }
       }
       Overrides {

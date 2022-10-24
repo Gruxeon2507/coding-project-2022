@@ -26,7 +26,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 625035735719714076
+              Id: 1674114743300152262
             }
           }
           Overrides {
@@ -35,7 +35,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
             }
           }
         }
@@ -411,15 +411,16 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 13957379385831993453
+              Id: 3352694274589927462
             }
           }
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 0.265232086
-              B: 0.450000048
-              A: 0.5
+              R: 1
+              G: 1
+              B: 1
+              A: 1
             }
           }
         }
@@ -467,7 +468,7 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 11830505573971306659
+              Id: 6666368025390213643
             }
           }
           Overrides {
@@ -476,7 +477,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
             }
           }
         }
@@ -942,7 +943,7 @@ Assets {
             IsTargetDataUpdated: true
           }
           CooldownPhaseSettings {
-            Duration: 0.23
+            Duration: 1
             CanMove: true
             CanJump: true
             CanRotate: true
@@ -1011,30 +1012,30 @@ Assets {
       }
     }
     Assets {
-      Id: 625035735719714076
-      Name: "Staff"
+      Id: 1674114743300152262
+      Name: "Fantasy Staff 001"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_icon_Staff"
+        AssetId: "UI_Fantasy_Weapon_Staff_001"
       }
     }
     Assets {
-      Id: 13957379385831993453
-      Name: "Icon Explosion"
+      Id: 3352694274589927462
+      Name: "Fantasy Ability Purple 004"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_Explosion"
+        AssetId: "UI_Fantasy_Ability_Purple_004"
       }
     }
     Assets {
-      Id: 11830505573971306659
-      Name: "Icon Rotate"
+      Id: 6666368025390213643
+      Name: "Fantasy Ability Purple 012"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_ArrowRotate"
+        AssetId: "UI_Fantasy_Ability_Purple_012"
       }
     }
     Assets {

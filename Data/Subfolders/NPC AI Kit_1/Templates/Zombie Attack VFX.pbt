@@ -1,5 +1,5 @@
 Assets {
-  Id: 2350895038666299779
+  Id: 3295248451020845403
   Name: "Zombie Attack VFX"
   PlatformAssetType: 5
   TemplateAsset {

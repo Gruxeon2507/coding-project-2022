@@ -251,7 +251,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13776228291040685428
+            Id: 7801859645287117218
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -4007,7 +4007,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12905923173550510229
+            Id: 17441290424813224728
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -41060,7 +41060,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13776228291040685428
+      Id: 7801859645287117218
       Name: "Cone - Truncated"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -41087,7 +41087,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12905923173550510229
+      Id: 17441290424813224728
       Name: "Cylinder - Polished"
       PlatformAssetType: 1
       PrimaryAsset {

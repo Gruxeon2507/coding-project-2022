@@ -1,5 +1,5 @@
 Assets {
-  Id: 16917991664866407286
+  Id: 14209845045737704089
   Name: "AnimatedMeshCostume"
   PlatformAssetType: 3
   TextAsset {

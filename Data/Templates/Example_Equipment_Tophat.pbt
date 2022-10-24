@@ -105,7 +105,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13819837931035927716
+              Id: 10184847056121543272
             }
           }
           Overrides {
@@ -171,7 +171,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13819837931035927716
+              Id: 10184847056121543272
             }
           }
           Overrides {
@@ -237,7 +237,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13819837931035927716
+              Id: 10184847056121543272
             }
           }
           Overrides {
@@ -303,7 +303,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13819837931035927716
+              Id: 10184847056121543272
             }
           }
           Overrides {
@@ -412,12 +412,12 @@ Assets {
       }
     }
     Assets {
-      Id: 13819837931035927716
-      Name: "Plastic Matte"
+      Id: 10184847056121543272
+      Name: "Basic Material"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "plastic_matte_001"
+        AssetId: "mi_basic_pbr_material_001"
       }
     }
     Assets {

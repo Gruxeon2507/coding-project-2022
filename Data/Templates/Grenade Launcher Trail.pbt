@@ -114,7 +114,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 3718809584505714543
+            Id: 3804778175203338877
           }
           TeamSettings {
           }
@@ -132,7 +132,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3718809584505714543
+      Id: 3804778175203338877
       Name: "Rocket Trail Wispy"
       PlatformAssetType: 8
       PrimaryAsset {

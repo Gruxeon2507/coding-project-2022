@@ -1,5 +1,5 @@
 Assets {
-  Id: 6331666588797692358
+  Id: 1738021790956681930
   Name: "ITEM_Consumable_HealthPotion"
   PlatformAssetType: 5
   TemplateAsset {
@@ -96,7 +96,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14334940842448190249
+              Id: 18330482821717742233
             }
           }
           Overrides {

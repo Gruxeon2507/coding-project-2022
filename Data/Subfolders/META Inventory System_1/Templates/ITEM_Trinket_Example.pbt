@@ -1,5 +1,5 @@
 Assets {
-  Id: 5752727193200793432
+  Id: 8437905638820066664
   Name: "ITEM_Trinket_Example"
   PlatformAssetType: 5
   TemplateAsset {

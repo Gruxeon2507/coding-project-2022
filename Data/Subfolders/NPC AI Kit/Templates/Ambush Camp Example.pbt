@@ -1,5 +1,5 @@
 Assets {
-  Id: 2119183972178819560
+  Id: 1573419212693453504
   Name: "Ambush Camp Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -63,7 +63,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16260264605806909322
+            Id: 18337152030425808742
           }
         }
         NetworkRelevanceDistance {
@@ -97,7 +97,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9630473079285135562
+            Id: 17221689616334603503
           }
         }
         NetworkRelevanceDistance {
@@ -186,7 +186,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3981611820429407664
+            Id: 7960262687445395090
           }
         }
         NetworkRelevanceDistance {
@@ -242,7 +242,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13693819527306026957
+            Id: 6870643404126866575
           }
         }
         NetworkRelevanceDistance {
@@ -393,13 +393,13 @@ Assets {
           Overrides {
             Name: "cs:dragon"
             AssetReference {
-              Id: 1345156452803472509
+              Id: 841534158063459245
             }
           }
           Overrides {
             Name: "cs:dragon2"
             AssetReference {
-              Id: 12894101719072803373
+              Id: 841534158063459245
             }
           }
         }
@@ -444,13 +444,13 @@ Assets {
           Overrides {
             Name: "cs:dragon"
             AssetReference {
-              Id: 12894101719072803373
+              Id: 841534158063459245
             }
           }
           Overrides {
             Name: "cs:dragon2"
             AssetReference {
-              Id: 255813684727310238
+              Id: 841534158063459245
             }
           }
         }
@@ -495,7 +495,7 @@ Assets {
           Overrides {
             Name: "cs:boss"
             AssetReference {
-              Id: 942080744182194906
+              Id: 841534158063459245
             }
           }
         }

@@ -1,7 +1,7 @@
 Name: "Book"
-RootId: 6813097160260870642
+RootId: 1038175990249246237
 Objects {
-  Id: 2903905899577099732
+  Id: 5021911978162845111
   Name: "Cube - Chamfered Small Polished"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 0.676036119
     }
   }
-  ParentId: 6813097160260870642
+  ParentId: 1038175990249246237
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -59,6 +59,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5021911978162845111
+    SubobjectId: 12043156251322816487
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -68,7 +74,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 416578335638124593
+  Id: 6091213525094085526
   Name: "Cube - Chamfered Small Polished"
   Transform {
     Location {
@@ -85,7 +91,7 @@ Objects {
       Z: 0.676036119
     }
   }
-  ParentId: 6813097160260870642
+  ParentId: 1038175990249246237
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -136,6 +142,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6091213525094085526
+    SubobjectId: 13121482662746935750
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -145,7 +157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18219291474798493503
+  Id: 12177874979753966732
   Name: "Cube - Chamfered Small Polished"
   Transform {
     Location {
@@ -160,7 +172,7 @@ Objects {
       Z: 0.676036119
     }
   }
-  ParentId: 6813097160260870642
+  ParentId: 1038175990249246237
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:utile"
@@ -211,6 +223,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12177874979753966732
+    SubobjectId: 5444861151431745244
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -220,7 +238,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3112509268621097506
+  Id: 12152091528252446749
   Name: "Cube - Chamfered Small Polished"
   Transform {
     Location {
@@ -239,7 +257,7 @@ Objects {
       Z: -0.169221327
     }
   }
-  ParentId: 6813097160260870642
+  ParentId: 1038175990249246237
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -288,6 +306,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 12152091528252446749
+    SubobjectId: 5347019912620980813
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

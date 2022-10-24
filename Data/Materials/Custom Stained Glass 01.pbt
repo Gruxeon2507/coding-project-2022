@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 2635301209382392732
+    BaseMaterialId: 12024413899029052699
     ParameterOverrides {
       Overrides {
         Name: "material_scale"
@@ -33,7 +33,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2635301209382392732
+      Id: 12024413899029052699
       Name: "Stained Glass 01"
       PlatformAssetType: 2
       PrimaryAsset {

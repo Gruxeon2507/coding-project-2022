@@ -1,5 +1,5 @@
 Assets {
-  Id: 5175811786131880700
+  Id: 4485715097824747093
   Name: "Magic Glass - Dragon"
   PlatformAssetType: 13
   SerializationVersion: 119

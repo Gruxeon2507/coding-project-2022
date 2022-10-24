@@ -119,7 +119,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 10069588324162714145
+            Id: 10298342875175243448
           }
           TeamSettings {
           }
@@ -179,7 +179,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10069588324162714145
+      Id: 10298342875175243448
       Name: "Rocket Trail VFX"
       PlatformAssetType: 8
       PrimaryAsset {

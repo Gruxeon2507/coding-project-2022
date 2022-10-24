@@ -1,5 +1,5 @@
 Assets {
-  Id: 7339939992555815235
+  Id: 582809342652501395
   Name: "CombatWrapNPC_1"
   PlatformAssetType: 3
   TextAsset {

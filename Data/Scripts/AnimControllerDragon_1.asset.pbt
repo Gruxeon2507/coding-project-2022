@@ -1,6 +1,6 @@
 Assets {
-  Id: 10479624310162548857
-  Name: "AnimControllerDragon"
+  Id: 991656350626600451
+  Name: "AnimControllerDragon_1"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {

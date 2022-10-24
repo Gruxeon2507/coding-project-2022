@@ -1,5 +1,5 @@
 Assets {
-  Id: 5691675937994463637
+  Id: 7729764368431274299
   Name: "Weapon - Emissive Green"
   PlatformAssetType: 13
   SerializationVersion: 119

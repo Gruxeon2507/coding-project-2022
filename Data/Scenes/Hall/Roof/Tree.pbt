@@ -1,7 +1,7 @@
 Name: "Roof"
-RootId: 4356256357309978820
+RootId: 200396053061487791
 Objects {
-  Id: 16431549566058358191
+  Id: 9865390553090873224
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1.31336045
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -62,6 +62,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9865390553090873224
+    SubobjectId: 7671988531925497304
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -71,7 +77,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5172183140842930819
+  Id: 16151999870561148158
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -87,7 +93,7 @@ Objects {
       Z: 1.31336045
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -132,6 +138,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16151999870561148158
+    SubobjectId: 195878913627405998
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -141,7 +153,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15569399904825006216
+  Id: 9832225224891336876
   Name: "Craftsman Floor 01 8m x 8m"
   Transform {
     Location {
@@ -157,7 +169,7 @@ Objects {
       Z: 1.31336045
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -202,6 +214,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9832225224891336876
+    SubobjectId: 7702171466308741884
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -211,7 +229,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11572028895508010252
+  Id: 13437369963773511372
   Name: "Fantasy Castle Accessory Roof 02"
   Transform {
     Location {
@@ -227,7 +245,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -284,6 +302,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13437369963773511372
+    SubobjectId: 6407399965257802908
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -293,7 +317,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3875610321252110757
+  Id: 2289077925836609635
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -310,7 +334,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -349,6 +373,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2289077925836609635
+    SubobjectId: 18254488579233167923
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -358,7 +388,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13457452746533973269
+  Id: 9885090024969558807
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -375,7 +405,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -414,6 +444,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9885090024969558807
+    SubobjectId: 7763763318881433927
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -423,7 +459,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13609226844429349739
+  Id: 7277298951670551520
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -440,7 +476,7 @@ Objects {
       Z: 1.0284313
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -479,6 +515,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7277298951670551520
+    SubobjectId: 9686856102630044080
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -488,7 +530,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16083087186790685222
+  Id: 17016338238335434690
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -504,7 +546,7 @@ Objects {
       Z: 1.0284313
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -543,6 +585,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17016338238335434690
+    SubobjectId: 1060217156816526738
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -552,7 +600,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15661206421267290193
+  Id: 11191930411185308681
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -569,7 +617,7 @@ Objects {
       Z: 1.170555
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -608,6 +656,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11191930411185308681
+    SubobjectId: 8773348468784916057
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -617,7 +671,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3455464264430728441
+  Id: 556313828105872532
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -634,7 +688,7 @@ Objects {
       Z: 1.170555
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -673,6 +727,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 556313828105872532
+    SubobjectId: 16512699688954136260
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -682,7 +742,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15460128887190805989
+  Id: 16859577854576921375
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -699,7 +759,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -738,6 +798,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16859577854576921375
+    SubobjectId: 822408447745747279
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -747,7 +813,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14757039600924503879
+  Id: 13945206232178185784
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -763,7 +829,7 @@ Objects {
       Z: 1.0284313
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -802,6 +868,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13945206232178185784
+    SubobjectId: 2528731287531336808
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -811,7 +883,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 366952682540471456
+  Id: 859983803656215646
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -829,7 +901,7 @@ Objects {
       Z: 1.0709306
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -868,6 +940,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 859983803656215646
+    SubobjectId: 16825393426231426574
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -877,7 +955,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6728719370902057550
+  Id: 4534454893966407333
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -895,7 +973,7 @@ Objects {
       Z: 1.0709306
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -934,6 +1012,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4534454893966407333
+    SubobjectId: 15887879422390686965
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -943,7 +1027,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 356575784437253445
+  Id: 731729069983328666
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -961,7 +1045,7 @@ Objects {
       Z: 1.0709306
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1000,6 +1084,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 731729069983328666
+    SubobjectId: 16768897223757728714
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1009,7 +1099,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5017052385205526111
+  Id: 6938038923328633166
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -1026,7 +1116,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1065,6 +1155,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6938038923328633166
+    SubobjectId: 9428379551519857438
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1074,7 +1170,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18363294269085671045
+  Id: 7673361142893189718
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1092,7 +1188,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1131,6 +1227,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7673361142893189718
+    SubobjectId: 9866764280712198150
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1140,7 +1242,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10817628862782919622
+  Id: 17384444527340860598
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1159,7 +1261,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1198,6 +1300,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17384444527340860598
+    SubobjectId: 1428059632824309478
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1207,7 +1315,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2907370173847286759
+  Id: 5569967810033346413
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -1224,7 +1332,7 @@ Objects {
       Z: 1.0284313
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1263,6 +1371,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5569967810033346413
+    SubobjectId: 12672012994768930109
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1272,7 +1386,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4005163373127459613
+  Id: 11968752944432831080
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1289,7 +1403,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1328,6 +1442,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11968752944432831080
+    SubobjectId: 4938485030850115640
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1337,7 +1457,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4460306406467182185
+  Id: 6366678808194154424
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -1354,7 +1474,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1393,6 +1513,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6366678808194154424
+    SubobjectId: 13459698252300983784
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1402,7 +1528,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3854745306615973735
+  Id: 593949986876553895
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1420,7 +1546,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1459,6 +1585,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 593949986876553895
+    SubobjectId: 16910641418726021367
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1468,7 +1600,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14983064132221164431
+  Id: 6109156202312683809
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1485,7 +1617,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1524,6 +1656,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6109156202312683809
+    SubobjectId: 13139425263723688817
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1533,7 +1671,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11402910190823240270
+  Id: 16508692458544885582
   Name: "Prism - 7-Sided"
   Transform {
     Location {
@@ -1550,7 +1688,7 @@ Objects {
       Z: 0.242857173
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1583,6 +1721,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16508692458544885582
+    SubobjectId: 543282751110843678
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1592,7 +1736,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7064705381485317517
+  Id: 4590134528525275238
   Name: "Prism - 7-Sided"
   Transform {
     Location {
@@ -1609,7 +1753,7 @@ Objects {
       Z: 0.242857173
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1642,6 +1786,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4590134528525275238
+    SubobjectId: 15934834525603033654
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1651,7 +1801,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7481944400898415363
+  Id: 10116945034418902810
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1668,7 +1818,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1707,6 +1857,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10116945034418902810
+    SubobjectId: 7995599575459247434
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1716,7 +1872,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10307637224691347618
+  Id: 13131552740325111111
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1733,7 +1889,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1772,6 +1928,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13131552740325111111
+    SubobjectId: 6101301344144021271
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1781,7 +1943,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2111338722847188899
+  Id: 9862563905262297068
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1798,7 +1960,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1837,6 +1999,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9862563905262297068
+    SubobjectId: 7660153498357235132
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1846,7 +2014,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15522227125806527766
+  Id: 10870428736904960283
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1864,7 +2032,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1903,6 +2071,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10870428736904960283
+    SubobjectId: 8379806702456339275
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1912,7 +2086,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14038725863000912449
+  Id: 8673967926777798796
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1930,7 +2104,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -1969,6 +2143,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8673967926777798796
+    SubobjectId: 11164589798013469404
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1978,7 +2158,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9194929226528006981
+  Id: 6630121790324384604
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -1996,7 +2176,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2035,6 +2215,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6630121790324384604
+    SubobjectId: 13732148406844866828
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2044,7 +2230,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17806413767969418908
+  Id: 3517462941734930205
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2062,7 +2248,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2101,6 +2287,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3517462941734930205
+    SubobjectId: 15150110741543380301
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2110,7 +2302,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10318564907652240343
+  Id: 5363347163144377390
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2127,7 +2319,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2166,6 +2358,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5363347163144377390
+    SubobjectId: 12177424771149084286
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2175,7 +2373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16239099870158241726
+  Id: 13948908896972771014
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2193,7 +2391,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2232,6 +2430,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13948908896972771014
+    SubobjectId: 2523407942186364054
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2241,7 +2445,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2789400532022782202
+  Id: 8373714666715548917
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -2258,7 +2462,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2297,6 +2501,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8373714666715548917
+    SubobjectId: 10855330433919151781
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2306,7 +2516,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9637663693760541669
+  Id: 13769855779908846052
   Name: "Whitebox Roof 01 Corner Out"
   Transform {
     Location {
@@ -2323,7 +2533,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2362,6 +2572,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13769855779908846052
+    SubobjectId: 6739868271855559604
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2371,7 +2587,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15678434149327659953
+  Id: 18124029724165134186
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2388,7 +2604,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2427,6 +2643,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18124029724165134186
+    SubobjectId: 1807620866801415482
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2436,7 +2658,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7860096241369033999
+  Id: 1229501734364599223
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2453,7 +2675,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2492,6 +2714,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1229501734364599223
+    SubobjectId: 17546193247787069927
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2501,7 +2729,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10519652792588395959
+  Id: 14652538949348248026
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2518,7 +2746,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2557,6 +2785,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14652538949348248026
+    SubobjectId: 3010882923781532554
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2566,7 +2800,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5174424897713416239
+  Id: 6202181186822045724
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2584,7 +2818,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2623,6 +2857,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6202181186822045724
+    SubobjectId: 13006987769653781068
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2632,7 +2872,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7724066668907664211
+  Id: 1140285209018612491
   Name: "Whitebox Roof 01"
   Transform {
     Location {
@@ -2650,7 +2890,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Roof:id"
@@ -2689,6 +2929,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1140285209018612491
+    SubobjectId: 17096671065605429595
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2698,7 +2944,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8726989943327871643
+  Id: 2466389628075667232
   Name: "Fantasy Castle Accessory Roof 01 "
   Transform {
     Location {
@@ -2713,7 +2959,7 @@ Objects {
       Z: 1.93699026
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2770,6 +3016,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2466389628075667232
+    SubobjectId: 13883164812413472112
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2779,7 +3031,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15411925110015385576
+  Id: 14278849139291520851
   Name: "Fantasy Castle Accessory Roof 01 "
   Transform {
     Location {
@@ -2795,7 +3047,7 @@ Objects {
       Z: 1.81933165
     }
   }
-  ParentId: 4356256357309978820
+  ParentId: 200396053061487791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_WallOuter:id"
@@ -2851,6 +3103,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 14278849139291520851
+    SubobjectId: 2645901305984261379
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

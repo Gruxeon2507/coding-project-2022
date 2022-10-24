@@ -1,5 +1,5 @@
 Assets {
-  Id: 12655992217896231349
+  Id: 756914407412358326
   Name: "Sky Sci-fi 01"
   PlatformAssetType: 5
   TemplateAsset {

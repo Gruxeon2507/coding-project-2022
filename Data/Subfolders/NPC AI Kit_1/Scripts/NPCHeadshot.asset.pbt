@@ -1,5 +1,5 @@
 Assets {
-  Id: 15573688680512527443
+  Id: 14755304905124530719
   Name: "NPCHeadshot"
   PlatformAssetType: 3
   TextAsset {

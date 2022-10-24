@@ -1,61 +1,21 @@
 Assets {
-  Id: 12107734285812188601
+  Id: 6227618936762106905
   Name: "Generic Sound Reload"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 17846170435686736886
-      Objects {
-        Id: 17846170435686736886
-        Name: "Weapon Generic Reload"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 12436546004889713338
-        ChildIds: 902047587094345629
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
+      RootId: 902047587094345629
       Objects {
         Id: 902047587094345629
         Name: "Client Context"
         Transform {
-          Location {
-          }
-          Rotation {
-          }
           Scale {
             X: 1
             Y: 1
             Z: 1
           }
         }
-        ParentId: 17846170435686736886
+        ParentId: 4781671109827199097
         ChildIds: 4272344084064824150
         UnregisteredParameters {
         }

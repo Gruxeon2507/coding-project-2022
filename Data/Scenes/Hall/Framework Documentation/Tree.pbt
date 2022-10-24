@@ -1,7 +1,42 @@
 Name: "Framework Documentation"
-RootId: 12518458690579053473
+RootId: 18014765257829886886
 Objects {
-  Id: 6147203875401566086
+  Id: 6545859037217101220
+  Name: "Pont"
+  Transform {
+    Location {
+      X: -6165
+      Y: 18655
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 18014765257829886886
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Pont"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 14435529302210477809
   Name: "DocumentationNPCKit"
   Transform {
     Location {
@@ -14,7 +49,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12518458690579053473
+  ParentId: 18014765257829886886
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -35,7 +70,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7531309949106753164
+  Id: 609371602810448943
   Name: "DocumentationFrameworkOverview"
   Transform {
     Location {
@@ -48,7 +83,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12518458690579053473
+  ParentId: 18014765257829886886
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

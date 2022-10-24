@@ -1,5 +1,5 @@
 Assets {
-  Id: 7176464652835658515
+  Id: 4465783391231038508
   Name: "MeleeAbilityClient"
   PlatformAssetType: 3
   TextAsset {
@@ -16,7 +16,7 @@ Assets {
       Overrides {
         Name: "cs:SwipeEffect"
         AssetReference {
-          Id: 2719535949450111068
+          Id: 8792380690592035639
         }
       }
       Overrides {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 13883508089900177231
+  Id: 13737219031760033021
   Name: "Poison Crossbow Impact Surface Aligned"
   PlatformAssetType: 5
   TemplateAsset {

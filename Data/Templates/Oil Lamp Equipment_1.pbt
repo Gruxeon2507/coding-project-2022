@@ -500,7 +500,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 16825087841517416169
+              Id: 12629436541872600207
             }
           }
         }
@@ -515,7 +515,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 10167461486394223383
+            Id: 3928292435133106594
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -555,7 +555,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 16845241941935487831
+              Id: 10766975867019021707
             }
           }
           Overrides {
@@ -579,7 +579,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4019028652495869310
+            Id: 2169362966111081916
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -721,7 +721,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 16354317593366277883
+              Id: 16623719373387814516
             }
           }
         }
@@ -736,7 +736,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 41259329107093705
+            Id: 14033516595759912113
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -815,7 +815,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 16916075183032695022
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -843,7 +843,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16527215103322951265
+            Id: 14578188672219480841
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -908,7 +908,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2962457009732126100
+            Id: 4311924259831349264
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -976,7 +976,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2962457009732126100
+            Id: 4311924259831349264
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1020,7 +1020,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 16916075183032695022
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -1048,7 +1048,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13588168874842906464
+            Id: 17034182598707856275
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1158,7 +1158,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 11585801559919915394
+            Id: 11945720307984521509
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1232,7 +1232,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4496690329232230714
+            Id: 10782112515531017680
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1400,7 +1400,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 4788529087543631349
+            Id: 18380897551481753178
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1442,7 +1442,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 16916075183032695022
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -1466,7 +1466,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 6747614045051753376
+            Id: 17527385231155160101
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1489,7 +1489,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10167461486394223383
+      Id: 3928292435133106594
       Name: "Cylinder - Chamfered Polished"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1498,7 +1498,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16825087841517416169
+      Id: 12629436541872600207
       Name: "Rope"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1507,7 +1507,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4019028652495869310
+      Id: 2169362966111081916
       Name: "Teardrop - Truncated"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1516,7 +1516,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16845241941935487831
+      Id: 10766975867019021707
       Name: "Glass 01 (no distortion)"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1534,7 +1534,7 @@ Assets {
       }
     }
     Assets {
-      Id: 41259329107093705
+      Id: 14033516595759912113
       Name: "Cylinder - Rounded Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1543,7 +1543,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16354317593366277883
+      Id: 16623719373387814516
       Name: "Metal Old Beaten Gold 02"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1552,7 +1552,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16527215103322951265
+      Id: 14578188672219480841
       Name: "Cone - Truncated Hollow Wide Thin"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1561,7 +1561,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16916075183032695022
+      Id: 5398196167973053154
       Name: "Metal Basic 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1570,7 +1570,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2962457009732126100
+      Id: 4311924259831349264
       Name: "Cone - Truncated Concave"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1579,7 +1579,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13588168874842906464
+      Id: 17034182598707856275
       Name: "Cone - Truncated Wide"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1588,7 +1588,7 @@ Assets {
       }
     }
     Assets {
-      Id: 11585801559919915394
+      Id: 11945720307984521509
       Name: "Pipe - Half Thin"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1597,7 +1597,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4496690329232230714
+      Id: 10782112515531017680
       Name: "Pipe - Quarter Thin"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1615,7 +1615,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4788529087543631349
+      Id: 18380897551481753178
       Name: "Gear - generic large solid"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1624,7 +1624,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6747614045051753376
+      Id: 17527385231155160101
       Name: "Cylinder - Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {

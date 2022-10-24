@@ -84,6 +84,7 @@ end
 -- nil OnShieldReleased(Player, string)
 function OnShieldReleased(player, binding)
     if player == ABILITY.owner and binding == ABILITY.actionBinding then
+        UI.PrintToScreen("released")
         released = true
     end
 end

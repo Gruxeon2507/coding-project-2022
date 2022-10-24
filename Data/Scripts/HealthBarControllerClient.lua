@@ -20,7 +20,6 @@ local AS = require(script:GetCustomProperty("API"))
 local COMPONENT_ROOT = script:GetCustomProperty("ComponentRoot"):WaitForObject()
 local TEXT_BOX = script:GetCustomProperty("TextBox"):WaitForObject()
 local PROGRESS_BAR = script:GetCustomProperty("ProgressBar"):WaitForObject()
-local PROGRESS_IMAGE = script:GetCustomProperty("ProfileImage"):WaitForObject()
 
 -- User exposed properties
 local SHOW_NUMBER = COMPONENT_ROOT:GetCustomProperty("ShowNumber")
@@ -47,18 +46,17 @@ function Tick(deltaTime)
 
         if SHOW_NUMBER then
             if SHOW_MAXIMUM then
-                TEXT_BOX.text = string.format("%.0f / %.0f", player.hitPoints, player.maxHitPoints)
+                TEXT_BOX.text = string.format("HP: %.0f / %.0f", player.hitPoints, player.maxHitPoints)
             else
-                TEXT_BOX.text = string.format("%.0f", player.hitPoints)
+                TEXT_BOX.text = string.format("HP: %.0f", player.hitPoints)
             end
         end
-        PROGRESS_IMAGE:SetImage(player)
     end
 end
 
 -- Initialize
 if not SHOW_NUMBER then
-    TEXT_BOX.isVisible = false
+    TEXT_BOX.visibility = Visibility.FORCE_OFF
 end
 
 PROGRESS_BAR.progress = 1

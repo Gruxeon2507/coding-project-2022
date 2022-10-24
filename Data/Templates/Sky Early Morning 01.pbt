@@ -1,5 +1,5 @@
 Assets {
-  Id: 1807471865008549716
+  Id: 13627929021560192544
   Name: "Sky Early Morning 01"
   PlatformAssetType: 5
   TemplateAsset {

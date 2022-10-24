@@ -12,7 +12,7 @@ Assets {
       Overrides {
         Name: "cs:HealthBarTemplate"
         AssetReference {
-          Id: 17864223494164970248
+          Id: 5113502778148150293
         }
       }
       Overrides {

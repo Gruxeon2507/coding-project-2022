@@ -1,5 +1,5 @@
 Assets {
-  Id: 4334353000622442448
+  Id: 18048475529753211681
   Name: "ItemSystems_Inventory"
   PlatformAssetType: 3
   TextAsset {
@@ -7,25 +7,25 @@ Assets {
       Overrides {
         Name: "cs:ItemSystems_Item"
         AssetReference {
-          Id: 64649889139326175
+          Id: 4508048841569297377
         }
       }
       Overrides {
         Name: "cs:Base64"
         AssetReference {
-          Id: 10211279221678239618
+          Id: 13240482739468433827
         }
       }
       Overrides {
         Name: "cs:RuntimeContextDetection"
         AssetReference {
-          Id: 584605761119437577
+          Id: 6139421399869147059
         }
       }
       Overrides {
         Name: "cs:ItemSystems_UpgradesCostBasis"
         AssetReference {
-          Id: 13134192856728605452
+          Id: 4826389563468526169
         }
       }
       Overrides {

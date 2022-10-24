@@ -1,5 +1,5 @@
 Assets {
-  Id: 7606882799389867515
+  Id: 9383007080532976426
   Name: "Weapon - Plasma Green"
   PlatformAssetType: 13
   SerializationVersion: 119

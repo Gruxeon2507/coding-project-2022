@@ -623,8 +623,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Named_Location_Display"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

@@ -63,7 +63,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15469475911527753827
+            Id: 3640417482330229689
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -116,7 +116,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9842143421296066252
+            Id: 13184115999073471692
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -168,7 +168,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9842143421296066252
+            Id: 13184115999073471692
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -193,7 +193,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15469475911527753827
+      Id: 3640417482330229689
       Name: "Stone Arch (doorway) 001"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -202,7 +202,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9842143421296066252
+      Id: 13184115999073471692
       Name: "Fantasy Castle Stairs 01 - 150cm"
       PlatformAssetType: 1
       PrimaryAsset {

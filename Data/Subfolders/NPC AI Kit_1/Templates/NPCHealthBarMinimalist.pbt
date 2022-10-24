@@ -1,5 +1,5 @@
 Assets {
-  Id: 8962547516543462138
+  Id: 7710766976004868532
   Name: "NPCHealthBarMinimalist"
   PlatformAssetType: 5
   TemplateAsset {
@@ -83,7 +83,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13121138425366015981
+            Id: 10198742795619588501
           }
         }
         NetworkRelevanceDistance {
@@ -149,7 +149,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 9312017325561157644
+              Id: 7893944204674572055
             }
           }
           Overrides {
@@ -211,7 +211,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 5280437219245398613
+              Id: 13091775368145887018
             }
           }
         }

@@ -1,5 +1,5 @@
 Assets {
-  Id: 3894136302309937821
+  Id: 10342587616403567647
   Name: "GlobalCapturePointDisplayClient"
   PlatformAssetType: 3
   TextAsset {

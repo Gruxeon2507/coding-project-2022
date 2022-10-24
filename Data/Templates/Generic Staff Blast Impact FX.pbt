@@ -1,5 +1,5 @@
 Assets {
-  Id: 16946794819248017744
+  Id: 17545183029694165414
   Name: "Generic Staff Blast Impact FX"
   PlatformAssetType: 5
   TemplateAsset {
@@ -143,8 +143,9 @@ Assets {
           Overrides {
             Name: "bp:Smoke Color"
             Color {
-              G: 0.464900464
-              B: 0.539999962
+              R: 0.13000001
+              G: 0.122817963
+              B: 0.11245
               A: 1
             }
           }
@@ -172,15 +173,6 @@ Assets {
               A: 1
             }
           }
-          Overrides {
-            Name: "bp:Color"
-            Color {
-              R: 0.361059844
-              G: 0.279999971
-              B: 1
-              A: 1
-            }
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -193,7 +185,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 17593637809061010819
+            Id: 17069761961690292468
           }
           Vfx {
             AutoPlay: true
@@ -228,7 +220,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4481436014343742426
+              Id: 2030665186957883852
             }
           }
           Overrides {
@@ -260,7 +252,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -332,7 +324,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -355,7 +347,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17593637809061010819
+      Id: 17069761961690292468
       Name: "Basic Explosion VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -364,7 +356,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12434974458467685788
+      Id: 15614259856505195515
       Name: "Sphere"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -373,7 +365,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4481436014343742426
+      Id: 2030665186957883852
       Name: "Plasma"
       PlatformAssetType: 2
       PrimaryAsset {

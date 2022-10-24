@@ -423,8 +423,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Game_State_Display"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

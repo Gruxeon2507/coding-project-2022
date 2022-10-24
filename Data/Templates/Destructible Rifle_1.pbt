@@ -531,7 +531,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 9117384065423546074
+            Id: 15740957242089025444
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -639,7 +639,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 6045540826292531006
+            Id: 15420293526340853433
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -701,7 +701,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
           Overrides {
@@ -946,7 +946,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13442965192408425307
+            Id: 6205215581072671272
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1062,7 +1062,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
         }
@@ -1185,7 +1185,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13442965192408425307
+            Id: 6205215581072671272
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1239,7 +1239,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13442965192408425307
+            Id: 6205215581072671272
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1333,7 +1333,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9117384065423546074
+      Id: 15740957242089025444
       Name: "Modern Weapon - Sight Rear 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1351,7 +1351,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6045540826292531006
+      Id: 15420293526340853433
       Name: "Modern Weapon - Sight Forward 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1369,7 +1369,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3702191406046426907
+      Id: 8375575103126610230
       Name: "Emissive Glow Transparent"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1396,7 +1396,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13442965192408425307
+      Id: 6205215581072671272
       Name: "Modern Weapon Accessory - Rail 01"
       PlatformAssetType: 1
       PrimaryAsset {

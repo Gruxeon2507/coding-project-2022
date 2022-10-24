@@ -1038,8 +1038,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Sword"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

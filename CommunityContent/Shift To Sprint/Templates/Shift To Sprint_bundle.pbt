@@ -1,5 +1,5 @@
 Assets {
-  Id: 11798543058575092884
+  Id: 5411550053989139566
   Name: "Shift To Sprint"
   PlatformAssetType: 5
   TemplateAsset {
@@ -33,7 +33,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 7097822005792084449
+              Id: 9568364167313112569
             }
           }
         }

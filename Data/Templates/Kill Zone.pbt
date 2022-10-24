@@ -1,5 +1,5 @@
 Assets {
-  Id: 2857347357152813362
+  Id: 2235629690676643330
   Name: "Kill Zone"
   PlatformAssetType: 5
   TemplateAsset {
@@ -116,7 +116,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3908110495107565482
+            Id: 1477968424916458495
           }
         }
         NetworkRelevanceDistance {
@@ -126,8 +126,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Kill_Zone"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

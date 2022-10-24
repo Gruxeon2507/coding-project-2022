@@ -1,5 +1,5 @@
 Assets {
-  Id: 17568878626614801745
+  Id: 13163627504622977918
   Name: "Weapon - Metal Colored"
   PlatformAssetType: 13
   SerializationVersion: 119

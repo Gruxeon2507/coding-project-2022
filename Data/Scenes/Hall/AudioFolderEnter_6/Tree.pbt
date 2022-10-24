@@ -1,7 +1,7 @@
 Name: "AudioFolderEnter_6"
-RootId: 5394928582392904237
+RootId: 5409601989354024184
 Objects {
-  Id: 2867769090481848164
+  Id: 4551732030048157060
   Name: "\"Serene Fantasy Dream\" Music Construction Kit (Sections) 01"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5394928582392904237
+  ParentId: 5409601989354024184
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

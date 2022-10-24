@@ -1,5 +1,5 @@
 Assets {
-  Id: 5554738186250861558
+  Id: 16167104569595891470
   Name: "Basic Sword"
   PlatformAssetType: 5
   TemplateAsset {
@@ -125,13 +125,13 @@ Assets {
           Overrides {
             Name: "cs:ModuleManager"
             AssetReference {
-              Id: 16859791369248754591
+              Id: 1960343504784185513
             }
           }
           Overrides {
             Name: "cs:PlayerStats_Combat"
             AssetReference {
-              Id: 7910916886577143753
+              Id: 12568911486390079672
             }
           }
         }
@@ -146,7 +146,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16266739666505483738
+            Id: 6868626267521535701
           }
         }
         NetworkRelevanceDistance {
@@ -180,7 +180,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 582740223733368850
+            Id: 18247345111230987610
           }
         }
         NetworkRelevanceDistance {
@@ -234,7 +234,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15335404042840951348
+            Id: 12333492428321500440
           }
         }
         NetworkRelevanceDistance {
@@ -269,7 +269,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6542170114427865587
+            Id: 10768166044330706138
           }
         }
         NetworkRelevanceDistance {
@@ -303,7 +303,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11145628254934127387
+            Id: 3820925941018720372
           }
         }
         NetworkRelevanceDistance {
@@ -373,7 +373,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14772313579232998117
+              Id: 6847002890894885131
             }
           }
         }
@@ -388,7 +388,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14150387368533688185
+            Id: 15217026285343297011
           }
         }
         NetworkRelevanceDistance {
@@ -486,13 +486,13 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 1353520495077463700
+              Id: 12186587800654758569
             }
           }
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 13193054912957678556
+              Id: 3727864271298158597
             }
           }
         }
@@ -507,7 +507,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7176464652835658515
+            Id: 4465783391231038508
           }
         }
         NetworkRelevanceDistance {
@@ -547,7 +547,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 18079652801420667329
+              Id: 1309702708369520233
             }
           }
           Overrides {
@@ -568,7 +568,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 1353520495077463700
+              Id: 12186587800654758569
             }
           }
         }
@@ -583,7 +583,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7176464652835658515
+            Id: 4465783391231038508
           }
         }
         NetworkRelevanceDistance {
@@ -623,7 +623,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 18079652801420667329
+              Id: 1309702708369520233
             }
           }
           Overrides {
@@ -645,7 +645,7 @@ Assets {
           Overrides {
             Name: "cs:PlayerImpactVFX"
             AssetReference {
-              Id: 1353520495077463700
+              Id: 12186587800654758569
             }
           }
         }
@@ -660,7 +660,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7176464652835658515
+            Id: 4465783391231038508
           }
         }
         NetworkRelevanceDistance {
@@ -693,7 +693,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14772313579232998117
+              Id: 6847002890894885131
             }
           }
           Overrides {
@@ -723,7 +723,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1144590072372630290
+            Id: 10984383359750883916
           }
         }
         NetworkRelevanceDistance {
@@ -756,7 +756,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14772313579232998117
+              Id: 6847002890894885131
             }
           }
           Overrides {
@@ -786,7 +786,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1144590072372630290
+            Id: 10984383359750883916
           }
         }
         NetworkRelevanceDistance {
@@ -819,7 +819,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14772313579232998117
+              Id: 6847002890894885131
             }
           }
           Overrides {
@@ -849,7 +849,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1144590072372630290
+            Id: 10984383359750883916
           }
         }
         NetworkRelevanceDistance {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 3722559179002694919
+  Id: 14441351892168376330
   Name: "Dagger Thurst FX"
   PlatformAssetType: 5
   TemplateAsset {

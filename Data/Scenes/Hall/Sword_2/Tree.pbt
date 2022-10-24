@@ -1,7 +1,7 @@
 Name: "Sword_2"
-RootId: 5373467516760910491
+RootId: 17060022816402275659
 Objects {
-  Id: 7503484128360162703
+  Id: 940599304813986081
   Name: "Fantasy Sword Blade 02"
   Transform {
     Location {
@@ -19,7 +19,7 @@ Objects {
       Z: 3.79321623
     }
   }
-  ParentId: 5373467516760910491
+  ParentId: 17060022816402275659
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -64,6 +64,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 940599304813986081
+    SubobjectId: 17265998938513154929
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -73,7 +79,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7699822731653378016
+  Id: 2462268940348296083
   Name: "Fantasy Sword Guard 01"
   Transform {
     Location {
@@ -89,7 +95,7 @@ Objects {
       Z: 2.42487144
     }
   }
-  ParentId: 5373467516760910491
+  ParentId: 17060022816402275659
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -122,6 +128,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2462268940348296083
+    SubobjectId: 13887751143339321795
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -131,7 +143,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18380259066332357992
+  Id: 14019998658722322970
   Name: "Fantasy Pommel 01"
   Transform {
     Location {
@@ -146,7 +158,7 @@ Objects {
       Z: 2.42487144
     }
   }
-  ParentId: 5373467516760910491
+  ParentId: 17060022816402275659
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -179,6 +191,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14019998658722322970
+    SubobjectId: 2306268400452319306
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -188,7 +206,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16084335974798311730
+  Id: 17786154298021638207
   Name: "Fantasy Sword Grip 01"
   Transform {
     Location {
@@ -203,7 +221,7 @@ Objects {
       Z: 2.42487144
     }
   }
-  ParentId: 5373467516760910491
+  ParentId: 17060022816402275659
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -227,6 +245,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 17786154298021638207
+    SubobjectId: 1460738043839124079
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

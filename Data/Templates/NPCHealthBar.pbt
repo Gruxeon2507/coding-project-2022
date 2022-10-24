@@ -170,7 +170,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 198353679974341757
+            Id: 13981696299924831856
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -232,7 +232,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 198353679974341757
+            Id: 13981696299924831856
           }
           Teams {
             UseTeamColor: true
@@ -307,7 +307,7 @@ Assets {
       }
     }
     Assets {
-      Id: 198353679974341757
+      Id: 13981696299924831856
       Name: "Cube - Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {

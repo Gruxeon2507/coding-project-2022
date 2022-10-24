@@ -1,7 +1,7 @@
 Name: "AudioFolderEnter_9"
-RootId: 3175016023941268804
+RootId: 11372217318667512909
 Objects {
-  Id: 16246403431817107874
+  Id: 8524020018259880254
   Name: "\"Heroic Adventurer\" Music Construction Kit (Sections) 01"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3175016023941268804
+  ParentId: 11372217318667512909
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

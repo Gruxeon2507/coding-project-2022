@@ -1,5 +1,5 @@
 Assets {
-  Id: 16147031275284732970
+  Id: 8031104017213994216
   Name: "ResourcePickupServer"
   PlatformAssetType: 3
   TextAsset {

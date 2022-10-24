@@ -1,5 +1,5 @@
 Assets {
-  Id: 15522783656940277257
+  Id: 17825276100003438001
   Name: "Crossbow Magic Plastic"
   PlatformAssetType: 13
   SerializationVersion: 119

@@ -74,8 +74,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Victory_Announcer"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

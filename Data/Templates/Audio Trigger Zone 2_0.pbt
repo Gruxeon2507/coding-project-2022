@@ -1,6 +1,6 @@
 Assets {
   Id: 17730900389406285218
-  Name: "Audio Trigger Zone 2.0"
+  Name: "Audio Trigger Zone 2_0"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
@@ -63,7 +63,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 5731361588750709218
+              Id: 13549539976900896759
             }
           }
         }
@@ -78,7 +78,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 3398013073835329640
+            Id: 13981696299924831856
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -318,7 +318,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3398013073835329640
+      Id: 13981696299924831856
       Name: "Cube - Bottom-Aligned"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -327,7 +327,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5731361588750709218
+      Id: 13549539976900896759
       Name: "Edgeline Wavy Object Fade Advanced"
       PlatformAssetType: 2
       PrimaryAsset {

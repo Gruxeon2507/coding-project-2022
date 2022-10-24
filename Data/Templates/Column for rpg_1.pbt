@@ -135,7 +135,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13963055149268646253
+              Id: 16623719373387814516
             }
           }
           Overrides {
@@ -833,7 +833,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13963055149268646253
+              Id: 16623719373387814516
             }
           }
           Overrides {
@@ -911,7 +911,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -989,7 +989,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -1067,7 +1067,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -1145,7 +1145,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 12559796121075739811
             }
           }
           Overrides {
@@ -1266,7 +1266,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13963055149268646253
+              Id: 16623719373387814516
             }
           }
           Overrides {
@@ -1344,7 +1344,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 353824198107917539
+              Id: 3625768306873833974
             }
           }
           Overrides {
@@ -1422,7 +1422,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 353824198107917539
+              Id: 3625768306873833974
             }
           }
           Overrides {
@@ -1500,7 +1500,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 13963055149268646253
+              Id: 16623719373387814516
             }
           }
           Overrides {
@@ -1578,7 +1578,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 353824198107917539
+              Id: 3625768306873833974
             }
           }
           Overrides {
@@ -1723,7 +1723,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15977747936357021178
+            Id: 3351297021261479780
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1778,7 +1778,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15977747936357021178
+            Id: 3351297021261479780
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1833,7 +1833,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15977747936357021178
+            Id: 3351297021261479780
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1888,7 +1888,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15977747936357021178
+            Id: 3351297021261479780
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1998,7 +1998,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15957604091552429471
+            Id: 17271235541904370845
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2053,7 +2053,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15957604091552429471
+            Id: 17271235541904370845
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2108,7 +2108,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15957604091552429471
+            Id: 17271235541904370845
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2163,7 +2163,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15957604091552429471
+            Id: 17271235541904370845
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2218,7 +2218,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15957604091552429471
+            Id: 17271235541904370845
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2273,7 +2273,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15957604091552429471
+            Id: 17271235541904370845
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2328,7 +2328,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15957604091552429471
+            Id: 17271235541904370845
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -2360,7 +2360,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13963055149268646253
+      Id: 16623719373387814516
       Name: "Metal Old Beaten Gold 02"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2396,7 +2396,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14652545573389172725
+      Id: 12559796121075739811
       Name: "Stone Basic"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2405,7 +2405,7 @@ Assets {
       }
     }
     Assets {
-      Id: 353824198107917539
+      Id: 3625768306873833974
       Name: "Bricks Rough Stone Floor 02"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -2414,7 +2414,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15977747936357021178
+      Id: 3351297021261479780
       Name: "Ivy 03"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2432,7 +2432,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15957604091552429471
+      Id: 17271235541904370845
       Name: "Ivy 01"
       PlatformAssetType: 1
       PrimaryAsset {

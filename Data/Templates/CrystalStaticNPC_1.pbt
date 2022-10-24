@@ -599,7 +599,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 916665379155427451
+            Id: 15961349352539224933
           }
           Teams {
             IsEnemyCollisionEnabled: true
@@ -928,7 +928,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2866390178899414017
+            Id: 12037622918791899186
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1055,7 +1055,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2866390178899414017
+            Id: 12037622918791899186
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1112,7 +1112,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2866390178899414017
+            Id: 12037622918791899186
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1169,7 +1169,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2866390178899414017
+            Id: 12037622918791899186
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1211,7 +1211,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4289160600405295316
+              Id: 5398196167973053154
             }
           }
           Overrides {
@@ -1966,7 +1966,7 @@ Assets {
           Overrides {
             Name: "cs:HealthBarTemplate"
             AssetReference {
-              Id: 17864223494164970248
+              Id: 5113502778148150293
             }
           }
         }
@@ -2301,7 +2301,7 @@ Assets {
       }
     }
     Assets {
-      Id: 916665379155427451
+      Id: 15961349352539224933
       Name: "Capsule"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2328,7 +2328,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2866390178899414017
+      Id: 12037622918791899186
       Name: "Chain Tile 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -2337,7 +2337,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4289160600405295316
+      Id: 5398196167973053154
       Name: "Metal Basic 01"
       PlatformAssetType: 2
       PrimaryAsset {

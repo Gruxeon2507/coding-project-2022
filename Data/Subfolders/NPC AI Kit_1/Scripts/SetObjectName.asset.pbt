@@ -1,5 +1,5 @@
 Assets {
-  Id: 5744393107292435569
+  Id: 13281656919277585524
   Name: "SetObjectName"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 8187675541658542381
+          Id: 1121493518655226120
         }
       }
       Overrides {

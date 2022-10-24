@@ -1,5 +1,5 @@
 Assets {
-  Id: 5642071919357286907
+  Id: 2142252993758762406
   Name: "EquipmentStanceServer"
   PlatformAssetType: 3
   TextAsset {

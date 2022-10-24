@@ -1,5 +1,5 @@
 SceneName: "RuneTerra"
-SceneId: "0e29ab914dd3608f9a8212afcddb3dda"
-SceneCreationDateTime: 638018721401990000
+SceneId: "bcd3a82e469d33eb734e43bbd845173c"
+SceneCreationDateTime: 638021554844650000
 IncludeForPublish: true
-MaxPlayers: 4
+MaxPlayers: 8

@@ -115,7 +115,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 4524004223631073795
+            Id: 6391999908224949722
           }
           AudioBP {
             AutoPlay: true
@@ -185,7 +185,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6474768715633236406
+            Id: 13110421772076029559
           }
           TeamSettings {
           }
@@ -245,7 +245,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 14964967653464214432
+            Id: 14892319738865420379
           }
           DecalBP {
           }
@@ -260,7 +260,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4524004223631073795
+      Id: 6391999908224949722
       Name: "Fire and Flame Burning Loop Set 01 SFX"
       PlatformAssetType: 10
       PrimaryAsset {
@@ -269,7 +269,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6474768715633236406
+      Id: 13110421772076029559
       Name: "Fire Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {
@@ -278,7 +278,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14964967653464214432
+      Id: 14892319738865420379
       Name: "Decal Dirt Patch"
       PlatformAssetType: 14
       PrimaryAsset {

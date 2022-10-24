@@ -1,5 +1,5 @@
 Assets {
-  Id: 10109220941690346490
+  Id: 14150387368533688185
   Name: "EquipmentSetIconClient"
   PlatformAssetType: 3
   TextAsset {

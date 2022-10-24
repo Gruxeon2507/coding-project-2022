@@ -1,5 +1,5 @@
 Assets {
-  Id: 5836902753367832165
+  Id: 10119411531076117022
   Name: "Custom Wood Planks Dark"
   PlatformAssetType: 13
   SerializationVersion: 119
@@ -9,6 +9,10 @@ Assets {
       Overrides {
         Name: "rotate_material"
         Float: 90
+      }
+      Overrides {
+        Name: "v_tiles"
+        Float: 0.991371393
       }
     }
     Assets {

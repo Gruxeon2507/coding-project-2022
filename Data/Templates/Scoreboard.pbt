@@ -1,5 +1,5 @@
 Assets {
-  Id: 416960881794401368
+  Id: 15094791552648943324
   Name: "Scoreboard"
   PlatformAssetType: 5
   TemplateAsset {
@@ -20,7 +20,7 @@ Assets {
         UnregisteredParameters {
           Overrides {
             Name: "cs:Binding"
-            String: "ability_extra_19"
+            String: "ability_extra_0"
           }
           Overrides {
             Name: "cs:ShowAtRoundEnd"
@@ -163,7 +163,7 @@ Assets {
       }
       Objects {
         Id: 9362652718803093852
-        Name: "UI Container"
+        Name: "Canvas"
         Transform {
           Location {
           }
@@ -252,8 +252,7 @@ Assets {
         }
         Control {
           Width: 1200
-          Height: 620
-          UIY: -230
+          Height: 800
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
@@ -267,7 +266,7 @@ Assets {
           AnchorLayout {
             SelfAnchor {
               Anchor {
-                Value: "mc:euianchor:topcenter"
+                Value: "mc:euianchor:middlecenter"
               }
             }
             TargetAnchor {

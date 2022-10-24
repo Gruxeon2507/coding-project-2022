@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 15153513534399946376
+    BaseMaterialId: 12559796121075739811
     ParameterOverrides {
       Overrides {
         Name: "color"
@@ -17,7 +17,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15153513534399946376
+      Id: 12559796121075739811
       Name: "Stone Basic"
       PlatformAssetType: 2
       PrimaryAsset {

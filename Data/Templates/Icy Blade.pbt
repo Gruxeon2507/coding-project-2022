@@ -31,7 +31,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 15201232689808388272
+              Id: 16491613473146445688
             }
           }
           Overrides {
@@ -805,10 +805,16 @@ Assets {
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 0.209999979
-              G: 0.827350616
+              R: 1
+              G: 1
               B: 1
-              A: 0.5
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 15618348210172860107
             }
           }
         }
@@ -862,10 +868,16 @@ Assets {
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 0.209999979
-              G: 0.827350616
+              R: 1
+              G: 1
               B: 1
-              A: 0.5
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 15618348210172860107
             }
           }
         }
@@ -919,10 +931,16 @@ Assets {
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 0.209999979
-              G: 0.827350616
+              R: 1
+              G: 1
               B: 1
-              A: 0.5
+              A: 1
+            }
+          }
+          Overrides {
+            Name: "cs:Icon"
+            AssetReference {
+              Id: 15618348210172860107
             }
           }
         }
@@ -2062,12 +2080,21 @@ Assets {
       }
     }
     Assets {
-      Id: 15201232689808388272
-      Name: "Icon Weapon Sword"
+      Id: 16491613473146445688
+      Name: "Fantasy Sword 016"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_WeaponSword"
+        AssetId: "UI_Fantasy_Weapon_Sword_016"
+      }
+    }
+    Assets {
+      Id: 15618348210172860107
+      Name: "Fantasy Ability Blue 049"
+      PlatformAssetType: 9
+      PrimaryAsset {
+        AssetType: "PlatformBrushAssetRef"
+        AssetId: "UI_Fantasy_Ability_Blue_049"
       }
     }
     Assets {

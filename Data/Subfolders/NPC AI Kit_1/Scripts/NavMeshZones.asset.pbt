@@ -1,5 +1,5 @@
 Assets {
-  Id: 18337677911002253684
+  Id: 3238900419391392851
   Name: "NavMeshZones"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 8187675541658542381
+          Id: 1121493518655226120
         }
       }
     }

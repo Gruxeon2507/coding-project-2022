@@ -146,7 +146,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17177425172148499381
+              Id: 15487062404605779941
             }
           }
           Overrides {
@@ -232,7 +232,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15311550138640852139
+            Id: 13432417776101595464
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -277,7 +277,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17177425172148499381
+              Id: 15487062404605779941
             }
           }
           Overrides {
@@ -298,7 +298,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12665761949314103200
+            Id: 2327009830056851580
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -345,7 +345,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17177425172148499381
+              Id: 15487062404605779941
             }
           }
         }
@@ -360,7 +360,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16077824162186241922
+            Id: 7291008403313833831
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -406,7 +406,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17177425172148499381
+              Id: 15487062404605779941
             }
           }
         }
@@ -421,7 +421,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16077824162186241922
+            Id: 7291008403313833831
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -468,7 +468,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17177425172148499381
+              Id: 15487062404605779941
             }
           }
         }
@@ -483,7 +483,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16077824162186241922
+            Id: 7291008403313833831
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -529,7 +529,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17177425172148499381
+              Id: 15487062404605779941
             }
           }
         }
@@ -544,7 +544,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16077824162186241922
+            Id: 7291008403313833831
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -577,7 +577,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17177425172148499381
+      Id: 15487062404605779941
       Name: "Metal Steel Brushed"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -586,7 +586,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15311550138640852139
+      Id: 13432417776101595464
       Name: "Cone - Truncated Hollow Concave"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -604,7 +604,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12665761949314103200
+      Id: 2327009830056851580
       Name: "Cone - Truncated Hollow Thin"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -613,7 +613,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16077824162186241922
+      Id: 7291008403313833831
       Name: "Sci-fi Panel 2x3m Triangle"
       PlatformAssetType: 1
       PrimaryAsset {

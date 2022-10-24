@@ -1,5 +1,5 @@
 Assets {
-  Id: 4917072699616109892
+  Id: 8489860728781510232
   Name: "Basic Chest"
   PlatformAssetType: 5
   TemplateAsset {

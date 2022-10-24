@@ -1,11 +1,13 @@
 --[[
 	Animation Controller - Raptor
-	v1.0
+	v1.1.1
 	by: standardcombo, blackdheart
 	
 	Controls the animations for an NPC based on the Raptor Animated Mesh.
 	Changes in animation occur in response to movement and state machine changes.
 --]]
+
+Task.Wait()
 
 local MESH = script:GetCustomProperty("AnimatedMesh"):WaitForObject()
 local ROOT = script:GetCustomProperty("Root"):WaitForObject()
@@ -31,15 +33,14 @@ function PlayAttack()
 	MESH.playbackRateMultiplier = 1
 end
 
+function PlayDamaged()
+	MESH:PlayAnimation("unarmed_react_damage")
+end
+
 function PlayDeath()
 	MESH:PlayAnimation("unarmed_death")
 	Task.Wait(1.96)
 	MESH.playbackRateMultiplier = 0
-end
-
-function PlayDamaged()
-	MESH:PlayAnimation("unarmed_react_damage", {playbackRate = 0.6})
-	MESH.playbackRateMultiplier = 1
 end
 
 function Tick(deltaTime)
@@ -74,27 +75,17 @@ local STATE_DEAD_1 = 6
 local STATE_DEAD_2 = 7
 local STATE_DISABLED = 8
 
-function UpdateArt(state)
+function UpdateArt(state)		
 	if (state == STATE_ATTACK_CAST) then
 		PlayAttack()
-
+				
 	elseif (state == STATE_DEAD_1) then
 		PlayDeath()
 	end
 end
 
 
-function GetID()
-	if Object.IsValid(ROOT) then
-		return ROOT:GetCustomProperty("ObjectId")
-	end
-	return nil
-end
-
 function GetCurrentState()
-	if not Object.IsValid(ROOT) then
-		return 0
-	end
 	return ROOT:GetCustomProperty("CurrentState")
 end
 
@@ -105,14 +96,18 @@ function OnPropertyChanged(object, propertyName)
 		UpdateArt(GetCurrentState())
 	end
 end
+ROOT.customPropertyChangedEvent:Connect(OnPropertyChanged)
+
 
 function OnObjectDamaged(id, prevHealth, dmgAmount, impactPosition, impactRotation, sourceObject)
 	local state = GetCurrentState()
 	if state == STATE_ATTACK_CAST then return end
 	if state >= STATE_DEAD_1 then return end
 	if speed > 40 then return end
+	
 	-- Ignore other NPCs, make sure this event is about this NPC
-	if id == GetID() then
+	local myId = ROOT:GetCustomProperty("ObjectId")
+	if id == myId then
 		PlayDamaged()
 	end
 end
@@ -127,7 +122,7 @@ function OnDestroyed(obj)
 end
 
 ROOT.destroyEvent:Connect(OnDestroyed)
-ROOT.networkedPropertyChangedEvent:Connect(OnPropertyChanged)
+
 
 --[[
 function OnBindingPressed(player, action)

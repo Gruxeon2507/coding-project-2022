@@ -220,7 +220,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3194930412626622494
+            Id: 6542170114427865587
           }
         }
         NetworkRelevanceDistance {
@@ -254,7 +254,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10251728999306098252
+            Id: 11145628254934127387
           }
         }
         NetworkRelevanceDistance {
@@ -507,7 +507,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
         }
@@ -522,7 +522,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 10109220941690346490
+            Id: 14150387368533688185
           }
         }
         NetworkRelevanceDistance {
@@ -814,7 +814,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -877,7 +877,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -940,7 +940,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 7862472184676115458
+              Id: 7445855579671141283
             }
           }
           Overrides {
@@ -1116,7 +1116,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 10219341742639680186
+              Id: 15487062404605779941
             }
           }
         }
@@ -1180,7 +1180,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 14212988502358508072
+              Id: 16447630291553548532
             }
           }
         }
@@ -1725,7 +1725,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10219341742639680186
+      Id: 15487062404605779941
       Name: "Metal Steel Brushed"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1743,7 +1743,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14212988502358508072
+      Id: 16447630291553548532
       Name: "Metal Basic Steel"
       PlatformAssetType: 2
       PrimaryAsset {

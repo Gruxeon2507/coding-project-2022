@@ -1,4 +1,21 @@
-local SHOW_DEBUG_LINES = false
+--[[
+	Navmesh Generator
+	v1.0.1
+	by: Waffle
+	
+	This is a module used by another script NavMesh
+	The purpose of this is to take a folder filled with rectangular planes and convert them into a navigation mesh.
+	
+	The Debug property can be toggled on or off to show intersections, connections, path lines and print messages.
+	
+	NavMeshGenerator.GetRectangles(NAVMESH_FOLDER) takes a Folder object that is filled with plane CoreMesh objects and returns a table of rectangles.
+	The rectangles have a normal, 4 vertices, 4 edges of 2 vertices each, and a table of connected nodes which are generated based on other neighboring or intersecting rectangles.
+	These nodes represent positions where a path can cross from one rectangle to another.
+	
+	A handful of mathematical functions are also used in the calculation of intersections between rectangles in 3 dimensions.
+]]
+
+local SHOW_DEBUG = script:GetCustomProperty("SHOW_DEBUG")
 
 local function pointsAreOnSameSideOfLine(point1, point2, A, B) -- point1 and point2 are on the same side of line AB
 	return ((B - A) ^ (point1 - A)) .. ((B - A) ^ (point2 - A)) >= 0 -- scalar quadruple product is nonnegative
@@ -123,11 +140,12 @@ local function closestPointsBetweenLineSegmentAndRectangle(lineStart, lineEnd, r
 end
 
 local function intersectionsBetweenRectangles(rect1, rect2) -- list each 0-dimenional intersection between the two rectangles
+	local TOLERANCE = 50
 	local intersectionPoints = {}
 	local function addIntersectionPoint(point)
 		local isUnique = true -- check that this intersection point hasn't already been found
 		for _, other in pairs(intersectionPoints) do
-			if (other - point).sizeSquared < 1 then
+			if (other - point).sizeSquared < TOLERANCE then
 				isUnique = false
 				break
 			end
@@ -141,7 +159,7 @@ local function intersectionsBetweenRectangles(rect1, rect2) -- list each 0-dimen
 		for _, edge1 in pairs(rect1.edges) do
 			for _, edge2 in pairs(rect2.edges) do
 				local a, b = closestPointsBetweenTwoLineSegments(edge1[1], edge1[2], edge2[1], edge2[2])
-				if a and (a - b).sizeSquared < 1 then -- edges intersect, or close enough
+				if a and (a - b).sizeSquared < TOLERANCE then -- edges intersect, or close enough
 					addIntersectionPoint(a)
 				end
 			end
@@ -149,13 +167,13 @@ local function intersectionsBetweenRectangles(rect1, rect2) -- list each 0-dimen
 	else -- calculate edge-face intersections
 		for _, edge in pairs(rect1.edges) do
 			local a, b = closestPointsBetweenLineSegmentAndRectangle(edge[1], edge[2], rect2)
-			if a and (a - b).sizeSquared < 1 then
+			if a and (a - b).sizeSquared < TOLERANCE then
 				addIntersectionPoint(a)
 			end
 		end
 		for _, edge in pairs(rect2.edges) do
 			local a, b = closestPointsBetweenLineSegmentAndRectangle(edge[1], edge[2], rect1)
-			if a and (a - b).sizeSquared < 1 then
+			if a and (a - b).sizeSquared < TOLERANCE then
 				addIntersectionPoint(a)
 			end
 		end
@@ -165,28 +183,29 @@ local function intersectionsBetweenRectangles(rect1, rect2) -- list each 0-dimen
 end
 
 local NavMeshGenerator = {}
-NavMeshGenerator.SHOW_DEBUG_LINES = SHOW_DEBUG_LINES
+NavMeshGenerator.SHOW_DEBUG = SHOW_DEBUG
 
 NavMeshGenerator.closestPointOnRectangle = closestPointOnRectangle
 NavMeshGenerator.closestPointsBetweenLineSegmentAndRectangle = closestPointsBetweenLineSegmentAndRectangle
 NavMeshGenerator.closestPointsBetweenTwoLineSegments = closestPointsBetweenTwoLineSegments
+NavMeshGenerator.pointsAreOnSameSideOfLine = pointsAreOnSameSideOfLine
 
 function NavMeshGenerator.GetRectangles(NAVMESH_FOLDER)
 	local rectangles = {}
 
 	-- turn the cube meshes in NAVMESH_FOLDER into a list of rectangles
-	for _, part in pairs(NAVMESH_FOLDER:GetChildren()) do
+	for _, part in pairs(NAVMESH_FOLDER:FindDescendantsByType("StaticMesh")) do
 		local rect = {}
 		rectangles[#rectangles + 1] = rect
 		
 		local partCenter = part:GetWorldPosition()
 		local partRotation = part:GetWorldRotation()
-		local partSize = part:GetWorldScale() * 100 -- based on cube mesh size
+		local partSize = part:GetWorldScale() * 100 -- based on the plane mesh size
 		rect.vertices = {
-			partCenter + partRotation * (partSize * Vector3.New(.5, -.5, 1)), -- front left
-			partCenter + partRotation * (partSize * Vector3.New(.5, .5, 1)), -- front right
-			partCenter + partRotation * (partSize * Vector3.New(-.5, .5, 1)), -- back right
-			partCenter + partRotation * (partSize * Vector3.New(-.5, -.5, 1)) -- back left
+			partCenter + partRotation * (partSize * Vector3.New(.5, -.5, 0)), -- front left
+			partCenter + partRotation * (partSize * Vector3.New(.5, .5, 0)), -- front right
+			partCenter + partRotation * (partSize * Vector3.New(-.5, .5, 0)), -- back right
+			partCenter + partRotation * (partSize * Vector3.New(-.5, -.5, 0)) -- back left
 		}
 		
 		rect.edges = {}
@@ -194,18 +213,17 @@ function NavMeshGenerator.GetRectangles(NAVMESH_FOLDER)
 			local vertex1 = rect.vertices[i]
 			local vertex2 = rect.vertices[i%4 + 1] -- wraps around to 1
 			rect.edges[#rect.edges + 1] = {vertex1, vertex2}
-			--CoreDebug.DrawLine(vertex1, vertex2, {duration = 9999, color = Color.New(1, 1, 0), thickness = 20})
 		end
 		
 		rect.nodes = {}
 		
-		 -- the cross product of two adjacent edges of a polygon is perpendicular to its face
+		-- the cross product of two adjacent edges of a polygon is perpendicular to its face
 		rect.normal = ((rect.vertices[2] - rect.vertices[1]) ^ (rect.vertices[3] - rect.vertices[1])):GetNormalized()
 	end
 
 	-- determine intersections between pairs of rectangles, or adjacency within some epsilon distance
-	local intersectionCount = 0
-	local generationStart = os.clock()
+	local generationStart = os.clock() -- track how long it takes. prints if SHOW_DEBUG is true
+	local nodes = {}
 	for i = 1, #rectangles do
 		local rect1 = rectangles[i]
 		for j = i+1, #rectangles do
@@ -217,34 +235,36 @@ function NavMeshGenerator.GetRectangles(NAVMESH_FOLDER)
 				local intersectionPoints = intersectionsBetweenRectangles(rect1, rect2)
 				for _, point in pairs(intersectionPoints) do
 					local newNode = {position = point, connectedRectangles = {rect1, rect2}}
+					nodes[#nodes + 1] = newNode
 					
-					if NavMeshGenerator.SHOW_DEBUG_LINES then
+					if NavMeshGenerator.SHOW_DEBUG then
 						CoreDebug.DrawSphere(point, 30, {duration = 9999, thickness = 5})
 						local seenNodes = {}
 						for _, node in pairs(rect1.nodes) do
 							if not seenNodes[node] then
 								seenNodes[node] = true
-								CoreDebug.DrawLine(newNode.position, node.position, {duration = 9999, thickness = 10})
+								CoreDebug.DrawLine(newNode.position, node.position, {duration = 9999, thickness = 2})
 							end
 						end
 						for _, node in pairs(rect2.nodes) do
 							if not seenNodes[node] then
 								seenNodes[node] = true
-								CoreDebug.DrawLine(newNode.position, node.position, {duration = 9999, thickness = 10})
+								CoreDebug.DrawLine(newNode.position, node.position, {duration = 9999, thickness = 2})
 							end
 						end
 					end
 					
 					rect1.nodes[#rect1.nodes + 1] = newNode
 					rect2.nodes[#rect2.nodes + 1] = newNode
-					intersectionCount = intersectionCount + 1
 				end
 			end)
 			Events.Broadcast("fastSpawn")
-			
+
 		end
 	end
-	--print("navmesh generated in "..((os.clock()-generationStart)*1000).." ms with "..intersectionCount.." nodes")
+	if SHOW_DEBUG then
+		print("navmesh generated in "..math.floor((os.clock()-generationStart)*1000+.5).." ms")
+	end
 
 	return rectangles
 end

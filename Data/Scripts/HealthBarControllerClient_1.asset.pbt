@@ -1,5 +1,5 @@
 Assets {
-  Id: 12001882026231910679
+  Id: 17273688463654571043
   Name: "HealthBarControllerClient_1"
   PlatformAssetType: 3
   TextAsset {

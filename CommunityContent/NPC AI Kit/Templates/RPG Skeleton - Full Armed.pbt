@@ -1,5 +1,5 @@
 Assets {
-  Id: 6680250952732974396
+  Id: 3986464286843289030
   Name: "RPG Skeleton - Full Armed"
   PlatformAssetType: 5
   TemplateAsset {
@@ -301,7 +301,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14355663156094277575
+            Id: 3445262167931217952
           }
         }
         NetworkRelevanceDistance {
@@ -347,25 +347,25 @@ Assets {
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 3422967148721140849
+              Id: 17015303437795302824
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 9850179799251994133
+              Id: 16815128977086736723
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 2926696628362732479
+              Id: 8723218998259786350
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 6284695012719478567
+              Id: 14610469048655208060
             }
           }
           Overrides {
@@ -397,7 +397,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14496785910523820594
+            Id: 8900240983404364511
           }
         }
         NetworkRelevanceDistance {
@@ -633,7 +633,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3222042287547308441
+            Id: 10958983619166347657
           }
         }
         NetworkRelevanceDistance {
@@ -666,13 +666,13 @@ Assets {
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 4987140227369595307
+              Id: 14290793500159662310
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 4987140227369595307
+              Id: 14290793500159662310
             }
           }
         }
@@ -687,7 +687,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6305287414204589942
+            Id: 16336659432588462161
           }
         }
         NetworkRelevanceDistance {
@@ -804,7 +804,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11845897920668479704
+            Id: 9670715559910214853
           }
         }
         NetworkRelevanceDistance {
@@ -852,7 +852,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9705796025170275407
+            Id: 884334299759931279
           }
         }
         NetworkRelevanceDistance {
@@ -886,7 +886,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6346481406333854926
+            Id: 839065068555916138
           }
         }
         NetworkRelevanceDistance {
@@ -915,7 +915,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 12788474614426479202
+              Id: 2178127616854137860
             }
           }
           Overrides {
@@ -6705,7 +6705,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3253930492586583515
+            Id: 2307359405130427388
           }
         }
         NetworkRelevanceDistance {
@@ -7941,7 +7941,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3253930492586583515
+            Id: 2307359405130427388
           }
         }
         NetworkRelevanceDistance {
@@ -8080,7 +8080,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3253930492586583515
+            Id: 2307359405130427388
           }
         }
         NetworkRelevanceDistance {
@@ -8419,7 +8419,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3253930492586583515
+            Id: 2307359405130427388
           }
         }
         NetworkRelevanceDistance {
@@ -8695,7 +8695,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3253930492586583515
+            Id: 2307359405130427388
           }
         }
         NetworkRelevanceDistance {
@@ -8724,7 +8724,7 @@ Assets {
           Overrides {
             Name: "ma:Nature_Grass:id"
             AssetReference {
-              Id: 5323997706404386451
+              Id: 9150109244897397123
             }
           }
           Overrides {
@@ -8833,7 +8833,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 3253930492586583515
+            Id: 2307359405130427388
           }
         }
         NetworkRelevanceDistance {

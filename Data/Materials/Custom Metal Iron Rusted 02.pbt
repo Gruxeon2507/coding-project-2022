@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 17414982147574706609
+    BaseMaterialId: 1321536556956774297
     ParameterOverrides {
       Overrides {
         Name: "material_scale"
@@ -21,7 +21,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17414982147574706609
+      Id: 1321536556956774297
       Name: "Metal Iron Rusted 02"
       PlatformAssetType: 2
       PrimaryAsset {

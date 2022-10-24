@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 10874324117450691185
+    BaseMaterialId: 14722796561991146384
     ParameterOverrides {
       Overrides {
         Name: "rotate_material"
@@ -30,7 +30,7 @@ Assets {
       }
     }
     Assets {
-      Id: 10874324117450691185
+      Id: 14722796561991146384
       Name: "Wallpaper Stripes 01"
       PlatformAssetType: 2
       PrimaryAsset {

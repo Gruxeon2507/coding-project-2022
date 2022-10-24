@@ -26,7 +26,7 @@ Assets {
           Overrides {
             Name: "cs:EquipmentIcon"
             AssetReference {
-              Id: 625035735719714076
+              Id: 17096298722240170855
             }
           }
           Overrides {
@@ -411,16 +411,16 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 13957379385831993453
+              Id: 2401038412002592395
             }
           }
           Overrides {
             Name: "cs:Color"
             Color {
-              R: 0.348741591
+              R: 1
               G: 1
-              B: 0.339999974
-              A: 0.5
+              B: 1
+              A: 1
             }
           }
         }
@@ -468,7 +468,7 @@ Assets {
           Overrides {
             Name: "cs:Icon"
             AssetReference {
-              Id: 11830505573971306659
+              Id: 5102476851655589481
             }
           }
           Overrides {
@@ -477,7 +477,7 @@ Assets {
               R: 1
               G: 1
               B: 1
-              A: 0.5
+              A: 1
             }
           }
         }
@@ -5989,7 +5989,7 @@ Assets {
             IsTargetDataUpdated: true
           }
           CooldownPhaseSettings {
-            Duration: 0.23
+            Duration: 1
             CanMove: true
             CanJump: true
             CanRotate: true
@@ -6058,30 +6058,30 @@ Assets {
       }
     }
     Assets {
-      Id: 625035735719714076
-      Name: "Staff"
+      Id: 17096298722240170855
+      Name: "Fantasy Staff 012"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "UI_Fantasy_icon_Staff"
+        AssetId: "UI_Fantasy_Weapon_Staff_012"
       }
     }
     Assets {
-      Id: 13957379385831993453
-      Name: "Icon Explosion"
+      Id: 2401038412002592395
+      Name: "Fantasy Ability Green 011"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_Explosion"
+        AssetId: "UI_Fantasy_Ability_Green_011"
       }
     }
     Assets {
-      Id: 11830505573971306659
-      Name: "Icon Rotate"
+      Id: 5102476851655589481
+      Name: "Fantasy Ability Green 045"
       PlatformAssetType: 9
       PrimaryAsset {
         AssetType: "PlatformBrushAssetRef"
-        AssetId: "Icon_ArrowRotate"
+        AssetId: "UI_Fantasy_Ability_Green_045"
       }
     }
     Assets {

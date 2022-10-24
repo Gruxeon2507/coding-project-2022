@@ -64,7 +64,7 @@ function Blast(ability)
     for _, player in pairs(players) do
 
         -- Only blast the enemy team
-        if player.team ~= ability.owner.team then
+        if Teams.AreTeamsEnemies(player.team, ability.owner.team) and player ~= ability.owner then
 
             -- Create a direction at which the player is pushed away from the blast
             local displacement = player:GetWorldPosition() - center

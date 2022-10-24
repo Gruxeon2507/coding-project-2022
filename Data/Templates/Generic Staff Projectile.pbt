@@ -1,5 +1,5 @@
 Assets {
-  Id: 3696543723512829738
+  Id: 815390305222144390
   Name: "Generic Staff Projectile"
   PlatformAssetType: 5
   TemplateAsset {
@@ -187,7 +187,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 4603537691901304316
+            Id: 17273320435588562321
           }
           TeamSettings {
           }
@@ -256,7 +256,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4603537691901304316
+      Id: 17273320435588562321
       Name: "Torch Fire VFX"
       PlatformAssetType: 8
       PrimaryAsset {

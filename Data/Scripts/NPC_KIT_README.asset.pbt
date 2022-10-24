@@ -1,5 +1,5 @@
 Assets {
-  Id: 14288139096884321081
+  Id: 6901811599272892715
   Name: "NPC_KIT_README"
   PlatformAssetType: 3
   TextAsset {
@@ -7,13 +7,13 @@ Assets {
       Overrides {
         Name: "cs:NavMeshZonesExamples"
         AssetReference {
-          Id: 2497557753888358680
+          Id: 7300869033698352450
         }
       }
       Overrides {
         Name: "cs:LeashZone"
         AssetReference {
-          Id: 677962449469187996
+          Id: 571518188219375784
         }
       }
     }

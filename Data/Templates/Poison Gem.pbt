@@ -345,7 +345,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3702191406046426907
+              Id: 8375575103126610230
             }
           }
           Overrides {
@@ -368,7 +368,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13410490565345583042
+            Id: 5047196344696403889
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -433,7 +433,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13410490565345583042
+            Id: 5047196344696403889
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -498,7 +498,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13410490565345583042
+            Id: 5047196344696403889
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -583,7 +583,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 9487564131846698712
+            Id: 7240897054821455019
           }
           TeamSettings {
           }
@@ -661,7 +661,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13410490565345583042
+      Id: 5047196344696403889
       Name: "Gem - Diamond 6-Sided Polished"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -670,7 +670,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3702191406046426907
+      Id: 8375575103126610230
       Name: "Emissive Glow Transparent"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -688,7 +688,7 @@ Assets {
       }
     }
     Assets {
-      Id: 9487564131846698712
+      Id: 7240897054821455019
       Name: "Fairy Dot Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {

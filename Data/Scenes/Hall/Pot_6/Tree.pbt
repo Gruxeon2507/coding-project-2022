@@ -1,7 +1,7 @@
 Name: "Pot_6"
-RootId: 15156183580520092470
+RootId: 6440694322871397723
 Objects {
-  Id: 14712408888330093338
+  Id: 8476365618913274086
   Name: "Flowers"
   Transform {
     Location {
@@ -17,10 +17,10 @@ Objects {
       Z: 1.74016356
     }
   }
-  ParentId: 15156183580520092470
-  ChildIds: 4529210734148682520
-  ChildIds: 8889504419389981205
-  ChildIds: 12206828910344846950
+  ParentId: 6440694322871397723
+  ChildIds: 8552600211854733053
+  ChildIds: 271356322957542173
+  ChildIds: 12588293886901248700
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -33,13 +33,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 8476365618913274086
+    SubobjectId: 10894929900374526646
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12206828910344846950
+  Id: 12588293886901248700
   Name: "flower"
   Transform {
     Location {
@@ -56,14 +62,14 @@ Objects {
       Z: 0.574658632
     }
   }
-  ParentId: 14712408888330093338
-  ChildIds: 8995511855337210721
-  ChildIds: 9973299441204232057
-  ChildIds: 2421150063645572990
-  ChildIds: 14314625543679559048
-  ChildIds: 9553214158421671526
-  ChildIds: 4489306323099045221
-  ChildIds: 9085733877347758758
+  ParentId: 8476365618913274086
+  ChildIds: 8782279360688430367
+  ChildIds: 3554448219486446930
+  ChildIds: 12003793467206781638
+  ChildIds: 9811398040556768639
+  ChildIds: 6074363242392351742
+  ChildIds: 10572643980455230015
+  ChildIds: 10947221254404402809
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -76,13 +82,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 12588293886901248700
+    SubobjectId: 5485967102630920428
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9085733877347758758
+  Id: 10947221254404402809
   Name: "seed"
   Transform {
     Location {
@@ -98,51 +110,51 @@ Objects {
       Z: 0.360354424
     }
   }
-  ParentId: 12206828910344846950
-  ChildIds: 4173644302451217383
-  ChildIds: 15978595375700551212
-  ChildIds: 3060513291428956366
-  ChildIds: 5257725225637574906
-  ChildIds: 17357350030986159341
-  ChildIds: 15296735237407497465
-  ChildIds: 12452319279421302922
-  ChildIds: 5600723479618443322
-  ChildIds: 5746244023464028
-  ChildIds: 10935470434770299972
-  ChildIds: 6806497551043557013
-  ChildIds: 12172890734666142003
-  ChildIds: 18348802811267934793
-  ChildIds: 5136490076164616879
-  ChildIds: 10767161310759921817
-  ChildIds: 8375739441212237932
-  ChildIds: 12028997418027887320
-  ChildIds: 16019220443557175144
-  ChildIds: 16406613583638774145
-  ChildIds: 1004182597961643003
-  ChildIds: 16576234884584718272
-  ChildIds: 16353262944442997477
-  ChildIds: 13195619629721093511
-  ChildIds: 10542148633454532341
-  ChildIds: 6994207570209215966
-  ChildIds: 2677057538972145821
-  ChildIds: 10513950331923629240
-  ChildIds: 14032091459541346090
-  ChildIds: 257425276817002886
-  ChildIds: 8188563051101624918
-  ChildIds: 12192480703230140454
-  ChildIds: 13192010923210007953
-  ChildIds: 5743010773763504304
-  ChildIds: 5332143925961269990
-  ChildIds: 18346971444121448961
-  ChildIds: 17856624871661864325
-  ChildIds: 11696316395404630925
-  ChildIds: 11939146143920353644
-  ChildIds: 14898361849470082778
-  ChildIds: 13251295945400895574
-  ChildIds: 15172796116479723925
-  ChildIds: 4026851189182873696
-  ChildIds: 9472047563005075459
-  ChildIds: 2864848114181527986
+  ParentId: 12588293886901248700
+  ChildIds: 7693333084207330598
+  ChildIds: 6852698029405672327
+  ChildIds: 12866704249327499077
+  ChildIds: 8658638980820932030
+  ChildIds: 9569659645537607689
+  ChildIds: 1596566836204678458
+  ChildIds: 10688045082629716306
+  ChildIds: 13904831795875817844
+  ChildIds: 4423240744654056642
+  ChildIds: 14246049244192194108
+  ChildIds: 8569286425195670916
+  ChildIds: 9353360867934705542
+  ChildIds: 11862218112923677945
+  ChildIds: 5954579487685145466
+  ChildIds: 5028399677665447046
+  ChildIds: 9025714448079536048
+  ChildIds: 2782439277335988462
+  ChildIds: 15777165362980077542
+  ChildIds: 8244588506639536749
+  ChildIds: 9908339730140557817
+  ChildIds: 1836881197825897762
+  ChildIds: 10966983131681514307
+  ChildIds: 11097796548054669387
+  ChildIds: 1252627216278823588
+  ChildIds: 9679409449911449943
+  ChildIds: 13192175415946709821
+  ChildIds: 15784434090185054106
+  ChildIds: 11415488840987057305
+  ChildIds: 17634649126905378302
+  ChildIds: 12233727218047894414
+  ChildIds: 10867689438950434876
+  ChildIds: 14516862166515042379
+  ChildIds: 11690344395744661509
+  ChildIds: 7188856899127000417
+  ChildIds: 333616792184480228
+  ChildIds: 7175839385193214666
+  ChildIds: 341785079136594404
+  ChildIds: 6559481084984307880
+  ChildIds: 3651787744344649155
+  ChildIds: 7040072703641889409
+  ChildIds: 17165955529012885395
+  ChildIds: 7960734984167638325
+  ChildIds: 16786349629877993944
+  ChildIds: 15119307001464448223
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -155,13 +167,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 10947221254404402809
+    SubobjectId: 8465886733506087977
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2864848114181527986
+  Id: 15119307001464448223
   Name: "Text 01: :"
   Transform {
     Location {
@@ -180,7 +198,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -243,6 +261,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15119307001464448223
+    SubobjectId: 3693542163887326863
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -252,7 +276,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9472047563005075459
+  Id: 16786349629877993944
   Name: "Text 01: :"
   Transform {
     Location {
@@ -271,7 +295,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -334,6 +358,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16786349629877993944
+    SubobjectId: 749163892538647432
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -343,7 +373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4026851189182873696
+  Id: 7960734984167638325
   Name: "Text 01: :"
   Transform {
     Location {
@@ -362,7 +392,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -425,6 +455,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7960734984167638325
+    SubobjectId: 10154138118801172325
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -434,7 +470,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15172796116479723925
+  Id: 17165955529012885395
   Name: "Text 01: :"
   Transform {
     Location {
@@ -453,7 +489,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -516,6 +552,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17165955529012885395
+    SubobjectId: 912314281524254147
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -525,7 +567,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13251295945400895574
+  Id: 7040072703641889409
   Name: "Text 01: :"
   Transform {
     Location {
@@ -544,7 +586,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -607,6 +649,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7040072703641889409
+    SubobjectId: 9449629854565419217
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -616,7 +664,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14898361849470082778
+  Id: 3651787744344649155
   Name: "Text 01: :"
   Transform {
     Location {
@@ -635,7 +683,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -698,6 +746,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3651787744344649155
+    SubobjectId: 15005229800534724499
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -707,7 +761,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11939146143920353644
+  Id: 6559481084984307880
   Name: "Text 01: :"
   Transform {
     Location {
@@ -726,7 +780,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -789,6 +843,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6559481084984307880
+    SubobjectId: 13373295953697690360
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -798,7 +858,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11696316395404630925
+  Id: 341785079136594404
   Name: "Text 01: :"
   Transform {
     Location {
@@ -817,7 +877,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -880,6 +940,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 341785079136594404
+    SubobjectId: 16586417868938464180
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -889,7 +955,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17856624871661864325
+  Id: 7175839385193214666
   Name: "Text 01: :"
   Transform {
     Location {
@@ -908,7 +974,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -971,6 +1037,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7175839385193214666
+    SubobjectId: 9296902415687159962
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -980,7 +1052,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18346971444121448961
+  Id: 333616792184480228
   Name: "Text 01: :"
   Transform {
     Location {
@@ -999,7 +1071,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1062,6 +1134,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 333616792184480228
+    SubobjectId: 16587239219126141876
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1071,7 +1149,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5332143925961269990
+  Id: 7188856899127000417
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1090,7 +1168,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1153,6 +1231,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7188856899127000417
+    SubobjectId: 9318928227318062897
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1162,7 +1246,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5743010773763504304
+  Id: 11690344395744661509
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1181,7 +1265,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1244,6 +1328,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11690344395744661509
+    SubobjectId: 4660375492449612373
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1253,7 +1343,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13192010923210007953
+  Id: 14516862166515042379
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1272,7 +1362,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1335,6 +1425,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14516862166515042379
+    SubobjectId: 3163437484576877083
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1344,7 +1440,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12192480703230140454
+  Id: 10867689438950434876
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1363,7 +1459,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1426,6 +1522,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10867689438950434876
+    SubobjectId: 8377048717099027052
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1435,7 +1537,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8188563051101624918
+  Id: 12233727218047894414
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1454,7 +1556,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1517,6 +1619,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12233727218047894414
+    SubobjectId: 5428639160241365470
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1526,7 +1634,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 257425276817002886
+  Id: 17634649126905378302
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1545,7 +1653,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1608,6 +1716,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17634649126905378302
+    SubobjectId: 1597180730220943278
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1617,7 +1731,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14032091459541346090
+  Id: 11415488840987057305
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1636,7 +1750,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1699,6 +1813,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11415488840987057305
+    SubobjectId: 9005930443443011273
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1708,7 +1828,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10513950331923629240
+  Id: 15784434090185054106
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1727,7 +1847,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1790,6 +1910,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15784434090185054106
+    SubobjectId: 4151504905627514314
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1799,7 +1925,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2677057538972145821
+  Id: 13192175415946709821
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1818,7 +1944,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1881,6 +2007,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13192175415946709821
+    SubobjectId: 6162205491521317229
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1890,7 +2022,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6994207570209215966
+  Id: 9679409449911449943
   Name: "Text 01: :"
   Transform {
     Location {
@@ -1909,7 +2041,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -1972,6 +2104,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9679409449911449943
+    SubobjectId: 7261107753055427335
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1981,7 +2119,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10542148633454532341
+  Id: 1252627216278823588
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2000,7 +2138,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2063,6 +2201,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1252627216278823588
+    SubobjectId: 17578307229776003316
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2072,7 +2216,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13195619629721093511
+  Id: 11097796548054669387
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2090,7 +2234,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2153,6 +2297,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11097796548054669387
+    SubobjectId: 8688503278845639195
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2162,7 +2312,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16353262944442997477
+  Id: 10966983131681514307
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2181,7 +2331,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2244,6 +2394,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10966983131681514307
+    SubobjectId: 8836631564359041299
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2253,7 +2409,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16576234884584718272
+  Id: 1836881197825897762
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2272,7 +2428,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2335,6 +2491,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1836881197825897762
+    SubobjectId: 18153272515583170418
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2344,7 +2506,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1004182597961643003
+  Id: 9908339730140557817
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2363,7 +2525,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2426,6 +2588,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9908339730140557817
+    SubobjectId: 7715219109899211689
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2435,7 +2603,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16406613583638774145
+  Id: 8244588506639536749
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2454,7 +2622,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2517,6 +2685,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8244588506639536749
+    SubobjectId: 10446698616913883197
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2526,7 +2700,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16019220443557175144
+  Id: 15777165362980077542
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2545,7 +2719,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2608,6 +2782,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15777165362980077542
+    SubobjectId: 4063171372211625398
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2617,7 +2797,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12028997418027887320
+  Id: 2782439277335988462
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2636,7 +2816,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2699,6 +2879,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2782439277335988462
+    SubobjectId: 14127155811105319614
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2708,7 +2894,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8375739441212237932
+  Id: 9025714448079536048
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2727,7 +2913,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2790,6 +2976,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9025714448079536048
+    SubobjectId: 11516073561774611936
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2799,7 +2991,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10767161310759921817
+  Id: 5028399677665447046
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2818,7 +3010,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2881,6 +3073,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5028399677665447046
+    SubobjectId: 12058667582623051478
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2890,7 +3088,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5136490076164616879
+  Id: 5954579487685145466
   Name: "Text 01: :"
   Transform {
     Location {
@@ -2909,7 +3107,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -2972,6 +3170,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5954579487685145466
+    SubobjectId: 12696319037068480810
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2981,7 +3185,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18348802811267934793
+  Id: 11862218112923677945
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3000,7 +3204,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3063,6 +3267,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11862218112923677945
+    SubobjectId: 5048420960919017129
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3072,7 +3282,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12172890734666142003
+  Id: 9353360867934705542
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3091,7 +3301,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3154,6 +3364,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9353360867934705542
+    SubobjectId: 7159976549557106134
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3163,7 +3379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6806497551043557013
+  Id: 8569286425195670916
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3182,7 +3398,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3245,6 +3461,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8569286425195670916
+    SubobjectId: 10699620335909507028
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3254,7 +3476,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10935470434770299972
+  Id: 14246049244192194108
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3273,7 +3495,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3336,6 +3558,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14246049244192194108
+    SubobjectId: 2820567097069788268
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3345,7 +3573,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5746244023464028
+  Id: 4423240744654056642
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3364,7 +3592,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3427,6 +3655,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4423240744654056642
+    SubobjectId: 16136972089550720658
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3436,7 +3670,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5600723479618443322
+  Id: 13904831795875817844
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3455,7 +3689,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3518,6 +3752,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13904831795875817844
+    SubobjectId: 2479066957220924196
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3527,7 +3767,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12452319279421302922
+  Id: 10688045082629716306
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3546,7 +3786,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3609,6 +3849,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10688045082629716306
+    SubobjectId: 8557710948581956354
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3618,7 +3864,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15296735237407497465
+  Id: 1596566836204678458
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3637,7 +3883,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3700,6 +3946,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1596566836204678458
+    SubobjectId: 17634035173833428842
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3709,7 +3961,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17357350030986159341
+  Id: 9569659645537607689
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3728,7 +3980,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3791,6 +4043,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9569659645537607689
+    SubobjectId: 7376555501831258713
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3800,7 +4058,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5257725225637574906
+  Id: 8658638980820932030
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3819,7 +4077,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3882,6 +4140,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8658638980820932030
+    SubobjectId: 11148980683825575918
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3891,7 +4155,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3060513291428956366
+  Id: 12866704249327499077
   Name: "Text 01: :"
   Transform {
     Location {
@@ -3910,7 +4174,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -3973,6 +4237,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12866704249327499077
+    SubobjectId: 5773403357051835669
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3982,7 +4252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15978595375700551212
+  Id: 6852698029405672327
   Name: "Text 01: :"
   Transform {
     Location {
@@ -4001,7 +4271,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -4064,6 +4334,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6852698029405672327
+    SubobjectId: 13657487027565588951
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4073,7 +4349,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4173644302451217383
+  Id: 7693333084207330598
   Name: "Text 01: :"
   Transform {
     Location {
@@ -4092,7 +4368,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 9085733877347758758
+  ParentId: 10947221254404402809
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -4155,6 +4431,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7693333084207330598
+    SubobjectId: 9823684728837101430
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4164,7 +4446,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4489306323099045221
+  Id: 10572643980455230015
   Name: "Gear - generic large solid"
   Transform {
     Location {
@@ -4182,7 +4464,7 @@ Objects {
       Z: 0.0841704
     }
   }
-  ParentId: 12206828910344846950
+  ParentId: 12588293886901248700
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4223,6 +4505,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10572643980455230015
+    SubobjectId: 8082020919507638383
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4232,7 +4520,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9553214158421671526
+  Id: 6074363242392351742
   Name: "pedal"
   Transform {
     Location {
@@ -4248,30 +4536,30 @@ Objects {
       Z: 0.360354424
     }
   }
-  ParentId: 12206828910344846950
-  ChildIds: 11600757202742542826
-  ChildIds: 9396538432354861092
-  ChildIds: 6140436191130491266
-  ChildIds: 14233159759563737361
-  ChildIds: 7107507765348339015
-  ChildIds: 14812200014306603095
-  ChildIds: 2806044147805486076
-  ChildIds: 15594736644669963013
-  ChildIds: 14098745269044205083
-  ChildIds: 10451216671668164588
-  ChildIds: 290301883231661053
-  ChildIds: 4329932454410068203
-  ChildIds: 2690894770153620192
-  ChildIds: 11936364855691366818
-  ChildIds: 7725195720160643558
-  ChildIds: 13185114017192658597
-  ChildIds: 1726347526044099450
-  ChildIds: 16318109444034964418
-  ChildIds: 18221032275935032250
-  ChildIds: 17668936349627267344
-  ChildIds: 11994157910076893393
-  ChildIds: 10792285806776136897
-  ChildIds: 15999609668811738646
+  ParentId: 12588293886901248700
+  ChildIds: 10942776976468185620
+  ChildIds: 18398896983693288973
+  ChildIds: 2314008311832717070
+  ChildIds: 6598518576406452889
+  ChildIds: 4627140480135612188
+  ChildIds: 8060146762888867398
+  ChildIds: 8873793266474228747
+  ChildIds: 4652019226913314701
+  ChildIds: 5773933476834197181
+  ChildIds: 6178958744376929326
+  ChildIds: 16564474133230653176
+  ChildIds: 14027303095637005940
+  ChildIds: 8914891233865343878
+  ChildIds: 17798587280174973936
+  ChildIds: 9758845393463789785
+  ChildIds: 13794516089782808900
+  ChildIds: 9213978417972864208
+  ChildIds: 3990509631156182558
+  ChildIds: 7304070652261684475
+  ChildIds: 16289184402585957241
+  ChildIds: 11026253216491712848
+  ChildIds: 14632231795935548646
+  ChildIds: 14198355212264925885
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4284,13 +4572,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 6074363242392351742
+    SubobjectId: 13176672365751275950
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15999609668811738646
+  Id: 14198355212264925885
   Name: "w"
   Transform {
     Location {
@@ -4309,7 +4603,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4350,6 +4644,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14198355212264925885
+    SubobjectId: 2853655218412718317
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4359,7 +4659,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10792285806776136897
+  Id: 14632231795935548646
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -4378,7 +4678,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4419,6 +4719,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14632231795935548646
+    SubobjectId: 2990576865587623606
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4428,7 +4734,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11994157910076893393
+  Id: 11026253216491712848
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -4447,7 +4753,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4488,6 +4794,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11026253216491712848
+    SubobjectId: 8905189292637999872
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4497,7 +4809,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17668936349627267344
+  Id: 16289184402585957241
   Name: "w"
   Transform {
     Location {
@@ -4516,7 +4828,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4557,6 +4869,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16289184402585957241
+    SubobjectId: 44550504676315433
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4566,7 +4884,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18221032275935032250
+  Id: 7304070652261684475
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -4585,7 +4903,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4626,6 +4944,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7304070652261684475
+    SubobjectId: 9785703054943336107
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4635,7 +4959,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16318109444034964418
+  Id: 3990509631156182558
   Name: "w"
   Transform {
     Location {
@@ -4654,7 +4978,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4695,6 +5019,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3990509631156182558
+    SubobjectId: 15416291867647884366
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4704,7 +5034,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1726347526044099450
+  Id: 9213978417972864208
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -4723,7 +5053,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4764,6 +5094,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9213978417972864208
+    SubobjectId: 11335041387265558144
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4773,7 +5109,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13185114017192658597
+  Id: 13794516089782808900
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -4792,7 +5128,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4833,6 +5169,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13794516089782808900
+    SubobjectId: 6773272928983831316
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4842,7 +5184,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7725195720160643558
+  Id: 9758845393463789785
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -4861,7 +5203,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4902,6 +5244,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9758845393463789785
+    SubobjectId: 7349569708891187849
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4911,7 +5259,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11936364855691366818
+  Id: 17798587280174973936
   Name: "w"
   Transform {
     Location {
@@ -4930,7 +5278,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4971,6 +5319,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17798587280174973936
+    SubobjectId: 1554234792821547424
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4980,7 +5334,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2690894770153620192
+  Id: 8914891233865343878
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -4999,7 +5353,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5040,6 +5394,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8914891233865343878
+    SubobjectId: 11036219061984444886
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5049,7 +5409,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4329932454410068203
+  Id: 14027303095637005940
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -5068,7 +5428,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5109,6 +5469,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14027303095637005940
+    SubobjectId: 2322297492195882020
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5118,7 +5484,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 290301883231661053
+  Id: 16564474133230653176
   Name: "w"
   Transform {
     Location {
@@ -5137,7 +5503,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5178,6 +5544,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16564474133230653176
+    SubobjectId: 536031630753524904
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5187,7 +5559,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10451216671668164588
+  Id: 6178958744376929326
   Name: "w"
   Transform {
     Location {
@@ -5206,7 +5578,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5247,6 +5619,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6178958744376929326
+    SubobjectId: 13209227745660407422
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5256,7 +5634,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14098745269044205083
+  Id: 5773933476834197181
   Name: "w"
   Transform {
     Location {
@@ -5275,7 +5653,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5316,6 +5694,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5773933476834197181
+    SubobjectId: 12876259161587047661
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5325,7 +5709,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15594736644669963013
+  Id: 4652019226913314701
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -5344,7 +5728,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5385,6 +5769,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4652019226913314701
+    SubobjectId: 11682269595552937437
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5394,7 +5784,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2806044147805486076
+  Id: 8873793266474228747
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -5413,7 +5803,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5454,6 +5844,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8873793266474228747
+    SubobjectId: 11076184843162287707
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5463,7 +5859,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14812200014306603095
+  Id: 8060146762888867398
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -5482,7 +5878,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5523,6 +5919,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8060146762888867398
+    SubobjectId: 10181491267292269590
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5532,7 +5934,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7107507765348339015
+  Id: 4627140480135612188
   Name: "w"
   Transform {
     Location {
@@ -5551,7 +5953,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5592,6 +5994,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4627140480135612188
+    SubobjectId: 11720177520759514444
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5601,7 +6009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14233159759563737361
+  Id: 6598518576406452889
   Name: "w"
   Transform {
     Location {
@@ -5620,7 +6028,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5661,6 +6069,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6598518576406452889
+    SubobjectId: 13331267552353335497
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5670,7 +6084,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6140436191130491266
+  Id: 2314008311832717070
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -5689,7 +6103,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5730,6 +6144,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2314008311832717070
+    SubobjectId: 14019013871283783006
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5739,7 +6159,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9396538432354861092
+  Id: 18398896983693288973
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -5758,7 +6178,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5799,6 +6219,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18398896983693288973
+    SubobjectId: 2145555966236066909
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5808,7 +6234,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11600757202742542826
+  Id: 10942776976468185620
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -5827,7 +6253,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 9553214158421671526
+  ParentId: 6074363242392351742
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5868,6 +6294,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10942776976468185620
+    SubobjectId: 8452136327662956612
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5877,7 +6309,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14314625543679559048
+  Id: 9811398040556768639
   Name: "Gear - generic large solid"
   Transform {
     Location {
@@ -5894,7 +6326,7 @@ Objects {
       Z: 0.0841704
     }
   }
-  ParentId: 12206828910344846950
+  ParentId: 12588293886901248700
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5935,6 +6367,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9811398040556768639
+    SubobjectId: 7690351644435443503
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5944,7 +6382,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2421150063645572990
+  Id: 12003793467206781638
   Name: "Cone - Concave"
   Transform {
     Location {
@@ -5961,7 +6399,7 @@ Objects {
       Z: 0.0219324753
     }
   }
-  ParentId: 12206828910344846950
+  ParentId: 12588293886901248700
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6002,6 +6440,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12003793467206781638
+    SubobjectId: 4901748270661904534
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6011,7 +6455,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9973299441204232057
+  Id: 3554448219486446930
   Name: "Cylinder - Rounded"
   Transform {
     Location {
@@ -6028,7 +6472,7 @@ Objects {
       Z: 0.238886416
     }
   }
-  ParentId: 12206828910344846950
+  ParentId: 12588293886901248700
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6065,6 +6509,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3554448219486446930
+    SubobjectId: 15259153527406167810
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6074,7 +6524,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8995511855337210721
+  Id: 8782279360688430367
   Name: "Cylinder - Rounded"
   Transform {
     Location {
@@ -6090,7 +6540,7 @@ Objects {
       Z: 0.539992571
     }
   }
-  ParentId: 12206828910344846950
+  ParentId: 12588293886901248700
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6127,6 +6577,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8782279360688430367
+    SubobjectId: 11200562327196270415
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6136,7 +6592,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8889504419389981205
+  Id: 271356322957542173
   Name: "flower"
   Transform {
     Location {
@@ -6154,14 +6610,14 @@ Objects {
       Z: 0.574658632
     }
   }
-  ParentId: 14712408888330093338
-  ChildIds: 12498432857885045972
-  ChildIds: 5930973430767687063
-  ChildIds: 5739135334830910830
-  ChildIds: 16720050126854019697
-  ChildIds: 14765785021451228081
-  ChildIds: 18415969850217091451
-  ChildIds: 17298984513357367023
+  ParentId: 8476365618913274086
+  ChildIds: 7437895038810931894
+  ChildIds: 1590721284267915013
+  ChildIds: 8991575110917999892
+  ChildIds: 16580359243486102663
+  ChildIds: 6293134036887935635
+  ChildIds: 13544719991816775595
+  ChildIds: 7842536760097058978
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6174,13 +6630,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 271356322957542173
+    SubobjectId: 16236749585995997517
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17298984513357367023
+  Id: 7842536760097058978
   Name: "seed"
   Transform {
     Location {
@@ -6196,51 +6658,51 @@ Objects {
       Z: 0.360354424
     }
   }
-  ParentId: 8889504419389981205
-  ChildIds: 6268473251350650762
-  ChildIds: 9188810307112415911
-  ChildIds: 10824736407083208947
-  ChildIds: 12222488054192890499
-  ChildIds: 10334906740674181478
-  ChildIds: 7115368662913233756
-  ChildIds: 10654603726410274037
-  ChildIds: 18110646928102989700
-  ChildIds: 16931011799950226460
-  ChildIds: 4780887912725320947
-  ChildIds: 10781367854603872032
-  ChildIds: 17716788836597820544
-  ChildIds: 1381966618215245457
-  ChildIds: 12636377154329856925
-  ChildIds: 11457370770197578292
-  ChildIds: 7002564640720687924
-  ChildIds: 5520478436409983950
-  ChildIds: 16500432628852580901
-  ChildIds: 2957322705067337917
-  ChildIds: 6231659137664938632
-  ChildIds: 11343738775011365936
-  ChildIds: 17668037521888227200
-  ChildIds: 7100758394584685127
-  ChildIds: 10481457890501146412
-  ChildIds: 13603730414841217424
-  ChildIds: 11099182730030047766
-  ChildIds: 2716629167857352035
-  ChildIds: 11452925742945054079
-  ChildIds: 12036008077330076617
-  ChildIds: 2052139877332835774
-  ChildIds: 15985782233641212660
-  ChildIds: 16852067805529706986
-  ChildIds: 6545673007676402777
-  ChildIds: 13797221341286461064
-  ChildIds: 5651908999856108982
-  ChildIds: 14678431328721410347
-  ChildIds: 5263277962716755338
-  ChildIds: 313956570076263380
-  ChildIds: 10143548788643122742
-  ChildIds: 12391200720468479781
-  ChildIds: 9227114398193972162
-  ChildIds: 12002321525629542501
-  ChildIds: 18400665275945014596
-  ChildIds: 6300531937970748425
+  ParentId: 271356322957542173
+  ChildIds: 12392665022212492764
+  ChildIds: 6179665260583608508
+  ChildIds: 3587042582016950787
+  ChildIds: 9975532666684672806
+  ChildIds: 11611522678580648499
+  ChildIds: 6977374273082727123
+  ChildIds: 4845708766321659899
+  ChildIds: 12725085200633993293
+  ChildIds: 7795788378816343338
+  ChildIds: 7357245420419339220
+  ChildIds: 14680537277257663659
+  ChildIds: 13686899523770528270
+  ChildIds: 1922283109895381959
+  ChildIds: 6449315131725090819
+  ChildIds: 15497435694850731555
+  ChildIds: 11214284707534794036
+  ChildIds: 11219253448308616501
+  ChildIds: 781661861291958344
+  ChildIds: 16246289376554837168
+  ChildIds: 12865317057079217390
+  ChildIds: 1603744708778377623
+  ChildIds: 18175415246920499170
+  ChildIds: 17825459536676376432
+  ChildIds: 13963312191494778997
+  ChildIds: 11013248212683530088
+  ChildIds: 4741437161205640009
+  ChildIds: 10487155947569391601
+  ChildIds: 14019184231359160304
+  ChildIds: 8270539101992912032
+  ChildIds: 16095022893725997855
+  ChildIds: 11338466349485213412
+  ChildIds: 18431100736512997
+  ChildIds: 12046834228319092347
+  ChildIds: 16547976110256675469
+  ChildIds: 4618145837654547369
+  ChildIds: 16198552472695239863
+  ChildIds: 3505826017632156883
+  ChildIds: 12013987539978512081
+  ChildIds: 2696642852088396585
+  ChildIds: 213927130304654319
+  ChildIds: 14809698486061380214
+  ChildIds: 966284505355642012
+  ChildIds: 5096579171671369209
+  ChildIds: 514317420671902921
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6253,13 +6715,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 7842536760097058978
+    SubobjectId: 10252094057055834866
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6300531937970748425
+  Id: 514317420671902921
   Name: "Text 01: :"
   Transform {
     Location {
@@ -6278,7 +6746,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -6341,6 +6809,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 514317420671902921
+    SubobjectId: 16551766997881472665
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6350,7 +6824,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18400665275945014596
+  Id: 5096579171671369209
   Name: "Text 01: :"
   Transform {
     Location {
@@ -6369,7 +6843,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -6432,6 +6906,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5096579171671369209
+    SubobjectId: 11829310644515211177
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6441,7 +6921,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12002321525629542501
+  Id: 966284505355642012
   Name: "Text 01: :"
   Transform {
     Location {
@@ -6460,7 +6940,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -6523,6 +7003,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 966284505355642012
+    SubobjectId: 17291683164097087180
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6532,7 +7018,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9227114398193972162
+  Id: 14809698486061380214
   Name: "Text 01: :"
   Transform {
     Location {
@@ -6551,7 +7037,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -6614,6 +7100,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14809698486061380214
+    SubobjectId: 3392924475323830310
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6623,7 +7115,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12391200720468479781
+  Id: 213927130304654319
   Name: "Text 01: :"
   Transform {
     Location {
@@ -6642,7 +7134,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -6705,6 +7197,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 213927130304654319
+    SubobjectId: 16170329548252203455
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6714,7 +7212,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10143548788643122742
+  Id: 2696642852088396585
   Name: "Text 01: :"
   Transform {
     Location {
@@ -6733,7 +7231,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -6796,6 +7294,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2696642852088396585
+    SubobjectId: 14410655662333811065
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6805,7 +7309,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 313956570076263380
+  Id: 12013987539978512081
   Name: "Text 01: :"
   Transform {
     Location {
@@ -6824,7 +7328,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -6887,6 +7391,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12013987539978512081
+    SubobjectId: 4911961099551671425
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6896,7 +7406,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5263277962716755338
+  Id: 3505826017632156883
   Name: "Text 01: :"
   Transform {
     Location {
@@ -6915,7 +7425,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -6978,6 +7488,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3505826017632156883
+    SubobjectId: 15147781117844299395
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6987,7 +7503,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14678431328721410347
+  Id: 16198552472695239863
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7006,7 +7522,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7069,6 +7585,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16198552472695239863
+    SubobjectId: 170109008147224295
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7078,7 +7600,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5651908999856108982
+  Id: 4618145837654547369
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7097,7 +7619,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7160,6 +7682,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4618145837654547369
+    SubobjectId: 11711183879005731321
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7169,7 +7697,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13797221341286461064
+  Id: 16547976110256675469
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7188,7 +7716,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7251,6 +7779,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16547976110256675469
+    SubobjectId: 519796335185770717
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7260,7 +7794,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6545673007676402777
+  Id: 12046834228319092347
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7279,7 +7813,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7342,6 +7876,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12046834228319092347
+    SubobjectId: 5025590010989648939
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7351,7 +7891,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16852067805529706986
+  Id: 18431100736512997
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7370,7 +7910,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7433,6 +7973,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18431100736512997
+    SubobjectId: 16344111045508055477
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7442,7 +7988,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15985782233641212660
+  Id: 11338466349485213412
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7461,7 +8007,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7524,6 +8070,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11338466349485213412
+    SubobjectId: 9208413772052079796
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7533,7 +8085,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2052139877332835774
+  Id: 16095022893725997855
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7552,7 +8104,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7615,6 +8167,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16095022893725997855
+    SubobjectId: 4453367959118854479
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7624,7 +8182,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12036008077330076617
+  Id: 8270539101992912032
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7643,7 +8201,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7706,6 +8264,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8270539101992912032
+    SubobjectId: 10400592636136646384
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7715,7 +8279,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11452925742945054079
+  Id: 14019184231359160304
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7734,7 +8298,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7797,6 +8361,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14019184231359160304
+    SubobjectId: 2314477833593322912
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7806,7 +8376,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2716629167857352035
+  Id: 10487155947569391601
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7825,7 +8395,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7888,6 +8458,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10487155947569391601
+    SubobjectId: 8293752955774715297
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7897,7 +8473,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11099182730030047766
+  Id: 4741437161205640009
   Name: "Text 01: :"
   Transform {
     Location {
@@ -7916,7 +8492,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -7979,6 +8555,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4741437161205640009
+    SubobjectId: 11771423583703419161
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7988,7 +8570,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13603730414841217424
+  Id: 11013248212683530088
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8007,7 +8589,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8070,6 +8652,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11013248212683530088
+    SubobjectId: 8810838013044522296
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8079,7 +8667,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10481457890501146412
+  Id: 13963312191494778997
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8098,7 +8686,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8161,6 +8749,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13963312191494778997
+    SubobjectId: 2546555717072884261
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8170,7 +8764,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7100758394584685127
+  Id: 17825459536676376432
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8188,7 +8782,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8251,6 +8845,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17825459536676376432
+    SubobjectId: 1580844399150116128
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8260,7 +8860,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17668037521888227200
+  Id: 18175415246920499170
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8279,7 +8879,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8342,6 +8942,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18175415246920499170
+    SubobjectId: 2210285850528964018
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8351,7 +8957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11343738775011365936
+  Id: 1603744708778377623
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8370,7 +8976,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8433,6 +9039,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1603744708778377623
+    SubobjectId: 17640931567101944775
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8442,7 +9054,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6231659137664938632
+  Id: 12865317057079217390
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8461,7 +9073,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8524,6 +9136,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12865317057079217390
+    SubobjectId: 5771997514979405502
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8533,7 +9151,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2957322705067337917
+  Id: 16246289376554837168
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8552,7 +9170,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8615,6 +9233,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16246289376554837168
+    SubobjectId: 281161096859158240
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8624,7 +9248,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16500432628852580901
+  Id: 781661861291958344
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8643,7 +9267,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8706,6 +9330,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 781661861291958344
+    SubobjectId: 16738065388452233752
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8715,7 +9345,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5520478436409983950
+  Id: 11219253448308616501
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8734,7 +9364,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8797,6 +9427,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11219253448308616501
+    SubobjectId: 8728612738272661349
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8806,7 +9442,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7002564640720687924
+  Id: 11214284707534794036
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8825,7 +9461,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8888,6 +9524,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11214284707534794036
+    SubobjectId: 8732950393866620772
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8897,7 +9539,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11457370770197578292
+  Id: 15497435694850731555
   Name: "Text 01: :"
   Transform {
     Location {
@@ -8916,7 +9558,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -8979,6 +9621,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15497435694850731555
+    SubobjectId: 3855498255516994675
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8988,7 +9636,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12636377154329856925
+  Id: 6449315131725090819
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9007,7 +9655,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9070,6 +9718,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6449315131725090819
+    SubobjectId: 13479301630431425107
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9079,7 +9733,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1381966618215245457
+  Id: 1922283109895381959
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9098,7 +9752,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9161,6 +9815,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1922283109895381959
+    SubobjectId: 17887693909291680151
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9170,7 +9830,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17716788836597820544
+  Id: 13686899523770528270
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9189,7 +9849,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9252,6 +9912,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13686899523770528270
+    SubobjectId: 6872820694959116382
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9261,7 +9927,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10781367854603872032
+  Id: 14680537277257663659
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9280,7 +9946,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9343,6 +10009,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14680537277257663659
+    SubobjectId: 2966524448794027771
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9352,7 +10024,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4780887912725320947
+  Id: 7357245420419339220
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9371,7 +10043,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9434,6 +10106,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7357245420419339220
+    SubobjectId: 9550629721583464836
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9443,7 +10121,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16931011799950226460
+  Id: 7795788378816343338
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9462,7 +10140,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9525,6 +10203,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7795788378816343338
+    SubobjectId: 10277421752124739450
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9534,7 +10218,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18110646928102989700
+  Id: 12725085200633993293
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9553,7 +10237,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9616,6 +10300,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12725085200633993293
+    SubobjectId: 5911006441613654557
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9625,7 +10315,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10654603726410274037
+  Id: 4845708766321659899
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9644,7 +10334,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9707,6 +10397,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4845708766321659899
+    SubobjectId: 11650780249853701547
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9716,7 +10412,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7115368662913233756
+  Id: 6977374273082727123
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9735,7 +10431,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9798,6 +10494,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6977374273082727123
+    SubobjectId: 9386650014567659651
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9807,7 +10509,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10334906740674181478
+  Id: 11611522678580648499
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9826,7 +10528,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9889,6 +10591,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11611522678580648499
+    SubobjectId: 4878773613546895459
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9898,7 +10606,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12222488054192890499
+  Id: 9975532666684672806
   Name: "Text 01: :"
   Transform {
     Location {
@@ -9917,7 +10625,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -9980,6 +10688,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9975532666684672806
+    SubobjectId: 7557249632535341430
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9989,7 +10703,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10824736407083208947
+  Id: 3587042582016950787
   Name: "Text 01: :"
   Transform {
     Location {
@@ -10008,7 +10722,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -10071,6 +10785,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3587042582016950787
+    SubobjectId: 15228698537754746963
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10080,7 +10800,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9188810307112415911
+  Id: 6179665260583608508
   Name: "Text 01: :"
   Transform {
     Location {
@@ -10099,7 +10819,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -10162,6 +10882,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6179665260583608508
+    SubobjectId: 13209651767875961580
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10171,7 +10897,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6268473251350650762
+  Id: 12392665022212492764
   Name: "Text 01: :"
   Transform {
     Location {
@@ -10190,7 +10916,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 17298984513357367023
+  ParentId: 7842536760097058978
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -10253,6 +10979,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12392665022212492764
+    SubobjectId: 5290357054162186124
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10262,7 +10994,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18415969850217091451
+  Id: 13544719991816775595
   Name: "Gear - generic large solid"
   Transform {
     Location {
@@ -10280,7 +11012,7 @@ Objects {
       Z: 0.0841704
     }
   }
-  ParentId: 8889504419389981205
+  ParentId: 271356322957542173
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10321,6 +11053,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13544719991816775595
+    SubobjectId: 6442411956156302843
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10330,7 +11068,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14765785021451228081
+  Id: 6293134036887935635
   Name: "pedal"
   Transform {
     Location {
@@ -10346,30 +11084,30 @@ Objects {
       Z: 0.360354424
     }
   }
-  ParentId: 8889504419389981205
-  ChildIds: 14191378788278277990
-  ChildIds: 4622413171556525866
-  ChildIds: 15141176366839345409
-  ChildIds: 14038705523863240534
-  ChildIds: 10779307268138807084
-  ChildIds: 3535605845556104244
-  ChildIds: 3020134161372277541
-  ChildIds: 1992594381448232152
-  ChildIds: 10190053257068241582
-  ChildIds: 4856289401258598057
-  ChildIds: 8858141875316061877
-  ChildIds: 15528872448962300799
-  ChildIds: 16635433979359317572
-  ChildIds: 13892715808426977012
-  ChildIds: 3721393537029777118
-  ChildIds: 2917112710296455245
-  ChildIds: 16141594241866557598
-  ChildIds: 4788943619574168297
-  ChildIds: 9457018659987970043
-  ChildIds: 14297868114426133956
-  ChildIds: 4322246372614066959
-  ChildIds: 14126192629494478005
-  ChildIds: 7890582666621808654
+  ParentId: 271356322957542173
+  ChildIds: 10614371486980844672
+  ChildIds: 3903011177029185871
+  ChildIds: 3053269664224972728
+  ChildIds: 2240192542124574677
+  ChildIds: 12806037073115358792
+  ChildIds: 233159754908621046
+  ChildIds: 4160010469824237449
+  ChildIds: 7966063792466278837
+  ChildIds: 10400166585129773903
+  ChildIds: 2029347313809230640
+  ChildIds: 14819174257665292563
+  ChildIds: 9292373146457557339
+  ChildIds: 8004040829381611411
+  ChildIds: 288697999979398536
+  ChildIds: 46479719577636826
+  ChildIds: 11153591507251977204
+  ChildIds: 7563734704606368
+  ChildIds: 3639654284042138388
+  ChildIds: 11303458821125129997
+  ChildIds: 787301033671947302
+  ChildIds: 572492841933874042
+  ChildIds: 9784827290067018261
+  ChildIds: 4120256604828493761
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10382,13 +11120,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 6293134036887935635
+    SubobjectId: 13097941662356994243
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7890582666621808654
+  Id: 4120256604828493761
   Name: "w"
   Transform {
     Location {
@@ -10407,7 +11151,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10448,6 +11192,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4120256604828493761
+    SubobjectId: 15834268260803642769
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10457,7 +11207,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14126192629494478005
+  Id: 9784827290067018261
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -10476,7 +11226,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10517,6 +11267,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9784827290067018261
+    SubobjectId: 7303211354319339589
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10526,7 +11282,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4322246372614066959
+  Id: 572492841933874042
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -10545,7 +11301,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10586,6 +11342,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 572492841933874042
+    SubobjectId: 16528614906964984106
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10595,7 +11357,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14297868114426133956
+  Id: 787301033671947302
   Name: "w"
   Transform {
     Location {
@@ -10614,7 +11376,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10655,6 +11417,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 787301033671947302
+    SubobjectId: 16752694098072409718
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10664,7 +11432,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9457018659987970043
+  Id: 11303458821125129997
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -10683,7 +11451,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10724,6 +11492,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11303458821125129997
+    SubobjectId: 9101066157839394141
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10733,7 +11507,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4788943619574168297
+  Id: 3639654284042138388
   Name: "w"
   Transform {
     Location {
@@ -10752,7 +11526,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10793,6 +11567,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3639654284042138388
+    SubobjectId: 14993097588960170308
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10802,7 +11582,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16141594241866557598
+  Id: 7563734704606368
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -10821,7 +11601,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10862,6 +11642,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7563734704606368
+    SubobjectId: 16323956241121259248
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10871,7 +11657,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2917112710296455245
+  Id: 11153591507251977204
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -10890,7 +11676,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10931,6 +11717,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11153591507251977204
+    SubobjectId: 8671976825605503396
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10940,7 +11732,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3721393537029777118
+  Id: 46479719577636826
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -10959,7 +11751,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11000,6 +11792,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 46479719577636826
+    SubobjectId: 16300120882269695370
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11009,7 +11807,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13892715808426977012
+  Id: 288697999979398536
   Name: "w"
   Transform {
     Location {
@@ -11028,7 +11826,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11069,6 +11867,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 288697999979398536
+    SubobjectId: 16614097705652758488
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11078,7 +11882,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16635433979359317572
+  Id: 8004040829381611411
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -11097,7 +11901,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11138,6 +11942,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8004040829381611411
+    SubobjectId: 10197442725959200195
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11147,7 +11957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15528872448962300799
+  Id: 9292373146457557339
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -11166,7 +11976,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11207,6 +12017,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9292373146457557339
+    SubobjectId: 7090263126377540363
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11216,7 +12032,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8858141875316061877
+  Id: 14819174257665292563
   Name: "w"
   Transform {
     Location {
@@ -11235,7 +12051,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11276,6 +12092,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14819174257665292563
+    SubobjectId: 3402681601647401795
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11285,7 +12107,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4856289401258598057
+  Id: 2029347313809230640
   Name: "w"
   Transform {
     Location {
@@ -11304,7 +12126,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11345,6 +12167,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2029347313809230640
+    SubobjectId: 18354763581914736992
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11354,7 +12182,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10190053257068241582
+  Id: 10400166585129773903
   Name: "w"
   Transform {
     Location {
@@ -11373,7 +12201,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11414,6 +12242,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10400166585129773903
+    SubobjectId: 8269832619659610399
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11423,7 +12257,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1992594381448232152
+  Id: 7966063792466278837
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -11442,7 +12276,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11483,6 +12317,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7966063792466278837
+    SubobjectId: 10096415380193827813
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11492,7 +12332,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3020134161372277541
+  Id: 4160010469824237449
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -11511,7 +12351,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11552,6 +12392,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4160010469824237449
+    SubobjectId: 15792958277365820889
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11561,7 +12407,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3535605845556104244
+  Id: 233159754908621046
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -11580,7 +12426,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11621,6 +12467,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 233159754908621046
+    SubobjectId: 16261602240203930278
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11630,7 +12482,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10779307268138807084
+  Id: 12806037073115358792
   Name: "w"
   Transform {
     Location {
@@ -11649,7 +12501,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11690,6 +12542,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12806037073115358792
+    SubobjectId: 5992222122766091288
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11699,7 +12557,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14038705523863240534
+  Id: 2240192542124574677
   Name: "w"
   Transform {
     Location {
@@ -11718,7 +12576,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11759,6 +12617,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2240192542124574677
+    SubobjectId: 18268372109927605637
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11768,7 +12632,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15141176366839345409
+  Id: 3053269664224972728
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -11787,7 +12651,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11828,6 +12692,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3053269664224972728
+    SubobjectId: 14470043674964717032
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11837,7 +12707,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4622413171556525866
+  Id: 3903011177029185871
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -11856,7 +12726,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11897,6 +12767,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3903011177029185871
+    SubobjectId: 15328792323669087007
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11906,7 +12782,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14191378788278277990
+  Id: 10614371486980844672
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -11925,7 +12801,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 14765785021451228081
+  ParentId: 6293134036887935635
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11966,6 +12842,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10614371486980844672
+    SubobjectId: 8204813305231232720
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11975,7 +12857,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16720050126854019697
+  Id: 16580359243486102663
   Name: "Gear - generic large solid"
   Transform {
     Location {
@@ -11992,7 +12874,7 @@ Objects {
       Z: 0.0841704
     }
   }
-  ParentId: 8889504419389981205
+  ParentId: 271356322957542173
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12033,6 +12915,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16580359243486102663
+    SubobjectId: 327017268249192151
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12042,7 +12930,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5739135334830910830
+  Id: 8991575110917999892
   Name: "Cone - Concave"
   Transform {
     Location {
@@ -12059,7 +12947,7 @@ Objects {
       Z: 0.0219324753
     }
   }
-  ParentId: 8889504419389981205
+  ParentId: 271356322957542173
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12100,6 +12988,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8991575110917999892
+    SubobjectId: 11410139548075765572
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12109,7 +13003,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5930973430767687063
+  Id: 1590721284267915013
   Name: "Cylinder - Rounded"
   Transform {
     Location {
@@ -12126,7 +13020,7 @@ Objects {
       Z: 0.238886416
     }
   }
-  ParentId: 8889504419389981205
+  ParentId: 271356322957542173
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12163,6 +13057,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1590721284267915013
+    SubobjectId: 17619181322021033301
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12172,7 +13072,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12498432857885045972
+  Id: 7437895038810931894
   Name: "Cylinder - Rounded"
   Transform {
     Location {
@@ -12188,7 +13088,7 @@ Objects {
       Z: 0.539992571
     }
   }
-  ParentId: 8889504419389981205
+  ParentId: 271356322957542173
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12225,6 +13125,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7437895038810931894
+    SubobjectId: 9631016775772840166
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12234,7 +13140,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4529210734148682520
+  Id: 8552600211854733053
   Name: "flower"
   Transform {
     Location {
@@ -12250,14 +13156,14 @@ Objects {
       Z: 0.574658632
     }
   }
-  ParentId: 14712408888330093338
-  ChildIds: 13641777632714930087
-  ChildIds: 5666502373939919803
-  ChildIds: 14602090116593399571
-  ChildIds: 15359348980189053035
-  ChildIds: 244643263382338703
-  ChildIds: 77697936464703776
-  ChildIds: 5839837988912356260
+  ParentId: 8476365618913274086
+  ChildIds: 18228719741641274054
+  ChildIds: 6267645240698075299
+  ChildIds: 1529792749691207249
+  ChildIds: 7175291714378233648
+  ChildIds: 1773009144754247873
+  ChildIds: 10873076775302453435
+  ChildIds: 4056955946188025787
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12270,13 +13176,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 8552600211854733053
+    SubobjectId: 10673663125317471405
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5839837988912356260
+  Id: 4056955946188025787
   Name: "seed"
   Transform {
     Location {
@@ -12292,51 +13204,51 @@ Objects {
       Z: 0.360354424
     }
   }
-  ParentId: 4529210734148682520
-  ChildIds: 17790166276923156015
-  ChildIds: 4918072473156665608
-  ChildIds: 15848758816943032202
-  ChildIds: 9890525814606262817
-  ChildIds: 7061567942317572831
-  ChildIds: 15411081642644945600
-  ChildIds: 15615911868129277400
-  ChildIds: 9477811118564185899
-  ChildIds: 9907635324123171819
-  ChildIds: 16804649275725532260
-  ChildIds: 4871602252972529569
-  ChildIds: 14373345402340987258
-  ChildIds: 5709708707117855994
-  ChildIds: 16042496919597538180
-  ChildIds: 698463148225680204
-  ChildIds: 1277699901722208790
-  ChildIds: 12261817258930191194
-  ChildIds: 676873037823460168
-  ChildIds: 15070187077896713833
-  ChildIds: 2852203578184129909
-  ChildIds: 1195618006092375581
-  ChildIds: 3050073983979543271
-  ChildIds: 17485821466448422215
-  ChildIds: 10001345918782518360
-  ChildIds: 12034487544911641006
-  ChildIds: 7272326813204989122
-  ChildIds: 11697386046885780692
-  ChildIds: 16216707879400471839
-  ChildIds: 17105865895106564405
-  ChildIds: 5147340015894935817
-  ChildIds: 16683359618274812873
-  ChildIds: 12961434425137104672
-  ChildIds: 16738665126502979356
-  ChildIds: 5023468404600284626
-  ChildIds: 17132166173681378510
-  ChildIds: 17574822510591461433
-  ChildIds: 11581135841720286093
-  ChildIds: 5587931288283461546
-  ChildIds: 12762144532690750333
-  ChildIds: 1531653566588510608
-  ChildIds: 18334134323799830048
-  ChildIds: 3401305039965165323
-  ChildIds: 7319106980435154200
-  ChildIds: 8226899234097784690
+  ParentId: 8552600211854733053
+  ChildIds: 2471517410235231222
+  ChildIds: 17812236221518534248
+  ChildIds: 15563092149089178447
+  ChildIds: 4939163607332492255
+  ChildIds: 3630110309724142265
+  ChildIds: 3935137167609499329
+  ChildIds: 11324441337318996376
+  ChildIds: 17987347699647054730
+  ChildIds: 1700249729147520885
+  ChildIds: 5500884930180504671
+  ChildIds: 15856622083349644347
+  ChildIds: 797003136944812429
+  ChildIds: 17550750924134490246
+  ChildIds: 17153576717929061919
+  ChildIds: 6041684194471522968
+  ChildIds: 14948918639243135750
+  ChildIds: 13840071609318004543
+  ChildIds: 2751991818731358541
+  ChildIds: 623982444861798936
+  ChildIds: 15445294353940144786
+  ChildIds: 1002009135566803753
+  ChildIds: 15646344033516305269
+  ChildIds: 3719370381324408553
+  ChildIds: 3636212066923628618
+  ChildIds: 18161558182807075385
+  ChildIds: 9400883259696308416
+  ChildIds: 7113186253306792454
+  ChildIds: 7170764535121737367
+  ChildIds: 12570178786235113074
+  ChildIds: 8537059952559840470
+  ChildIds: 1066673170591834858
+  ChildIds: 9291337179598191751
+  ChildIds: 13342818566582357419
+  ChildIds: 4281310960855174730
+  ChildIds: 14836029224215367621
+  ChildIds: 5766055730775705758
+  ChildIds: 13548441059085085199
+  ChildIds: 5649228142942357015
+  ChildIds: 14466145640074091869
+  ChildIds: 2285808604360840426
+  ChildIds: 781067759524682045
+  ChildIds: 3903808984785509090
+  ChildIds: 9541355873288389972
+  ChildIds: 404599251877169577
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12349,13 +13261,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 4056955946188025787
+    SubobjectId: 15770967540920077803
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8226899234097784690
+  Id: 404599251877169577
   Name: "Text 01: :"
   Transform {
     Location {
@@ -12374,7 +13292,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -12437,6 +13355,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 404599251877169577
+    SubobjectId: 16649214617036581881
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12446,7 +13370,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7319106980435154200
+  Id: 9541355873288389972
   Name: "Text 01: :"
   Transform {
     Location {
@@ -12465,7 +13389,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -12528,6 +13452,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9541355873288389972
+    SubobjectId: 7420027861559600900
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12537,7 +13467,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3401305039965165323
+  Id: 3903808984785509090
   Name: "Text 01: :"
   Transform {
     Location {
@@ -12556,7 +13486,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -12619,6 +13549,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3903808984785509090
+    SubobjectId: 15329572589709146290
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12628,7 +13564,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18334134323799830048
+  Id: 781067759524682045
   Name: "Text 01: :"
   Transform {
     Location {
@@ -12647,7 +13583,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -12710,6 +13646,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 781067759524682045
+    SubobjectId: 16737171058767526765
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12719,7 +13661,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1531653566588510608
+  Id: 2285808604360840426
   Name: "Text 01: :"
   Transform {
     Location {
@@ -12738,7 +13680,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -12801,6 +13743,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2285808604360840426
+    SubobjectId: 18241929569878046394
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12810,7 +13758,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12762144532690750333
+  Id: 14466145640074091869
   Name: "Text 01: :"
   Transform {
     Location {
@@ -12829,7 +13777,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -12892,6 +13840,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14466145640074091869
+    SubobjectId: 3049669545412099853
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12901,7 +13855,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5587931288283461546
+  Id: 5649228142942357015
   Name: "Text 01: :"
   Transform {
     Location {
@@ -12920,7 +13874,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -12983,6 +13937,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5649228142942357015
+    SubobjectId: 12463324438312248391
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12992,7 +13952,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11581135841720286093
+  Id: 13548441059085085199
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13011,7 +13971,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13074,6 +14034,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13548441059085085199
+    SubobjectId: 6815410544815016031
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13083,7 +14049,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17574822510591461433
+  Id: 5766055730775705758
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13102,7 +14068,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13165,6 +14131,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5766055730775705758
+    SubobjectId: 12868382518261197518
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13174,7 +14146,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17132166173681378510
+  Id: 14836029224215367621
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13193,7 +14165,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13256,6 +14228,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14836029224215367621
+    SubobjectId: 3419535460091309461
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13265,7 +14243,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5023468404600284626
+  Id: 4281310960855174730
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13284,7 +14262,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13347,6 +14325,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4281310960855174730
+    SubobjectId: 15707092295439461402
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13356,7 +14340,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16738665126502979356
+  Id: 13342818566582357419
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13375,7 +14359,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13438,6 +14422,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13342818566582357419
+    SubobjectId: 6610086131630551035
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13447,7 +14437,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12961434425137104672
+  Id: 9291337179598191751
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13466,7 +14456,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13529,6 +14519,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9291337179598191751
+    SubobjectId: 7089225964448095959
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13538,7 +14534,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16683359618274812873
+  Id: 1066673170591834858
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13557,7 +14553,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13620,6 +14616,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1066673170591834858
+    SubobjectId: 17031801265608392890
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13629,7 +14631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5147340015894935817
+  Id: 8537059952559840470
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13648,7 +14650,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13711,6 +14713,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8537059952559840470
+    SubobjectId: 10730162906562379398
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13720,7 +14728,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17105865895106564405
+  Id: 12570178786235113074
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13739,7 +14747,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13802,6 +14810,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12570178786235113074
+    SubobjectId: 5540192363764399138
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13811,7 +14825,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16216707879400471839
+  Id: 7170764535121737367
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13830,7 +14844,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13893,6 +14907,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7170764535121737367
+    SubobjectId: 9300818069260965063
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13902,7 +14922,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11697386046885780692
+  Id: 7113186253306792454
   Name: "Text 01: :"
   Transform {
     Location {
@@ -13921,7 +14941,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -13984,6 +15004,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7113186253306792454
+    SubobjectId: 9234514137260288086
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13993,7 +15019,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7272326813204989122
+  Id: 9400883259696308416
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14012,7 +15038,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14075,6 +15101,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 9400883259696308416
+    SubobjectId: 6982317887280022160
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14084,7 +15116,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12034487544911641006
+  Id: 18161558182807075385
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14103,7 +15135,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14166,6 +15198,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18161558182807075385
+    SubobjectId: 2205172183414478953
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14175,7 +15213,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10001345918782518360
+  Id: 3636212066923628618
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14194,7 +15232,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14257,6 +15295,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3636212066923628618
+    SubobjectId: 15052968426451184154
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14266,7 +15310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17485821466448422215
+  Id: 3719370381324408553
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14284,7 +15328,7 @@ Objects {
       Z: -0.0645091683
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14347,6 +15391,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3719370381324408553
+    SubobjectId: 15063787847930655929
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14356,7 +15406,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3050073983979543271
+  Id: 15646344033516305269
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14375,7 +15425,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14438,6 +15488,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15646344033516305269
+    SubobjectId: 4301627705905469733
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14447,7 +15503,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1195618006092375581
+  Id: 1002009135566803753
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14466,7 +15522,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14529,6 +15585,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1002009135566803753
+    SubobjectId: 17255349988743197049
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14538,7 +15600,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2852203578184129909
+  Id: 15445294353940144786
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14557,7 +15619,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14620,6 +15682,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15445294353940144786
+    SubobjectId: 3803358031291416770
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14629,7 +15697,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15070187077896713833
+  Id: 623982444861798936
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14648,7 +15716,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14711,6 +15779,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 623982444861798936
+    SubobjectId: 16877340904218875976
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14720,7 +15794,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 676873037823460168
+  Id: 2751991818731358541
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14739,7 +15813,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14802,6 +15876,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2751991818731358541
+    SubobjectId: 14168748160011234077
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14811,7 +15891,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12261817258930191194
+  Id: 13840071609318004543
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14830,7 +15910,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14893,6 +15973,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 13840071609318004543
+    SubobjectId: 2486346906703082863
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14902,7 +15988,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1277699901722208790
+  Id: 14948918639243135750
   Name: "Text 01: :"
   Transform {
     Location {
@@ -14921,7 +16007,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -14984,6 +16070,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14948918639243135750
+    SubobjectId: 3307246138221816150
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14993,7 +16085,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 698463148225680204
+  Id: 6041684194471522968
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15012,7 +16104,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15075,6 +16167,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6041684194471522968
+    SubobjectId: 12774697117631566024
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15084,7 +16182,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16042496919597538180
+  Id: 17153576717929061919
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15103,7 +16201,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15166,6 +16264,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17153576717929061919
+    SubobjectId: 908943995737046095
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15175,7 +16279,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5709708707117855994
+  Id: 17550750924134490246
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15194,7 +16298,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15257,6 +16361,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17550750924134490246
+    SubobjectId: 1225052086905258710
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15266,7 +16376,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14373345402340987258
+  Id: 797003136944812429
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15285,7 +16395,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15348,6 +16458,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 797003136944812429
+    SubobjectId: 16834190128443577309
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15357,7 +16473,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4871602252972529569
+  Id: 15856622083349644347
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15376,7 +16492,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15439,6 +16555,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15856622083349644347
+    SubobjectId: 4512186119388423787
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15448,7 +16570,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16804649275725532260
+  Id: 5500884930180504671
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15467,7 +16589,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15530,6 +16652,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5500884930180504671
+    SubobjectId: 12594203285755706895
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15539,7 +16667,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9907635324123171819
+  Id: 1700249729147520885
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15558,7 +16686,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15621,6 +16749,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1700249729147520885
+    SubobjectId: 17656371708283135269
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15630,7 +16764,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9477811118564185899
+  Id: 17987347699647054730
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15649,7 +16783,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15712,6 +16846,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17987347699647054730
+    SubobjectId: 1949898063410946522
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15721,7 +16861,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15615911868129277400
+  Id: 11324441337318996376
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15740,7 +16880,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15803,6 +16943,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 11324441337318996376
+    SubobjectId: 9203378509757946824
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15812,7 +16958,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15411081642644945600
+  Id: 3935137167609499329
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15831,7 +16977,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15894,6 +17040,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3935137167609499329
+    SubobjectId: 15279837208677117073
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15903,7 +17055,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7061567942317572831
+  Id: 3630110309724142265
   Name: "Text 01: :"
   Transform {
     Location {
@@ -15922,7 +17074,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -15985,6 +17137,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3630110309724142265
+    SubobjectId: 15055593530626201833
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15994,7 +17152,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9890525814606262817
+  Id: 4939163607332492255
   Name: "Text 01: :"
   Transform {
     Location {
@@ -16013,7 +17171,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -16076,6 +17234,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4939163607332492255
+    SubobjectId: 11969415222590239119
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16085,7 +17249,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15848758816943032202
+  Id: 15563092149089178447
   Name: "Text 01: :"
   Transform {
     Location {
@@ -16104,7 +17268,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -16167,6 +17331,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15563092149089178447
+    SubobjectId: 3849378397416485151
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16176,7 +17346,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4918072473156665608
+  Id: 17812236221518534248
   Name: "Text 01: :"
   Transform {
     Location {
@@ -16195,7 +17365,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -16258,6 +17428,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17812236221518534248
+    SubobjectId: 1558613687202657336
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16267,7 +17443,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17790166276923156015
+  Id: 2471517410235231222
   Name: "Text 01: :"
   Transform {
     Location {
@@ -16286,7 +17462,7 @@ Objects {
       Z: 0.0356226079
     }
   }
-  ParentId: 5839837988912356260
+  ParentId: 4056955946188025787
   UnregisteredParameters {
     Overrides {
       Name: "ma:Font.Bevel:id"
@@ -16349,6 +17525,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2471517410235231222
+    SubobjectId: 13897017076535544230
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16358,7 +17540,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 77697936464703776
+  Id: 10873076775302453435
   Name: "Gear - generic large solid"
   Transform {
     Location {
@@ -16376,7 +17558,7 @@ Objects {
       Z: 0.0841704
     }
   }
-  ParentId: 4529210734148682520
+  ParentId: 8552600211854733053
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16417,6 +17599,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10873076775302453435
+    SubobjectId: 8391443209754000107
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16426,7 +17614,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 244643263382338703
+  Id: 1773009144754247873
   Name: "pedal"
   Transform {
     Location {
@@ -16442,30 +17630,30 @@ Objects {
       Z: 0.360354424
     }
   }
-  ParentId: 4529210734148682520
-  ChildIds: 2125023618114621476
-  ChildIds: 7686418739366673223
-  ChildIds: 13775593083339632082
-  ChildIds: 2146908248778912173
-  ChildIds: 6753855999152555500
-  ChildIds: 3283546704799206199
-  ChildIds: 2909500547658272338
-  ChildIds: 13676808065186419281
-  ChildIds: 13293838190186875400
-  ChildIds: 18226388342890627960
-  ChildIds: 16697857740705870193
-  ChildIds: 14540179192559580889
-  ChildIds: 7684744981635034677
-  ChildIds: 1106441344999292216
-  ChildIds: 15538481813180456313
-  ChildIds: 4656630325833004485
-  ChildIds: 6769484585678505267
-  ChildIds: 8542224653513104179
-  ChildIds: 11186701645179732621
-  ChildIds: 7113278081852047745
-  ChildIds: 17911569989145912582
-  ChildIds: 9287888223041841018
-  ChildIds: 18090453141817900438
+  ParentId: 8552600211854733053
+  ChildIds: 16527213601974387149
+  ChildIds: 16977563542339581270
+  ChildIds: 14888706425946641819
+  ChildIds: 3526230898193489099
+  ChildIds: 6109853183049592870
+  ChildIds: 17189137621634246913
+  ChildIds: 485076659591687525
+  ChildIds: 14251401699267776484
+  ChildIds: 7310309489614045333
+  ChildIds: 12680030336732928333
+  ChildIds: 4320560698004737183
+  ChildIds: 6451135510695833810
+  ChildIds: 4315312588346726161
+  ChildIds: 15922375737059409089
+  ChildIds: 2187180403757941673
+  ChildIds: 3109128755048325607
+  ChildIds: 2880752968748826111
+  ChildIds: 8728095602522373267
+  ChildIds: 6387182561379236315
+  ChildIds: 15145689737151016133
+  ChildIds: 8064273278214939347
+  ChildIds: 17631038381846159398
+  ChildIds: 6182539186805797539
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16478,13 +17666,19 @@ Objects {
   Folder {
     IsGroup: true
   }
+  InstanceHistory {
+    SelfId: 1773009144754247873
+    SubobjectId: 18017344065727330961
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18090453141817900438
+  Id: 6182539186805797539
   Name: "w"
   Transform {
     Location {
@@ -16503,7 +17697,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16544,6 +17738,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6182539186805797539
+    SubobjectId: 13212508223242637555
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16553,7 +17753,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9287888223041841018
+  Id: 17631038381846159398
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -16572,7 +17772,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16613,6 +17813,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17631038381846159398
+    SubobjectId: 1602876181781414518
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16622,7 +17828,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17911569989145912582
+  Id: 8064273278214939347
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -16641,7 +17847,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16682,6 +17888,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8064273278214939347
+    SubobjectId: 10194607260833857667
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16691,7 +17903,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7113278081852047745
+  Id: 15145689737151016133
   Name: "w"
   Transform {
     Location {
@@ -16710,7 +17922,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16751,6 +17963,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15145689737151016133
+    SubobjectId: 3504016056049569429
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16760,7 +17978,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11186701645179732621
+  Id: 6387182561379236315
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -16779,7 +17997,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16820,6 +18038,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6387182561379236315
+    SubobjectId: 13417169047232437131
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16829,7 +18053,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8542224653513104179
+  Id: 8728095602522373267
   Name: "w"
   Transform {
     Location {
@@ -16848,7 +18072,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16889,6 +18113,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8728095602522373267
+    SubobjectId: 11218717560697347779
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16898,7 +18128,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6769484585678505267
+  Id: 2880752968748826111
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -16917,7 +18147,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -16958,6 +18188,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2880752968748826111
+    SubobjectId: 14225451840507420591
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -16967,7 +18203,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4656630325833004485
+  Id: 3109128755048325607
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -16986,7 +18222,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17027,6 +18263,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3109128755048325607
+    SubobjectId: 14534612134830556087
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17036,7 +18278,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15538481813180456313
+  Id: 2187180403757941673
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -17055,7 +18297,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17096,6 +18338,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2187180403757941673
+    SubobjectId: 18215622772015751673
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17105,7 +18353,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1106441344999292216
+  Id: 15922375737059409089
   Name: "w"
   Transform {
     Location {
@@ -17124,7 +18372,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17165,6 +18413,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15922375737059409089
+    SubobjectId: 4496611977481330321
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17174,7 +18428,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7684744981635034677
+  Id: 4315312588346726161
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -17193,7 +18447,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17234,6 +18488,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4315312588346726161
+    SubobjectId: 15669036252619765057
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17243,7 +18503,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14540179192559580889
+  Id: 6451135510695833810
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -17262,7 +18522,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17303,6 +18563,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6451135510695833810
+    SubobjectId: 13481385893295886978
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17312,7 +18578,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16697857740705870193
+  Id: 4320560698004737183
   Name: "w"
   Transform {
     Location {
@@ -17331,7 +18597,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17372,6 +18638,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4320560698004737183
+    SubobjectId: 15664996748905279183
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17381,7 +18653,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18226388342890627960
+  Id: 12680030336732928333
   Name: "w"
   Transform {
     Location {
@@ -17400,7 +18672,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17441,6 +18713,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12680030336732928333
+    SubobjectId: 5577722378380081949
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17450,7 +18728,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13293838190186875400
+  Id: 7310309489614045333
   Name: "w"
   Transform {
     Location {
@@ -17469,7 +18747,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17510,6 +18788,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7310309489614045333
+    SubobjectId: 9791924158377960133
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17519,7 +18803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13676808065186419281
+  Id: 14251401699267776484
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -17538,7 +18822,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17579,6 +18863,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14251401699267776484
+    SubobjectId: 2834926686975487412
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17588,7 +18878,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2909500547658272338
+  Id: 485076659591687525
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -17607,7 +18897,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17648,6 +18938,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 485076659591687525
+    SubobjectId: 16441479220350701365
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17657,7 +18953,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3283546704799206199
+  Id: 17189137621634246913
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -17676,7 +18972,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17717,6 +19013,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17189137621634246913
+    SubobjectId: 872745068006214481
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17726,7 +19028,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6753855999152555500
+  Id: 6109853183049592870
   Name: "w"
   Transform {
     Location {
@@ -17745,7 +19047,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17786,6 +19088,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6109853183049592870
+    SubobjectId: 13139823120355824246
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17795,7 +19103,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2146908248778912173
+  Id: 3526230898193489099
   Name: "w"
   Transform {
     Location {
@@ -17814,7 +19122,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17855,6 +19163,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3526230898193489099
+    SubobjectId: 15167904510575623835
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17864,7 +19178,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13775593083339632082
+  Id: 14888706425946641819
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -17883,7 +19197,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17924,6 +19238,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14888706425946641819
+    SubobjectId: 3174975099267971019
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -17933,7 +19253,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7686418739366673223
+  Id: 16977563542339581270
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -17952,7 +19272,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -17993,6 +19313,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16977563542339581270
+    SubobjectId: 652147338658584326
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18002,7 +19328,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2125023618114621476
+  Id: 16527213601974387149
   Name: "Pipe - Quarter Wedge Thin"
   Transform {
     Location {
@@ -18021,7 +19347,7 @@ Objects {
       Z: 0.0639219657
     }
   }
-  ParentId: 244643263382338703
+  ParentId: 1773009144754247873
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18062,6 +19388,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16527213601974387149
+    SubobjectId: 562102983211606941
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18071,7 +19403,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15359348980189053035
+  Id: 7175291714378233648
   Name: "Gear - generic large solid"
   Transform {
     Location {
@@ -18088,7 +19420,7 @@ Objects {
       Z: 0.0841704
     }
   }
-  ParentId: 4529210734148682520
+  ParentId: 8552600211854733053
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18129,6 +19461,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7175291714378233648
+    SubobjectId: 9296354697631929696
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18138,7 +19476,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14602090116593399571
+  Id: 1529792749691207249
   Name: "Cone - Concave"
   Transform {
     Location {
@@ -18155,7 +19493,7 @@ Objects {
       Z: 0.0219324753
     }
   }
-  ParentId: 4529210734148682520
+  ParentId: 8552600211854733053
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18196,6 +19534,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1529792749691207249
+    SubobjectId: 17846185312988699649
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18205,7 +19549,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5666502373939919803
+  Id: 6267645240698075299
   Name: "Cylinder - Rounded"
   Transform {
     Location {
@@ -18222,7 +19566,7 @@ Objects {
       Z: 0.238886416
     }
   }
-  ParentId: 4529210734148682520
+  ParentId: 8552600211854733053
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18259,6 +19603,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 6267645240698075299
+    SubobjectId: 13000676855517944563
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18268,7 +19618,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13641777632714930087
+  Id: 18228719741641274054
   Name: "Cylinder - Rounded"
   Transform {
     Location {
@@ -18284,7 +19634,7 @@ Objects {
       Z: 0.368424386
     }
   }
-  ParentId: 4529210734148682520
+  ParentId: 8552600211854733053
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18321,6 +19671,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 18228719741641274054
+    SubobjectId: 2191534060136714390
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18330,7 +19686,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12750441706203889075
+  Id: 2183509851911588824
   Name: "Cylinder - Polished"
   Transform {
     Location {
@@ -18345,7 +19701,7 @@ Objects {
       Z: 0.00800350588
     }
   }
-  ParentId: 15156183580520092470
+  ParentId: 6440694322871397723
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18386,6 +19742,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2183509851911588824
+    SubobjectId: 18220977226398198152
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18395,7 +19757,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12800367450121853864
+  Id: 1236655879109396489
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -18411,7 +19773,7 @@ Objects {
       Z: 0.3
     }
   }
-  ParentId: 15156183580520092470
+  ParentId: 6440694322871397723
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18452,6 +19814,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1236655879109396489
+    SubobjectId: 17562335832436976217
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18461,7 +19829,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5335497745366103467
+  Id: 4121951311010365796
   Name: "Ring"
   Transform {
     Location {
@@ -18477,7 +19845,7 @@ Objects {
       Z: 0.123632573
     }
   }
-  ParentId: 15156183580520092470
+  ParentId: 6440694322871397723
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18518,6 +19886,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4121951311010365796
+    SubobjectId: 15826938248552866612
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18527,7 +19901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3857579458983286149
+  Id: 1568865201890514611
   Name: "Cone - Truncated Hollow Wide"
   Transform {
     Location {
@@ -18543,7 +19917,7 @@ Objects {
       Z: 0.150994584
     }
   }
-  ParentId: 15156183580520092470
+  ParentId: 6440694322871397723
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18576,6 +19950,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1568865201890514611
+    SubobjectId: 17822206133450061027
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18585,7 +19965,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4806493025311806693
+  Id: 757380683954575226
   Name: "Cone - Truncated Hollow Concave"
   Transform {
     Location {
@@ -18601,7 +19981,7 @@ Objects {
       Z: 0.3
     }
   }
-  ParentId: 15156183580520092470
+  ParentId: 6440694322871397723
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18634,6 +20014,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 757380683954575226
+    SubobjectId: 16722508783265854762
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -18643,7 +20029,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12102436237474809387
+  Id: 8197815431207752426
   Name: "Cone - Truncated Hollow Thin"
   Transform {
     Location {
@@ -18662,7 +20048,7 @@ Objects {
       Z: 0.3
     }
   }
-  ParentId: 15156183580520092470
+  ParentId: 6440694322871397723
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -18694,6 +20080,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 8197815431207752426
+    SubobjectId: 10616379777095397562
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

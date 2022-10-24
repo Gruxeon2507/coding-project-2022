@@ -1,14 +1,14 @@
 Assets {
-  Id: 17964132252558952939
+  Id: 17543884765016635219
   Name: "Advanced Color Grading Post Process"
-  PlatformAssetType: 6
+  PlatformAssetType: 20
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_post_process_advanced_color_grading"
   }
 }
 Assets {
-  Id: 12434974458467685788
+  Id: 15614259856505195515
   Name: "Sphere"
   PlatformAssetType: 1
   PrimaryAsset {
@@ -17,12 +17,12 @@ Assets {
   }
 }
 Assets {
-  Id: 11470788976083836933
-  Name: "Bloom Post Process"
-  PlatformAssetType: 6
+  Id: 12827527876417252929
+  Name: "Ambient Occlusion Recolor Post Process"
+  PlatformAssetType: 20
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_post_process_bloom"
+    AssetId: "fxbp_AO_Recolor"
   }
 }
 Assets {
@@ -32,6 +32,15 @@ Assets {
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_simple_depthblur"
+  }
+}
+Assets {
+  Id: 10151547298258526858
+  Name: "Bloom Post Process"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "fxbp_post_process_bloom"
   }
 }
 Assets {
@@ -50,15 +59,6 @@ Assets {
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_post_process_chromatic_abberation"
-  }
-}
-Assets {
-  Id: 7829951139778158953
-  Name: "Ambient Occlusion Recolor Post Process"
-  PlatformAssetType: 6
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_AO_Recolor"
   }
 }
 Assets {

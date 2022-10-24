@@ -74,7 +74,7 @@ function OnBeginOverlap(trigger, other)
 				World.SpawnAsset(PICKUP_EFFECTS, args)
 			end
 
-			Events.Broadcast("ResourcePickedUp", player, COMPONENT_ROOT)
+			Events.Broadcast("ResourcePickedUp", other, COMPONENT_ROOT)
 
 			COMPONENT_ROOT:Destroy()
 		end
@@ -85,7 +85,9 @@ end
 TRIGGER.beginOverlapEvent:Connect(OnBeginOverlap)
 
 for _, player in pairs(Game.GetPlayers()) do
-	if TRIGGER:IsOverlapping(player) then
-		OnBeginOverlap(TRIGGER, player)
+	if Object.IsValid(TRIGGER) then
+		if TRIGGER:IsOverlapping(player) then
+			OnBeginOverlap(TRIGGER, player)
+		end
 	end
 end

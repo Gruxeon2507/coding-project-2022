@@ -1,5 +1,5 @@
 Assets {
-  Id: 14589188101389804908
+  Id: 17555532497458580631
   Name: "NavMesh Zones Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -95,7 +95,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 18337677911002253684
+            Id: 3238900419391392851
           }
         }
         NetworkRelevanceDistance {

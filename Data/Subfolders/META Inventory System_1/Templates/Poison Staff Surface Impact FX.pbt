@@ -1,5 +1,5 @@
 Assets {
-  Id: 16779989256825090888
+  Id: 3012241083366493996
   Name: "Poison Staff Surface Impact FX"
   PlatformAssetType: 5
   TemplateAsset {

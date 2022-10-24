@@ -1,5 +1,5 @@
 Assets {
-  Id: 4068550412729497325
+  Id: 9396907531206964830
   Name: "LightningGauntlet_Impact"
   PlatformAssetType: 5
   TemplateAsset {

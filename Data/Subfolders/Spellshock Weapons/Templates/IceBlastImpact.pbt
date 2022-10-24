@@ -1,5 +1,5 @@
 Assets {
-  Id: 3882824591213549786
+  Id: 951861755745457705
   Name: "IceBlastImpact"
   PlatformAssetType: 5
   TemplateAsset {
@@ -268,7 +268,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 11298485870920045711
+              Id: 5106190723580176427
             }
           }
           Overrides {

@@ -1,5 +1,5 @@
 Assets {
-  Id: 3253590200665902781
+  Id: 10174974783759959665
   Name: "Melee Swipe Effect Full Circle Fire"
   PlatformAssetType: 5
   TemplateAsset {
@@ -16,7 +16,6 @@ Assets {
           }
         }
         ParentId: 4781671109827199097
-        ChildIds: 8157344153547131132
         ChildIds: 17699469509721181447
         ChildIds: 2054846480689149249
         ChildIds: 3132780244895891185
@@ -41,49 +40,6 @@ Assets {
           MaxDetailLevel {
             Value: "mc:edetaillevel:ultra"
           }
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 8157344153547131132
-        Name: "Fire Big Torch Ignite 01 SFX"
-        Transform {
-          Location {
-            X: 211.962158
-            Y: 5.78808594
-            Z: -100.867676
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 13790252868571079921
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        AudioInstance {
-          AudioAsset {
-            Id: 8687062823439367970
-          }
-          AutoPlay: true
-          Volume: 2
-          Falloff: -1
-          Radius: -1
-          IsSpatializationEnabled: true
-          IsAttenuationEnabled: true
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -148,7 +104,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 4037298589509087562
+            Id: 14580297661185880422
           }
           TeamSettings {
           }
@@ -225,7 +181,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 4037298589509087562
+            Id: 14580297661185880422
           }
           TeamSettings {
           }
@@ -325,16 +281,7 @@ Assets {
       }
     }
     Assets {
-      Id: 8687062823439367970
-      Name: "Fire Big Torch Ignite 01 SFX"
-      PlatformAssetType: 7
-      PrimaryAsset {
-        AssetType: "AudioAssetRef"
-        AssetId: "sfx_fire_big_torch_ignite_01_Cue_ref"
-      }
-    }
-    Assets {
-      Id: 4037298589509087562
+      Id: 14580297661185880422
       Name: "Sword Swipe Full Circle"
       PlatformAssetType: 8
       PrimaryAsset {

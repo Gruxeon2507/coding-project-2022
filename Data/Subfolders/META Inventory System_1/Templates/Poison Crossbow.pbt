@@ -1,5 +1,5 @@
 Assets {
-  Id: 12759261536841092698
+  Id: 828918403052032500
   Name: "Poison Crossbow"
   PlatformAssetType: 5
   TemplateAsset {
@@ -56,16 +56,16 @@ Assets {
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 13619046547454220544
+              Id: 13747910008215976995
             }
             MuzzleFlashAssetRef {
-              Id: 11930188828948983653
+              Id: 13050548741656716166
             }
             TrailAssetRef {
-              Id: 9248192055758416929
+              Id: 13989591334675751171
             }
             ImpactAssetRef {
-              Id: 13883508089900177231
+              Id: 13737219031760033021
             }
             UseReticle: true
             Muzzle {
@@ -76,14 +76,14 @@ Assets {
             }
             AnimationSet: "2hand_rifle_stance"
             OutOfAmmoSfxAssetRef {
-              Id: 12500578513771318027
+              Id: 12902694476831037733
             }
             ReloadSfxAssetRef {
-              Id: 17302619953720232700
+              Id: 13570073131012385439
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
-              Id: 11704992497504668161
+              Id: 15296621768685379398
             }
             BeamAssetRef {
               Id: 841534158063459245
@@ -93,7 +93,7 @@ Assets {
             AttackCooldown: 0.25
             Range: 100000
             ImpactPlayerAssetRef {
-              Id: 1353520495077463700
+              Id: 12186587800654758569
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -152,7 +152,7 @@ Assets {
           Overrides {
             Name: "cs:CombatStats"
             AssetReference {
-              Id: 7910916886577143753
+              Id: 12568911486390079672
             }
           }
         }
@@ -168,7 +168,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14732409602630050242
+            Id: 16079305467200690477
           }
         }
         NetworkRelevanceDistance {
@@ -238,7 +238,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11145628254934127387
+            Id: 3820925941018720372
           }
         }
         NetworkRelevanceDistance {
@@ -345,7 +345,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 14772313579232998117
+              Id: 6847002890894885131
             }
           }
         }
@@ -360,7 +360,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14150387368533688185
+            Id: 15217026285343297011
           }
         }
         NetworkRelevanceDistance {
@@ -417,7 +417,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1144590072372630290
+            Id: 10984383359750883916
           }
         }
         NetworkRelevanceDistance {
@@ -474,7 +474,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 1144590072372630290
+            Id: 10984383359750883916
           }
         }
         NetworkRelevanceDistance {
@@ -546,7 +546,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 15708210414969300328
+              Id: 18169130899942204489
             }
           }
         }
@@ -999,7 +999,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15708210414969300328
+              Id: 18169130899942204489
             }
           }
         }
@@ -1059,7 +1059,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 15708210414969300328
+              Id: 18169130899942204489
             }
           }
         }

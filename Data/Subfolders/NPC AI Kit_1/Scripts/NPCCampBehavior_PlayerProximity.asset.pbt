@@ -1,5 +1,5 @@
 Assets {
-  Id: 17099923623488865346
+  Id: 1686314178788053257
   Name: "NPCCampBehavior_PlayerProximity"
   PlatformAssetType: 3
   TextAsset {

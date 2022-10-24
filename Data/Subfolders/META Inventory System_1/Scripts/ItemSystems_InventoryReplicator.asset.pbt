@@ -1,5 +1,5 @@
 Assets {
-  Id: 1622985801641269911
+  Id: 11657172602341237257
   Name: "ItemSystems_InventoryReplicator"
   PlatformAssetType: 3
   TextAsset {
@@ -7,19 +7,19 @@ Assets {
       Overrides {
         Name: "cs:ItemSystems_Database"
         AssetReference {
-          Id: 17165827486701192746
+          Id: 4078961945049475
         }
       }
       Overrides {
         Name: "cs:ItemSystems_Inventory"
         AssetReference {
-          Id: 4334353000622442448
+          Id: 18048475529753211681
         }
       }
       Overrides {
         Name: "cs:ReliableEvents"
         AssetReference {
-          Id: 1371569630865618388
+          Id: 17030317321197644027
         }
       }
       Overrides {

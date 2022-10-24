@@ -1,5 +1,5 @@
 Assets {
-  Id: 14300698348558420435
+  Id: 6773399988938613270
   Name: "UnCommon_Indicator"
   PlatformAssetType: 5
   TemplateAsset {

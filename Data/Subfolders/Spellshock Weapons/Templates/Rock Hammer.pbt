@@ -1,5 +1,5 @@
 Assets {
-  Id: 4458580768398494614
+  Id: 15549326491261003213
   Name: "Rock Hammer"
   PlatformAssetType: 5
   TemplateAsset {
@@ -67,7 +67,7 @@ Assets {
           Overrides {
             Name: "cs:API_EffectSystem"
             AssetReference {
-              Id: 11192919480659211898
+              Id: 14789230034841820082
             }
           }
           Overrides {
@@ -111,7 +111,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 474301925775429562
+            Id: 14004119222298219159
           }
         }
         NetworkRelevanceDistance {
@@ -154,7 +154,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4722470301334513018
+            Id: 5427325031339041003
           }
         }
         NetworkRelevanceDistance {
@@ -315,7 +315,7 @@ Assets {
           Overrides {
             Name: "cs:DamageAPI"
             AssetReference {
-              Id: 16915150100797142409
+              Id: 8854165461151319026
             }
           }
           Overrides {
@@ -346,7 +346,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 12648056360132516756
+              Id: 15992816220103140258
             }
           }
           Overrides {
@@ -363,7 +363,7 @@ Assets {
           Overrides {
             Name: "cs:AttackPlayerImpact"
             AssetReference {
-              Id: 7473039137614056492
+              Id: 3093669637739086240
             }
           }
         }
@@ -379,7 +379,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12668457720264139649
+            Id: 7320143300675635179
           }
         }
         NetworkRelevanceDistance {
@@ -451,7 +451,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 13039838708654056087
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -472,7 +472,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16552815933987324064
+            Id: 16908287304099768027
           }
         }
         NetworkRelevanceDistance {
@@ -580,7 +580,7 @@ Assets {
           Overrides {
             Name: "cs:DamageAPI"
             AssetReference {
-              Id: 16915150100797142409
+              Id: 8854165461151319026
             }
           }
           Overrides {
@@ -611,7 +611,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 12648056360132516756
+              Id: 15992816220103140258
             }
           }
           Overrides {
@@ -627,7 +627,7 @@ Assets {
           Overrides {
             Name: "cs:AttackPlayerImpact"
             AssetReference {
-              Id: 7473039137614056492
+              Id: 3093669637739086240
             }
           }
         }
@@ -643,7 +643,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12668457720264139649
+            Id: 7320143300675635179
           }
         }
         NetworkRelevanceDistance {
@@ -709,7 +709,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 13039838708654056087
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -730,7 +730,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16552815933987324064
+            Id: 16908287304099768027
           }
         }
         NetworkRelevanceDistance {
@@ -851,7 +851,7 @@ Assets {
           Overrides {
             Name: "cs:DamageAPI"
             AssetReference {
-              Id: 16915150100797142409
+              Id: 8854165461151319026
             }
           }
           Overrides {
@@ -876,7 +876,7 @@ Assets {
           Overrides {
             Name: "cs:SwipeEffect"
             AssetReference {
-              Id: 1108431513583225287
+              Id: 14197969208167758112
             }
           }
           Overrides {
@@ -893,7 +893,7 @@ Assets {
           Overrides {
             Name: "cs:AttackPlayerImpact"
             AssetReference {
-              Id: 7473039137614056492
+              Id: 3093669637739086240
             }
           }
         }
@@ -909,7 +909,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12668457720264139649
+            Id: 7320143300675635179
           }
         }
         NetworkRelevanceDistance {
@@ -946,19 +946,19 @@ Assets {
           Overrides {
             Name: "cs:API_Damage"
             AssetReference {
-              Id: 16915150100797142409
+              Id: 8854165461151319026
             }
           }
           Overrides {
             Name: "cs:API_Effect"
             AssetReference {
-              Id: 11192919480659211898
+              Id: 14789230034841820082
             }
           }
           Overrides {
             Name: "cs:BlastImpactTemplate"
             AssetReference {
-              Id: 10400548438601485915
+              Id: 8931745703965082404
             }
           }
           Overrides {
@@ -1019,7 +1019,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15817539040558844332
+            Id: 11028930876320189670
           }
         }
         NetworkRelevanceDistance {
@@ -1091,7 +1091,7 @@ Assets {
           Overrides {
             Name: "cs:API"
             AssetReference {
-              Id: 13039838708654056087
+              Id: 3864674936362111975
             }
           }
           Overrides {
@@ -1112,7 +1112,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16552815933987324064
+            Id: 16908287304099768027
           }
         }
         NetworkRelevanceDistance {
@@ -1251,7 +1251,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12115058129235105879
+            Id: 7731313976131001483
           }
         }
         NetworkRelevanceDistance {
@@ -1335,7 +1335,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4964867811819012946
+            Id: 8555630803774840212
           }
         }
         NetworkRelevanceDistance {
@@ -1576,7 +1576,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17977548762940923427
+            Id: 3364974170386921097
           }
         }
         NetworkRelevanceDistance {
@@ -2501,7 +2501,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4148599831607453577
+              Id: 13144359184149691187
             }
           }
           Overrides {
@@ -4015,7 +4015,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16783442099462729092
+            Id: 12274037552132722777
           }
         }
         NetworkRelevanceDistance {
@@ -4387,7 +4387,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 16783442099462729092
+            Id: 12274037552132722777
           }
         }
         NetworkRelevanceDistance {
@@ -4571,6 +4571,9 @@ Assets {
       AssetType: "None"
       AssetId: "None"
     }
+  }
+  Marketplace {
+    Description: "Bundle of all the magical weapons from Spellshock game.\r\nThis package is a neat example of advanced use of Weapon system in Core.\r\nYou are free to grab, edit, and put these weapons into your games.\r\n\r\nNote: To see how to setup the weapons, put the template \"_Spellshock Weapons Example Setup\" into the hierarchy\r\nand play with the weapons. \r\n\r\nWhat\'s Included:\r\n- Weapons: Fire Staff, Ice Sword, Poison Crossbow, Lightning Gauntlet and Rock Hammer\r\n- Objects: Effect System, Effect Annoncer and Abilities UI\r\n- Example setup template"
   }
   SerializationVersion: 119
   DirectlyPublished: true

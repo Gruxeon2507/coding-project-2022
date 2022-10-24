@@ -1,5 +1,5 @@
 Assets {
-  Id: 10821774394405641767
+  Id: 7076827762815303963
   Name: "Melee Swipe Effect Half Circle Fire"
   PlatformAssetType: 5
   TemplateAsset {

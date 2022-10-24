@@ -1,5 +1,5 @@
 Assets {
-  Id: 16943226905380919623
+  Id: 16284981509254588364
   Name: "Crossbow Magic Gold"
   PlatformAssetType: 13
   SerializationVersion: 119

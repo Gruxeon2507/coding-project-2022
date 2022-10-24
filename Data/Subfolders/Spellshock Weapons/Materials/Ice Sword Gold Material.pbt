@@ -1,5 +1,5 @@
 Assets {
-  Id: 10819537049108741136
+  Id: 12871798001744046483
   Name: "Ice Sword Gold Material"
   PlatformAssetType: 13
   SerializationVersion: 119

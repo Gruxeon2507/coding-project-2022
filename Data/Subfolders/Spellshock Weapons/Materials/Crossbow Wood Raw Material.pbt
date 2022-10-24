@@ -1,5 +1,5 @@
 Assets {
-  Id: 6811983864140427701
+  Id: 710568841527396925
   Name: "Crossbow Wood Raw Material"
   PlatformAssetType: 13
   SerializationVersion: 119

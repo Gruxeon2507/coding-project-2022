@@ -4,11 +4,11 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 6460322760815104935
+    BaseMaterialId: 16603886025330721167
     ParameterOverrides {
     }
     Assets {
-      Id: 6460322760815104935
+      Id: 16603886025330721167
       Name: "Oak Branch"
       PlatformAssetType: 2
       PrimaryAsset {

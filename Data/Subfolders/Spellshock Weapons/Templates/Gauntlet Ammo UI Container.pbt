@@ -1,5 +1,5 @@
 Assets {
-  Id: 5183598678381924592
+  Id: 10551884791441610997
   Name: "Gauntlet Ammo UI Container"
   PlatformAssetType: 5
   TemplateAsset {

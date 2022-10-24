@@ -1,5 +1,5 @@
 Assets {
-  Id: 2719535949450111068
+  Id: 8792380690592035639
   Name: "Melee Swipe Effect Half Circle Ice"
   PlatformAssetType: 5
   TemplateAsset {

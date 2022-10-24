@@ -1,5 +1,5 @@
 Assets {
-  Id: 16940525508923917101
+  Id: 6095997471803002987
   Name: "Searchable Loots Examples"
   PlatformAssetType: 5
   TemplateAsset {
@@ -101,19 +101,19 @@ Assets {
           Overrides {
             Name: "cs:SFX_OpenSound"
             AssetReference {
-              Id: 2195270588469900167
+              Id: 11708020722686618969
             }
           }
           Overrides {
             Name: "cs:SFX_SearchingSound"
             AssetReference {
-              Id: 11544800822158880595
+              Id: 12740667064161455627
             }
           }
           Overrides {
             Name: "cs:SFX_ClosedSound"
             AssetReference {
-              Id: 9467253925438184485
+              Id: 6560713642625261417
             }
           }
           Overrides {
@@ -188,7 +188,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4507719120283038837
+            Id: 4584899375074360654
           }
         }
         NetworkRelevanceDistance {
@@ -440,19 +440,19 @@ Assets {
           Overrides {
             Name: "cs:SFX_OpenSound"
             AssetReference {
-              Id: 2195270588469900167
+              Id: 11708020722686618969
             }
           }
           Overrides {
             Name: "cs:SFX_SearchingSound"
             AssetReference {
-              Id: 11544800822158880595
+              Id: 12740667064161455627
             }
           }
           Overrides {
             Name: "cs:SFX_ClosedSound"
             AssetReference {
-              Id: 9467253925438184485
+              Id: 6560713642625261417
             }
           }
           Overrides {
@@ -527,7 +527,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4507719120283038837
+            Id: 4584899375074360654
           }
         }
         NetworkRelevanceDistance {
@@ -818,19 +818,19 @@ Assets {
           Overrides {
             Name: "cs:SFX_OpenSound"
             AssetReference {
-              Id: 2195270588469900167
+              Id: 11708020722686618969
             }
           }
           Overrides {
             Name: "cs:SFX_SearchingSound"
             AssetReference {
-              Id: 11544800822158880595
+              Id: 12740667064161455627
             }
           }
           Overrides {
             Name: "cs:SFX_ClosedSound"
             AssetReference {
-              Id: 9467253925438184485
+              Id: 6560713642625261417
             }
           }
           Overrides {
@@ -905,7 +905,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4507719120283038837
+            Id: 4584899375074360654
           }
         }
         NetworkRelevanceDistance {
@@ -1197,19 +1197,19 @@ Assets {
           Overrides {
             Name: "cs:SFX_OpenSound"
             AssetReference {
-              Id: 2195270588469900167
+              Id: 11708020722686618969
             }
           }
           Overrides {
             Name: "cs:SFX_SearchingSound"
             AssetReference {
-              Id: 11544800822158880595
+              Id: 12740667064161455627
             }
           }
           Overrides {
             Name: "cs:SFX_ClosedSound"
             AssetReference {
-              Id: 9467253925438184485
+              Id: 6560713642625261417
             }
           }
           Overrides {
@@ -1284,7 +1284,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4507719120283038837
+            Id: 4584899375074360654
           }
         }
         NetworkRelevanceDistance {
@@ -1574,19 +1574,19 @@ Assets {
           Overrides {
             Name: "cs:SFX_OpenSound"
             AssetReference {
-              Id: 2195270588469900167
+              Id: 11708020722686618969
             }
           }
           Overrides {
             Name: "cs:SFX_SearchingSound"
             AssetReference {
-              Id: 11544800822158880595
+              Id: 12740667064161455627
             }
           }
           Overrides {
             Name: "cs:SFX_ClosedSound"
             AssetReference {
-              Id: 9467253925438184485
+              Id: 6560713642625261417
             }
           }
           Overrides {
@@ -1661,7 +1661,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4507719120283038837
+            Id: 4584899375074360654
           }
         }
         NetworkRelevanceDistance {
@@ -1794,7 +1794,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17522136738897089694
+              Id: 16901860629907014018
             }
           }
         }
@@ -1869,13 +1869,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 17522136738897089694
+              Id: 16901860629907014018
             }
           }
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 17522136738897089694
+              Id: 16901860629907014018
             }
           }
         }
@@ -1959,19 +1959,19 @@ Assets {
           Overrides {
             Name: "cs:SFX_OpenSound"
             AssetReference {
-              Id: 2195270588469900167
+              Id: 11708020722686618969
             }
           }
           Overrides {
             Name: "cs:SFX_SearchingSound"
             AssetReference {
-              Id: 11544800822158880595
+              Id: 12740667064161455627
             }
           }
           Overrides {
             Name: "cs:SFX_ClosedSound"
             AssetReference {
-              Id: 9467253925438184485
+              Id: 6560713642625261417
             }
           }
           Overrides {
@@ -2038,7 +2038,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4507719120283038837
+            Id: 4584899375074360654
           }
         }
         NetworkRelevanceDistance {
@@ -2330,19 +2330,19 @@ Assets {
           Overrides {
             Name: "cs:SFX_OpenSound"
             AssetReference {
-              Id: 2195270588469900167
+              Id: 11708020722686618969
             }
           }
           Overrides {
             Name: "cs:SFX_SearchingSound"
             AssetReference {
-              Id: 11544800822158880595
+              Id: 12740667064161455627
             }
           }
           Overrides {
             Name: "cs:SFX_ClosedSound"
             AssetReference {
-              Id: 9467253925438184485
+              Id: 6560713642625261417
             }
           }
           Overrides {
@@ -2417,7 +2417,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4507719120283038837
+            Id: 4584899375074360654
           }
         }
         NetworkRelevanceDistance {
@@ -2723,19 +2723,19 @@ Assets {
           Overrides {
             Name: "cs:SFX_OpenSound"
             AssetReference {
-              Id: 2195270588469900167
+              Id: 11708020722686618969
             }
           }
           Overrides {
             Name: "cs:SFX_SearchingSound"
             AssetReference {
-              Id: 11544800822158880595
+              Id: 12740667064161455627
             }
           }
           Overrides {
             Name: "cs:SFX_ClosedSound"
             AssetReference {
-              Id: 9467253925438184485
+              Id: 6560713642625261417
             }
           }
           Overrides {
@@ -2810,7 +2810,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4507719120283038837
+            Id: 4584899375074360654
           }
         }
         NetworkRelevanceDistance {

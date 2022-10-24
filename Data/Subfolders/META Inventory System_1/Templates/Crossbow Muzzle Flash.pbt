@@ -1,5 +1,5 @@
 Assets {
-  Id: 11930188828948983653
+  Id: 13050548741656716166
   Name: "Crossbow Muzzle Flash"
   PlatformAssetType: 5
   TemplateAsset {

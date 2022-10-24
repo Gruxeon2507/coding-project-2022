@@ -997,8 +997,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Double_Door"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

@@ -270,7 +270,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 5931224016695282927
+            Id: 11445222157905148236
           }
           TeamSettings {
           }
@@ -329,7 +329,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 12142542151466613204
+            Id: 4170659662924572825
           }
           TeamSettings {
           }
@@ -458,7 +458,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5931224016695282927
+      Id: 11445222157905148236
       Name: "Liquid Decal"
       PlatformAssetType: 14
       PrimaryAsset {
@@ -467,7 +467,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12142542151466613204
+      Id: 4170659662924572825
       Name: "Smoke Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {

@@ -1,7 +1,7 @@
 Name: "Board"
-RootId: 16830956534029775025
+RootId: 15522157231511818284
 Objects {
-  Id: 7334198984678249892
+  Id: 1754282688943507097
   Name: "Carpet Tile 01"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 0.0703272074
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -60,6 +60,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1754282688943507097
+    SubobjectId: 18070973142614648009
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -69,7 +75,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17922255506654676474
+  Id: 4414782190836834409
   Name: "Carpet Tile 01"
   Transform {
     Location {
@@ -86,7 +92,7 @@ Objects {
       Z: 0.0703272074
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -128,6 +134,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4414782190836834409
+    SubobjectId: 16128794997829861945
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -137,7 +149,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12934385810297160487
+  Id: 5337225989779714603
   Name: "Carpet Tile 02"
   Transform {
     Location {
@@ -156,7 +168,7 @@ Objects {
       Z: 0.063957952
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -198,6 +210,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5337225989779714603
+    SubobjectId: 12142032632779018363
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -207,7 +225,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9820395152002723336
+  Id: 4594628702289971275
   Name: "Carpet Tile 02"
   Transform {
     Location {
@@ -226,7 +244,7 @@ Objects {
       Z: 0.063957952
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -268,6 +286,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4594628702289971275
+    SubobjectId: 15948353410277648923
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -277,7 +301,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1630105214427413499
+  Id: 10659468176039469688
   Name: "Carpet Tile 02"
   Transform {
     Location {
@@ -296,7 +320,7 @@ Objects {
       Z: 0.063957952
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -338,6 +362,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 10659468176039469688
+    SubobjectId: 8178116153115803688
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -347,7 +377,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14756410711925117410
+  Id: 17139174333086285355
   Name: "Carpet Tile 02"
   Transform {
     Location {
@@ -366,7 +396,7 @@ Objects {
       Z: 0.0477838479
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -408,6 +438,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17139174333086285355
+    SubobjectId: 1101724549716270203
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -417,7 +453,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17466532631141633417
+  Id: 4498965268280102232
   Name: "Carpet Tile 01"
   Transform {
     Location {
@@ -434,7 +470,7 @@ Objects {
       Z: 0.0703272223
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -476,6 +512,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4498965268280102232
+    SubobjectId: 15924448493474950920
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -485,7 +527,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6969261990411587271
+  Id: 5318518260917574582
   Name: "Carpet Tile 02"
   Transform {
     Location {
@@ -504,7 +546,7 @@ Objects {
       Z: 0.063957952
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -546,6 +588,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 5318518260917574582
+    SubobjectId: 12348769806346385894
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -555,7 +603,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4467016350359947202
+  Id: 15178679797112240397
   Name: "Carpet Tile 01"
   Transform {
     Location {
@@ -572,7 +620,7 @@ Objects {
       Z: 0.0703272074
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -614,6 +662,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15178679797112240397
+    SubobjectId: 3473691764386569053
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -623,7 +677,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17296035261455151875
+  Id: 4937757463381899214
   Name: "Carpet Tile 02"
   Transform {
     Location {
@@ -642,7 +696,7 @@ Objects {
       Z: 0.0477838069
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -684,6 +738,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 4937757463381899214
+    SubobjectId: 11968026682601411998
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -693,7 +753,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16907704704104737109
+  Id: 14616558470467055855
   Name: "Whitebox Floor 01 4m x 4m"
   Transform {
     Location {
@@ -711,7 +771,7 @@ Objects {
       Z: 0.230363831
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Building_Floor:id"
@@ -750,6 +810,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 14616558470467055855
+    SubobjectId: 2902845830150591167
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -759,7 +825,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18228329506596484593
+  Id: 12850039078045427014
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -775,7 +841,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -808,6 +874,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 12850039078045427014
+    SubobjectId: 5819788636425209622
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -817,7 +889,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14633339806128923232
+  Id: 1799643337268510733
   Name: "Large Round Wood Beam 8m"
   Transform {
     Location {
@@ -836,7 +908,7 @@ Objects {
       Z: 0.540046
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -861,6 +933,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1799643337268510733
+    SubobjectId: 18043978186302825053
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -870,7 +948,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 418268106794282589
+  Id: 15412055171357628431
   Name: "Large Wood Board 8m"
   Transform {
     Location {
@@ -886,7 +964,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -919,6 +997,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15412055171357628431
+    SubobjectId: 3995280138379835999
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -928,7 +1012,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7839853339500421819
+  Id: 6616713217104860171
   Name: "Large Round Wood Beam 8m"
   Transform {
     Location {
@@ -946,7 +1030,7 @@ Objects {
       Z: 0.540046
     }
   }
-  ParentId: 16830956534029775025
+  ParentId: 15522157231511818284
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -978,6 +1062,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 6616713217104860171
+    SubobjectId: 13349725954505258587
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

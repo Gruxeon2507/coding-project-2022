@@ -1,5 +1,5 @@
 Assets {
-  Id: 5319459827757115960
+  Id: 12944405574420941438
   Name: "Dragon Fireball Medium"
   PlatformAssetType: 5
   TemplateAsset {
@@ -150,7 +150,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 3547866851764755239
+              Id: 679594661986834355
             }
           }
           Overrides {

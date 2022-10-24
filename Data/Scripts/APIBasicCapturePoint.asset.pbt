@@ -1,5 +1,5 @@
 Assets {
-  Id: 69564393870823557
+  Id: 5415161041024035059
   Name: "APIBasicCapturePoint"
   PlatformAssetType: 3
   TextAsset {

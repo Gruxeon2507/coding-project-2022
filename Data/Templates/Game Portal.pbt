@@ -1,5 +1,5 @@
 Assets {
-  Id: 10257238604290602086
+  Id: 4047339478721422930
   Name: "Game Portal"
   PlatformAssetType: 5
   TemplateAsset {
@@ -22,7 +22,7 @@ Assets {
         UnregisteredParameters {
           Overrides {
             Name: "cs:DestinationGame"
-            String: "a91218/corehaven"
+            String: "b983bc/core-plaza"
           }
           Overrides {
             Name: "cs:DestinationGame:tooltip"
@@ -51,14 +51,13 @@ Assets {
         Name: "Trigger"
         Transform {
           Location {
-            Z: 275
           }
           Rotation {
           }
           Scale {
-            X: 5.10000086
-            Y: 1.99999988
-            Z: 5.10000038
+            X: 3.00000024
+            Y: 0.5
+            Z: 3
           }
         }
         ParentId: 14546490105472636833
@@ -145,7 +144,7 @@ Assets {
         Name: "Geo"
         Transform {
           Location {
-            Z: 250
+            Z: 150
           }
           Rotation {
           }

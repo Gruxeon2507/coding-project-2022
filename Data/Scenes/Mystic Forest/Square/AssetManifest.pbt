@@ -8,33 +8,6 @@ Assets {
   }
 }
 Assets {
-  Id: 16994468833963340401
-  Name: "Cylinder - Chamfered Small Polished"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cylinder_hq_003"
-  }
-}
-Assets {
-  Id: 15153513534399946376
-  Name: "Stone Basic"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "stone_001"
-  }
-}
-Assets {
-  Id: 13565223774476700443
-  Name: "Ring - Beveled Thin"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_ring_faceted_002"
-  }
-}
-Assets {
   Id: 13309451685067824335
   Name: "Curb 8m"
   PlatformAssetType: 1
@@ -53,21 +26,30 @@ Assets {
   }
 }
 Assets {
-  Id: 12836979567259307927
-  Name: "Grass Tall"
-  PlatformAssetType: 1
+  Id: 12559796121075739811
+  Name: "Stone Basic"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_grass_generic_001"
+    AssetType: "MaterialAssetRef"
+    AssetId: "stone_001"
   }
 }
 Assets {
-  Id: 12163832307432149004
+  Id: 11159381378020818034
   Name: "Metal Diamond Plates 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_metal_rust_diamond-plate_001"
+  }
+}
+Assets {
+  Id: 10704779908275627381
+  Name: "Sci-fi Panel 1x3m Angled Right"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_panel_1x3m_angledR_001"
   }
 }
 Assets {
@@ -80,21 +62,21 @@ Assets {
   }
 }
 Assets {
-  Id: 10391209774534596780
-  Name: "Cone - Truncated Hollow Wide Thick"
-  PlatformAssetType: 1
+  Id: 10291375382347379579
+  Name: "Metal Iron 01"
+  PlatformAssetType: 2
   PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_cone_truncated_hollow_005"
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_iron_001"
   }
 }
 Assets {
-  Id: 9357136467534017562
-  Name: "Sci-fi Trim 01"
+  Id: 9737050744451589523
+  Name: "Arch Fancy 3m"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_scifi_trim_001_4m"
+    AssetId: "sm_arch_fancy_3m_001"
   }
 }
 Assets {
@@ -107,15 +89,6 @@ Assets {
   }
 }
 Assets {
-  Id: 8636322695779661300
-  Name: "Metal Iron 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_metal_iron_001"
-  }
-}
-Assets {
   Id: 8329339828071933523
   Name: "Concrete Basic 01"
   PlatformAssetType: 2
@@ -125,30 +98,12 @@ Assets {
   }
 }
 Assets {
-  Id: 7905923248328022453
+  Id: 7690577313690423173
   Name: "Grass Short"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_grass_generic_002"
-  }
-}
-Assets {
-  Id: 7812390796038392390
-  Name: "Sci-fi Trim 01 bend 90"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_scifi_trim_001_bend90"
-  }
-}
-Assets {
-  Id: 6897042636459259472
-  Name: "Sci-fi Panel 1x3m Angled Right"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_panel_1x3m_angledR_001"
   }
 }
 Assets {
@@ -158,6 +113,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_panel_1x4m_001"
+  }
+}
+Assets {
+  Id: 6382662502274878333
+  Name: "Cylinder - Chamfered Small Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_hq_003"
   }
 }
 Assets {
@@ -179,6 +143,15 @@ Assets {
   }
 }
 Assets {
+  Id: 5864244724568329871
+  Name: "Rock Hexagonal"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_rock_generic_008"
+  }
+}
+Assets {
   Id: 5809084828492086602
   Name: "Pyramid - 8-Sided Truncated Polished"
   PlatformAssetType: 1
@@ -188,21 +161,30 @@ Assets {
   }
 }
 Assets {
-  Id: 5567872293311379240
-  Name: "Rock Hexagonal"
+  Id: 4693264132494587556
+  Name: "Sci-fi Trim 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_rock_generic_008"
+    AssetId: "sm_scifi_trim_001_4m"
   }
 }
 Assets {
-  Id: 4193024863549911546
+  Id: 4678801537593034345
   Name: "Column Base 02"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_column_bottom_002"
+  }
+}
+Assets {
+  Id: 3802294325101253944
+  Name: "Cone - Truncated Hollow Wide Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cone_truncated_hollow_005"
   }
 }
 Assets {
@@ -215,11 +197,29 @@ Assets {
   }
 }
 Assets {
-  Id: 2358462942102048965
-  Name: "Arch Fancy 3m"
+  Id: 2140913818093261140
+  Name: "Sci-fi Trim 01 bend 90"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_arch_fancy_3m_001"
+    AssetId: "sm_scifi_trim_001_bend90"
+  }
+}
+Assets {
+  Id: 724736121547025431
+  Name: "Grass Tall"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_grass_generic_001"
+  }
+}
+Assets {
+  Id: 181318686039733865
+  Name: "Ring - Beveled Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ring_faceted_002"
   }
 }

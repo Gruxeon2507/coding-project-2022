@@ -1,5 +1,5 @@
 Assets {
-  Id: 838768081411922201
+  Id: 5083755829656923341
   Name: "Castle Gatehouse"
   PlatformAssetType: 5
   TemplateAsset {
@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 6384968156879217583
+        ParentId: 4781671109827199097
         ChildIds: 17325399315336526877
         ChildIds: 7864613499993631079
         ChildIds: 5372260008339499090
@@ -8017,20 +8017,12 @@ Assets {
         }
         ParentId: 9218488862609064200
         ChildIds: 3210542752361904146
-        ChildIds: 9604717630471121908
+        ChildIds: 389111403801013679
         ChildIds: 7925672108413449772
-        ChildIds: 10728126772884114465
-        ChildIds: 11539280161756996167
-        ChildIds: 16296089288919987000
+        ChildIds: 5252869327381945646
+        ChildIds: 17632265737776212621
+        ChildIds: 9483833348691857114
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:AutoOpen"
-            Bool: false
-          }
-          Overrides {
-            Name: "cs:TimeOpen"
-            Float: 3
-          }
           Overrides {
             Name: "cs:OpenLabel"
             String: "Raise Gate"
@@ -8050,14 +8042,6 @@ Assets {
           Overrides {
             Name: "cs:ResetOnRoundStart"
             Bool: true
-          }
-          Overrides {
-            Name: "cs:AutoOpen:tooltip"
-            String: "This door will open when a player gets close, and cannot be interact with"
-          }
-          Overrides {
-            Name: "cs:TimeOpen:tooltip"
-            String: "With AutoOpen, how long the day stays open with no player near."
           }
           Overrides {
             Name: "cs:OpenLabel:tooltip"
@@ -8128,6 +8112,7 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Trigger {
+          Interactable: true
           TeamSettings {
             IsTeamCollisionEnabled: true
             IsEnemyCollisionEnabled: true
@@ -8146,8 +8131,8 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
       Objects {
-        Id: 9604717630471121908
-        Name: "ServerContext"
+        Id: 389111403801013679
+        Name: "PortcullisServer"
         Transform {
           Location {
           }
@@ -8160,41 +8145,6 @@ Assets {
           }
         }
         ParentId: 6070116137158297577
-        ChildIds: 389111403801013679
-        UnregisteredParameters {
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        NetworkContext {
-          Type: Server
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 389111403801013679
-        Name: "PortcullisControllerServer"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 9604717630471121908
         UnregisteredParameters {
           Overrides {
             Name: "cs:ComponentRoot"
@@ -8205,7 +8155,7 @@ Assets {
           Overrides {
             Name: "cs:DoorRoot"
             ObjectReference {
-              SubObjectId: 10728126772884114465
+              SubObjectId: 5252869327381945646
             }
           }
           Overrides {
@@ -8217,13 +8167,13 @@ Assets {
           Overrides {
             Name: "cs:LeverRoot"
             ObjectReference {
-              SubObjectId: 11539280161756996167
+              SubObjectId: 17632265737776212621
             }
           }
           Overrides {
             Name: "cs:WinchRoot"
             ObjectReference {
-              SubObjectId: 16296089288919987000
+              SubObjectId: 9483833348691857114
             }
           }
         }
@@ -8238,7 +8188,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2564570442949198645
+            Id: 18292077748248495418
           }
         }
         NetworkRelevanceDistance {
@@ -8291,7 +8241,7 @@ Assets {
       }
       Objects {
         Id: 6829304852270330631
-        Name: "PortcullisControllerClient"
+        Name: "PortcullisClient"
         Transform {
           Location {
           }
@@ -8314,7 +8264,7 @@ Assets {
           Overrides {
             Name: "cs:DoorRoot"
             ObjectReference {
-              SubObjectId: 10728126772884114465
+              SubObjectId: 5252869327381945646
             }
           }
           Overrides {
@@ -8341,7 +8291,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14935300470138263330
+            Id: 16628249768733511622
           }
         }
         NetworkRelevanceDistance {
@@ -8440,7 +8390,7 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
       Objects {
-        Id: 10728126772884114465
+        Id: 5252869327381945646
         Name: "DoorRoot"
         Transform {
           Location {
@@ -8454,42 +8404,6 @@ Assets {
           }
         }
         ParentId: 6070116137158297577
-        ChildIds: 5252869327381945646
-        UnregisteredParameters {
-        }
-        WantsNetworking: true
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        CameraCollidable {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Folder {
-          IsGroup: true
-        }
-        NetworkRelevanceDistance {
-          Value: "mc:eproxyrelevance:critical"
-        }
-        IsReplicationEnabledByDefault: true
-      }
-      Objects {
-        Id: 5252869327381945646
-        Name: "Geo_StaticContext"
-        Transform {
-          Location {
-          }
-          Rotation {
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 10728126772884114465
         ChildIds: 2107503965351902612
         UnregisteredParameters {
         }
@@ -8516,8 +8430,8 @@ Assets {
         Name: "Portcullis"
         Transform {
           Location {
-            X: -250.000244
-            Y: -100.000305
+            X: -250
+            Y: -100
             Z: -1225
           }
           Rotation {
@@ -8563,7 +8477,7 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
       Objects {
-        Id: 11539280161756996167
+        Id: 17632265737776212621
         Name: "LeverRoot"
         Transform {
           Location {
@@ -8572,7 +8486,7 @@ Assets {
             Z: 125
           }
           Rotation {
-            Pitch: 10
+            Pitch: 9.99999714
           }
           Scale {
             X: 1
@@ -8592,8 +8506,8 @@ Assets {
         CameraCollidable {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
-        Folder {
-          IsGroup: true
+        NetworkContext {
+          Type: RuntimeStatic
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -8605,14 +8519,14 @@ Assets {
         Name: "Fantasy Axe Grip 01"
         Transform {
           Location {
-            X: 124.999977
+            X: 125
             Y: -5.92877197
-            Z: 47.6540031
+            Z: 47.6540642
           }
           Rotation {
-            Pitch: 67.4998856
-            Yaw: -179.999954
-            Roll: -179.999954
+            Pitch: 67.4998093
+            Yaw: -179.999939
+            Roll: -179.999939
           }
           Scale {
             X: 2.5
@@ -8620,7 +8534,7 @@ Assets {
             Z: 1.75
           }
         }
-        ParentId: 11539280161756996167
+        ParentId: 17632265737776212621
         UnregisteredParameters {
           Overrides {
             Name: "ma:Shared_Trim:color"
@@ -8632,7 +8546,6 @@ Assets {
             }
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8666,7 +8579,7 @@ Assets {
         IsReplicationEnabledByDefault: true
       }
       Objects {
-        Id: 16296089288919987000
+        Id: 9483833348691857114
         Name: "WinchRoot"
         Transform {
           Location {
@@ -8694,8 +8607,8 @@ Assets {
         CameraCollidable {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
-        Folder {
-          IsGroup: true
+        NetworkContext {
+          Type: RuntimeStatic
         }
         NetworkRelevanceDistance {
           Value: "mc:eproxyrelevance:critical"
@@ -8710,8 +8623,8 @@ Assets {
           }
           Rotation {
             Pitch: 85.0000076
-            Yaw: -3.05175727e-05
-            Roll: -3.05175727e-05
+            Yaw: -3.05175508e-05
+            Roll: -3.05175508e-05
           }
           Scale {
             X: 1
@@ -8719,13 +8632,12 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16296089288919987000
+        ParentId: 9483833348691857114
         ChildIds: 16910482284886397397
         ChildIds: 18200419403899946806
         ChildIds: 8085020370072710383
         ChildIds: 17420831140047034248
         ChildIds: 14441880648163999559
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8759,7 +8671,6 @@ Assets {
           }
         }
         ParentId: 13417711271241646916
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8808,7 +8719,6 @@ Assets {
           }
         }
         ParentId: 13417711271241646916
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8878,7 +8788,6 @@ Assets {
             Float: 4
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -8944,7 +8853,6 @@ Assets {
             Float: 0.137840822
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
@@ -9010,7 +8918,6 @@ Assets {
             Float: 0.137840822
           }
         }
-        WantsNetworking: true
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }

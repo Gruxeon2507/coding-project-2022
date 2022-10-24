@@ -1,5 +1,5 @@
 Assets {
-  Id: 7910916886577143753
+  Id: 12568911486390079672
   Name: "PlayerStats_Combat"
   PlatformAssetType: 3
   TextAsset {

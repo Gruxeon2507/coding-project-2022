@@ -57,7 +57,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4050437425243511619
+              Id: 12386794446411920970
             }
           }
           Overrides {
@@ -127,7 +127,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 6611378559053753307
+              Id: 1321536556956774297
             }
           }
           Overrides {
@@ -186,7 +186,7 @@ Assets {
       }
     }
     Assets {
-      Id: 4050437425243511619
+      Id: 12386794446411920970
       Name: "Wood Raw"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -204,7 +204,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6611378559053753307
+      Id: 1321536556956774297
       Name: "Metal Iron Rusted 02"
       PlatformAssetType: 2
       PrimaryAsset {

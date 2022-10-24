@@ -1,5 +1,5 @@
 Assets {
-  Id: 2157943826062140682
+  Id: 2735133779586176302
   Name: "PlayerStats_StatSheetReplicator"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:StatSheet"
         AssetReference {
-          Id: 2619244480633874099
+          Id: 14968259990860211179
         }
       }
       Overrides {

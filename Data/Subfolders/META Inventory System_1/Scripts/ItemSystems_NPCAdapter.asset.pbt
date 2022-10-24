@@ -1,5 +1,5 @@
 Assets {
-  Id: 15746914704677342218
+  Id: 519229914231972210
   Name: "ItemSystems_NPCAdapter"
   PlatformAssetType: 3
   TextAsset {

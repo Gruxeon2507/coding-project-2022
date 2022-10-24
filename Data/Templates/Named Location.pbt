@@ -212,8 +212,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Named_Location"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

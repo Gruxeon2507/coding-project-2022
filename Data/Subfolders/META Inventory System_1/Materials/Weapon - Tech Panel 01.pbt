@@ -1,5 +1,5 @@
 Assets {
-  Id: 2175105259836455387
+  Id: 15907679140637117303
   Name: "Weapon - Tech Panel 01"
   PlatformAssetType: 13
   SerializationVersion: 119

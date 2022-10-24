@@ -68,7 +68,13 @@ local autoCloseTime = 0.0
 -- float GetDoorRotation()
 -- Gives you the current rotation of the door
 function GetDoorRotation()
-	return ROTATION_ROOT:GetRotation().z / 90.0
+	local result = ROTATION_ROOT:GetRotation().z / 90.0
+
+	if math.abs(result) < 0.01 then
+		return 0.0
+	end
+
+	return result
 end
 
 -- nil SetCurrentRotation(float)

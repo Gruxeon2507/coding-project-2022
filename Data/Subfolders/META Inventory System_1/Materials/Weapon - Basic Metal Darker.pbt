@@ -1,5 +1,5 @@
 Assets {
-  Id: 14676677652691121299
+  Id: 5440855596987343720
   Name: "Weapon - Basic Metal Darker"
   PlatformAssetType: 13
   SerializationVersion: 119

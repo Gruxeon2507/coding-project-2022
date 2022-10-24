@@ -76,7 +76,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2132385347902568908
+            Id: 9740100601051791580
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -135,7 +135,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 725365412107610098
+            Id: 3189005529281241184
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -201,7 +201,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 13042368172556113913
+            Id: 3295989886935928008
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -261,7 +261,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2132385347902568908
+            Id: 9740100601051791580
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -320,7 +320,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 725365412107610098
+            Id: 3189005529281241184
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -693,7 +693,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2132385347902568908
+      Id: 9740100601051791580
       Name: "Large Round Wood Beam 8m"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -702,7 +702,7 @@ Assets {
       }
     }
     Assets {
-      Id: 725365412107610098
+      Id: 3189005529281241184
       Name: "Large Wood Board 8m"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -711,7 +711,7 @@ Assets {
       }
     }
     Assets {
-      Id: 13042368172556113913
+      Id: 3295989886935928008
       Name: "Whitebox Floor 01 4m x 4m"
       PlatformAssetType: 1
       PrimaryAsset {

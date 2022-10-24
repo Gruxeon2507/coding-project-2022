@@ -1,5 +1,5 @@
 Assets {
-  Id: 612762842528809210
+  Id: 16079886676059703445
   Name: "NPC AI Kit"
   PlatformAssetType: 5
   TemplateAsset {
@@ -31,16 +31,16 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 14709182322863272101
+              Id: 3724101235656532046
             }
             ReferencedAssets {
-              Id: 2569446699727819037
+              Id: 17261173744091875994
             }
             ReferencedAssets {
-              Id: 14033980246018938224
+              Id: 14468880773213025414
             }
             ReferencedAssets {
-              Id: 17212779964163218283
+              Id: 15341610764720391099
             }
           }
         }

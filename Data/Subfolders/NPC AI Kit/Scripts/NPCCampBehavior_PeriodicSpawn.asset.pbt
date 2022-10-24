@@ -1,5 +1,5 @@
 Assets {
-  Id: 11394097332398361648
+  Id: 13352314637940373599
   Name: "NPCCampBehavior_PeriodicSpawn"
   PlatformAssetType: 3
   TextAsset {

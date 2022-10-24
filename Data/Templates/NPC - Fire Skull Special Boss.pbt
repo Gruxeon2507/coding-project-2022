@@ -366,7 +366,7 @@ Assets {
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 14373757464648078715
+              Id: 14782481216819325752
             }
           }
           Overrides {
@@ -452,7 +452,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsEnemyCollisionEnabled: true
@@ -689,7 +689,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 162151367198570398
+            Id: 13935421930719532631
           }
         }
         NetworkRelevanceDistance {
@@ -937,7 +937,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -989,7 +989,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2916383463773524221
+            Id: 18300597072120582980
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1112,7 +1112,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 12434974458467685788
+            Id: 15614259856505195515
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1189,7 +1189,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 2494920176024075778
+            Id: 13110421772076029559
           }
           TeamSettings {
           }
@@ -1207,7 +1207,7 @@ Assets {
       }
     }
     Assets {
-      Id: 12434974458467685788
+      Id: 15614259856505195515
       Name: "Sphere"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1225,7 +1225,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2916383463773524221
+      Id: 18300597072120582980
       Name: "Bone Human Skull 01"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1243,7 +1243,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2494920176024075778
+      Id: 13110421772076029559
       Name: "Fire Volume VFX"
       PlatformAssetType: 8
       PrimaryAsset {

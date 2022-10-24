@@ -1,5 +1,5 @@
 Assets {
-  Id: 12196372579882285201
+  Id: 2345133010404791482
   Name: "IcePlayerEffect"
   PlatformAssetType: 5
   TemplateAsset {

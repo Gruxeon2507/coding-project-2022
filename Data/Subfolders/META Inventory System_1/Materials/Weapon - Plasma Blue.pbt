@@ -1,5 +1,5 @@
 Assets {
-  Id: 12164166412425737683
+  Id: 15510160910420511897
   Name: "Weapon - Plasma Blue"
   PlatformAssetType: 13
   SerializationVersion: 119

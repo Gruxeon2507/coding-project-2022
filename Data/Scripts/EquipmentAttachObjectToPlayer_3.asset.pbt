@@ -1,5 +1,5 @@
 Assets {
-  Id: 18231973393798305370
+  Id: 15335404042840951348
   Name: "EquipmentAttachObjectToPlayer_3"
   PlatformAssetType: 3
   TextAsset {
@@ -9,8 +9,21 @@ Assets {
         ObjectReference {
         }
       }
+      Overrides {
+        Name: "cs:PlayerSocket"
+        String: "root"
+      }
+      Overrides {
+        Name: "cs:LocalPosition"
+        Vector {
+        }
+      }
+      Overrides {
+        Name: "cs:LocalRotation"
+        Rotator {
+        }
+      }
     }
   }
   SerializationVersion: 119
-  VirtualFolderPath: "Equipment"
 }

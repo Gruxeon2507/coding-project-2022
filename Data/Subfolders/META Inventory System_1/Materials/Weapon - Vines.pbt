@@ -1,5 +1,5 @@
 Assets {
-  Id: 2336807938074105983
+  Id: 10146960102392586378
   Name: "Weapon - Vines"
   PlatformAssetType: 13
   SerializationVersion: 119

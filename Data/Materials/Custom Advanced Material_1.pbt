@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 17117735896314006411
+    BaseMaterialId: 2258330122587909962
     ParameterOverrides {
       Overrides {
         Name: "color"
@@ -45,7 +45,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17117735896314006411
+      Id: 2258330122587909962
       Name: "Advanced Material"
       PlatformAssetType: 2
       PrimaryAsset {

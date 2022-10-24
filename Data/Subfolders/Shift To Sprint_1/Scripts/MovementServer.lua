@@ -9,8 +9,6 @@ local function CanRun()
 end
 
 local function UpdateWalkSpeed(player, states)
---lazy me putting a game-wide setting here just because its kinda related and its in the right network context
-	player.canMount = false
 	local prefix = states.Crouched and "Crouch" or ""
 	local speedType = states.Running and "Run" or "Walk"
 

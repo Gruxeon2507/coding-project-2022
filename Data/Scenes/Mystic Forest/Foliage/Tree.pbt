@@ -1,7 +1,7 @@
 Name: "Foliage"
-RootId: 17438549386480480059
+RootId: 18276335768224128200
 Objects {
-  Id: 12822978858081177953
+  Id: 11718055012010471469
   Name: "FoliageLamps"
   Transform {
     Location {
@@ -17,15 +17,15 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
-  ChildIds: 11649349502096014668
-  ChildIds: 7902176152206837486
-  ChildIds: 7349260555173299892
-  ChildIds: 13030514712988654205
-  ChildIds: 15625004125737177479
-  ChildIds: 216754902856666497
-  ChildIds: 872110715521196560
-  ChildIds: 4636015072756983122
+  ParentId: 18276335768224128200
+  ChildIds: 7882319541573234162
+  ChildIds: 17639357544518821054
+  ChildIds: 1809916345601510298
+  ChildIds: 17740917641151884626
+  ChildIds: 6137440227711628419
+  ChildIds: 7459314680245797207
+  ChildIds: 13606796414037827907
+  ChildIds: 14574283535247077986
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -46,7 +46,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4636015072756983122
+  Id: 14574283535247077986
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -62,12 +62,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 12822978858081177953
-  ChildIds: 7668228542771358831
-  ChildIds: 14736470144194507662
-  ChildIds: 14791302015689794398
-  ChildIds: 9560502711562269285
-  ChildIds: 14291233982308375285
+  ParentId: 11718055012010471469
+  ChildIds: 13046290053641994675
+  ChildIds: 484680649516793422
+  ChildIds: 8684572585186028261
+  ChildIds: 11574629506077781112
+  ChildIds: 9117392859106883246
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -88,7 +88,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14291233982308375285
+  Id: 9117392859106883246
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -104,12 +104,12 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 4636015072756983122
+  ParentId: 14574283535247077986
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 2943084065665204035
+        Id: 16630259605395466384
       }
     }
     Overrides {
@@ -145,7 +145,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17108891493830970234
+      Id: 17573120111418082711
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -170,7 +170,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9560502711562269285
+  Id: 11574629506077781112
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -186,7 +186,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 4636015072756983122
+  ParentId: 14574283535247077986
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -218,7 +218,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -242,7 +242,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14791302015689794398
+  Id: 8684572585186028261
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -256,7 +256,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 4636015072756983122
+  ParentId: 14574283535247077986
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -288,7 +288,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -312,7 +312,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14736470144194507662
+  Id: 484680649516793422
   Name: "Point Light"
   Transform {
     Location {
@@ -327,7 +327,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4636015072756983122
+  ParentId: 14574283535247077986
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -379,7 +379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7668228542771358831
+  Id: 13046290053641994675
   Name: "Spotlight"
   Transform {
     Location {
@@ -394,7 +394,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4636015072756983122
+  ParentId: 14574283535247077986
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -450,7 +450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 872110715521196560
+  Id: 13606796414037827907
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -466,12 +466,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 12822978858081177953
-  ChildIds: 5019451361289658242
-  ChildIds: 18240045370439739241
-  ChildIds: 11572379789834365305
-  ChildIds: 4038168364815483414
-  ChildIds: 15979518669122571362
+  ParentId: 11718055012010471469
+  ChildIds: 8064044757871567327
+  ChildIds: 391720576993353168
+  ChildIds: 5454672261209245825
+  ChildIds: 2563006257279224012
+  ChildIds: 9526156237011255566
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -492,7 +492,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15979518669122571362
+  Id: 9526156237011255566
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -508,12 +508,12 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 872110715521196560
+  ParentId: 13606796414037827907
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 2943084065665204035
+        Id: 16630259605395466384
       }
     }
     Overrides {
@@ -549,7 +549,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17108891493830970234
+      Id: 17573120111418082711
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -574,7 +574,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4038168364815483414
+  Id: 2563006257279224012
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -590,7 +590,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 872110715521196560
+  ParentId: 13606796414037827907
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -622,7 +622,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -646,7 +646,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11572379789834365305
+  Id: 5454672261209245825
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -660,7 +660,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 872110715521196560
+  ParentId: 13606796414037827907
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -692,7 +692,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -716,7 +716,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18240045370439739241
+  Id: 391720576993353168
   Name: "Point Light"
   Transform {
     Location {
@@ -731,7 +731,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 872110715521196560
+  ParentId: 13606796414037827907
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -783,7 +783,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5019451361289658242
+  Id: 8064044757871567327
   Name: "Spotlight"
   Transform {
     Location {
@@ -798,7 +798,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 872110715521196560
+  ParentId: 13606796414037827907
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -854,7 +854,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 216754902856666497
+  Id: 7459314680245797207
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -870,12 +870,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 12822978858081177953
-  ChildIds: 17482791907029587372
-  ChildIds: 14642650718305397330
-  ChildIds: 6682355028753010598
-  ChildIds: 6602816873164695303
-  ChildIds: 17210901736698055755
+  ParentId: 11718055012010471469
+  ChildIds: 1056995604609767407
+  ChildIds: 5456060497941504536
+  ChildIds: 1033089168616566878
+  ChildIds: 6153891799392576045
+  ChildIds: 17176569487451736243
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -896,7 +896,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17210901736698055755
+  Id: 17176569487451736243
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -912,12 +912,12 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 216754902856666497
+  ParentId: 7459314680245797207
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 2943084065665204035
+        Id: 16630259605395466384
       }
     }
     Overrides {
@@ -953,7 +953,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17108891493830970234
+      Id: 17573120111418082711
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -978,7 +978,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6602816873164695303
+  Id: 6153891799392576045
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -994,7 +994,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 216754902856666497
+  ParentId: 7459314680245797207
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1026,7 +1026,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1050,7 +1050,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6682355028753010598
+  Id: 1033089168616566878
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1064,7 +1064,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 216754902856666497
+  ParentId: 7459314680245797207
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1096,7 +1096,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1120,7 +1120,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14642650718305397330
+  Id: 5456060497941504536
   Name: "Point Light"
   Transform {
     Location {
@@ -1135,7 +1135,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 216754902856666497
+  ParentId: 7459314680245797207
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1187,7 +1187,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17482791907029587372
+  Id: 1056995604609767407
   Name: "Spotlight"
   Transform {
     Location {
@@ -1202,7 +1202,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 216754902856666497
+  ParentId: 7459314680245797207
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1258,7 +1258,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15625004125737177479
+  Id: 6137440227711628419
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -1274,12 +1274,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 12822978858081177953
-  ChildIds: 9972601071525199182
-  ChildIds: 6244752041723413705
-  ChildIds: 2906336086173912725
-  ChildIds: 3574728685002983754
-  ChildIds: 348344582861032305
+  ParentId: 11718055012010471469
+  ChildIds: 4781520414360748619
+  ChildIds: 18046857355053725361
+  ChildIds: 14358151550366151476
+  ChildIds: 2973048046419802173
+  ChildIds: 6187687274182851551
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1300,7 +1300,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 348344582861032305
+  Id: 6187687274182851551
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1316,12 +1316,12 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 15625004125737177479
+  ParentId: 6137440227711628419
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 2943084065665204035
+        Id: 16630259605395466384
       }
     }
     Overrides {
@@ -1357,7 +1357,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17108891493830970234
+      Id: 17573120111418082711
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1382,7 +1382,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3574728685002983754
+  Id: 2973048046419802173
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1398,7 +1398,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 15625004125737177479
+  ParentId: 6137440227711628419
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1430,7 +1430,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1454,7 +1454,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2906336086173912725
+  Id: 14358151550366151476
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1468,7 +1468,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 15625004125737177479
+  ParentId: 6137440227711628419
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1500,7 +1500,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1524,7 +1524,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6244752041723413705
+  Id: 18046857355053725361
   Name: "Point Light"
   Transform {
     Location {
@@ -1539,7 +1539,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15625004125737177479
+  ParentId: 6137440227711628419
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1591,7 +1591,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9972601071525199182
+  Id: 4781520414360748619
   Name: "Spotlight"
   Transform {
     Location {
@@ -1606,7 +1606,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15625004125737177479
+  ParentId: 6137440227711628419
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1662,7 +1662,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13030514712988654205
+  Id: 17740917641151884626
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -1678,12 +1678,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 12822978858081177953
-  ChildIds: 16509156122606657304
-  ChildIds: 2081690313599081961
-  ChildIds: 7713538275232715052
-  ChildIds: 3682156684323403945
-  ChildIds: 14541812948193253683
+  ParentId: 11718055012010471469
+  ChildIds: 13546124644557697461
+  ChildIds: 6513787296014105413
+  ChildIds: 2274660308397879481
+  ChildIds: 2757514596411634488
+  ChildIds: 15142088022274947194
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1704,7 +1704,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14541812948193253683
+  Id: 15142088022274947194
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1720,12 +1720,12 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 13030514712988654205
+  ParentId: 17740917641151884626
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 2943084065665204035
+        Id: 16630259605395466384
       }
     }
     Overrides {
@@ -1761,7 +1761,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17108891493830970234
+      Id: 17573120111418082711
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1786,7 +1786,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3682156684323403945
+  Id: 2757514596411634488
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1802,7 +1802,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 13030514712988654205
+  ParentId: 17740917641151884626
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1834,7 +1834,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1858,7 +1858,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7713538275232715052
+  Id: 2274660308397879481
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1872,7 +1872,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 13030514712988654205
+  ParentId: 17740917641151884626
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1904,7 +1904,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -1928,7 +1928,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2081690313599081961
+  Id: 6513787296014105413
   Name: "Point Light"
   Transform {
     Location {
@@ -1943,7 +1943,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13030514712988654205
+  ParentId: 17740917641151884626
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1995,7 +1995,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16509156122606657304
+  Id: 13546124644557697461
   Name: "Spotlight"
   Transform {
     Location {
@@ -2010,7 +2010,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13030514712988654205
+  ParentId: 17740917641151884626
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2066,7 +2066,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7349260555173299892
+  Id: 1809916345601510298
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -2082,12 +2082,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 12822978858081177953
-  ChildIds: 9376348166836830746
-  ChildIds: 16664515072826155125
-  ChildIds: 13367805501320562521
-  ChildIds: 14848093738408294496
-  ChildIds: 7949135991459494974
+  ParentId: 11718055012010471469
+  ChildIds: 16340947058391014169
+  ChildIds: 5642671686289315240
+  ChildIds: 9425036621974566841
+  ChildIds: 6463393294238413900
+  ChildIds: 16932874007730661040
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2108,7 +2108,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7949135991459494974
+  Id: 16932874007730661040
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2124,12 +2124,12 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 7349260555173299892
+  ParentId: 1809916345601510298
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 2943084065665204035
+        Id: 16630259605395466384
       }
     }
     Overrides {
@@ -2165,7 +2165,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17108891493830970234
+      Id: 17573120111418082711
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -2190,7 +2190,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14848093738408294496
+  Id: 6463393294238413900
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2206,7 +2206,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 7349260555173299892
+  ParentId: 1809916345601510298
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2238,7 +2238,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -2262,7 +2262,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13367805501320562521
+  Id: 9425036621974566841
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2276,7 +2276,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 7349260555173299892
+  ParentId: 1809916345601510298
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2308,7 +2308,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -2332,7 +2332,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16664515072826155125
+  Id: 5642671686289315240
   Name: "Point Light"
   Transform {
     Location {
@@ -2347,7 +2347,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349260555173299892
+  ParentId: 1809916345601510298
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2399,7 +2399,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9376348166836830746
+  Id: 16340947058391014169
   Name: "Spotlight"
   Transform {
     Location {
@@ -2414,7 +2414,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349260555173299892
+  ParentId: 1809916345601510298
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2470,7 +2470,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7902176152206837486
+  Id: 17639357544518821054
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -2486,12 +2486,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 12822978858081177953
-  ChildIds: 2678238700380383225
-  ChildIds: 14054099122659390715
-  ChildIds: 6521113278535908701
-  ChildIds: 5183708332831088603
-  ChildIds: 9065138535228972924
+  ParentId: 11718055012010471469
+  ChildIds: 8655802589752187550
+  ChildIds: 16819338771899774239
+  ChildIds: 16877198479795143774
+  ChildIds: 16788325218875808163
+  ChildIds: 2668679192541098478
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2512,7 +2512,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9065138535228972924
+  Id: 2668679192541098478
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2528,12 +2528,12 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 7902176152206837486
+  ParentId: 17639357544518821054
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 2943084065665204035
+        Id: 16630259605395466384
       }
     }
     Overrides {
@@ -2569,7 +2569,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17108891493830970234
+      Id: 17573120111418082711
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -2594,7 +2594,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5183708332831088603
+  Id: 16788325218875808163
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2610,7 +2610,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 7902176152206837486
+  ParentId: 17639357544518821054
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2642,7 +2642,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -2666,7 +2666,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6521113278535908701
+  Id: 16877198479795143774
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2680,7 +2680,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 7902176152206837486
+  ParentId: 17639357544518821054
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2712,7 +2712,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -2736,7 +2736,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14054099122659390715
+  Id: 16819338771899774239
   Name: "Point Light"
   Transform {
     Location {
@@ -2751,7 +2751,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7902176152206837486
+  ParentId: 17639357544518821054
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2803,7 +2803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2678238700380383225
+  Id: 8655802589752187550
   Name: "Spotlight"
   Transform {
     Location {
@@ -2818,7 +2818,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7902176152206837486
+  ParentId: 17639357544518821054
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2874,7 +2874,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11649349502096014668
+  Id: 7882319541573234162
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -2890,12 +2890,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 12822978858081177953
-  ChildIds: 14220247935112883071
-  ChildIds: 9443149651876550118
-  ChildIds: 12832684103505841496
-  ChildIds: 12523625460149831023
-  ChildIds: 3759159332854258754
+  ParentId: 11718055012010471469
+  ChildIds: 16311211727573367465
+  ChildIds: 10243005357636969393
+  ChildIds: 17032987885484520131
+  ChildIds: 13824633753237225521
+  ChildIds: 10043246668768676625
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2916,7 +2916,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3759159332854258754
+  Id: 10043246668768676625
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2932,12 +2932,12 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 11649349502096014668
+  ParentId: 7882319541573234162
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 2943084065665204035
+        Id: 16630259605395466384
       }
     }
     Overrides {
@@ -2973,7 +2973,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 17108891493830970234
+      Id: 17573120111418082711
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -2998,7 +2998,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12523625460149831023
+  Id: 13824633753237225521
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -3014,7 +3014,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 11649349502096014668
+  ParentId: 7882319541573234162
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3046,7 +3046,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3070,7 +3070,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12832684103505841496
+  Id: 17032987885484520131
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -3084,7 +3084,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 11649349502096014668
+  ParentId: 7882319541573234162
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3116,7 +3116,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 11001967573859652020
+      Id: 2498239700380443304
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3140,7 +3140,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9443149651876550118
+  Id: 10243005357636969393
   Name: "Point Light"
   Transform {
     Location {
@@ -3155,7 +3155,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11649349502096014668
+  ParentId: 7882319541573234162
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3207,7 +3207,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14220247935112883071
+  Id: 16311211727573367465
   Name: "Spotlight"
   Transform {
     Location {
@@ -3222,7 +3222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11649349502096014668
+  ParentId: 7882319541573234162
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3278,7 +3278,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15385350829049989833
+  Id: 4420606783038670360
   Name: "Grass Tall"
   Transform {
     Location {
@@ -3294,7 +3294,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3308,7 +3308,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3330,7 +3330,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15284155968819395346
+  Id: 2034161475762621038
   Name: "Grass Short"
   Transform {
     Location {
@@ -3346,7 +3346,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3360,7 +3360,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3382,7 +3382,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9888026606647001288
+  Id: 8281431465328689627
   Name: "Grass Tall"
   Transform {
     Location {
@@ -3398,7 +3398,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3412,7 +3412,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3434,7 +3434,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7099369786117400409
+  Id: 17554730369135517381
   Name: "Bush 02"
   Transform {
     Location {
@@ -3450,7 +3450,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3464,7 +3464,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12203375713281195042
+      Id: 10917344839598963789
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3486,7 +3486,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14101444650127783061
+  Id: 1503013190871316313
   Name: "Bush 01"
   Transform {
     Location {
@@ -3502,7 +3502,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3538,7 +3538,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6264206173038096628
+  Id: 10165458804423467599
   Name: "Bush 01"
   Transform {
     Location {
@@ -3554,7 +3554,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3590,7 +3590,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11544255651317335890
+  Id: 13899838039794543682
   Name: "Bush 01"
   Transform {
     Location {
@@ -3606,7 +3606,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3642,7 +3642,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15906516778390657732
+  Id: 11246026654182952741
   Name: "Rock 03"
   Transform {
     Location {
@@ -3658,7 +3658,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3672,7 +3672,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18244274405329183209
+      Id: 17985331605386890916
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3694,7 +3694,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5830785901667388548
+  Id: 15356104597857469805
   Name: "Rock 01"
   Transform {
     Location {
@@ -3711,7 +3711,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3725,7 +3725,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18302154991031027573
+      Id: 12919518582124205178
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3747,7 +3747,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2841715764716164937
+  Id: 17117822266994655040
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -3764,7 +3764,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3778,7 +3778,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3800,7 +3800,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8707979762695560127
+  Id: 5080552817069344900
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -3817,7 +3817,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3853,7 +3853,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14734676617170338265
+  Id: 16462531858367078637
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -3870,7 +3870,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3884,7 +3884,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -3906,7 +3906,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4111565781977661256
+  Id: 1397966308667153880
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -3923,7 +3923,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3959,7 +3959,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1523604599071283785
+  Id: 9197256265278244570
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -3976,7 +3976,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4012,7 +4012,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15613185120895419254
+  Id: 11444463725023918434
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4029,7 +4029,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4065,7 +4065,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12276502386476247943
+  Id: 1340427975164265076
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4082,7 +4082,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4096,7 +4096,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -4118,7 +4118,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10142309350495969117
+  Id: 17394393723986414915
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4135,7 +4135,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4149,7 +4149,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -4171,7 +4171,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7522988844144814243
+  Id: 4100827518187296849
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4188,7 +4188,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4224,7 +4224,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5351130944811370413
+  Id: 9716537865812286949
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4241,7 +4241,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4255,7 +4255,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -4277,7 +4277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2157492514084744543
+  Id: 7887587362642330675
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4294,7 +4294,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4308,7 +4308,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -4330,7 +4330,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12220943189654693470
+  Id: 12024828494428051
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4347,7 +4347,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4361,7 +4361,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -4383,7 +4383,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11876919016992152692
+  Id: 1067910465563871332
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4400,7 +4400,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4414,7 +4414,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -4436,7 +4436,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14009205093147924140
+  Id: 10653697524481666678
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4453,7 +4453,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4489,7 +4489,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13021620675442306250
+  Id: 12108241416343390438
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4506,7 +4506,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4542,7 +4542,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 683364798511419100
+  Id: 13605688055591303595
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4558,7 +4558,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4594,7 +4594,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10927855677612320931
+  Id: 6635713886553757185
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4610,7 +4610,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17438549386480480059
+  ParentId: 18276335768224128200
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4624,7 +4624,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 18156351667351113785
+      Id: 8616278388416817536
     }
     Teams {
       IsTeamCollisionEnabled: true

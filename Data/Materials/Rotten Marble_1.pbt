@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 5012654654580714028
+    BaseMaterialId: 10204326407371564749
     ParameterOverrides {
       Overrides {
         Name: "color_secondary"
@@ -26,7 +26,7 @@ Assets {
       }
     }
     Assets {
-      Id: 5012654654580714028
+      Id: 10204326407371564749
       Name: "Marble Basic 01"
       PlatformAssetType: 2
       PrimaryAsset {

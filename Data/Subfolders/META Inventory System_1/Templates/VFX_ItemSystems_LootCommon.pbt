@@ -1,5 +1,5 @@
 Assets {
-  Id: 13096933224896722467
+  Id: 16031610596779423127
   Name: "VFX_ItemSystems_LootCommon"
   PlatformAssetType: 5
   TemplateAsset {

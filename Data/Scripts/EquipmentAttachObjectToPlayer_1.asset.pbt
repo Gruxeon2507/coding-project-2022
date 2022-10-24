@@ -1,6 +1,6 @@
 Assets {
-  Id: 7746727706869650872
-  Name: "EquipmentAttachObjectToPlayer_1"
+  Id: 12439034694186114331
+  Name: "EquipmentAttachObjectToPlayer"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {

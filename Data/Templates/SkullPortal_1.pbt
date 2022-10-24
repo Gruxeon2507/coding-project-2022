@@ -201,7 +201,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1870787030129005795
+            Id: 15461773639765520400
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -257,7 +257,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 1870787030129005795
+            Id: 15461773639765520400
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -301,7 +301,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14844672563279110931
+              Id: 4111036502078940015
             }
           }
         }
@@ -725,7 +725,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
           TeamSettings {
           }
@@ -764,7 +764,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 15653822500763649258
+            Id: 5888775678528531739
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -25444,7 +25444,7 @@ Assets {
       }
     }
     Assets {
-      Id: 1870787030129005795
+      Id: 15461773639765520400
       Name: "Stone Arch 3m"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -25462,7 +25462,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14844672563279110931
+      Id: 4111036502078940015
       Name: "Bricks Worn Stone 01"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -25480,7 +25480,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6677237403455816226
+      Id: 6950558847410687192
       Name: "Portal VFX"
       PlatformAssetType: 6
       PrimaryAsset {
@@ -25489,7 +25489,7 @@ Assets {
       }
     }
     Assets {
-      Id: 15653822500763649258
+      Id: 5888775678528531739
       Name: "Fantasy Castle Stairs 01 - 150cm Corner 02"
       PlatformAssetType: 1
       PrimaryAsset {

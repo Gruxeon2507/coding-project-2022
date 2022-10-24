@@ -1,5 +1,5 @@
 Assets {
-  Id: 15361322765905320833
+  Id: 3729025506546795379
   Name: "DestructibleWeaponServer"
   PlatformAssetType: 3
   TextAsset {
@@ -7,7 +7,7 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 8187675541658542381
+          Id: 1121493518655226120
         }
       }
       Overrides {

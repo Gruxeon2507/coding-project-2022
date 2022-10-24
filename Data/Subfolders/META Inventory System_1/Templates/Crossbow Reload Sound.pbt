@@ -1,5 +1,5 @@
 Assets {
-  Id: 17302619953720232700
+  Id: 13570073131012385439
   Name: "Crossbow Reload Sound"
   PlatformAssetType: 5
   TemplateAsset {

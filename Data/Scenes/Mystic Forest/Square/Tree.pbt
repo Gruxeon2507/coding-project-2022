@@ -1,7 +1,7 @@
 Name: "Square"
-RootId: 1990793357114860554
+RootId: 7356824681383753860
 Objects {
-  Id: 4647736877131770691
+  Id: 17386790482355825553
   Name: "FloatingIsland2"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 3.25
     }
   }
-  ParentId: 1990793357114860554
+  ParentId: 7356824681383753860
   TemplateInstance {
     ParameterOverrideMap {
       key: 14514591471579202
@@ -5093,7 +5093,7 @@ Objects {
   }
 }
 Objects {
-  Id: 246870129344122642
+  Id: 7039958364673215819
   Name: "Circular Platform"
   Transform {
     Location {
@@ -5109,29 +5109,29 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 1990793357114860554
-  ChildIds: 17750392096397367083
-  ChildIds: 9090019229070516320
-  ChildIds: 14057038914202404497
-  ChildIds: 13072679456614663757
-  ChildIds: 6195891669069797921
-  ChildIds: 13520528029126975648
-  ChildIds: 4863663581336540993
-  ChildIds: 7205828031451865607
-  ChildIds: 14083068780426131332
-  ChildIds: 3168038103900783767
-  ChildIds: 16473641300124597064
-  ChildIds: 8739099745974248685
-  ChildIds: 16486340256866118979
-  ChildIds: 6412461758901324685
-  ChildIds: 7764996818935329321
-  ChildIds: 781879705766348468
-  ChildIds: 17438549386480480059
-  ChildIds: 4688019843946864607
-  ChildIds: 13561696785996182983
-  ChildIds: 10904608845973381850
-  ChildIds: 9007085481141343603
-  ChildIds: 7407885462198748788
+  ParentId: 7356824681383753860
+  ChildIds: 5219738151877667150
+  ChildIds: 198729078892024830
+  ChildIds: 12132726462058934129
+  ChildIds: 3755785646932803151
+  ChildIds: 6887492244252557508
+  ChildIds: 12134208038124558370
+  ChildIds: 12935709119242051769
+  ChildIds: 12534013826345622661
+  ChildIds: 8618884755929466051
+  ChildIds: 15603684292749040833
+  ChildIds: 5800660433437274057
+  ChildIds: 16412091614093121718
+  ChildIds: 5861433255180881505
+  ChildIds: 9405052127390425997
+  ChildIds: 9415395632779644415
+  ChildIds: 6792163958339529652
+  ChildIds: 18276335768224128200
+  ChildIds: 382004580369929979
+  ChildIds: 13906263635417614374
+  ChildIds: 8183635331565799235
+  ChildIds: 11507025124340103172
+  ChildIds: 13916028511366131692
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5152,7 +5152,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7407885462198748788
+  Id: 13916028511366131692
   Name: "PlatformLanders"
   Transform {
     Location {
@@ -5168,11 +5168,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 15348817942963924701
-  ChildIds: 4685392285069314794
-  ChildIds: 2833471762481400581
-  ChildIds: 5033808953942087946
+  ParentId: 7039958364673215819
+  ChildIds: 7165039700471143513
+  ChildIds: 9740673188688531042
+  ChildIds: 15113647908939758327
+  ChildIds: 9485858438105961760
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5193,7 +5193,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5033808953942087946
+  Id: 9485858438105961760
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -5210,12 +5210,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7407885462198748788
+  ParentId: 13916028511366131692
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -5252,7 +5252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2833471762481400581
+  Id: 15113647908939758327
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -5269,12 +5269,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7407885462198748788
+  ParentId: 13916028511366131692
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -5311,7 +5311,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4685392285069314794
+  Id: 9740673188688531042
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -5328,12 +5328,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7407885462198748788
+  ParentId: 13916028511366131692
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -5370,7 +5370,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15348817942963924701
+  Id: 7165039700471143513
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -5387,12 +5387,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7407885462198748788
+  ParentId: 13916028511366131692
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -5429,7 +5429,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9007085481141343603
+  Id: 11507025124340103172
   Name: "EntryArchway"
   Transform {
     Location {
@@ -5445,12 +5445,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 17224428423684729690
-  ChildIds: 12863261232720698091
-  ChildIds: 6911726777683799162
-  ChildIds: 5535984853300427095
-  ChildIds: 9755665743772704908
+  ParentId: 7039958364673215819
+  ChildIds: 8682998603664841433
+  ChildIds: 8828163086912542261
+  ChildIds: 15573711891309993068
+  ChildIds: 16135818661164659879
+  ChildIds: 16357773074237534958
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5471,7 +5471,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9755665743772704908
+  Id: 16357773074237534958
   Name: "Modern Weapon - Magazine 01"
   Transform {
     Location {
@@ -5488,7 +5488,7 @@ Objects {
       Z: 3.50000024
     }
   }
-  ParentId: 9007085481141343603
+  ParentId: 11507025124340103172
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:color"
@@ -5533,7 +5533,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5535984853300427095
+  Id: 16135818661164659879
   Name: "Modern Weapon - Magazine 01"
   Transform {
     Location {
@@ -5550,7 +5550,7 @@ Objects {
       Z: 3.50000024
     }
   }
-  ParentId: 9007085481141343603
+  ParentId: 11507025124340103172
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:color"
@@ -5595,7 +5595,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6911726777683799162
+  Id: 15573711891309993068
   Name: "Bannister Single Post"
   Transform {
     Location {
@@ -5611,7 +5611,7 @@ Objects {
       Z: 4.81047058
     }
   }
-  ParentId: 9007085481141343603
+  ParentId: 11507025124340103172
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5647,7 +5647,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12863261232720698091
+  Id: 8828163086912542261
   Name: "Bannister Single Post"
   Transform {
     Location {
@@ -5663,8 +5663,8 @@ Objects {
       Z: 4.81047058
     }
   }
-  ParentId: 9007085481141343603
-  ChildIds: 9516346084016890308
+  ParentId: 11507025124340103172
+  ChildIds: 12281887586323150411
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5700,7 +5700,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9516346084016890308
+  Id: 12281887586323150411
   Name: "Gate"
   Transform {
     Location {
@@ -5713,7 +5713,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12863261232720698091
+  ParentId: 8828163086912542261
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5736,7 +5736,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17224428423684729690
+  Id: 8682998603664841433
   Name: "Arch Fancy 3m"
   Transform {
     Location {
@@ -5752,7 +5752,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9007085481141343603
+  ParentId: 11507025124340103172
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5766,7 +5766,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 2358462942102048965
+      Id: 9737050744451589523
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -5788,7 +5788,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10904608845973381850
+  Id: 8183635331565799235
   Name: "ParkCurbs"
   Transform {
     Location {
@@ -5804,11 +5804,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 12784099836881758159
-  ChildIds: 3107267038309267889
-  ChildIds: 1935434878239737838
-  ChildIds: 4899409372425643828
+  ParentId: 7039958364673215819
+  ChildIds: 5367382786989596743
+  ChildIds: 894941982925333033
+  ChildIds: 1273325390795258963
+  ChildIds: 5722148518447501232
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5829,7 +5829,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4899409372425643828
+  Id: 5722148518447501232
   Name: "ParkCurb"
   Transform {
     Location {
@@ -5845,21 +5845,21 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10904608845973381850
-  ChildIds: 15438298095972319102
-  ChildIds: 12113734388546309995
-  ChildIds: 16105135301149063206
-  ChildIds: 2956886331843595303
-  ChildIds: 5792797310001974163
-  ChildIds: 5098918310450874664
-  ChildIds: 6890776005117775021
-  ChildIds: 2196457379620743740
-  ChildIds: 11867050962637005504
-  ChildIds: 12570802444928569072
-  ChildIds: 5465883473163742707
-  ChildIds: 7206275329083801456
-  ChildIds: 18229934905487094869
-  ChildIds: 150739612345441251
+  ParentId: 8183635331565799235
+  ChildIds: 222615979011664870
+  ChildIds: 8718478653511020129
+  ChildIds: 16305257887137074392
+  ChildIds: 12483905281952283510
+  ChildIds: 12362828789171312718
+  ChildIds: 11361353062056892569
+  ChildIds: 5488230893265495532
+  ChildIds: 15669200012027079596
+  ChildIds: 5788399925757600806
+  ChildIds: 6504406546353961185
+  ChildIds: 13476702742835911333
+  ChildIds: 16195988209725388421
+  ChildIds: 4840345183321149360
+  ChildIds: 16836007725618287937
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5880,7 +5880,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 150739612345441251
+  Id: 16836007725618287937
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -5897,8 +5897,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 16104637537891269598
+  ParentId: 5722148518447501232
+  ChildIds: 2652696259263111769
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5940,7 +5940,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16104637537891269598
+  Id: 2652696259263111769
   Name: "Curb 4m"
   Transform {
     Location {
@@ -5957,7 +5957,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 150739612345441251
+  ParentId: 16836007725618287937
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -5993,7 +5993,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18229934905487094869
+  Id: 4840345183321149360
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6010,8 +6010,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 6586014648093047145
+  ParentId: 5722148518447501232
+  ChildIds: 1355964353369203413
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6053,7 +6053,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6586014648093047145
+  Id: 1355964353369203413
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6070,7 +6070,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 18229934905487094869
+  ParentId: 4840345183321149360
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -6106,7 +6106,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7206275329083801456
+  Id: 16195988209725388421
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6122,8 +6122,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 6270294483990241553
+  ParentId: 5722148518447501232
+  ChildIds: 15084334272549392574
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6165,7 +6165,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6270294483990241553
+  Id: 15084334272549392574
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6182,7 +6182,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 7206275329083801456
+  ParentId: 16195988209725388421
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -6218,7 +6218,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5465883473163742707
+  Id: 13476702742835911333
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6234,8 +6234,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 4938921388098840960
+  ParentId: 5722148518447501232
+  ChildIds: 17023112871015075926
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6277,7 +6277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4938921388098840960
+  Id: 17023112871015075926
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6294,7 +6294,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 5465883473163742707
+  ParentId: 13476702742835911333
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -6330,7 +6330,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12570802444928569072
+  Id: 6504406546353961185
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6347,8 +6347,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 9803947485204474461
+  ParentId: 5722148518447501232
+  ChildIds: 14672151591469483377
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6390,7 +6390,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9803947485204474461
+  Id: 14672151591469483377
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6407,7 +6407,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 12570802444928569072
+  ParentId: 6504406546353961185
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -6443,7 +6443,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11867050962637005504
+  Id: 5788399925757600806
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6460,8 +6460,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 10284624860962431736
+  ParentId: 5722148518447501232
+  ChildIds: 6664470493950269
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6503,7 +6503,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10284624860962431736
+  Id: 6664470493950269
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6520,7 +6520,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 11867050962637005504
+  ParentId: 5788399925757600806
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -6556,7 +6556,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2196457379620743740
+  Id: 15669200012027079596
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6572,8 +6572,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 3478614984889407762
+  ParentId: 5722148518447501232
+  ChildIds: 8923174228981374261
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6615,7 +6615,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3478614984889407762
+  Id: 8923174228981374261
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6632,7 +6632,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 2196457379620743740
+  ParentId: 15669200012027079596
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -6668,7 +6668,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6890776005117775021
+  Id: 5488230893265495532
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6684,8 +6684,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 4560321703057585737
+  ParentId: 5722148518447501232
+  ChildIds: 6358729173892273766
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6727,7 +6727,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4560321703057585737
+  Id: 6358729173892273766
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6744,7 +6744,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 6890776005117775021
+  ParentId: 5488230893265495532
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -6780,7 +6780,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5098918310450874664
+  Id: 11361353062056892569
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6796,8 +6796,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 2954046403192701246
+  ParentId: 5722148518447501232
+  ChildIds: 245891098118571427
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6839,7 +6839,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2954046403192701246
+  Id: 245891098118571427
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6856,7 +6856,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 5098918310450874664
+  ParentId: 11361353062056892569
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -6892,7 +6892,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5792797310001974163
+  Id: 12362828789171312718
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -6908,8 +6908,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 7759957346851950016
+  ParentId: 5722148518447501232
+  ChildIds: 9376224355029644563
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6951,7 +6951,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7759957346851950016
+  Id: 9376224355029644563
   Name: "Curb 4m"
   Transform {
     Location {
@@ -6968,7 +6968,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 5792797310001974163
+  ParentId: 12362828789171312718
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7004,7 +7004,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2956886331843595303
+  Id: 12483905281952283510
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7020,8 +7020,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 4304339681396238828
+  ParentId: 5722148518447501232
+  ChildIds: 1883299154338885817
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7063,7 +7063,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4304339681396238828
+  Id: 1883299154338885817
   Name: "Curb 4m"
   Transform {
     Location {
@@ -7080,7 +7080,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 2956886331843595303
+  ParentId: 12483905281952283510
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7116,7 +7116,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16105135301149063206
+  Id: 16305257887137074392
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7133,8 +7133,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 386209106660238137
+  ParentId: 5722148518447501232
+  ChildIds: 4842316512299985834
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7176,7 +7176,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 386209106660238137
+  Id: 4842316512299985834
   Name: "Curb 4m"
   Transform {
     Location {
@@ -7193,7 +7193,7 @@ Objects {
       Z: 0.807613313
     }
   }
-  ParentId: 16105135301149063206
+  ParentId: 16305257887137074392
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7229,7 +7229,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12113734388546309995
+  Id: 8718478653511020129
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7246,8 +7246,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 5810790621951605905
+  ParentId: 5722148518447501232
+  ChildIds: 9504308928844966514
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7289,7 +7289,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5810790621951605905
+  Id: 9504308928844966514
   Name: "Curb 4m"
   Transform {
     Location {
@@ -7306,7 +7306,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 12113734388546309995
+  ParentId: 8718478653511020129
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7342,7 +7342,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15438298095972319102
+  Id: 222615979011664870
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7359,8 +7359,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 4899409372425643828
-  ChildIds: 13328217031884579751
+  ParentId: 5722148518447501232
+  ChildIds: 7895901861243658618
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7402,7 +7402,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13328217031884579751
+  Id: 7895901861243658618
   Name: "Curb 4m"
   Transform {
     Location {
@@ -7419,7 +7419,7 @@ Objects {
       Z: 0.807613313
     }
   }
-  ParentId: 15438298095972319102
+  ParentId: 222615979011664870
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7455,7 +7455,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1935434878239737838
+  Id: 1273325390795258963
   Name: "ParkCurb"
   Transform {
     Location {
@@ -7472,21 +7472,21 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10904608845973381850
-  ChildIds: 12762762386303527649
-  ChildIds: 2145161335774261902
-  ChildIds: 11910061780166623079
-  ChildIds: 13351339505689821493
-  ChildIds: 14414464177373037577
-  ChildIds: 6443815560713594923
-  ChildIds: 4846990364492620748
-  ChildIds: 7266541389079214914
-  ChildIds: 8683628338384393567
-  ChildIds: 17450397997228017936
-  ChildIds: 11239106324441365141
-  ChildIds: 5331925584607902040
-  ChildIds: 11909269327714592751
-  ChildIds: 12890746232787627969
+  ParentId: 8183635331565799235
+  ChildIds: 4846009022427840847
+  ChildIds: 10504319809142780837
+  ChildIds: 12772347036513615277
+  ChildIds: 2574777001012413794
+  ChildIds: 966001679062802004
+  ChildIds: 1926013993552743249
+  ChildIds: 500252603052957165
+  ChildIds: 16655815236189698806
+  ChildIds: 10381620604579565207
+  ChildIds: 6504848136308232927
+  ChildIds: 15081254526048500619
+  ChildIds: 3848067204103730191
+  ChildIds: 10341853244965212485
+  ChildIds: 17245136877267668241
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7507,7 +7507,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12890746232787627969
+  Id: 17245136877267668241
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7524,8 +7524,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 2881311781372460005
+  ParentId: 1273325390795258963
+  ChildIds: 14785298496066124760
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7567,7 +7567,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2881311781372460005
+  Id: 14785298496066124760
   Name: "Curb 4m"
   Transform {
     Location {
@@ -7584,7 +7584,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 12890746232787627969
+  ParentId: 17245136877267668241
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7620,7 +7620,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11909269327714592751
+  Id: 10341853244965212485
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7637,8 +7637,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 1120738070007222421
+  ParentId: 1273325390795258963
+  ChildIds: 6555071069156529491
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7680,7 +7680,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1120738070007222421
+  Id: 6555071069156529491
   Name: "Curb 4m"
   Transform {
     Location {
@@ -7697,7 +7697,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 11909269327714592751
+  ParentId: 10341853244965212485
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7733,7 +7733,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5331925584607902040
+  Id: 3848067204103730191
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7749,8 +7749,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 9450399913970425325
+  ParentId: 1273325390795258963
+  ChildIds: 2949875792195509018
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7792,7 +7792,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9450399913970425325
+  Id: 2949875792195509018
   Name: "Curb 4m"
   Transform {
     Location {
@@ -7809,7 +7809,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 5331925584607902040
+  ParentId: 3848067204103730191
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7845,7 +7845,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11239106324441365141
+  Id: 15081254526048500619
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7861,8 +7861,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 13096417781183040473
+  ParentId: 1273325390795258963
+  ChildIds: 7556018002874049340
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7904,7 +7904,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13096417781183040473
+  Id: 7556018002874049340
   Name: "Curb 4m"
   Transform {
     Location {
@@ -7921,7 +7921,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 11239106324441365141
+  ParentId: 15081254526048500619
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -7957,7 +7957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17450397997228017936
+  Id: 6504848136308232927
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -7974,8 +7974,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 7363374096121323189
+  ParentId: 1273325390795258963
+  ChildIds: 16124107197661726938
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8017,7 +8017,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7363374096121323189
+  Id: 16124107197661726938
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8034,7 +8034,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 17450397997228017936
+  ParentId: 6504848136308232927
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8070,7 +8070,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8683628338384393567
+  Id: 10381620604579565207
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8087,8 +8087,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 10759850834331247577
+  ParentId: 1273325390795258963
+  ChildIds: 1975152643968038933
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8130,7 +8130,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10759850834331247577
+  Id: 1975152643968038933
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8147,7 +8147,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 8683628338384393567
+  ParentId: 10381620604579565207
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8183,7 +8183,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7266541389079214914
+  Id: 16655815236189698806
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8199,8 +8199,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 8325164105608222694
+  ParentId: 1273325390795258963
+  ChildIds: 15100620756920075866
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8242,7 +8242,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8325164105608222694
+  Id: 15100620756920075866
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8259,7 +8259,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 7266541389079214914
+  ParentId: 16655815236189698806
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8295,7 +8295,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4846990364492620748
+  Id: 500252603052957165
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8311,8 +8311,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 7602116468521589465
+  ParentId: 1273325390795258963
+  ChildIds: 2584804379481256774
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8354,7 +8354,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7602116468521589465
+  Id: 2584804379481256774
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8371,7 +8371,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 4846990364492620748
+  ParentId: 500252603052957165
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8407,7 +8407,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6443815560713594923
+  Id: 1926013993552743249
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8423,8 +8423,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 2452588815501860458
+  ParentId: 1273325390795258963
+  ChildIds: 13199240115462713244
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8466,7 +8466,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2452588815501860458
+  Id: 13199240115462713244
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8483,7 +8483,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 6443815560713594923
+  ParentId: 1926013993552743249
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8519,7 +8519,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14414464177373037577
+  Id: 966001679062802004
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8535,8 +8535,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 7542216078600879992
+  ParentId: 1273325390795258963
+  ChildIds: 1129322766910776073
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8578,7 +8578,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7542216078600879992
+  Id: 1129322766910776073
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8595,7 +8595,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 14414464177373037577
+  ParentId: 966001679062802004
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8631,7 +8631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13351339505689821493
+  Id: 2574777001012413794
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8647,8 +8647,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 5613992197415331559
+  ParentId: 1273325390795258963
+  ChildIds: 17177201819259945721
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8690,7 +8690,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5613992197415331559
+  Id: 17177201819259945721
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8707,7 +8707,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 13351339505689821493
+  ParentId: 2574777001012413794
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8743,7 +8743,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11910061780166623079
+  Id: 12772347036513615277
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8760,8 +8760,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 15402955908771850355
+  ParentId: 1273325390795258963
+  ChildIds: 14734133258466555429
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8803,7 +8803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15402955908771850355
+  Id: 14734133258466555429
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8820,7 +8820,7 @@ Objects {
       Z: 0.807613313
     }
   }
-  ParentId: 11910061780166623079
+  ParentId: 12772347036513615277
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8856,7 +8856,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2145161335774261902
+  Id: 10504319809142780837
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8873,8 +8873,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 17999751266672420854
+  ParentId: 1273325390795258963
+  ChildIds: 12855005316144166030
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8916,7 +8916,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17999751266672420854
+  Id: 12855005316144166030
   Name: "Curb 4m"
   Transform {
     Location {
@@ -8933,7 +8933,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 2145161335774261902
+  ParentId: 10504319809142780837
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -8969,7 +8969,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12762762386303527649
+  Id: 4846009022427840847
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -8986,8 +8986,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 1935434878239737838
-  ChildIds: 5166431985112732987
+  ParentId: 1273325390795258963
+  ChildIds: 9037070712000869121
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9029,7 +9029,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5166431985112732987
+  Id: 9037070712000869121
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9046,7 +9046,7 @@ Objects {
       Z: 0.807613313
     }
   }
-  ParentId: 12762762386303527649
+  ParentId: 4846009022427840847
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9082,7 +9082,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3107267038309267889
+  Id: 894941982925333033
   Name: "ParkCurb"
   Transform {
     Location {
@@ -9099,21 +9099,21 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10904608845973381850
-  ChildIds: 17705078580358596215
-  ChildIds: 1069310104595887388
-  ChildIds: 5515054136246144954
-  ChildIds: 14250942443043046513
-  ChildIds: 4906278773880012003
-  ChildIds: 16783518387622623655
-  ChildIds: 13866492259526186720
-  ChildIds: 5096622097239975205
-  ChildIds: 5677611399724084916
-  ChildIds: 7084602572150748394
-  ChildIds: 10390260268156980725
-  ChildIds: 17317928767045698106
-  ChildIds: 16742141586098616313
-  ChildIds: 12571600091194521767
+  ParentId: 8183635331565799235
+  ChildIds: 10488859093014470812
+  ChildIds: 5654754168844044026
+  ChildIds: 15895358304145660802
+  ChildIds: 7803630194787144604
+  ChildIds: 8098204192507400881
+  ChildIds: 15106673203183626031
+  ChildIds: 6963270059246196197
+  ChildIds: 16719403043997452927
+  ChildIds: 14466105945035399544
+  ChildIds: 2533118054573696017
+  ChildIds: 12895958531047170878
+  ChildIds: 8079724623089419954
+  ChildIds: 3606572160791196113
+  ChildIds: 7591148872114946306
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9134,7 +9134,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12571600091194521767
+  Id: 7591148872114946306
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -9151,8 +9151,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 9653070418057367163
+  ParentId: 894941982925333033
+  ChildIds: 4755829112890096992
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9194,7 +9194,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9653070418057367163
+  Id: 4755829112890096992
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9211,7 +9211,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 12571600091194521767
+  ParentId: 7591148872114946306
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9247,7 +9247,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16742141586098616313
+  Id: 3606572160791196113
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -9264,8 +9264,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 7898815949699488952
+  ParentId: 894941982925333033
+  ChildIds: 12691383298234736131
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9307,7 +9307,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7898815949699488952
+  Id: 12691383298234736131
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9324,7 +9324,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 16742141586098616313
+  ParentId: 3606572160791196113
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9360,7 +9360,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17317928767045698106
+  Id: 8079724623089419954
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -9376,8 +9376,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 3346940323225300255
+  ParentId: 894941982925333033
+  ChildIds: 12194252093457572343
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9419,7 +9419,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3346940323225300255
+  Id: 12194252093457572343
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9436,7 +9436,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 17317928767045698106
+  ParentId: 8079724623089419954
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9472,7 +9472,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10390260268156980725
+  Id: 12895958531047170878
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -9488,8 +9488,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 3478942062093731517
+  ParentId: 894941982925333033
+  ChildIds: 1008050052984762069
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9531,7 +9531,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3478942062093731517
+  Id: 1008050052984762069
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9548,7 +9548,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 10390260268156980725
+  ParentId: 12895958531047170878
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9584,7 +9584,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7084602572150748394
+  Id: 2533118054573696017
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -9601,8 +9601,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 10892483770593003213
+  ParentId: 894941982925333033
+  ChildIds: 86981099300232766
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9644,7 +9644,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10892483770593003213
+  Id: 86981099300232766
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9661,7 +9661,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 7084602572150748394
+  ParentId: 2533118054573696017
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9697,7 +9697,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5677611399724084916
+  Id: 14466105945035399544
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -9714,8 +9714,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 7129443557361355232
+  ParentId: 894941982925333033
+  ChildIds: 13166046668359232527
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9757,7 +9757,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7129443557361355232
+  Id: 13166046668359232527
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9774,7 +9774,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 5677611399724084916
+  ParentId: 14466105945035399544
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9810,7 +9810,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5096622097239975205
+  Id: 16719403043997452927
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -9826,8 +9826,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 6646411023225948915
+  ParentId: 894941982925333033
+  ChildIds: 12292179197106641721
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9869,7 +9869,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6646411023225948915
+  Id: 12292179197106641721
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9886,7 +9886,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 5096622097239975205
+  ParentId: 16719403043997452927
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -9922,7 +9922,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13866492259526186720
+  Id: 6963270059246196197
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -9938,8 +9938,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 1980508231828868530
+  ParentId: 894941982925333033
+  ChildIds: 3034798298887346610
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9981,7 +9981,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1980508231828868530
+  Id: 3034798298887346610
   Name: "Curb 4m"
   Transform {
     Location {
@@ -9998,7 +9998,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 13866492259526186720
+  ParentId: 6963270059246196197
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10034,7 +10034,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16783518387622623655
+  Id: 15106673203183626031
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -10050,8 +10050,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 6171994038550573535
+  ParentId: 894941982925333033
+  ChildIds: 3857328070995885818
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10093,7 +10093,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6171994038550573535
+  Id: 3857328070995885818
   Name: "Curb 4m"
   Transform {
     Location {
@@ -10110,7 +10110,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 16783518387622623655
+  ParentId: 15106673203183626031
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10146,7 +10146,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4906278773880012003
+  Id: 8098204192507400881
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -10162,8 +10162,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 15436230648365532798
+  ParentId: 894941982925333033
+  ChildIds: 5210063617374165381
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10205,7 +10205,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15436230648365532798
+  Id: 5210063617374165381
   Name: "Curb 4m"
   Transform {
     Location {
@@ -10222,7 +10222,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 4906278773880012003
+  ParentId: 8098204192507400881
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10258,7 +10258,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14250942443043046513
+  Id: 7803630194787144604
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -10274,8 +10274,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 16616141365298886870
+  ParentId: 894941982925333033
+  ChildIds: 3380976735602912354
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10317,7 +10317,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16616141365298886870
+  Id: 3380976735602912354
   Name: "Curb 4m"
   Transform {
     Location {
@@ -10334,7 +10334,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 14250942443043046513
+  ParentId: 7803630194787144604
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10370,7 +10370,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5515054136246144954
+  Id: 15895358304145660802
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -10387,8 +10387,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 13333354859820444875
+  ParentId: 894941982925333033
+  ChildIds: 9415557414382559792
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10430,7 +10430,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13333354859820444875
+  Id: 9415557414382559792
   Name: "Curb 4m"
   Transform {
     Location {
@@ -10447,7 +10447,7 @@ Objects {
       Z: 0.807613313
     }
   }
-  ParentId: 5515054136246144954
+  ParentId: 15895358304145660802
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10483,7 +10483,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1069310104595887388
+  Id: 5654754168844044026
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -10500,8 +10500,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 3158104408270947359
+  ParentId: 894941982925333033
+  ChildIds: 7581162634607038957
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10543,7 +10543,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3158104408270947359
+  Id: 7581162634607038957
   Name: "Curb 4m"
   Transform {
     Location {
@@ -10560,7 +10560,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 1069310104595887388
+  ParentId: 5654754168844044026
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10596,7 +10596,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17705078580358596215
+  Id: 10488859093014470812
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -10613,8 +10613,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 3107267038309267889
-  ChildIds: 7162658637220079708
+  ParentId: 894941982925333033
+  ChildIds: 9369002158350284261
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10656,7 +10656,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7162658637220079708
+  Id: 9369002158350284261
   Name: "Curb 4m"
   Transform {
     Location {
@@ -10673,7 +10673,7 @@ Objects {
       Z: 0.807613313
     }
   }
-  ParentId: 17705078580358596215
+  ParentId: 10488859093014470812
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10709,7 +10709,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12784099836881758159
+  Id: 5367382786989596743
   Name: "ParkCurb"
   Transform {
     Location {
@@ -10726,21 +10726,21 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10904608845973381850
-  ChildIds: 16638678744277556216
-  ChildIds: 11277534078207100870
-  ChildIds: 12130179337953593874
-  ChildIds: 3573046454908818043
-  ChildIds: 16384822239878005215
-  ChildIds: 18296924238342208661
-  ChildIds: 15197027439114756722
-  ChildIds: 12803186883772675665
-  ChildIds: 15897637417664020632
-  ChildIds: 16420727622529514511
-  ChildIds: 2071923617993349710
-  ChildIds: 4446196777823435121
-  ChildIds: 18294005044321722765
-  ChildIds: 366075104535289783
+  ParentId: 8183635331565799235
+  ChildIds: 2331635692012044466
+  ChildIds: 4009229464058918612
+  ChildIds: 2452281169414118158
+  ChildIds: 9797351049262116738
+  ChildIds: 17473704524729651349
+  ChildIds: 9139322704112504925
+  ChildIds: 12905533465847012424
+  ChildIds: 16704771839260533235
+  ChildIds: 9903562033113944611
+  ChildIds: 10555284173294850182
+  ChildIds: 7268364080144618233
+  ChildIds: 12825924719943353878
+  ChildIds: 2969836153454240339
+  ChildIds: 12821325424616188789
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10761,7 +10761,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 366075104535289783
+  Id: 12821325424616188789
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -10778,8 +10778,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 2211937598988750457
+  ParentId: 5367382786989596743
+  ChildIds: 11843702507390303327
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10821,7 +10821,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2211937598988750457
+  Id: 11843702507390303327
   Name: "Curb 4m"
   Transform {
     Location {
@@ -10838,7 +10838,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 366075104535289783
+  ParentId: 12821325424616188789
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10874,7 +10874,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18294005044321722765
+  Id: 2969836153454240339
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -10891,8 +10891,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 6903995889483010517
+  ParentId: 5367382786989596743
+  ChildIds: 16025359828328787899
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10934,7 +10934,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6903995889483010517
+  Id: 16025359828328787899
   Name: "Curb 4m"
   Transform {
     Location {
@@ -10951,7 +10951,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 18294005044321722765
+  ParentId: 2969836153454240339
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -10987,7 +10987,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4446196777823435121
+  Id: 12825924719943353878
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11003,8 +11003,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 18096046630873086518
+  ParentId: 5367382786989596743
+  ChildIds: 18435706989990404725
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11046,7 +11046,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18096046630873086518
+  Id: 18435706989990404725
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11063,7 +11063,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 4446196777823435121
+  ParentId: 12825924719943353878
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11099,7 +11099,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2071923617993349710
+  Id: 7268364080144618233
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11115,8 +11115,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 6018807106477582118
+  ParentId: 5367382786989596743
+  ChildIds: 8150150805695072074
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11158,7 +11158,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6018807106477582118
+  Id: 8150150805695072074
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11175,7 +11175,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 2071923617993349710
+  ParentId: 7268364080144618233
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11211,7 +11211,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16420727622529514511
+  Id: 10555284173294850182
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11228,8 +11228,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 14932466585875549973
+  ParentId: 5367382786989596743
+  ChildIds: 2323961654295786078
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11271,7 +11271,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14932466585875549973
+  Id: 2323961654295786078
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11288,7 +11288,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 16420727622529514511
+  ParentId: 10555284173294850182
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11324,7 +11324,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15897637417664020632
+  Id: 9903562033113944611
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11341,8 +11341,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 6838526291134530630
+  ParentId: 5367382786989596743
+  ChildIds: 228420131305950778
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11384,7 +11384,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6838526291134530630
+  Id: 228420131305950778
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11401,7 +11401,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 15897637417664020632
+  ParentId: 9903562033113944611
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11437,7 +11437,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12803186883772675665
+  Id: 16704771839260533235
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11453,8 +11453,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 9579835757292906767
+  ParentId: 5367382786989596743
+  ChildIds: 6899763707813302781
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11496,7 +11496,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9579835757292906767
+  Id: 6899763707813302781
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11513,7 +11513,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 12803186883772675665
+  ParentId: 16704771839260533235
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11549,7 +11549,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15197027439114756722
+  Id: 12905533465847012424
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11565,8 +11565,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 162955952770090379
+  ParentId: 5367382786989596743
+  ChildIds: 9420192727482352288
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11608,7 +11608,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 162955952770090379
+  Id: 9420192727482352288
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11625,7 +11625,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 15197027439114756722
+  ParentId: 12905533465847012424
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11661,7 +11661,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18296924238342208661
+  Id: 9139322704112504925
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11677,8 +11677,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 12757687244203678798
+  ParentId: 5367382786989596743
+  ChildIds: 11995282976363845086
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11720,7 +11720,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12757687244203678798
+  Id: 11995282976363845086
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11737,7 +11737,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 18296924238342208661
+  ParentId: 9139322704112504925
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11773,7 +11773,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16384822239878005215
+  Id: 17473704524729651349
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11789,8 +11789,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 1671549089163471217
+  ParentId: 5367382786989596743
+  ChildIds: 14384155257717069252
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11832,7 +11832,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1671549089163471217
+  Id: 14384155257717069252
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11849,7 +11849,7 @@ Objects {
       Z: 0.807613254
     }
   }
-  ParentId: 16384822239878005215
+  ParentId: 17473704524729651349
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11885,7 +11885,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3573046454908818043
+  Id: 9797351049262116738
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -11901,8 +11901,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 16189224151231939371
+  ParentId: 5367382786989596743
+  ChildIds: 5059366042026693385
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11944,7 +11944,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16189224151231939371
+  Id: 5059366042026693385
   Name: "Curb 4m"
   Transform {
     Location {
@@ -11961,7 +11961,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 3573046454908818043
+  ParentId: 9797351049262116738
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -11997,7 +11997,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12130179337953593874
+  Id: 2452281169414118158
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -12014,8 +12014,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 5703208712459052113
+  ParentId: 5367382786989596743
+  ChildIds: 9205393994336645655
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12057,7 +12057,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5703208712459052113
+  Id: 9205393994336645655
   Name: "Curb 4m"
   Transform {
     Location {
@@ -12074,7 +12074,7 @@ Objects {
       Z: 0.807613313
     }
   }
-  ParentId: 12130179337953593874
+  ParentId: 2452281169414118158
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12110,7 +12110,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11277534078207100870
+  Id: 4009229464058918612
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -12127,8 +12127,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 5353554061811307495
+  ParentId: 5367382786989596743
+  ChildIds: 17386886225798455895
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12170,7 +12170,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5353554061811307495
+  Id: 17386886225798455895
   Name: "Curb 4m"
   Transform {
     Location {
@@ -12187,7 +12187,7 @@ Objects {
       Z: 0.807613194
     }
   }
-  ParentId: 11277534078207100870
+  ParentId: 4009229464058918612
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12223,7 +12223,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16638678744277556216
+  Id: 2331635692012044466
   Name: "Pyramid - 8-Sided Truncated"
   Transform {
     Location {
@@ -12240,8 +12240,8 @@ Objects {
       Z: 1.23821628
     }
   }
-  ParentId: 12784099836881758159
-  ChildIds: 2033835789589968511
+  ParentId: 5367382786989596743
+  ChildIds: 7423349487989200910
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12283,7 +12283,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2033835789589968511
+  Id: 7423349487989200910
   Name: "Curb 4m"
   Transform {
     Location {
@@ -12300,7 +12300,7 @@ Objects {
       Z: 0.807613313
     }
   }
-  ParentId: 16638678744277556216
+  ParentId: 2331635692012044466
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12336,7 +12336,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13561696785996182983
+  Id: 13906263635417614374
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -12352,31 +12352,31 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 16905533971741464600
-  ChildIds: 3200606825044213423
-  ChildIds: 98946785921948486
-  ChildIds: 6869076685855904857
-  ChildIds: 1041464511015308514
-  ChildIds: 13692740188291072596
-  ChildIds: 11288565676171653201
-  ChildIds: 5834113274370349491
-  ChildIds: 12663712983369499622
-  ChildIds: 1537216388637250645
-  ChildIds: 9928447620951461229
-  ChildIds: 16575263929181036874
-  ChildIds: 5616588394909684702
-  ChildIds: 17753917654626896607
-  ChildIds: 10926665720057046465
-  ChildIds: 7962761232731369930
-  ChildIds: 10269425508246336930
-  ChildIds: 10912584281263273271
-  ChildIds: 4957175961606634039
-  ChildIds: 14802863810562634208
-  ChildIds: 5958623909000850647
-  ChildIds: 4900361714429213824
-  ChildIds: 11187778527075140122
-  ChildIds: 12503237987648255898
+  ParentId: 7039958364673215819
+  ChildIds: 11164509985086479151
+  ChildIds: 11215472055170302392
+  ChildIds: 10443229542837307546
+  ChildIds: 3501956578440690143
+  ChildIds: 17670449391288660164
+  ChildIds: 5431313355551479507
+  ChildIds: 2761405704675168497
+  ChildIds: 9031072310151786125
+  ChildIds: 12961874398510736094
+  ChildIds: 755242770639469793
+  ChildIds: 12409520387804659627
+  ChildIds: 7676100958774827332
+  ChildIds: 18429991083954380380
+  ChildIds: 16910855279286987409
+  ChildIds: 8545701257075148380
+  ChildIds: 14633556613309758689
+  ChildIds: 16455680861284298776
+  ChildIds: 8874887106409880274
+  ChildIds: 128856740686538078
+  ChildIds: 9362897320547060111
+  ChildIds: 14939536781593470593
+  ChildIds: 9126758934440091726
+  ChildIds: 14752590933894347515
+  ChildIds: 4027932387738213451
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12397,7 +12397,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12503237987648255898
+  Id: 4027932387738213451
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -12413,16 +12413,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 8919805348207527462
-  ChildIds: 12049660923867377530
-  ChildIds: 15845478235660269338
-  ChildIds: 1086907738053779764
-  ChildIds: 8203007869100458810
-  ChildIds: 1412371463891133369
-  ChildIds: 10703634683881403050
-  ChildIds: 13807548103187660150
-  ChildIds: 11311246633620365077
+  ParentId: 13906263635417614374
+  ChildIds: 11726127219944864406
+  ChildIds: 564090811394498709
+  ChildIds: 10934571477922551397
+  ChildIds: 10020387265480251171
+  ChildIds: 10230212328485370529
+  ChildIds: 7600154485715693858
+  ChildIds: 6590109935864380995
+  ChildIds: 8475185692269640839
+  ChildIds: 10341118229746700636
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12443,7 +12443,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11311246633620365077
+  Id: 10341118229746700636
   Name: "Column Base 02"
   Transform {
     Location {
@@ -12461,7 +12461,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -12484,7 +12484,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -12506,7 +12506,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13807548103187660150
+  Id: 8475185692269640839
   Name: "Column Base 02"
   Transform {
     Location {
@@ -12524,7 +12524,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -12547,7 +12547,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -12569,7 +12569,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10703634683881403050
+  Id: 6590109935864380995
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -12585,7 +12585,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -12630,7 +12630,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1412371463891133369
+  Id: 7600154485715693858
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -12646,7 +12646,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -12691,7 +12691,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8203007869100458810
+  Id: 10230212328485370529
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -12708,7 +12708,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12722,7 +12722,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -12744,7 +12744,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1086907738053779764
+  Id: 10020387265480251171
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -12761,7 +12761,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12797,7 +12797,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15845478235660269338
+  Id: 10934571477922551397
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -12813,7 +12813,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12827,7 +12827,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -12849,7 +12849,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12049660923867377530
+  Id: 564090811394498709
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -12868,7 +12868,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12882,7 +12882,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -12904,7 +12904,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8919805348207527462
+  Id: 11726127219944864406
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -12921,7 +12921,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 12503237987648255898
+  ParentId: 4027932387738213451
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -12935,7 +12935,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -12957,7 +12957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11187778527075140122
+  Id: 14752590933894347515
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -12973,16 +12973,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 5890052505988172605
-  ChildIds: 18176075056561937496
-  ChildIds: 209877146094288515
-  ChildIds: 298093921929945251
-  ChildIds: 15996109344117635234
-  ChildIds: 13080359102284100929
-  ChildIds: 613340274326120136
-  ChildIds: 15999000804564883224
-  ChildIds: 18296424393849024618
+  ParentId: 13906263635417614374
+  ChildIds: 2952847525190512008
+  ChildIds: 1133412468682602153
+  ChildIds: 11300853830025664937
+  ChildIds: 6479836177985157100
+  ChildIds: 18186237344471616167
+  ChildIds: 9830906750050527287
+  ChildIds: 10866483350965846564
+  ChildIds: 6692693222716667738
+  ChildIds: 14866803101854518896
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13003,7 +13003,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18296424393849024618
+  Id: 14866803101854518896
   Name: "Column Base 02"
   Transform {
     Location {
@@ -13021,7 +13021,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -13044,7 +13044,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13066,7 +13066,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15999000804564883224
+  Id: 6692693222716667738
   Name: "Column Base 02"
   Transform {
     Location {
@@ -13084,7 +13084,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -13107,7 +13107,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13129,7 +13129,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 613340274326120136
+  Id: 10866483350965846564
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -13145,7 +13145,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -13190,7 +13190,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13080359102284100929
+  Id: 9830906750050527287
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -13206,7 +13206,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -13251,7 +13251,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15996109344117635234
+  Id: 18186237344471616167
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -13268,7 +13268,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13282,7 +13282,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13304,7 +13304,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 298093921929945251
+  Id: 6479836177985157100
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -13321,7 +13321,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13357,7 +13357,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 209877146094288515
+  Id: 11300853830025664937
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -13373,7 +13373,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13387,7 +13387,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13409,7 +13409,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18176075056561937496
+  Id: 1133412468682602153
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -13428,7 +13428,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13442,7 +13442,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13464,7 +13464,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5890052505988172605
+  Id: 2952847525190512008
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -13481,7 +13481,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 11187778527075140122
+  ParentId: 14752590933894347515
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13495,7 +13495,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13517,7 +13517,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4900361714429213824
+  Id: 9126758934440091726
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -13533,16 +13533,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 1126726898092577698
-  ChildIds: 92242517421598218
-  ChildIds: 757985289212400641
-  ChildIds: 16139715670210343949
-  ChildIds: 5707354998928816749
-  ChildIds: 13305429697227733239
-  ChildIds: 12781834229657985345
-  ChildIds: 16935519188075339189
-  ChildIds: 17793008330709750694
+  ParentId: 13906263635417614374
+  ChildIds: 12160092441465144024
+  ChildIds: 13157410629936657641
+  ChildIds: 5972523852137208563
+  ChildIds: 8638865920727085095
+  ChildIds: 3944589836821444235
+  ChildIds: 17131664658331614273
+  ChildIds: 14921460686060649118
+  ChildIds: 18281856857228219074
+  ChildIds: 5359412400262728661
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13563,7 +13563,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17793008330709750694
+  Id: 5359412400262728661
   Name: "Column Base 02"
   Transform {
     Location {
@@ -13581,7 +13581,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -13604,7 +13604,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13626,7 +13626,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16935519188075339189
+  Id: 18281856857228219074
   Name: "Column Base 02"
   Transform {
     Location {
@@ -13644,7 +13644,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -13667,7 +13667,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13689,7 +13689,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12781834229657985345
+  Id: 14921460686060649118
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -13705,7 +13705,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -13750,7 +13750,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13305429697227733239
+  Id: 17131664658331614273
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -13766,7 +13766,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -13811,7 +13811,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5707354998928816749
+  Id: 3944589836821444235
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -13828,7 +13828,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13842,7 +13842,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13864,7 +13864,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16139715670210343949
+  Id: 8638865920727085095
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -13881,7 +13881,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13917,7 +13917,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 757985289212400641
+  Id: 5972523852137208563
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -13933,7 +13933,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -13947,7 +13947,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -13969,7 +13969,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 92242517421598218
+  Id: 13157410629936657641
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -13988,7 +13988,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14002,7 +14002,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14024,7 +14024,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1126726898092577698
+  Id: 12160092441465144024
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -14041,7 +14041,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 4900361714429213824
+  ParentId: 9126758934440091726
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14055,7 +14055,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14077,7 +14077,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5958623909000850647
+  Id: 14939536781593470593
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -14093,16 +14093,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 9266316110630980481
-  ChildIds: 8767090322491944734
-  ChildIds: 8760082006585561120
-  ChildIds: 42932981762041941
-  ChildIds: 7732382901626607679
-  ChildIds: 5930481076710487978
-  ChildIds: 15184247429913008418
-  ChildIds: 10475881504365512870
-  ChildIds: 14588567517394182358
+  ParentId: 13906263635417614374
+  ChildIds: 5822095250107562815
+  ChildIds: 9178982409007963933
+  ChildIds: 10383807261480039880
+  ChildIds: 13499644113307646273
+  ChildIds: 6864829513052745795
+  ChildIds: 4243068127930943995
+  ChildIds: 5770108801585767614
+  ChildIds: 6599978867881206775
+  ChildIds: 1115637284640163519
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14123,7 +14123,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14588567517394182358
+  Id: 1115637284640163519
   Name: "Column Base 02"
   Transform {
     Location {
@@ -14141,7 +14141,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -14164,7 +14164,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14186,7 +14186,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10475881504365512870
+  Id: 6599978867881206775
   Name: "Column Base 02"
   Transform {
     Location {
@@ -14204,7 +14204,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -14227,7 +14227,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14249,7 +14249,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15184247429913008418
+  Id: 5770108801585767614
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -14265,7 +14265,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -14310,7 +14310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5930481076710487978
+  Id: 4243068127930943995
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -14326,7 +14326,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -14371,7 +14371,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7732382901626607679
+  Id: 6864829513052745795
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -14388,7 +14388,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14402,7 +14402,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14424,7 +14424,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 42932981762041941
+  Id: 13499644113307646273
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -14441,7 +14441,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14477,7 +14477,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8760082006585561120
+  Id: 10383807261480039880
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -14493,7 +14493,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14507,7 +14507,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14529,7 +14529,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8767090322491944734
+  Id: 9178982409007963933
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -14548,7 +14548,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14562,7 +14562,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14584,7 +14584,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9266316110630980481
+  Id: 5822095250107562815
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -14601,7 +14601,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 5958623909000850647
+  ParentId: 14939536781593470593
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14615,7 +14615,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14637,7 +14637,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14802863810562634208
+  Id: 9362897320547060111
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -14653,16 +14653,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 15075890211768359344
-  ChildIds: 14535662730341904991
-  ChildIds: 1650942847675930850
-  ChildIds: 3958133039402901697
-  ChildIds: 1667877269084641076
-  ChildIds: 11615574468689468786
-  ChildIds: 1638828453316530592
-  ChildIds: 14449810483427236650
-  ChildIds: 6433567273943274637
+  ParentId: 13906263635417614374
+  ChildIds: 7988877171120613909
+  ChildIds: 12688262303853758430
+  ChildIds: 4350925609521470962
+  ChildIds: 14062857052732901994
+  ChildIds: 12842564507978861535
+  ChildIds: 9712293382948181089
+  ChildIds: 324815523742252386
+  ChildIds: 15253320995646167865
+  ChildIds: 14629352181712986055
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14683,7 +14683,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6433567273943274637
+  Id: 14629352181712986055
   Name: "Column Base 02"
   Transform {
     Location {
@@ -14701,7 +14701,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -14724,7 +14724,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14746,7 +14746,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14449810483427236650
+  Id: 15253320995646167865
   Name: "Column Base 02"
   Transform {
     Location {
@@ -14764,7 +14764,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -14787,7 +14787,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14809,7 +14809,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1638828453316530592
+  Id: 324815523742252386
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -14825,7 +14825,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -14870,7 +14870,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11615574468689468786
+  Id: 9712293382948181089
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -14886,7 +14886,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -14931,7 +14931,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1667877269084641076
+  Id: 12842564507978861535
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -14948,7 +14948,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -14962,7 +14962,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -14984,7 +14984,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3958133039402901697
+  Id: 14062857052732901994
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -15001,7 +15001,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15037,7 +15037,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1650942847675930850
+  Id: 4350925609521470962
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -15053,7 +15053,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15067,7 +15067,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15089,7 +15089,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14535662730341904991
+  Id: 12688262303853758430
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -15108,7 +15108,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15122,7 +15122,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15144,7 +15144,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15075890211768359344
+  Id: 7988877171120613909
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -15161,7 +15161,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 14802863810562634208
+  ParentId: 9362897320547060111
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15175,7 +15175,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15197,7 +15197,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4957175961606634039
+  Id: 128856740686538078
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -15213,16 +15213,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 16889061710382676916
-  ChildIds: 3652442678555827796
-  ChildIds: 17946661461479784188
-  ChildIds: 5757774287033862909
-  ChildIds: 5597042868967069205
-  ChildIds: 6950243240765751124
-  ChildIds: 2038989421911301068
-  ChildIds: 16245083355314599377
-  ChildIds: 7824033462087953362
+  ParentId: 13906263635417614374
+  ChildIds: 188842520178967025
+  ChildIds: 12550011349999767389
+  ChildIds: 13163705517953968181
+  ChildIds: 9134958871026300503
+  ChildIds: 4219025495209663820
+  ChildIds: 642728821202147602
+  ChildIds: 13865027881565856916
+  ChildIds: 14497447528513201640
+  ChildIds: 16154546286805469714
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15243,7 +15243,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7824033462087953362
+  Id: 16154546286805469714
   Name: "Column Base 02"
   Transform {
     Location {
@@ -15261,7 +15261,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -15284,7 +15284,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15306,7 +15306,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16245083355314599377
+  Id: 14497447528513201640
   Name: "Column Base 02"
   Transform {
     Location {
@@ -15324,7 +15324,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -15347,7 +15347,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15369,7 +15369,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2038989421911301068
+  Id: 13865027881565856916
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -15385,7 +15385,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -15430,7 +15430,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6950243240765751124
+  Id: 642728821202147602
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -15446,7 +15446,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -15491,7 +15491,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5597042868967069205
+  Id: 4219025495209663820
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -15508,7 +15508,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15522,7 +15522,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15544,7 +15544,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5757774287033862909
+  Id: 9134958871026300503
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -15561,7 +15561,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15597,7 +15597,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17946661461479784188
+  Id: 13163705517953968181
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -15613,7 +15613,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15627,7 +15627,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15649,7 +15649,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3652442678555827796
+  Id: 12550011349999767389
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -15668,7 +15668,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15682,7 +15682,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15704,7 +15704,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16889061710382676916
+  Id: 188842520178967025
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -15721,7 +15721,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 4957175961606634039
+  ParentId: 128856740686538078
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15735,7 +15735,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15757,7 +15757,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10912584281263273271
+  Id: 8874887106409880274
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -15773,16 +15773,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 5014690258434437275
-  ChildIds: 16451003278194514514
-  ChildIds: 18256218382288907838
-  ChildIds: 1277019530160841299
-  ChildIds: 13184489401481394730
-  ChildIds: 5737825315624802020
-  ChildIds: 6217556537113519120
-  ChildIds: 15640831212739961682
-  ChildIds: 5599891812200106415
+  ParentId: 13906263635417614374
+  ChildIds: 5945533767807675658
+  ChildIds: 7517661483644595108
+  ChildIds: 12567578070222991767
+  ChildIds: 14626118790489653988
+  ChildIds: 7336310092600607810
+  ChildIds: 14716235974793753144
+  ChildIds: 8753211916600646289
+  ChildIds: 1458401029445195102
+  ChildIds: 14883149697464941270
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -15803,7 +15803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5599891812200106415
+  Id: 14883149697464941270
   Name: "Column Base 02"
   Transform {
     Location {
@@ -15821,7 +15821,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -15844,7 +15844,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15866,7 +15866,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15640831212739961682
+  Id: 1458401029445195102
   Name: "Column Base 02"
   Transform {
     Location {
@@ -15884,7 +15884,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -15907,7 +15907,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -15929,7 +15929,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6217556537113519120
+  Id: 8753211916600646289
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -15945,7 +15945,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -15990,7 +15990,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5737825315624802020
+  Id: 14716235974793753144
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -16006,7 +16006,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -16051,7 +16051,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13184489401481394730
+  Id: 7336310092600607810
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -16068,7 +16068,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16082,7 +16082,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16104,7 +16104,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1277019530160841299
+  Id: 14626118790489653988
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -16121,7 +16121,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16157,7 +16157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18256218382288907838
+  Id: 12567578070222991767
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -16173,7 +16173,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16187,7 +16187,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16209,7 +16209,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16451003278194514514
+  Id: 7517661483644595108
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -16228,7 +16228,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16242,7 +16242,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16264,7 +16264,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5014690258434437275
+  Id: 5945533767807675658
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -16281,7 +16281,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 10912584281263273271
+  ParentId: 8874887106409880274
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16295,7 +16295,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16317,7 +16317,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10269425508246336930
+  Id: 16455680861284298776
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -16333,16 +16333,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 7452095555250178819
-  ChildIds: 18319122617519660648
-  ChildIds: 1657072084631048839
-  ChildIds: 9607301342851936365
-  ChildIds: 6208980151139800985
-  ChildIds: 7208239571205322516
-  ChildIds: 16274694202830978066
-  ChildIds: 11034979081280830964
-  ChildIds: 3092458795073089205
+  ParentId: 13906263635417614374
+  ChildIds: 5803366319765655321
+  ChildIds: 8802872511727206341
+  ChildIds: 10076079456684267784
+  ChildIds: 17884101458926388013
+  ChildIds: 10831959533834557886
+  ChildIds: 7839148775155732379
+  ChildIds: 10626128338183494060
+  ChildIds: 15273810705690909405
+  ChildIds: 3707859144997301953
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16363,7 +16363,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3092458795073089205
+  Id: 3707859144997301953
   Name: "Column Base 02"
   Transform {
     Location {
@@ -16381,7 +16381,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -16404,7 +16404,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16426,7 +16426,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11034979081280830964
+  Id: 15273810705690909405
   Name: "Column Base 02"
   Transform {
     Location {
@@ -16444,7 +16444,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -16467,7 +16467,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16489,7 +16489,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16274694202830978066
+  Id: 10626128338183494060
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -16505,7 +16505,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -16550,7 +16550,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7208239571205322516
+  Id: 7839148775155732379
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -16566,7 +16566,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -16611,7 +16611,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6208980151139800985
+  Id: 10831959533834557886
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -16628,7 +16628,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16642,7 +16642,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16664,7 +16664,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9607301342851936365
+  Id: 17884101458926388013
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -16681,7 +16681,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16717,7 +16717,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1657072084631048839
+  Id: 10076079456684267784
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -16733,7 +16733,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16747,7 +16747,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16769,7 +16769,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18319122617519660648
+  Id: 8802872511727206341
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -16788,7 +16788,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16802,7 +16802,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16824,7 +16824,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7452095555250178819
+  Id: 5803366319765655321
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -16841,7 +16841,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 10269425508246336930
+  ParentId: 16455680861284298776
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16855,7 +16855,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16877,7 +16877,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7962761232731369930
+  Id: 14633556613309758689
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -16893,16 +16893,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 3143217375737911908
-  ChildIds: 17030796583186001477
-  ChildIds: 11371189081713139208
-  ChildIds: 5888082447633205140
-  ChildIds: 4248131129772747142
-  ChildIds: 10834165560208342670
-  ChildIds: 17981391462652411391
-  ChildIds: 9573202434445152695
-  ChildIds: 9912917929733522267
+  ParentId: 13906263635417614374
+  ChildIds: 1887232791341388284
+  ChildIds: 16748039642215580999
+  ChildIds: 14047427844169714996
+  ChildIds: 2224534200170087088
+  ChildIds: 17149267214482613404
+  ChildIds: 392314156136602130
+  ChildIds: 7827237819799801555
+  ChildIds: 10834765432080087186
+  ChildIds: 15774102548268080520
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -16923,7 +16923,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9912917929733522267
+  Id: 15774102548268080520
   Name: "Column Base 02"
   Transform {
     Location {
@@ -16941,7 +16941,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -16964,7 +16964,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -16986,7 +16986,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9573202434445152695
+  Id: 10834765432080087186
   Name: "Column Base 02"
   Transform {
     Location {
@@ -17004,7 +17004,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -17027,7 +17027,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17049,7 +17049,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17981391462652411391
+  Id: 7827237819799801555
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -17065,7 +17065,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -17110,7 +17110,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10834165560208342670
+  Id: 392314156136602130
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -17126,7 +17126,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -17171,7 +17171,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4248131129772747142
+  Id: 17149267214482613404
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -17188,7 +17188,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17202,7 +17202,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17224,7 +17224,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5888082447633205140
+  Id: 2224534200170087088
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -17241,7 +17241,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17277,7 +17277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11371189081713139208
+  Id: 14047427844169714996
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -17293,7 +17293,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17307,7 +17307,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17329,7 +17329,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17030796583186001477
+  Id: 16748039642215580999
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -17348,7 +17348,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17362,7 +17362,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17384,7 +17384,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3143217375737911908
+  Id: 1887232791341388284
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -17401,7 +17401,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 7962761232731369930
+  ParentId: 14633556613309758689
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17415,7 +17415,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17437,7 +17437,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10926665720057046465
+  Id: 8545701257075148380
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -17453,16 +17453,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 13770210285385344939
-  ChildIds: 5994760481461046453
-  ChildIds: 7393466425730416236
-  ChildIds: 17153080973453360093
-  ChildIds: 16947845773005659941
-  ChildIds: 8659295771484081007
-  ChildIds: 10701511189400840981
-  ChildIds: 7681571508368156732
-  ChildIds: 14031327031136166619
+  ParentId: 13906263635417614374
+  ChildIds: 4343884161056471473
+  ChildIds: 16672944670710239958
+  ChildIds: 3611966863574719470
+  ChildIds: 2363589407136351890
+  ChildIds: 12993080818644293387
+  ChildIds: 13055419905562247319
+  ChildIds: 15925625590480309824
+  ChildIds: 472121185419399605
+  ChildIds: 9283515480058425384
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17483,7 +17483,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14031327031136166619
+  Id: 9283515480058425384
   Name: "Column Base 02"
   Transform {
     Location {
@@ -17501,7 +17501,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -17524,7 +17524,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17546,7 +17546,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7681571508368156732
+  Id: 472121185419399605
   Name: "Column Base 02"
   Transform {
     Location {
@@ -17564,7 +17564,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -17587,7 +17587,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17609,7 +17609,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10701511189400840981
+  Id: 15925625590480309824
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -17625,7 +17625,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -17670,7 +17670,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8659295771484081007
+  Id: 13055419905562247319
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -17686,7 +17686,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -17731,7 +17731,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16947845773005659941
+  Id: 12993080818644293387
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -17748,7 +17748,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17762,7 +17762,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17784,7 +17784,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17153080973453360093
+  Id: 2363589407136351890
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -17801,7 +17801,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17837,7 +17837,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7393466425730416236
+  Id: 3611966863574719470
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -17853,7 +17853,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17867,7 +17867,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17889,7 +17889,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5994760481461046453
+  Id: 16672944670710239958
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -17908,7 +17908,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17922,7 +17922,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17944,7 +17944,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13770210285385344939
+  Id: 4343884161056471473
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -17961,7 +17961,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 10926665720057046465
+  ParentId: 8545701257075148380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -17975,7 +17975,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -17997,7 +17997,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17753917654626896607
+  Id: 16910855279286987409
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -18013,16 +18013,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 12080766026820978456
-  ChildIds: 7700200066617374766
-  ChildIds: 16307295827309774561
-  ChildIds: 13713346699810952055
-  ChildIds: 709391390485758558
-  ChildIds: 14391825813044403042
-  ChildIds: 7934083292036058660
-  ChildIds: 11310225782289895368
-  ChildIds: 16950755512634689186
+  ParentId: 13906263635417614374
+  ChildIds: 10580504348915356419
+  ChildIds: 14314675204274717458
+  ChildIds: 11085041679802608242
+  ChildIds: 9980363683025587013
+  ChildIds: 11550755138333200401
+  ChildIds: 17413435212831918368
+  ChildIds: 2178697583552537636
+  ChildIds: 16078921454247167310
+  ChildIds: 8952401449679897351
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18043,7 +18043,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16950755512634689186
+  Id: 8952401449679897351
   Name: "Column Base 02"
   Transform {
     Location {
@@ -18061,7 +18061,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18084,7 +18084,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18106,7 +18106,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11310225782289895368
+  Id: 16078921454247167310
   Name: "Column Base 02"
   Transform {
     Location {
@@ -18124,7 +18124,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18147,7 +18147,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18169,7 +18169,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7934083292036058660
+  Id: 2178697583552537636
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -18185,7 +18185,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18230,7 +18230,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14391825813044403042
+  Id: 17413435212831918368
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -18246,7 +18246,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18291,7 +18291,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 709391390485758558
+  Id: 11550755138333200401
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -18308,7 +18308,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18322,7 +18322,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18344,7 +18344,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13713346699810952055
+  Id: 9980363683025587013
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -18361,7 +18361,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18397,7 +18397,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16307295827309774561
+  Id: 11085041679802608242
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -18413,7 +18413,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18427,7 +18427,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18449,7 +18449,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7700200066617374766
+  Id: 14314675204274717458
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -18468,7 +18468,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18482,7 +18482,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18504,7 +18504,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12080766026820978456
+  Id: 10580504348915356419
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -18521,7 +18521,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 17753917654626896607
+  ParentId: 16910855279286987409
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18535,7 +18535,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18557,7 +18557,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5616588394909684702
+  Id: 18429991083954380380
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -18573,16 +18573,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 13704302245963082245
-  ChildIds: 6052202342211883457
-  ChildIds: 12952220125150993794
-  ChildIds: 15940295214135989797
-  ChildIds: 15229466262827466417
-  ChildIds: 610798780469590660
-  ChildIds: 10006305448441241178
-  ChildIds: 14774891182128484152
-  ChildIds: 7546192376642416821
+  ParentId: 13906263635417614374
+  ChildIds: 7657051098652444604
+  ChildIds: 6643965802479323645
+  ChildIds: 9548156058642402785
+  ChildIds: 17513775465122298646
+  ChildIds: 13283608733111663136
+  ChildIds: 15333478500397939843
+  ChildIds: 8402193688712210341
+  ChildIds: 12100763711343374421
+  ChildIds: 1645352221825749910
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18603,7 +18603,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7546192376642416821
+  Id: 1645352221825749910
   Name: "Column Base 02"
   Transform {
     Location {
@@ -18621,7 +18621,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18644,7 +18644,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18666,7 +18666,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14774891182128484152
+  Id: 12100763711343374421
   Name: "Column Base 02"
   Transform {
     Location {
@@ -18684,7 +18684,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18707,7 +18707,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18729,7 +18729,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10006305448441241178
+  Id: 8402193688712210341
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -18745,7 +18745,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18790,7 +18790,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 610798780469590660
+  Id: 15333478500397939843
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -18806,7 +18806,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -18851,7 +18851,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15229466262827466417
+  Id: 13283608733111663136
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -18868,7 +18868,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18882,7 +18882,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -18904,7 +18904,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15940295214135989797
+  Id: 17513775465122298646
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -18921,7 +18921,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18957,7 +18957,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12952220125150993794
+  Id: 9548156058642402785
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -18973,7 +18973,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -18987,7 +18987,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19009,7 +19009,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6052202342211883457
+  Id: 6643965802479323645
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -19028,7 +19028,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19042,7 +19042,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19064,7 +19064,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13704302245963082245
+  Id: 7657051098652444604
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -19081,7 +19081,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 5616588394909684702
+  ParentId: 18429991083954380380
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19095,7 +19095,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19117,7 +19117,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16575263929181036874
+  Id: 7676100958774827332
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -19133,16 +19133,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 16266597211574109502
-  ChildIds: 2907837661500835694
-  ChildIds: 2647138349085851113
-  ChildIds: 8884023974033256743
-  ChildIds: 12819914330914849469
-  ChildIds: 2780179068441234177
-  ChildIds: 2100920274789828002
-  ChildIds: 11134294667683041246
-  ChildIds: 14934237687525855786
+  ParentId: 13906263635417614374
+  ChildIds: 11266131901354351852
+  ChildIds: 4220272058972474411
+  ChildIds: 6819677818816201333
+  ChildIds: 4571030806247809242
+  ChildIds: 14837891650717403651
+  ChildIds: 2429568122895934552
+  ChildIds: 15947873709901937011
+  ChildIds: 6290860852600072263
+  ChildIds: 8101218892411367932
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19163,7 +19163,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14934237687525855786
+  Id: 8101218892411367932
   Name: "Column Base 02"
   Transform {
     Location {
@@ -19181,7 +19181,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -19204,7 +19204,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19226,7 +19226,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11134294667683041246
+  Id: 6290860852600072263
   Name: "Column Base 02"
   Transform {
     Location {
@@ -19244,7 +19244,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -19267,7 +19267,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19289,7 +19289,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2100920274789828002
+  Id: 15947873709901937011
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -19305,7 +19305,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -19350,7 +19350,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2780179068441234177
+  Id: 2429568122895934552
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -19366,7 +19366,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -19411,7 +19411,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12819914330914849469
+  Id: 14837891650717403651
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -19428,7 +19428,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19442,7 +19442,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19464,7 +19464,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8884023974033256743
+  Id: 4571030806247809242
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -19481,7 +19481,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19517,7 +19517,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2647138349085851113
+  Id: 6819677818816201333
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -19533,7 +19533,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19547,7 +19547,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19569,7 +19569,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2907837661500835694
+  Id: 4220272058972474411
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -19588,7 +19588,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19602,7 +19602,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19624,7 +19624,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16266597211574109502
+  Id: 11266131901354351852
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -19641,7 +19641,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 16575263929181036874
+  ParentId: 7676100958774827332
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19655,7 +19655,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19677,7 +19677,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9928447620951461229
+  Id: 12409520387804659627
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -19693,16 +19693,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 4754801882586594271
-  ChildIds: 9907388716338990341
-  ChildIds: 18361510028722626518
-  ChildIds: 11011693518164884332
-  ChildIds: 17461483279525068030
-  ChildIds: 15565890599830974523
-  ChildIds: 6948960456648730311
-  ChildIds: 14708694210023417895
-  ChildIds: 16895369641782464355
+  ParentId: 13906263635417614374
+  ChildIds: 2319856745249470868
+  ChildIds: 5036802624081933429
+  ChildIds: 7395624227014541825
+  ChildIds: 526730229079249693
+  ChildIds: 4977283874632515398
+  ChildIds: 14488324063228436664
+  ChildIds: 2450173789752856269
+  ChildIds: 12633517507440056131
+  ChildIds: 15279989371225237332
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -19723,7 +19723,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16895369641782464355
+  Id: 15279989371225237332
   Name: "Column Base 02"
   Transform {
     Location {
@@ -19741,7 +19741,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -19764,7 +19764,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19786,7 +19786,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14708694210023417895
+  Id: 12633517507440056131
   Name: "Column Base 02"
   Transform {
     Location {
@@ -19804,7 +19804,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -19827,7 +19827,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -19849,7 +19849,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6948960456648730311
+  Id: 2450173789752856269
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -19865,7 +19865,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -19910,7 +19910,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15565890599830974523
+  Id: 14488324063228436664
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -19926,7 +19926,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -19971,7 +19971,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17461483279525068030
+  Id: 4977283874632515398
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -19988,7 +19988,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20002,7 +20002,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20024,7 +20024,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11011693518164884332
+  Id: 526730229079249693
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -20041,7 +20041,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20077,7 +20077,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18361510028722626518
+  Id: 7395624227014541825
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -20093,7 +20093,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20107,7 +20107,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20129,7 +20129,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9907388716338990341
+  Id: 5036802624081933429
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -20148,7 +20148,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20162,7 +20162,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20184,7 +20184,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4754801882586594271
+  Id: 2319856745249470868
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -20201,7 +20201,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 9928447620951461229
+  ParentId: 12409520387804659627
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20215,7 +20215,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20237,7 +20237,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1537216388637250645
+  Id: 755242770639469793
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -20253,16 +20253,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 6565052227404903582
-  ChildIds: 3754057272667842808
-  ChildIds: 4093781688458047369
-  ChildIds: 348757921394397703
-  ChildIds: 6031880246723956763
-  ChildIds: 2374646068149325777
-  ChildIds: 6953177212315237873
-  ChildIds: 17266400419834493598
-  ChildIds: 17753055792488921791
+  ParentId: 13906263635417614374
+  ChildIds: 10107014537507157452
+  ChildIds: 7557550528552532109
+  ChildIds: 14771864508288246379
+  ChildIds: 120238533476715090
+  ChildIds: 16135086102739544303
+  ChildIds: 11769831389141612565
+  ChildIds: 15150981422043942800
+  ChildIds: 14296794588175443196
+  ChildIds: 2736536885686264470
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20283,7 +20283,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17753055792488921791
+  Id: 2736536885686264470
   Name: "Column Base 02"
   Transform {
     Location {
@@ -20301,7 +20301,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -20324,7 +20324,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20346,7 +20346,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17266400419834493598
+  Id: 14296794588175443196
   Name: "Column Base 02"
   Transform {
     Location {
@@ -20364,7 +20364,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -20387,7 +20387,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20409,7 +20409,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6953177212315237873
+  Id: 15150981422043942800
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -20425,7 +20425,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -20470,7 +20470,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2374646068149325777
+  Id: 11769831389141612565
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -20486,7 +20486,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -20531,7 +20531,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6031880246723956763
+  Id: 16135086102739544303
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -20548,7 +20548,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20562,7 +20562,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20584,7 +20584,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 348757921394397703
+  Id: 120238533476715090
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -20601,7 +20601,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20637,7 +20637,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4093781688458047369
+  Id: 14771864508288246379
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -20653,7 +20653,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20667,7 +20667,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20689,7 +20689,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3754057272667842808
+  Id: 7557550528552532109
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -20708,7 +20708,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20722,7 +20722,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20744,7 +20744,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6565052227404903582
+  Id: 10107014537507157452
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -20761,7 +20761,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 1537216388637250645
+  ParentId: 755242770639469793
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20775,7 +20775,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20797,7 +20797,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12663712983369499622
+  Id: 12961874398510736094
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -20813,16 +20813,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 2017888802127621373
-  ChildIds: 11947822844172940102
-  ChildIds: 18326249782831245300
-  ChildIds: 1433750122640071127
-  ChildIds: 14078130028784706863
-  ChildIds: 3272754353216109246
-  ChildIds: 6612889621513909786
-  ChildIds: 14065152966136348499
-  ChildIds: 2406311030127173233
+  ParentId: 13906263635417614374
+  ChildIds: 12071632887198813212
+  ChildIds: 10241043669287820328
+  ChildIds: 14745809497040912105
+  ChildIds: 16455504783389938036
+  ChildIds: 13441833535090023161
+  ChildIds: 1427839445705044312
+  ChildIds: 18331001620401270257
+  ChildIds: 16487029822956230456
+  ChildIds: 10667097301570854728
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -20843,7 +20843,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2406311030127173233
+  Id: 10667097301570854728
   Name: "Column Base 02"
   Transform {
     Location {
@@ -20861,7 +20861,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -20884,7 +20884,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20906,7 +20906,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14065152966136348499
+  Id: 16487029822956230456
   Name: "Column Base 02"
   Transform {
     Location {
@@ -20924,7 +20924,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -20947,7 +20947,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -20969,7 +20969,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6612889621513909786
+  Id: 18331001620401270257
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -20985,7 +20985,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -21030,7 +21030,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3272754353216109246
+  Id: 1427839445705044312
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -21046,7 +21046,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -21091,7 +21091,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14078130028784706863
+  Id: 13441833535090023161
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -21108,7 +21108,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21122,7 +21122,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21144,7 +21144,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1433750122640071127
+  Id: 16455504783389938036
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -21161,7 +21161,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21197,7 +21197,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18326249782831245300
+  Id: 14745809497040912105
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -21213,7 +21213,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21227,7 +21227,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21249,7 +21249,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11947822844172940102
+  Id: 10241043669287820328
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -21268,7 +21268,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21282,7 +21282,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21304,7 +21304,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2017888802127621373
+  Id: 12071632887198813212
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -21321,7 +21321,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 12663712983369499622
+  ParentId: 12961874398510736094
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21335,7 +21335,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21357,7 +21357,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5834113274370349491
+  Id: 9031072310151786125
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -21373,16 +21373,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 16799963403433419971
-  ChildIds: 9739745756385848473
-  ChildIds: 11107688228870550963
-  ChildIds: 14866426413560967904
-  ChildIds: 16854612632529634904
-  ChildIds: 3750194908121668078
-  ChildIds: 4868012724815386967
-  ChildIds: 8392924669592221670
-  ChildIds: 662762724240944167
+  ParentId: 13906263635417614374
+  ChildIds: 9823623627784413485
+  ChildIds: 2630451081836268753
+  ChildIds: 5732387084288677959
+  ChildIds: 13791356717065096074
+  ChildIds: 6525631219487753618
+  ChildIds: 1656732617889099563
+  ChildIds: 3870116681607437196
+  ChildIds: 1834315198902586854
+  ChildIds: 16829928420878580674
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21403,7 +21403,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 662762724240944167
+  Id: 16829928420878580674
   Name: "Column Base 02"
   Transform {
     Location {
@@ -21421,7 +21421,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -21444,7 +21444,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21466,7 +21466,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8392924669592221670
+  Id: 1834315198902586854
   Name: "Column Base 02"
   Transform {
     Location {
@@ -21484,7 +21484,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -21507,7 +21507,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21529,7 +21529,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4868012724815386967
+  Id: 3870116681607437196
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -21545,7 +21545,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -21590,7 +21590,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3750194908121668078
+  Id: 1656732617889099563
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -21606,7 +21606,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -21651,7 +21651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16854612632529634904
+  Id: 6525631219487753618
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -21668,7 +21668,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21682,7 +21682,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21704,7 +21704,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14866426413560967904
+  Id: 13791356717065096074
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -21721,7 +21721,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21757,7 +21757,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11107688228870550963
+  Id: 5732387084288677959
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -21773,7 +21773,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21787,7 +21787,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21809,7 +21809,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9739745756385848473
+  Id: 2630451081836268753
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -21828,7 +21828,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21842,7 +21842,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21864,7 +21864,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16799963403433419971
+  Id: 9823623627784413485
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -21881,7 +21881,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 5834113274370349491
+  ParentId: 9031072310151786125
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21895,7 +21895,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -21917,7 +21917,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11288565676171653201
+  Id: 2761405704675168497
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -21933,16 +21933,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 14393053957798107754
-  ChildIds: 18079079259791355286
-  ChildIds: 8360357752910296689
-  ChildIds: 1914474795162330941
-  ChildIds: 12953943315521153215
-  ChildIds: 9360139710992291419
-  ChildIds: 6951806645192027513
-  ChildIds: 2548560843964103326
-  ChildIds: 7286218441988846739
+  ParentId: 13906263635417614374
+  ChildIds: 4661812600442149437
+  ChildIds: 5927705637785081135
+  ChildIds: 18014333097065732668
+  ChildIds: 12184150616399206954
+  ChildIds: 18263516444989141482
+  ChildIds: 9461193764585960097
+  ChildIds: 15870034089543957803
+  ChildIds: 6095786697690921614
+  ChildIds: 9013278913829138801
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -21963,7 +21963,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7286218441988846739
+  Id: 9013278913829138801
   Name: "Column Base 02"
   Transform {
     Location {
@@ -21981,7 +21981,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -22004,7 +22004,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22026,7 +22026,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2548560843964103326
+  Id: 6095786697690921614
   Name: "Column Base 02"
   Transform {
     Location {
@@ -22044,7 +22044,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -22067,7 +22067,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22089,7 +22089,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6951806645192027513
+  Id: 15870034089543957803
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -22105,7 +22105,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -22150,7 +22150,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9360139710992291419
+  Id: 9461193764585960097
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -22166,7 +22166,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -22211,7 +22211,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12953943315521153215
+  Id: 18263516444989141482
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -22228,7 +22228,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22242,7 +22242,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22264,7 +22264,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1914474795162330941
+  Id: 12184150616399206954
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -22281,7 +22281,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22317,7 +22317,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8360357752910296689
+  Id: 18014333097065732668
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -22333,7 +22333,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22347,7 +22347,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22369,7 +22369,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18079079259791355286
+  Id: 5927705637785081135
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -22388,7 +22388,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22402,7 +22402,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22424,7 +22424,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14393053957798107754
+  Id: 4661812600442149437
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -22441,7 +22441,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 11288565676171653201
+  ParentId: 2761405704675168497
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22455,7 +22455,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22477,7 +22477,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13692740188291072596
+  Id: 5431313355551479507
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -22493,16 +22493,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 14677794511244564141
-  ChildIds: 9563905401472283948
-  ChildIds: 11734365663199797372
-  ChildIds: 18114769649797257161
-  ChildIds: 7477117189148473001
-  ChildIds: 814707566976927577
-  ChildIds: 10644199318326185945
-  ChildIds: 13511248193122344516
-  ChildIds: 5639195845361441676
+  ParentId: 13906263635417614374
+  ChildIds: 11099654784047737772
+  ChildIds: 9346115053031422915
+  ChildIds: 8345368511128634231
+  ChildIds: 15468506505497387363
+  ChildIds: 14958473781877023080
+  ChildIds: 9889893688146134482
+  ChildIds: 11290697244104589511
+  ChildIds: 6507268874302251441
+  ChildIds: 9496843076958767041
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22523,7 +22523,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5639195845361441676
+  Id: 9496843076958767041
   Name: "Column Base 02"
   Transform {
     Location {
@@ -22541,7 +22541,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -22564,7 +22564,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22586,7 +22586,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13511248193122344516
+  Id: 6507268874302251441
   Name: "Column Base 02"
   Transform {
     Location {
@@ -22604,7 +22604,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -22627,7 +22627,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22649,7 +22649,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10644199318326185945
+  Id: 11290697244104589511
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -22665,7 +22665,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -22710,7 +22710,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 814707566976927577
+  Id: 9889893688146134482
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -22726,7 +22726,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -22771,7 +22771,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7477117189148473001
+  Id: 14958473781877023080
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -22788,7 +22788,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22802,7 +22802,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22824,7 +22824,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18114769649797257161
+  Id: 15468506505497387363
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -22841,7 +22841,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22877,7 +22877,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11734365663199797372
+  Id: 8345368511128634231
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -22893,7 +22893,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22907,7 +22907,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22929,7 +22929,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9563905401472283948
+  Id: 9346115053031422915
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -22948,7 +22948,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -22962,7 +22962,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -22984,7 +22984,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14677794511244564141
+  Id: 11099654784047737772
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -23001,7 +23001,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 13692740188291072596
+  ParentId: 5431313355551479507
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23015,7 +23015,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23037,7 +23037,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1041464511015308514
+  Id: 17670449391288660164
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -23053,16 +23053,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 10080720326509139967
-  ChildIds: 10637454579504112921
-  ChildIds: 9860336576936960526
-  ChildIds: 1999255766287325315
-  ChildIds: 13787699597908255060
-  ChildIds: 3185266153438961565
-  ChildIds: 12637527381921022044
-  ChildIds: 18043946256123932072
-  ChildIds: 17977771011319750506
+  ParentId: 13906263635417614374
+  ChildIds: 13307987106111425182
+  ChildIds: 7032663743264218045
+  ChildIds: 6769107394083010150
+  ChildIds: 17690877463957772041
+  ChildIds: 8524765964183328304
+  ChildIds: 58310723748222312
+  ChildIds: 12831955702110963030
+  ChildIds: 6610146739463014831
+  ChildIds: 17073441304441706286
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23083,7 +23083,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17977771011319750506
+  Id: 17073441304441706286
   Name: "Column Base 02"
   Transform {
     Location {
@@ -23101,7 +23101,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -23124,7 +23124,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23146,7 +23146,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18043946256123932072
+  Id: 6610146739463014831
   Name: "Column Base 02"
   Transform {
     Location {
@@ -23164,7 +23164,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -23187,7 +23187,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23209,7 +23209,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12637527381921022044
+  Id: 12831955702110963030
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -23225,7 +23225,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -23270,7 +23270,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3185266153438961565
+  Id: 58310723748222312
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -23286,7 +23286,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -23331,7 +23331,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13787699597908255060
+  Id: 8524765964183328304
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -23348,7 +23348,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23362,7 +23362,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23384,7 +23384,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1999255766287325315
+  Id: 17690877463957772041
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -23401,7 +23401,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23437,7 +23437,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9860336576936960526
+  Id: 6769107394083010150
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -23453,7 +23453,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23467,7 +23467,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23489,7 +23489,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10637454579504112921
+  Id: 7032663743264218045
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -23508,7 +23508,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23522,7 +23522,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23544,7 +23544,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10080720326509139967
+  Id: 13307987106111425182
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -23561,7 +23561,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 1041464511015308514
+  ParentId: 17670449391288660164
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23575,7 +23575,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23597,7 +23597,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6869076685855904857
+  Id: 3501956578440690143
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -23613,16 +23613,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 14549171746370471082
-  ChildIds: 4043976041530738100
-  ChildIds: 14329974511222036599
-  ChildIds: 12625746176806051577
-  ChildIds: 2806152241449491272
-  ChildIds: 18399161207867153111
-  ChildIds: 13706647053963691481
-  ChildIds: 800553565140674059
-  ChildIds: 15910495525561401807
+  ParentId: 13906263635417614374
+  ChildIds: 18001038110856982675
+  ChildIds: 9504158463483279517
+  ChildIds: 7007673618427375793
+  ChildIds: 6977745613474541491
+  ChildIds: 17212056093909644637
+  ChildIds: 15777148942695141495
+  ChildIds: 8522727852418301428
+  ChildIds: 9605122061035683438
+  ChildIds: 1176739869245652487
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23643,7 +23643,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15910495525561401807
+  Id: 1176739869245652487
   Name: "Column Base 02"
   Transform {
     Location {
@@ -23661,7 +23661,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -23684,7 +23684,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23706,7 +23706,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 800553565140674059
+  Id: 9605122061035683438
   Name: "Column Base 02"
   Transform {
     Location {
@@ -23724,7 +23724,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -23747,7 +23747,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23769,7 +23769,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13706647053963691481
+  Id: 8522727852418301428
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -23785,7 +23785,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -23830,7 +23830,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18399161207867153111
+  Id: 15777148942695141495
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -23846,7 +23846,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -23891,7 +23891,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2806152241449491272
+  Id: 17212056093909644637
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -23908,7 +23908,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23922,7 +23922,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -23944,7 +23944,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12625746176806051577
+  Id: 6977745613474541491
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -23961,7 +23961,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -23997,7 +23997,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14329974511222036599
+  Id: 7007673618427375793
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -24013,7 +24013,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24027,7 +24027,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24049,7 +24049,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4043976041530738100
+  Id: 9504158463483279517
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -24068,7 +24068,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24082,7 +24082,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24104,7 +24104,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14549171746370471082
+  Id: 18001038110856982675
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -24121,7 +24121,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 6869076685855904857
+  ParentId: 3501956578440690143
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24135,7 +24135,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24157,7 +24157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 98946785921948486
+  Id: 10443229542837307546
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -24173,16 +24173,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 9310808501453194327
-  ChildIds: 13396294664760862676
-  ChildIds: 10802926187022985117
-  ChildIds: 2509240292006146946
-  ChildIds: 9555788730646939183
-  ChildIds: 6760454325411235929
-  ChildIds: 1703105911000999164
-  ChildIds: 14816484369290180391
-  ChildIds: 17142990734293526935
+  ParentId: 13906263635417614374
+  ChildIds: 9008967246801626654
+  ChildIds: 8169788017443558533
+  ChildIds: 1210683962634041718
+  ChildIds: 10803687430089555965
+  ChildIds: 1133755232115814373
+  ChildIds: 10609121468358822314
+  ChildIds: 10815888477959420538
+  ChildIds: 12654309696400910257
+  ChildIds: 8404685068628076809
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24203,7 +24203,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17142990734293526935
+  Id: 8404685068628076809
   Name: "Column Base 02"
   Transform {
     Location {
@@ -24221,7 +24221,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -24244,7 +24244,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24266,7 +24266,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14816484369290180391
+  Id: 12654309696400910257
   Name: "Column Base 02"
   Transform {
     Location {
@@ -24284,7 +24284,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -24307,7 +24307,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24329,7 +24329,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1703105911000999164
+  Id: 10815888477959420538
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -24345,7 +24345,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -24390,7 +24390,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6760454325411235929
+  Id: 10609121468358822314
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -24406,7 +24406,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -24451,7 +24451,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9555788730646939183
+  Id: 1133755232115814373
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -24468,7 +24468,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24482,7 +24482,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24504,7 +24504,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2509240292006146946
+  Id: 10803687430089555965
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -24521,7 +24521,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24557,7 +24557,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10802926187022985117
+  Id: 1210683962634041718
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -24573,7 +24573,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24587,7 +24587,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24609,7 +24609,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13396294664760862676
+  Id: 8169788017443558533
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -24628,7 +24628,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24642,7 +24642,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24664,7 +24664,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9310808501453194327
+  Id: 9008967246801626654
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -24681,7 +24681,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 98946785921948486
+  ParentId: 10443229542837307546
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24695,7 +24695,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24717,7 +24717,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3200606825044213423
+  Id: 11215472055170302392
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -24733,16 +24733,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 2795408533939238295
-  ChildIds: 8142365753965194458
-  ChildIds: 17751856539902358577
-  ChildIds: 17054460990542720819
-  ChildIds: 9657197037510207538
-  ChildIds: 15395565935046495745
-  ChildIds: 3375685845290101065
-  ChildIds: 7788035341947895561
-  ChildIds: 2287134719920540580
+  ParentId: 13906263635417614374
+  ChildIds: 679844148230835239
+  ChildIds: 2823971124739360058
+  ChildIds: 134101171391281050
+  ChildIds: 17518521162910062914
+  ChildIds: 13567715255172099162
+  ChildIds: 7497320356384070752
+  ChildIds: 4852905123545614563
+  ChildIds: 16540115622536771323
+  ChildIds: 3861339545454417717
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -24763,7 +24763,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2287134719920540580
+  Id: 3861339545454417717
   Name: "Column Base 02"
   Transform {
     Location {
@@ -24781,7 +24781,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -24804,7 +24804,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24826,7 +24826,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7788035341947895561
+  Id: 16540115622536771323
   Name: "Column Base 02"
   Transform {
     Location {
@@ -24844,7 +24844,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -24867,7 +24867,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -24889,7 +24889,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3375685845290101065
+  Id: 4852905123545614563
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -24905,7 +24905,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -24950,7 +24950,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15395565935046495745
+  Id: 7497320356384070752
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -24966,7 +24966,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -25011,7 +25011,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9657197037510207538
+  Id: 13567715255172099162
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -25028,7 +25028,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25042,7 +25042,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25064,7 +25064,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17054460990542720819
+  Id: 17518521162910062914
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -25081,7 +25081,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25117,7 +25117,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17751856539902358577
+  Id: 134101171391281050
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -25133,7 +25133,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25147,7 +25147,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25169,7 +25169,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8142365753965194458
+  Id: 2823971124739360058
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -25188,7 +25188,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25202,7 +25202,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25224,7 +25224,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2795408533939238295
+  Id: 679844148230835239
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -25241,7 +25241,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 3200606825044213423
+  ParentId: 11215472055170302392
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25255,7 +25255,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25277,7 +25277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16905533971741464600
+  Id: 11164509985086479151
   Name: "PlatformBracers"
   Transform {
     Location {
@@ -25292,16 +25292,16 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13561696785996182983
-  ChildIds: 13249577405982066047
-  ChildIds: 9820358474793832373
-  ChildIds: 13426692569694591340
-  ChildIds: 3362355113206017116
-  ChildIds: 5492572609081453238
-  ChildIds: 14141311837524507406
-  ChildIds: 16272694287558413423
-  ChildIds: 9267247968208439333
-  ChildIds: 16712343333147685794
+  ParentId: 13906263635417614374
+  ChildIds: 9408923947854003596
+  ChildIds: 3253593415868083763
+  ChildIds: 11776075454499656744
+  ChildIds: 2303305601021455748
+  ChildIds: 3050916243693792389
+  ChildIds: 6742882664857244177
+  ChildIds: 13592091553946691082
+  ChildIds: 6249807493702791366
+  ChildIds: 2985676880310197825
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25322,7 +25322,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16712343333147685794
+  Id: 2985676880310197825
   Name: "Column Base 02"
   Transform {
     Location {
@@ -25340,7 +25340,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -25363,7 +25363,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25385,7 +25385,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9267247968208439333
+  Id: 6249807493702791366
   Name: "Column Base 02"
   Transform {
     Location {
@@ -25403,7 +25403,7 @@ Objects {
       Z: 0.503782
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -25426,7 +25426,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 4193024863549911546
+      Id: 4678801537593034345
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25448,7 +25448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16272694287558413423
+  Id: 13592091553946691082
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -25464,7 +25464,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -25509,7 +25509,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14141311837524507406
+  Id: 6742882664857244177
   Name: "Square Column Topper 01"
   Transform {
     Location {
@@ -25525,7 +25525,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -25570,7 +25570,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5492572609081453238
+  Id: 3050916243693792389
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -25587,7 +25587,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25601,7 +25601,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25623,7 +25623,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3362355113206017116
+  Id: 2303305601021455748
   Name: "SciFi Trim 01 S bend"
   Transform {
     Location {
@@ -25640,7 +25640,7 @@ Objects {
       Z: 0.193
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25676,7 +25676,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13426692569694591340
+  Id: 11776075454499656744
   Name: "SciFi Trim 01"
   Transform {
     Location {
@@ -25692,7 +25692,7 @@ Objects {
       Z: 0.192899153
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25706,7 +25706,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 9357136467534017562
+      Id: 4693264132494587556
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25728,7 +25728,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9820358474793832373
+  Id: 3253593415868083763
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -25747,7 +25747,7 @@ Objects {
       Z: 2.63789916
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25761,7 +25761,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25783,7 +25783,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13249577405982066047
+  Id: 9408923947854003596
   Name: "SciFi Trim 01 bend 90"
   Transform {
     Location {
@@ -25800,7 +25800,7 @@ Objects {
       Z: 2.96796632
     }
   }
-  ParentId: 16905533971741464600
+  ParentId: 11164509985086479151
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25814,7 +25814,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7812390796038392390
+      Id: 2140913818093261140
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25836,7 +25836,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4688019843946864607
+  Id: 382004580369929979
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -25852,7 +25852,7 @@ Objects {
       Z: 100
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -25893,7 +25893,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 13565223774476700443
+      Id: 181318686039733865
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -25915,7 +25915,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17438549386480480059
+  Id: 18276335768224128200
   Name: "Foliage"
   Transform {
     Location {
@@ -25931,7 +25931,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25953,7 +25953,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 781879705766348468
+  Id: 6792163958339529652
   Name: "Undersupports"
   Transform {
     Location {
@@ -25970,11 +25970,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 5285884901475019802
-  ChildIds: 6476109731011595519
-  ChildIds: 17186102606708208150
-  ChildIds: 8866702651957227211
+  ParentId: 7039958364673215819
+  ChildIds: 14464958462978116518
+  ChildIds: 14352900772107676861
+  ChildIds: 9291745820864780023
+  ChildIds: 11643897833118967240
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -25995,7 +25995,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8866702651957227211
+  Id: 11643897833118967240
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26012,12 +26012,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 781879705766348468
+  ParentId: 6792163958339529652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26032,7 +26032,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26054,7 +26054,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17186102606708208150
+  Id: 9291745820864780023
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26071,12 +26071,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 781879705766348468
+  ParentId: 6792163958339529652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26091,7 +26091,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26113,7 +26113,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6476109731011595519
+  Id: 14352900772107676861
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26129,12 +26129,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 781879705766348468
+  ParentId: 6792163958339529652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26149,7 +26149,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26171,7 +26171,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5285884901475019802
+  Id: 14464958462978116518
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26189,12 +26189,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 781879705766348468
+  ParentId: 6792163958339529652
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26209,7 +26209,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26231,7 +26231,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7764996818935329321
+  Id: 9415395632779644415
   Name: "Undersupports"
   Transform {
     Location {
@@ -26248,11 +26248,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 11135278169363829412
-  ChildIds: 434038505917576005
-  ChildIds: 4537970701950271734
-  ChildIds: 8899043549051942912
+  ParentId: 7039958364673215819
+  ChildIds: 2208406386055049017
+  ChildIds: 18062251067421448824
+  ChildIds: 16728628841699504731
+  ChildIds: 14957840034907355264
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -26273,7 +26273,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8899043549051942912
+  Id: 14957840034907355264
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26290,12 +26290,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 7764996818935329321
+  ParentId: 9415395632779644415
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26310,7 +26310,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26332,7 +26332,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4537970701950271734
+  Id: 16728628841699504731
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26349,12 +26349,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 7764996818935329321
+  ParentId: 9415395632779644415
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26369,7 +26369,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26391,7 +26391,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 434038505917576005
+  Id: 18062251067421448824
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26407,12 +26407,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 7764996818935329321
+  ParentId: 9415395632779644415
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26427,7 +26427,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26449,7 +26449,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11135278169363829412
+  Id: 2208406386055049017
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26467,12 +26467,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 7764996818935329321
+  ParentId: 9415395632779644415
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26487,7 +26487,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26509,7 +26509,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6412461758901324685
+  Id: 9405052127390425997
   Name: "Undersupports"
   Transform {
     Location {
@@ -26526,11 +26526,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 12363739921894558280
-  ChildIds: 7361485183574873144
-  ChildIds: 8698018312121782524
-  ChildIds: 992937489933546153
+  ParentId: 7039958364673215819
+  ChildIds: 2388099232599628071
+  ChildIds: 819879410884320150
+  ChildIds: 10033168740210320551
+  ChildIds: 1487890584433779400
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -26551,7 +26551,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 992937489933546153
+  Id: 1487890584433779400
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26568,12 +26568,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 6412461758901324685
+  ParentId: 9405052127390425997
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26588,7 +26588,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26610,7 +26610,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8698018312121782524
+  Id: 10033168740210320551
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26627,12 +26627,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 6412461758901324685
+  ParentId: 9405052127390425997
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26647,7 +26647,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26669,7 +26669,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7361485183574873144
+  Id: 819879410884320150
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26685,12 +26685,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 6412461758901324685
+  ParentId: 9405052127390425997
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26705,7 +26705,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26727,7 +26727,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12363739921894558280
+  Id: 2388099232599628071
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26745,12 +26745,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 6412461758901324685
+  ParentId: 9405052127390425997
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26765,7 +26765,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26787,7 +26787,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16486340256866118979
+  Id: 5861433255180881505
   Name: "Undersupports"
   Transform {
     Location {
@@ -26803,11 +26803,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 17485511643331365878
-  ChildIds: 9454620630850751318
-  ChildIds: 3361786988331301314
-  ChildIds: 12003636201058368033
+  ParentId: 7039958364673215819
+  ChildIds: 3183895971707806665
+  ChildIds: 11180267508872629332
+  ChildIds: 7828741703474150767
+  ChildIds: 65456993368624376
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -26828,7 +26828,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12003636201058368033
+  Id: 65456993368624376
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26845,12 +26845,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 16486340256866118979
+  ParentId: 5861433255180881505
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26865,7 +26865,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26887,7 +26887,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3361786988331301314
+  Id: 7828741703474150767
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26904,12 +26904,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 16486340256866118979
+  ParentId: 5861433255180881505
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26924,7 +26924,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -26946,7 +26946,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9454620630850751318
+  Id: 11180267508872629332
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -26962,12 +26962,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 16486340256866118979
+  ParentId: 5861433255180881505
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -26982,7 +26982,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -27004,7 +27004,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17485511643331365878
+  Id: 3183895971707806665
   Name: "Cylinder - Chamfered Small Polished"
   Transform {
     Location {
@@ -27020,12 +27020,12 @@ Objects {
       Z: 24.9000072
     }
   }
-  ParentId: 16486340256866118979
+  ParentId: 5861433255180881505
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 8636322695779661300
+        Id: 10291375382347379579
       }
     }
   }
@@ -27040,7 +27040,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 16994468833963340401
+      Id: 6382662502274878333
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -27062,7 +27062,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8739099745974248685
+  Id: 16412091614093121718
   Name: "Walkway"
   Transform {
     Location {
@@ -27078,15 +27078,15 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 13526672078596729568
-  ChildIds: 8164529709357831459
-  ChildIds: 3253719100450583535
-  ChildIds: 11259438335157535541
-  ChildIds: 3456895887100800747
-  ChildIds: 8878799319689188522
-  ChildIds: 18352307074846411387
-  ChildIds: 14032821983714385202
+  ParentId: 7039958364673215819
+  ChildIds: 6293810604406653585
+  ChildIds: 891414973359534286
+  ChildIds: 12938084254867855910
+  ChildIds: 7146901271853260902
+  ChildIds: 16185502901669718332
+  ChildIds: 8602099477064347211
+  ChildIds: 3203318474093168153
+  ChildIds: 17018284150812801083
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -27107,7 +27107,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14032821983714385202
+  Id: 17018284150812801083
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27122,12 +27122,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8739099745974248685
+  ParentId: 16412091614093121718
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -27164,7 +27164,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18352307074846411387
+  Id: 3203318474093168153
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27179,12 +27179,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8739099745974248685
+  ParentId: 16412091614093121718
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -27221,7 +27221,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8878799319689188522
+  Id: 8602099477064347211
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27235,12 +27235,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8739099745974248685
+  ParentId: 16412091614093121718
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -27277,7 +27277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3456895887100800747
+  Id: 16185502901669718332
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27292,12 +27292,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8739099745974248685
+  ParentId: 16412091614093121718
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -27334,7 +27334,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11259438335157535541
+  Id: 7146901271853260902
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27349,12 +27349,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8739099745974248685
+  ParentId: 16412091614093121718
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -27391,7 +27391,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3253719100450583535
+  Id: 12938084254867855910
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27406,12 +27406,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8739099745974248685
+  ParentId: 16412091614093121718
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -27448,7 +27448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8164529709357831459
+  Id: 891414973359534286
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27463,12 +27463,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8739099745974248685
+  ParentId: 16412091614093121718
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -27505,7 +27505,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13526672078596729568
+  Id: 6293810604406653585
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27520,12 +27520,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8739099745974248685
+  ParentId: 16412091614093121718
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -27562,7 +27562,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16473641300124597064
+  Id: 5800660433437274057
   Name: "Walkway"
   Transform {
     Location {
@@ -27579,15 +27579,15 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 12974067742618422796
-  ChildIds: 15941392570650057387
-  ChildIds: 9226319837329194179
-  ChildIds: 14798468831005322570
-  ChildIds: 7499672706675065043
-  ChildIds: 1702411313419438803
-  ChildIds: 11433587075867850314
-  ChildIds: 10730274481140122456
+  ParentId: 7039958364673215819
+  ChildIds: 13609438207021470881
+  ChildIds: 14633922717475250538
+  ChildIds: 11943636915607487576
+  ChildIds: 1033654842374072465
+  ChildIds: 3266303292260532760
+  ChildIds: 15303357909472473841
+  ChildIds: 3694249266967917410
+  ChildIds: 13011270476147342911
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -27608,7 +27608,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10730274481140122456
+  Id: 13011270476147342911
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27623,7 +27623,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16473641300124597064
+  ParentId: 5800660433437274057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27665,7 +27665,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11433587075867850314
+  Id: 3694249266967917410
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27679,7 +27679,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16473641300124597064
+  ParentId: 5800660433437274057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27721,7 +27721,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1702411313419438803
+  Id: 15303357909472473841
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27736,7 +27736,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16473641300124597064
+  ParentId: 5800660433437274057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27778,7 +27778,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7499672706675065043
+  Id: 3266303292260532760
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27793,7 +27793,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16473641300124597064
+  ParentId: 5800660433437274057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27835,7 +27835,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14798468831005322570
+  Id: 1033654842374072465
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27850,7 +27850,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16473641300124597064
+  ParentId: 5800660433437274057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27892,7 +27892,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9226319837329194179
+  Id: 11943636915607487576
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27907,7 +27907,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16473641300124597064
+  ParentId: 5800660433437274057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -27949,7 +27949,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15941392570650057387
+  Id: 14633922717475250538
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -27964,7 +27964,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16473641300124597064
+  ParentId: 5800660433437274057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28006,7 +28006,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12974067742618422796
+  Id: 13609438207021470881
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -28021,7 +28021,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16473641300124597064
+  ParentId: 5800660433437274057
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28063,7 +28063,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3168038103900783767
+  Id: 15603684292749040833
   Name: "Scifi Panel 1x3m Angled Right"
   Transform {
     Location {
@@ -28082,7 +28082,7 @@ Objects {
       Z: 7.3
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28102,7 +28102,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 6897042636459259472
+      Id: 10704779908275627381
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -28124,7 +28124,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14083068780426131332
+  Id: 8618884755929466051
   Name: "Scifi Panel 1x3m Angled Right"
   Transform {
     Location {
@@ -28143,7 +28143,7 @@ Objects {
       Z: 7.3
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28163,7 +28163,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 6897042636459259472
+      Id: 10704779908275627381
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -28185,7 +28185,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7205828031451865607
+  Id: 12534013826345622661
   Name: "Scifi Panel 1x3m Angled Right"
   Transform {
     Location {
@@ -28204,7 +28204,7 @@ Objects {
       Z: 7.3
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28224,7 +28224,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 6897042636459259472
+      Id: 10704779908275627381
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -28246,7 +28246,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4863663581336540993
+  Id: 12935709119242051769
   Name: "Scifi Panel 1x3m Angled Right"
   Transform {
     Location {
@@ -28265,7 +28265,7 @@ Objects {
       Z: 7.3
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -28285,7 +28285,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 6897042636459259472
+      Id: 10704779908275627381
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -28307,7 +28307,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13520528029126975648
+  Id: 12134208038124558370
   Name: "Walkway"
   Transform {
     Location {
@@ -28324,14 +28324,14 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 5856979176844414538
-  ChildIds: 18063010064083854999
-  ChildIds: 14766596379834293763
-  ChildIds: 15692653180252913178
-  ChildIds: 3644869609468954591
-  ChildIds: 11524723318368160577
-  ChildIds: 362926084894583254
+  ParentId: 7039958364673215819
+  ChildIds: 680090982805357070
+  ChildIds: 7517319065640482491
+  ChildIds: 17132651967782715215
+  ChildIds: 18263870842077940493
+  ChildIds: 1201739851902415960
+  ChildIds: 7307228886569494826
+  ChildIds: 7706181989919118328
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -28352,7 +28352,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 362926084894583254
+  Id: 7706181989919118328
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -28367,12 +28367,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13520528029126975648
+  ParentId: 12134208038124558370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -28409,7 +28409,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11524723318368160577
+  Id: 7307228886569494826
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -28424,12 +28424,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13520528029126975648
+  ParentId: 12134208038124558370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -28466,7 +28466,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3644869609468954591
+  Id: 1201739851902415960
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -28481,12 +28481,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13520528029126975648
+  ParentId: 12134208038124558370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -28523,7 +28523,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15692653180252913178
+  Id: 18263870842077940493
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -28538,12 +28538,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13520528029126975648
+  ParentId: 12134208038124558370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -28580,7 +28580,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14766596379834293763
+  Id: 17132651967782715215
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -28594,12 +28594,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13520528029126975648
+  ParentId: 12134208038124558370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -28636,7 +28636,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18063010064083854999
+  Id: 7517319065640482491
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -28651,12 +28651,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13520528029126975648
+  ParentId: 12134208038124558370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -28693,7 +28693,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5856979176844414538
+  Id: 680090982805357070
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -28708,12 +28708,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13520528029126975648
+  ParentId: 12134208038124558370
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -28750,7 +28750,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6195891669069797921
+  Id: 6887492244252557508
   Name: "FoliageBeds"
   Transform {
     Location {
@@ -28766,12 +28766,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 4970880452962799359
-  ChildIds: 16655898061446131587
-  ChildIds: 10955521803940274883
-  ChildIds: 18136763242600602624
-  ChildIds: 8383496498556055904
+  ParentId: 7039958364673215819
+  ChildIds: 11869445826145463375
+  ChildIds: 2558096441008807925
+  ChildIds: 17616297170675413942
+  ChildIds: 10421611148632143494
+  ChildIds: 13282321641252670937
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -28792,7 +28792,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8383496498556055904
+  Id: 13282321641252670937
   Name: "Main Platform Grass"
   Transform {
     Location {
@@ -28808,11 +28808,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6195891669069797921
-  ChildIds: 129599858810636723
-  ChildIds: 5731625823134721643
-  ChildIds: 8355697453612014318
-  ChildIds: 3674460027929189375
+  ParentId: 6887492244252557508
+  ChildIds: 2374272253299181652
+  ChildIds: 7494175784465295012
+  ChildIds: 15182522188607600160
+  ChildIds: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -28833,7 +28833,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3674460027929189375
+  Id: 15684543891579166251
   Name: "ParkGrass"
   Transform {
     Location {
@@ -28848,36 +28848,36 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8383496498556055904
-  ChildIds: 8688842059877315139
-  ChildIds: 2985426242717308783
-  ChildIds: 9974040931986599302
-  ChildIds: 9034742168846822174
-  ChildIds: 2505898446734415430
-  ChildIds: 11024205966805052857
-  ChildIds: 1305143695078230756
-  ChildIds: 2410749738637207284
-  ChildIds: 9425081735514737487
-  ChildIds: 7122474842342706711
-  ChildIds: 5529602349789355039
-  ChildIds: 5123081870223092812
-  ChildIds: 4913536953037922693
-  ChildIds: 3783597917482288740
-  ChildIds: 11728549062296862051
-  ChildIds: 5542651929771412937
-  ChildIds: 18113673200975239041
-  ChildIds: 11029166959105663928
-  ChildIds: 13607112427452537465
-  ChildIds: 5747481864431555207
-  ChildIds: 18262634028186972693
-  ChildIds: 12526764510117964335
-  ChildIds: 9146281289869162501
-  ChildIds: 14518576600137021932
-  ChildIds: 7744074839449798362
-  ChildIds: 13137009314780444097
-  ChildIds: 14738791388192008978
-  ChildIds: 7557509266273650783
-  ChildIds: 3913132568599640413
+  ParentId: 13282321641252670937
+  ChildIds: 12782348218018093074
+  ChildIds: 13417790420910953889
+  ChildIds: 13384715445406187950
+  ChildIds: 7866232633760841490
+  ChildIds: 5046055069168338391
+  ChildIds: 6444350905492445114
+  ChildIds: 10626420872832819460
+  ChildIds: 17855603535659416984
+  ChildIds: 3197210480622441525
+  ChildIds: 14998249557028241134
+  ChildIds: 11064812911825964620
+  ChildIds: 14467790818997616902
+  ChildIds: 16115136081353307158
+  ChildIds: 16717316594599851854
+  ChildIds: 14565206276547590133
+  ChildIds: 7598618424619713831
+  ChildIds: 18134474766660747260
+  ChildIds: 9042146031332843173
+  ChildIds: 10823647163699477675
+  ChildIds: 8891498555845913433
+  ChildIds: 1286523524601983201
+  ChildIds: 12298436366588466936
+  ChildIds: 12673253337260056953
+  ChildIds: 16848418637615730186
+  ChildIds: 1694121639608810319
+  ChildIds: 1662093368444487247
+  ChildIds: 8834963507688649987
+  ChildIds: 14565923975827284599
+  ChildIds: 12518958595478072295
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -28898,7 +28898,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3913132568599640413
+  Id: 12518958595478072295
   Name: "Grass Short"
   Transform {
     Location {
@@ -28915,7 +28915,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -28929,7 +28929,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -28951,7 +28951,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7557509266273650783
+  Id: 14565923975827284599
   Name: "Grass Short"
   Transform {
     Location {
@@ -28968,7 +28968,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -28982,7 +28982,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29004,7 +29004,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14738791388192008978
+  Id: 8834963507688649987
   Name: "Grass Short"
   Transform {
     Location {
@@ -29021,7 +29021,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29035,7 +29035,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29057,7 +29057,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13137009314780444097
+  Id: 1662093368444487247
   Name: "Grass Short"
   Transform {
     Location {
@@ -29074,7 +29074,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29088,7 +29088,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29110,7 +29110,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7744074839449798362
+  Id: 1694121639608810319
   Name: "Grass Short"
   Transform {
     Location {
@@ -29126,7 +29126,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29140,7 +29140,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29162,7 +29162,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14518576600137021932
+  Id: 16848418637615730186
   Name: "Grass Short"
   Transform {
     Location {
@@ -29178,7 +29178,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29192,7 +29192,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29214,7 +29214,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9146281289869162501
+  Id: 12673253337260056953
   Name: "Grass Tall"
   Transform {
     Location {
@@ -29230,7 +29230,7 @@ Objects {
       Z: 1.57946169
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29244,7 +29244,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29266,7 +29266,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12526764510117964335
+  Id: 12298436366588466936
   Name: "Grass Tall"
   Transform {
     Location {
@@ -29283,7 +29283,7 @@ Objects {
       Z: 1.46332526
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29297,7 +29297,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29319,7 +29319,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18262634028186972693
+  Id: 1286523524601983201
   Name: "Grass Tall"
   Transform {
     Location {
@@ -29335,7 +29335,7 @@ Objects {
       Z: 1.46332526
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29349,7 +29349,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29371,7 +29371,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5747481864431555207
+  Id: 8891498555845913433
   Name: "Grass Short"
   Transform {
     Location {
@@ -29387,7 +29387,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29401,7 +29401,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29423,7 +29423,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13607112427452537465
+  Id: 10823647163699477675
   Name: "Grass Short"
   Transform {
     Location {
@@ -29440,7 +29440,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29454,7 +29454,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29476,7 +29476,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11029166959105663928
+  Id: 9042146031332843173
   Name: "Grass Short"
   Transform {
     Location {
@@ -29492,7 +29492,7 @@ Objects {
       Z: 1.55612242
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29506,7 +29506,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29528,7 +29528,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18113673200975239041
+  Id: 18134474766660747260
   Name: "Grass Short"
   Transform {
     Location {
@@ -29544,7 +29544,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29558,7 +29558,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29580,7 +29580,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5542651929771412937
+  Id: 7598618424619713831
   Name: "Grass Short"
   Transform {
     Location {
@@ -29597,7 +29597,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29611,7 +29611,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29633,7 +29633,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11728549062296862051
+  Id: 14565206276547590133
   Name: "Grass Short"
   Transform {
     Location {
@@ -29650,7 +29650,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29664,7 +29664,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29686,7 +29686,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3783597917482288740
+  Id: 16717316594599851854
   Name: "Grass Short"
   Transform {
     Location {
@@ -29702,7 +29702,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29716,7 +29716,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29738,7 +29738,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4913536953037922693
+  Id: 16115136081353307158
   Name: "Grass Short"
   Transform {
     Location {
@@ -29754,7 +29754,7 @@ Objects {
       Z: 1.54612565
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29768,7 +29768,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29790,7 +29790,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5123081870223092812
+  Id: 14467790818997616902
   Name: "Grass Short"
   Transform {
     Location {
@@ -29806,7 +29806,7 @@ Objects {
       Z: 1.43635476
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29820,7 +29820,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29842,7 +29842,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5529602349789355039
+  Id: 11064812911825964620
   Name: "Grass Short"
   Transform {
     Location {
@@ -29858,7 +29858,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29872,7 +29872,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29894,7 +29894,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7122474842342706711
+  Id: 14998249557028241134
   Name: "Grass Short"
   Transform {
     Location {
@@ -29910,7 +29910,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29924,7 +29924,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29946,7 +29946,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9425081735514737487
+  Id: 3197210480622441525
   Name: "Grass Short"
   Transform {
     Location {
@@ -29962,7 +29962,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29976,7 +29976,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -29998,7 +29998,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2410749738637207284
+  Id: 17855603535659416984
   Name: "Grass Short"
   Transform {
     Location {
@@ -30014,7 +30014,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30028,7 +30028,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30050,7 +30050,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1305143695078230756
+  Id: 10626420872832819460
   Name: "Grass Short"
   Transform {
     Location {
@@ -30066,7 +30066,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30080,7 +30080,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30102,7 +30102,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11024205966805052857
+  Id: 6444350905492445114
   Name: "Grass Short"
   Transform {
     Location {
@@ -30118,7 +30118,7 @@ Objects {
       Z: 1.82568359
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30132,7 +30132,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30154,7 +30154,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2505898446734415430
+  Id: 5046055069168338391
   Name: "Grass Short"
   Transform {
     Location {
@@ -30170,7 +30170,7 @@ Objects {
       Z: 1.37585211
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30184,7 +30184,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30206,7 +30206,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9034742168846822174
+  Id: 7866232633760841490
   Name: "Grass Short"
   Transform {
     Location {
@@ -30222,7 +30222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30236,7 +30236,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30258,7 +30258,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9974040931986599302
+  Id: 13384715445406187950
   Name: "Grass Short"
   Transform {
     Location {
@@ -30274,7 +30274,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30288,7 +30288,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30310,7 +30310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2985426242717308783
+  Id: 13417790420910953889
   Name: "Grass Short"
   Transform {
     Location {
@@ -30326,7 +30326,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30340,7 +30340,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30362,7 +30362,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8688842059877315139
+  Id: 12782348218018093074
   Name: "Grass Short"
   Transform {
     Location {
@@ -30378,7 +30378,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3674460027929189375
+  ParentId: 15684543891579166251
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30392,7 +30392,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30414,7 +30414,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8355697453612014318
+  Id: 15182522188607600160
   Name: "ParkGrass"
   Transform {
     Location {
@@ -30430,35 +30430,35 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8383496498556055904
-  ChildIds: 13786728654035863417
-  ChildIds: 7994472693289107819
-  ChildIds: 3008470292061738366
-  ChildIds: 11240548062961765720
-  ChildIds: 17955441597654869491
-  ChildIds: 305959367869212502
-  ChildIds: 14042669550632351738
-  ChildIds: 3777142989879862117
-  ChildIds: 5915536903621066776
-  ChildIds: 15006223825720778970
-  ChildIds: 6911508609309076081
-  ChildIds: 8863714672550350698
-  ChildIds: 4336011451023336095
-  ChildIds: 14337373479642640107
-  ChildIds: 3375953836861442601
-  ChildIds: 2232421988989972159
-  ChildIds: 1396885733298045789
-  ChildIds: 4786109013169944663
-  ChildIds: 2680184789471811589
-  ChildIds: 14498017855354148339
-  ChildIds: 16939649128163241083
-  ChildIds: 18407011823975944143
-  ChildIds: 4695101828300296079
-  ChildIds: 6907405647460107333
-  ChildIds: 11211988806976930692
-  ChildIds: 984672116205018998
-  ChildIds: 5769036469969705956
-  ChildIds: 6068845645784181278
+  ParentId: 13282321641252670937
+  ChildIds: 14563050446017768830
+  ChildIds: 5105416455966891503
+  ChildIds: 9127661450896517047
+  ChildIds: 9766655666850468947
+  ChildIds: 1835462262707809051
+  ChildIds: 8349034913248999609
+  ChildIds: 5149981565619191163
+  ChildIds: 16219790148653624989
+  ChildIds: 4294198594005635371
+  ChildIds: 4252649320255953990
+  ChildIds: 9206494280761069618
+  ChildIds: 6489309991114965080
+  ChildIds: 11521748708268916375
+  ChildIds: 11252989290936969275
+  ChildIds: 9079801723388316229
+  ChildIds: 11709959790495857935
+  ChildIds: 5128863063945966981
+  ChildIds: 15292681229466334460
+  ChildIds: 1373912863674445690
+  ChildIds: 1892051890271389629
+  ChildIds: 2751029361048211078
+  ChildIds: 1896999417256352303
+  ChildIds: 18340976961987191943
+  ChildIds: 16474955826002313945
+  ChildIds: 11974736511778004408
+  ChildIds: 1992424045210988388
+  ChildIds: 6200020348355325217
+  ChildIds: 1428358471964600187
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30479,7 +30479,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6068845645784181278
+  Id: 1428358471964600187
   Name: "Grass Short"
   Transform {
     Location {
@@ -30495,7 +30495,7 @@ Objects {
       Z: 1.33889246
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30509,7 +30509,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30531,7 +30531,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5769036469969705956
+  Id: 6200020348355325217
   Name: "Grass Short"
   Transform {
     Location {
@@ -30546,7 +30546,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30560,7 +30560,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30582,7 +30582,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 984672116205018998
+  Id: 1992424045210988388
   Name: "Grass Short"
   Transform {
     Location {
@@ -30597,7 +30597,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30611,7 +30611,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30633,7 +30633,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11211988806976930692
+  Id: 11974736511778004408
   Name: "Grass Short"
   Transform {
     Location {
@@ -30648,7 +30648,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30662,7 +30662,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30684,7 +30684,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6907405647460107333
+  Id: 16474955826002313945
   Name: "Grass Short"
   Transform {
     Location {
@@ -30699,7 +30699,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30713,7 +30713,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30735,7 +30735,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4695101828300296079
+  Id: 18340976961987191943
   Name: "Grass Short"
   Transform {
     Location {
@@ -30750,7 +30750,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30764,7 +30764,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30786,7 +30786,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18407011823975944143
+  Id: 1896999417256352303
   Name: "Grass Short"
   Transform {
     Location {
@@ -30801,7 +30801,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30815,7 +30815,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30837,7 +30837,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16939649128163241083
+  Id: 2751029361048211078
   Name: "Grass Short"
   Transform {
     Location {
@@ -30852,7 +30852,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30866,7 +30866,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30888,7 +30888,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14498017855354148339
+  Id: 1892051890271389629
   Name: "Grass Short"
   Transform {
     Location {
@@ -30903,7 +30903,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30917,7 +30917,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30939,7 +30939,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2680184789471811589
+  Id: 1373912863674445690
   Name: "Grass Tall"
   Transform {
     Location {
@@ -30954,7 +30954,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30968,7 +30968,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -30990,7 +30990,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4786109013169944663
+  Id: 15292681229466334460
   Name: "Grass Tall"
   Transform {
     Location {
@@ -31005,7 +31005,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31019,7 +31019,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31041,7 +31041,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1396885733298045789
+  Id: 5128863063945966981
   Name: "Grass Tall"
   Transform {
     Location {
@@ -31056,7 +31056,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31070,7 +31070,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31092,7 +31092,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2232421988989972159
+  Id: 11709959790495857935
   Name: "Grass Tall"
   Transform {
     Location {
@@ -31107,7 +31107,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31121,7 +31121,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31143,7 +31143,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3375953836861442601
+  Id: 9079801723388316229
   Name: "Grass Short"
   Transform {
     Location {
@@ -31158,7 +31158,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31172,7 +31172,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31194,7 +31194,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14337373479642640107
+  Id: 11252989290936969275
   Name: "Grass Short"
   Transform {
     Location {
@@ -31209,7 +31209,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31223,7 +31223,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31245,7 +31245,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4336011451023336095
+  Id: 11521748708268916375
   Name: "Grass Short"
   Transform {
     Location {
@@ -31260,7 +31260,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31274,7 +31274,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31296,7 +31296,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8863714672550350698
+  Id: 6489309991114965080
   Name: "Grass Short"
   Transform {
     Location {
@@ -31311,7 +31311,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31325,7 +31325,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31347,7 +31347,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6911508609309076081
+  Id: 9206494280761069618
   Name: "Grass Short"
   Transform {
     Location {
@@ -31362,7 +31362,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31376,7 +31376,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31398,7 +31398,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15006223825720778970
+  Id: 4252649320255953990
   Name: "Grass Short"
   Transform {
     Location {
@@ -31413,7 +31413,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31427,7 +31427,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31449,7 +31449,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5915536903621066776
+  Id: 4294198594005635371
   Name: "Grass Short"
   Transform {
     Location {
@@ -31464,7 +31464,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31478,7 +31478,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31500,7 +31500,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3777142989879862117
+  Id: 16219790148653624989
   Name: "Grass Short"
   Transform {
     Location {
@@ -31515,7 +31515,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31529,7 +31529,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31551,7 +31551,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14042669550632351738
+  Id: 5149981565619191163
   Name: "Grass Short"
   Transform {
     Location {
@@ -31566,7 +31566,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31580,7 +31580,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31602,7 +31602,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 305959367869212502
+  Id: 8349034913248999609
   Name: "Grass Short"
   Transform {
     Location {
@@ -31617,7 +31617,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31631,7 +31631,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31653,7 +31653,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17955441597654869491
+  Id: 1835462262707809051
   Name: "Grass Short"
   Transform {
     Location {
@@ -31668,7 +31668,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31682,7 +31682,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31704,7 +31704,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11240548062961765720
+  Id: 9766655666850468947
   Name: "Grass Short"
   Transform {
     Location {
@@ -31719,7 +31719,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31733,7 +31733,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31755,7 +31755,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3008470292061738366
+  Id: 9127661450896517047
   Name: "Grass Short"
   Transform {
     Location {
@@ -31770,7 +31770,7 @@ Objects {
       Z: 1.50140452
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31784,7 +31784,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31806,7 +31806,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7994472693289107819
+  Id: 5105416455966891503
   Name: "Grass Short"
   Transform {
     Location {
@@ -31821,7 +31821,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31835,7 +31835,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31857,7 +31857,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13786728654035863417
+  Id: 14563050446017768830
   Name: "Grass Short"
   Transform {
     Location {
@@ -31872,7 +31872,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 8355697453612014318
+  ParentId: 15182522188607600160
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31886,7 +31886,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -31908,7 +31908,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5731625823134721643
+  Id: 7494175784465295012
   Name: "ParkGrass"
   Transform {
     Location {
@@ -31924,38 +31924,38 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8383496498556055904
-  ChildIds: 5282962544970527391
-  ChildIds: 10218739755843851883
-  ChildIds: 16222914039444966275
-  ChildIds: 3586218086168370073
-  ChildIds: 4754677552713986091
-  ChildIds: 15935145123265508343
-  ChildIds: 5877592198300064936
-  ChildIds: 9493427553690983254
-  ChildIds: 2545358959690511187
-  ChildIds: 11693216480806229025
-  ChildIds: 1479393485520953956
-  ChildIds: 8089161574665413613
-  ChildIds: 8334456168522544670
-  ChildIds: 834841623155397138
-  ChildIds: 15741896700887216732
-  ChildIds: 11510756070151140357
-  ChildIds: 12311289828979923654
-  ChildIds: 4371522625513172696
-  ChildIds: 17450589601192994813
-  ChildIds: 14468173962359262723
-  ChildIds: 333814107947136789
-  ChildIds: 1521486401981534029
-  ChildIds: 9503393948481976552
-  ChildIds: 5162907409184242750
-  ChildIds: 15480193562883851236
-  ChildIds: 17463613873463408594
-  ChildIds: 17581415097551477091
-  ChildIds: 17713924894088988272
-  ChildIds: 3920685741696279629
-  ChildIds: 9172682274321671019
-  ChildIds: 5947943235197830265
+  ParentId: 13282321641252670937
+  ChildIds: 5929775233431453303
+  ChildIds: 1881588798594862853
+  ChildIds: 16359825936200331400
+  ChildIds: 3377478897422273461
+  ChildIds: 6855712216538548198
+  ChildIds: 6471377253117684294
+  ChildIds: 11371323171712906718
+  ChildIds: 1629665806701686434
+  ChildIds: 7064090283808043710
+  ChildIds: 14896411088467358402
+  ChildIds: 16580979957359477769
+  ChildIds: 8050261072047512452
+  ChildIds: 17898953084930332435
+  ChildIds: 4340661304446683874
+  ChildIds: 14860129646393047338
+  ChildIds: 5201262265818669564
+  ChildIds: 452920200187072599
+  ChildIds: 16899072302606755508
+  ChildIds: 6952543028222480958
+  ChildIds: 14541758794613083612
+  ChildIds: 17707877415103676068
+  ChildIds: 10963759659351315604
+  ChildIds: 2846702250545174877
+  ChildIds: 8617889823135061581
+  ChildIds: 13642252765766196908
+  ChildIds: 17215597261776816624
+  ChildIds: 3914404599494075503
+  ChildIds: 9181009822509420865
+  ChildIds: 12400741415179117994
+  ChildIds: 12520061459257275844
+  ChildIds: 14159279332575499982
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31976,7 +31976,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5947943235197830265
+  Id: 14159279332575499982
   Name: "Grass Short"
   Transform {
     Location {
@@ -31993,7 +31993,7 @@ Objects {
       Z: 0.912594497
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32007,7 +32007,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32029,7 +32029,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9172682274321671019
+  Id: 12520061459257275844
   Name: "Grass Short"
   Transform {
     Location {
@@ -32046,7 +32046,7 @@ Objects {
       Z: 0.912594497
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32060,7 +32060,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32082,7 +32082,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3920685741696279629
+  Id: 12400741415179117994
   Name: "Grass Short"
   Transform {
     Location {
@@ -32099,7 +32099,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32113,7 +32113,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32135,7 +32135,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17713924894088988272
+  Id: 9181009822509420865
   Name: "Grass Short"
   Transform {
     Location {
@@ -32152,7 +32152,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32166,7 +32166,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32188,7 +32188,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17581415097551477091
+  Id: 3914404599494075503
   Name: "Grass Short"
   Transform {
     Location {
@@ -32205,7 +32205,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32219,7 +32219,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32241,7 +32241,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17463613873463408594
+  Id: 17215597261776816624
   Name: "Grass Short"
   Transform {
     Location {
@@ -32258,7 +32258,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32272,7 +32272,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32294,7 +32294,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15480193562883851236
+  Id: 13642252765766196908
   Name: "Grass Short"
   Transform {
     Location {
@@ -32310,7 +32310,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32324,7 +32324,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32346,7 +32346,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5162907409184242750
+  Id: 8617889823135061581
   Name: "Grass Short"
   Transform {
     Location {
@@ -32362,7 +32362,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32376,7 +32376,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32398,7 +32398,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9503393948481976552
+  Id: 2846702250545174877
   Name: "Grass Tall"
   Transform {
     Location {
@@ -32414,7 +32414,7 @@ Objects {
       Z: 1.57946169
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32428,7 +32428,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32450,7 +32450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1521486401981534029
+  Id: 10963759659351315604
   Name: "Grass Tall"
   Transform {
     Location {
@@ -32467,7 +32467,7 @@ Objects {
       Z: 1.46332526
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32481,7 +32481,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32503,7 +32503,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 333814107947136789
+  Id: 17707877415103676068
   Name: "Grass Tall"
   Transform {
     Location {
@@ -32519,7 +32519,7 @@ Objects {
       Z: 1.46332526
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32533,7 +32533,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32555,7 +32555,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14468173962359262723
+  Id: 14541758794613083612
   Name: "Grass Short"
   Transform {
     Location {
@@ -32571,7 +32571,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32585,7 +32585,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32607,7 +32607,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17450589601192994813
+  Id: 6952543028222480958
   Name: "Grass Short"
   Transform {
     Location {
@@ -32624,7 +32624,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32638,7 +32638,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32660,7 +32660,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4371522625513172696
+  Id: 16899072302606755508
   Name: "Grass Short"
   Transform {
     Location {
@@ -32676,7 +32676,7 @@ Objects {
       Z: 1.55612242
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32690,7 +32690,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32712,7 +32712,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12311289828979923654
+  Id: 452920200187072599
   Name: "Grass Short"
   Transform {
     Location {
@@ -32728,7 +32728,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32742,7 +32742,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32764,7 +32764,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11510756070151140357
+  Id: 5201262265818669564
   Name: "Grass Short"
   Transform {
     Location {
@@ -32781,7 +32781,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32795,7 +32795,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32817,7 +32817,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15741896700887216732
+  Id: 14860129646393047338
   Name: "Grass Short"
   Transform {
     Location {
@@ -32834,7 +32834,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32848,7 +32848,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32870,7 +32870,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 834841623155397138
+  Id: 4340661304446683874
   Name: "Grass Short"
   Transform {
     Location {
@@ -32886,7 +32886,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32900,7 +32900,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32922,7 +32922,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8334456168522544670
+  Id: 17898953084930332435
   Name: "Grass Short"
   Transform {
     Location {
@@ -32938,7 +32938,7 @@ Objects {
       Z: 1.54612565
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -32952,7 +32952,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -32974,7 +32974,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8089161574665413613
+  Id: 8050261072047512452
   Name: "Grass Short"
   Transform {
     Location {
@@ -32990,7 +32990,7 @@ Objects {
       Z: 1.43635476
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33004,7 +33004,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33026,7 +33026,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1479393485520953956
+  Id: 16580979957359477769
   Name: "Grass Short"
   Transform {
     Location {
@@ -33042,7 +33042,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33056,7 +33056,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33078,7 +33078,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11693216480806229025
+  Id: 14896411088467358402
   Name: "Grass Short"
   Transform {
     Location {
@@ -33094,7 +33094,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33108,7 +33108,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33130,7 +33130,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2545358959690511187
+  Id: 7064090283808043710
   Name: "Grass Short"
   Transform {
     Location {
@@ -33146,7 +33146,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33160,7 +33160,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33182,7 +33182,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9493427553690983254
+  Id: 1629665806701686434
   Name: "Grass Short"
   Transform {
     Location {
@@ -33198,7 +33198,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33212,7 +33212,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33234,7 +33234,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5877592198300064936
+  Id: 11371323171712906718
   Name: "Grass Short"
   Transform {
     Location {
@@ -33250,7 +33250,7 @@ Objects {
       Z: 1.25675154
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33264,7 +33264,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33286,7 +33286,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15935145123265508343
+  Id: 6471377253117684294
   Name: "Grass Short"
   Transform {
     Location {
@@ -33302,7 +33302,7 @@ Objects {
       Z: 1.82568359
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33316,7 +33316,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33338,7 +33338,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4754677552713986091
+  Id: 6855712216538548198
   Name: "Grass Short"
   Transform {
     Location {
@@ -33354,7 +33354,7 @@ Objects {
       Z: 1.37585211
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33368,7 +33368,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33390,7 +33390,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3586218086168370073
+  Id: 3377478897422273461
   Name: "Grass Short"
   Transform {
     Location {
@@ -33406,7 +33406,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33420,7 +33420,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33442,7 +33442,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16222914039444966275
+  Id: 16359825936200331400
   Name: "Grass Short"
   Transform {
     Location {
@@ -33458,7 +33458,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33472,7 +33472,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33494,7 +33494,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10218739755843851883
+  Id: 1881588798594862853
   Name: "Grass Short"
   Transform {
     Location {
@@ -33510,7 +33510,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33524,7 +33524,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33546,7 +33546,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5282962544970527391
+  Id: 5929775233431453303
   Name: "Grass Short"
   Transform {
     Location {
@@ -33562,7 +33562,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5731625823134721643
+  ParentId: 7494175784465295012
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33576,7 +33576,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33598,7 +33598,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 129599858810636723
+  Id: 2374272253299181652
   Name: "ParkGrass"
   Transform {
     Location {
@@ -33615,38 +33615,38 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8383496498556055904
-  ChildIds: 12461893073015238617
-  ChildIds: 13272557660103790450
-  ChildIds: 2064533878529441164
-  ChildIds: 13431559769470697857
-  ChildIds: 10509109460914399421
-  ChildIds: 178356573296193947
-  ChildIds: 10041615096271929686
-  ChildIds: 1966895324018102397
-  ChildIds: 17888228918977628198
-  ChildIds: 1914948789726311157
-  ChildIds: 14577107149742081045
-  ChildIds: 17886259791370691252
-  ChildIds: 5674559883448820504
-  ChildIds: 7052418666013208164
-  ChildIds: 5070569151560072364
-  ChildIds: 4447932501332225902
-  ChildIds: 15130182225126760849
-  ChildIds: 7488309894949895837
-  ChildIds: 10605082606106716162
-  ChildIds: 15013403969638882172
-  ChildIds: 7129857322592134794
-  ChildIds: 7145899373003322535
-  ChildIds: 10030490989090495644
-  ChildIds: 14858086596932344022
-  ChildIds: 5760109729396501402
-  ChildIds: 17391607560496614592
-  ChildIds: 16241281220712053708
-  ChildIds: 7215003223202665269
-  ChildIds: 16355840709731022290
-  ChildIds: 3570372045816174042
-  ChildIds: 7635257419583932588
+  ParentId: 13282321641252670937
+  ChildIds: 14282742854635865010
+  ChildIds: 6942285993712898274
+  ChildIds: 273421934843867239
+  ChildIds: 1299203141228204786
+  ChildIds: 10982363473593316095
+  ChildIds: 10471408801422739294
+  ChildIds: 11962835516608237430
+  ChildIds: 5116946818664487883
+  ChildIds: 5398681885420981210
+  ChildIds: 7607471973124357307
+  ChildIds: 10121461064445586999
+  ChildIds: 16843842873323155671
+  ChildIds: 5441975179128868722
+  ChildIds: 9281167625111723015
+  ChildIds: 11097145089259819812
+  ChildIds: 8223206594607850811
+  ChildIds: 2933279922930134712
+  ChildIds: 982318751950517535
+  ChildIds: 12689703981586679310
+  ChildIds: 30911032257158252
+  ChildIds: 2041823008162690443
+  ChildIds: 10297457976670642250
+  ChildIds: 1594386025254883903
+  ChildIds: 3324353025238432213
+  ChildIds: 6228456093444854720
+  ChildIds: 5434706508270440712
+  ChildIds: 16531941683357173364
+  ChildIds: 13372168305826251886
+  ChildIds: 17259400559132477065
+  ChildIds: 16635425661133423607
+  ChildIds: 15958783443536429773
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33667,7 +33667,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7635257419583932588
+  Id: 15958783443536429773
   Name: "Grass Short"
   Transform {
     Location {
@@ -33684,7 +33684,7 @@ Objects {
       Z: 1.03159368
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33698,7 +33698,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33720,7 +33720,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3570372045816174042
+  Id: 16635425661133423607
   Name: "Grass Short"
   Transform {
     Location {
@@ -33737,7 +33737,7 @@ Objects {
       Z: 1.13688457
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33751,7 +33751,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33773,7 +33773,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16355840709731022290
+  Id: 17259400559132477065
   Name: "Grass Short"
   Transform {
     Location {
@@ -33790,7 +33790,7 @@ Objects {
       Z: 1.33889246
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33804,7 +33804,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33826,7 +33826,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7215003223202665269
+  Id: 13372168305826251886
   Name: "Grass Short"
   Transform {
     Location {
@@ -33842,7 +33842,7 @@ Objects {
       Z: 1.33889246
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33856,7 +33856,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33878,7 +33878,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16241281220712053708
+  Id: 16531941683357173364
   Name: "Grass Short"
   Transform {
     Location {
@@ -33893,7 +33893,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33907,7 +33907,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33929,7 +33929,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17391607560496614592
+  Id: 5434706508270440712
   Name: "Grass Short"
   Transform {
     Location {
@@ -33944,7 +33944,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -33958,7 +33958,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -33980,7 +33980,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5760109729396501402
+  Id: 6228456093444854720
   Name: "Grass Short"
   Transform {
     Location {
@@ -33995,7 +33995,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34009,7 +34009,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34031,7 +34031,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14858086596932344022
+  Id: 3324353025238432213
   Name: "Grass Short"
   Transform {
     Location {
@@ -34046,7 +34046,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34060,7 +34060,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34082,7 +34082,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10030490989090495644
+  Id: 1594386025254883903
   Name: "Grass Short"
   Transform {
     Location {
@@ -34097,7 +34097,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34111,7 +34111,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34133,7 +34133,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7145899373003322535
+  Id: 10297457976670642250
   Name: "Grass Short"
   Transform {
     Location {
@@ -34148,7 +34148,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34162,7 +34162,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34184,7 +34184,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7129857322592134794
+  Id: 2041823008162690443
   Name: "Grass Short"
   Transform {
     Location {
@@ -34199,7 +34199,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34213,7 +34213,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34235,7 +34235,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15013403969638882172
+  Id: 30911032257158252
   Name: "Grass Short"
   Transform {
     Location {
@@ -34250,7 +34250,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34264,7 +34264,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34286,7 +34286,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10605082606106716162
+  Id: 12689703981586679310
   Name: "Grass Tall"
   Transform {
     Location {
@@ -34301,7 +34301,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34315,7 +34315,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34337,7 +34337,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7488309894949895837
+  Id: 982318751950517535
   Name: "Grass Tall"
   Transform {
     Location {
@@ -34352,7 +34352,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34366,7 +34366,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34388,7 +34388,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15130182225126760849
+  Id: 2933279922930134712
   Name: "Grass Tall"
   Transform {
     Location {
@@ -34403,7 +34403,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34417,7 +34417,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34439,7 +34439,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4447932501332225902
+  Id: 8223206594607850811
   Name: "Grass Tall"
   Transform {
     Location {
@@ -34454,7 +34454,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34468,7 +34468,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 12836979567259307927
+      Id: 724736121547025431
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34490,7 +34490,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5070569151560072364
+  Id: 11097145089259819812
   Name: "Grass Short"
   Transform {
     Location {
@@ -34505,7 +34505,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34519,7 +34519,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34541,7 +34541,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7052418666013208164
+  Id: 9281167625111723015
   Name: "Grass Short"
   Transform {
     Location {
@@ -34557,7 +34557,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34571,7 +34571,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34593,7 +34593,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5674559883448820504
+  Id: 5441975179128868722
   Name: "Grass Short"
   Transform {
     Location {
@@ -34608,7 +34608,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34622,7 +34622,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34644,7 +34644,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17886259791370691252
+  Id: 16843842873323155671
   Name: "Grass Short"
   Transform {
     Location {
@@ -34659,7 +34659,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34673,7 +34673,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34695,7 +34695,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14577107149742081045
+  Id: 10121461064445586999
   Name: "Grass Short"
   Transform {
     Location {
@@ -34710,7 +34710,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34724,7 +34724,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34746,7 +34746,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1914948789726311157
+  Id: 7607471973124357307
   Name: "Grass Short"
   Transform {
     Location {
@@ -34761,7 +34761,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34775,7 +34775,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34797,7 +34797,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17888228918977628198
+  Id: 5398681885420981210
   Name: "Grass Short"
   Transform {
     Location {
@@ -34812,7 +34812,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34826,7 +34826,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34848,7 +34848,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1966895324018102397
+  Id: 5116946818664487883
   Name: "Grass Short"
   Transform {
     Location {
@@ -34863,7 +34863,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34877,7 +34877,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34899,7 +34899,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10041615096271929686
+  Id: 11962835516608237430
   Name: "Grass Short"
   Transform {
     Location {
@@ -34914,7 +34914,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34928,7 +34928,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -34950,7 +34950,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 178356573296193947
+  Id: 10471408801422739294
   Name: "Grass Short"
   Transform {
     Location {
@@ -34965,7 +34965,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -34979,7 +34979,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -35001,7 +35001,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10509109460914399421
+  Id: 10982363473593316095
   Name: "Grass Short"
   Transform {
     Location {
@@ -35016,7 +35016,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35030,7 +35030,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -35052,7 +35052,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13431559769470697857
+  Id: 1299203141228204786
   Name: "Grass Short"
   Transform {
     Location {
@@ -35067,7 +35067,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35081,7 +35081,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -35103,7 +35103,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2064533878529441164
+  Id: 273421934843867239
   Name: "Grass Short"
   Transform {
     Location {
@@ -35118,7 +35118,7 @@ Objects {
       Z: 1.50140452
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35132,7 +35132,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -35154,7 +35154,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13272557660103790450
+  Id: 6942285993712898274
   Name: "Grass Short"
   Transform {
     Location {
@@ -35169,7 +35169,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35183,7 +35183,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -35205,7 +35205,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12461893073015238617
+  Id: 14282742854635865010
   Name: "Grass Short"
   Transform {
     Location {
@@ -35220,7 +35220,7 @@ Objects {
       Z: 1.17732966
     }
   }
-  ParentId: 129599858810636723
+  ParentId: 2374272253299181652
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35234,7 +35234,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 7905923248328022453
+      Id: 7690577313690423173
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -35256,7 +35256,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18136763242600602624
+  Id: 10421611148632143494
   Name: "Pipe - Quarter Thick"
   Transform {
     Location {
@@ -35272,7 +35272,7 @@ Objects {
       Z: -2.34077096
     }
   }
-  ParentId: 6195891669069797921
+  ParentId: 6887492244252557508
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -35314,7 +35314,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10955521803940274883
+  Id: 17616297170675413942
   Name: "Pipe - Quarter Thick"
   Transform {
     Location {
@@ -35330,7 +35330,7 @@ Objects {
       Z: -2.34077096
     }
   }
-  ParentId: 6195891669069797921
+  ParentId: 6887492244252557508
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -35372,7 +35372,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16655898061446131587
+  Id: 2558096441008807925
   Name: "Pipe - Quarter Thick"
   Transform {
     Location {
@@ -35388,7 +35388,7 @@ Objects {
       Z: -2.34077096
     }
   }
-  ParentId: 6195891669069797921
+  ParentId: 6887492244252557508
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -35430,7 +35430,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4970880452962799359
+  Id: 11869445826145463375
   Name: "Pipe - Quarter Thick"
   Transform {
     Location {
@@ -35445,7 +35445,7 @@ Objects {
       Z: -2.34077096
     }
   }
-  ParentId: 6195891669069797921
+  ParentId: 6887492244252557508
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -35487,7 +35487,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13072679456614663757
+  Id: 3755785646932803151
   Name: "Walkway"
   Transform {
     Location {
@@ -35503,20 +35503,20 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
-  ChildIds: 6469531461200790534
-  ChildIds: 15049341250084027186
-  ChildIds: 5367067631439057664
-  ChildIds: 17075706864421506350
-  ChildIds: 1437258922767455109
-  ChildIds: 12895182442456637188
-  ChildIds: 12482861050164398271
-  ChildIds: 18183463691868508404
-  ChildIds: 18298333557724079811
-  ChildIds: 3553758093278242850
-  ChildIds: 11763317214613717896
-  ChildIds: 1493614716941258919
-  ChildIds: 9230071342433498221
+  ParentId: 7039958364673215819
+  ChildIds: 6237695276542149140
+  ChildIds: 7537572621940539954
+  ChildIds: 11705658741351862166
+  ChildIds: 3597031042358114736
+  ChildIds: 11394019444262092782
+  ChildIds: 4845874147399335489
+  ChildIds: 15649005199511067458
+  ChildIds: 2628608021014763899
+  ChildIds: 11706541745232233671
+  ChildIds: 14994888536413775122
+  ChildIds: 11190672614990854177
+  ChildIds: 6978613518286843617
+  ChildIds: 786958013178981372
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35537,7 +35537,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9230071342433498221
+  Id: 786958013178981372
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -35552,12 +35552,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -35594,7 +35594,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1493614716941258919
+  Id: 6978613518286843617
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -35609,12 +35609,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -35651,7 +35651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11763317214613717896
+  Id: 11190672614990854177
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -35666,12 +35666,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -35708,7 +35708,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3553758093278242850
+  Id: 14994888536413775122
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -35723,12 +35723,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -35765,7 +35765,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18298333557724079811
+  Id: 11706541745232233671
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -35780,12 +35780,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -35822,7 +35822,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18183463691868508404
+  Id: 2628608021014763899
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -35836,12 +35836,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -35878,7 +35878,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12482861050164398271
+  Id: 15649005199511067458
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -35893,12 +35893,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -35935,7 +35935,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12895182442456637188
+  Id: 4845874147399335489
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -35950,12 +35950,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -35992,7 +35992,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1437258922767455109
+  Id: 11394019444262092782
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -36007,12 +36007,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -36049,7 +36049,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17075706864421506350
+  Id: 3597031042358114736
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -36064,12 +36064,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -36106,7 +36106,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5367067631439057664
+  Id: 11705658741351862166
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -36121,12 +36121,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -36163,7 +36163,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15049341250084027186
+  Id: 7537572621940539954
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -36178,12 +36178,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -36220,7 +36220,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6469531461200790534
+  Id: 6237695276542149140
   Name: "Scifi Panel 1x4m"
   Transform {
     Location {
@@ -36235,12 +36235,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13072679456614663757
+  ParentId: 3755785646932803151
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 12163832307432149004
+        Id: 11159381378020818034
       }
     }
   }
@@ -36277,7 +36277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14057038914202404497
+  Id: 12132726462058934129
   Name: "Pipe - Thin"
   Transform {
     Location {
@@ -36293,12 +36293,12 @@ Objects {
       Z: 2.49999928
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 15153513534399946376
+        Id: 12559796121075739811
       }
     }
   }
@@ -36335,7 +36335,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9090019229070516320
+  Id: 198729078892024830
   Name: "Cone - Truncated Hollow Wide Thick"
   Transform {
     Location {
@@ -36351,12 +36351,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
-        Id: 15153513534399946376
+        Id: 12559796121075739811
       }
     }
     Overrides {
@@ -36383,7 +36383,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 10391209774534596780
+      Id: 3802294325101253944
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -36405,7 +36405,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17750392096397367083
+  Id: 5219738151877667150
   Name: "Ring - Beveled Thin"
   Transform {
     Location {
@@ -36421,7 +36421,7 @@ Objects {
       Z: 100
     }
   }
-  ParentId: 246870129344122642
+  ParentId: 7039958364673215819
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -36441,7 +36441,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 13565223774476700443
+      Id: 181318686039733865
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -36463,7 +36463,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12754143107778771266
+  Id: 9591592345532480744
   Name: "Ruins Sundial"
   Transform {
     Location {
@@ -36479,7 +36479,7 @@ Objects {
       Z: 1.14859152
     }
   }
-  ParentId: 1990793357114860554
+  ParentId: 7356824681383753860
   TemplateInstance {
     ParameterOverrideMap {
       key: 15324637263521503863
@@ -36517,7 +36517,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7962931397392420324
+  Id: 14717048981296344405
   Name: "Column for rpg"
   Transform {
     Location {
@@ -36533,7 +36533,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1990793357114860554
+  ParentId: 7356824681383753860
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36577,7 +36577,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5591194526985829218
+  Id: 7951459539784373759
   Name: "Ladder Stone"
   Transform {
     Location {
@@ -36590,33 +36590,33 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1990793357114860554
-  ChildIds: 4953853942629228654
-  ChildIds: 13165880962660818648
-  ChildIds: 15409054531461658270
-  ChildIds: 12661854233902002718
-  ChildIds: 6423355660051170681
-  ChildIds: 8135526157289315169
-  ChildIds: 15543210210383682114
-  ChildIds: 15972235353100690495
-  ChildIds: 7454356208240786277
-  ChildIds: 4592529681672970081
-  ChildIds: 6506303986272662024
-  ChildIds: 8484639507891020030
-  ChildIds: 12213373092704349278
-  ChildIds: 6771562246281412191
-  ChildIds: 13446889213503585583
-  ChildIds: 9477018907641724357
-  ChildIds: 6341250401347218666
-  ChildIds: 14840022763154056614
-  ChildIds: 3504949318982248684
-  ChildIds: 17442496264185333561
-  ChildIds: 9650874193983342646
-  ChildIds: 4667656591440413236
-  ChildIds: 14384678144414017331
-  ChildIds: 14531925364435578976
-  ChildIds: 1985319569747366897
-  ChildIds: 6318904018487930140
+  ParentId: 7356824681383753860
+  ChildIds: 9108130210627896510
+  ChildIds: 14362082634734137118
+  ChildIds: 15331730378158097241
+  ChildIds: 52540408143667677
+  ChildIds: 1736689609894917041
+  ChildIds: 8490635303030212471
+  ChildIds: 156387220444510965
+  ChildIds: 1158672795340924192
+  ChildIds: 13568892586257303531
+  ChildIds: 1963229736009324784
+  ChildIds: 11385955337115290783
+  ChildIds: 12106056392758031481
+  ChildIds: 1886155053676242448
+  ChildIds: 18227334848885469790
+  ChildIds: 15328673331975933056
+  ChildIds: 7999776017764976506
+  ChildIds: 11367675425423513670
+  ChildIds: 8254028918214663919
+  ChildIds: 13064741752870037100
+  ChildIds: 994850907868748920
+  ChildIds: 3224791805963459537
+  ChildIds: 7820119478224238480
+  ChildIds: 13325192896239917412
+  ChildIds: 12040501352647130617
+  ChildIds: 4354146886885107565
+  ChildIds: 11649882229350320568
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36638,7 +36638,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6318904018487930140
+  Id: 11649882229350320568
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -36655,7 +36655,7 @@ Objects {
       Z: 0.243011355
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36670,7 +36670,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -36693,7 +36693,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1985319569747366897
+  Id: 4354146886885107565
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -36710,7 +36710,7 @@ Objects {
       Z: -0.196403861
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36725,7 +36725,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -36748,7 +36748,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14531925364435578976
+  Id: 12040501352647130617
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -36765,7 +36765,7 @@ Objects {
       Z: -0.305870503
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36780,7 +36780,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -36803,7 +36803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14384678144414017331
+  Id: 13325192896239917412
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -36820,7 +36820,7 @@ Objects {
       Z: 0.207231477
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36835,7 +36835,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -36858,7 +36858,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4667656591440413236
+  Id: 7820119478224238480
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -36875,7 +36875,7 @@ Objects {
       Z: 0.355693609
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36890,7 +36890,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -36913,7 +36913,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9650874193983342646
+  Id: 3224791805963459537
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -36929,7 +36929,7 @@ Objects {
       Z: 0.550608397
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36944,7 +36944,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -36967,7 +36967,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17442496264185333561
+  Id: 994850907868748920
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -36984,7 +36984,7 @@ Objects {
       Z: 0.550608397
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -36999,7 +36999,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37022,7 +37022,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3504949318982248684
+  Id: 13064741752870037100
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37039,7 +37039,7 @@ Objects {
       Z: 0.550608397
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37054,7 +37054,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37077,7 +37077,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14840022763154056614
+  Id: 8254028918214663919
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37094,7 +37094,7 @@ Objects {
       Z: 0.550608397
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37109,7 +37109,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37132,7 +37132,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6341250401347218666
+  Id: 11367675425423513670
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37149,7 +37149,7 @@ Objects {
       Z: 0.266759455
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37164,7 +37164,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37187,7 +37187,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9477018907641724357
+  Id: 7999776017764976506
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37204,7 +37204,7 @@ Objects {
       Z: 0.243011355
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37219,7 +37219,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37242,7 +37242,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13446889213503585583
+  Id: 15328673331975933056
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37259,7 +37259,7 @@ Objects {
       Z: -0.305870503
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37274,7 +37274,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37297,7 +37297,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6771562246281412191
+  Id: 18227334848885469790
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37314,7 +37314,7 @@ Objects {
       Z: -0.196403861
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37329,7 +37329,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37352,7 +37352,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12213373092704349278
+  Id: 1886155053676242448
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37369,7 +37369,7 @@ Objects {
       Z: 0.207231477
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37384,7 +37384,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37407,7 +37407,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8484639507891020030
+  Id: 12106056392758031481
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37424,7 +37424,7 @@ Objects {
       Z: -0.425538063
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37439,7 +37439,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37462,7 +37462,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6506303986272662024
+  Id: 11385955337115290783
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37479,7 +37479,7 @@ Objects {
       Z: 0.355693609
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37494,7 +37494,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37517,7 +37517,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4592529681672970081
+  Id: 1963229736009324784
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37534,7 +37534,7 @@ Objects {
       Z: 0.550608397
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37549,7 +37549,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37572,7 +37572,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7454356208240786277
+  Id: 13568892586257303531
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37588,7 +37588,7 @@ Objects {
       Z: 0.266759455
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37603,7 +37603,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37626,7 +37626,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15972235353100690495
+  Id: 1158672795340924192
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37642,7 +37642,7 @@ Objects {
       Z: 0.243011355
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37657,7 +37657,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37680,7 +37680,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15543210210383682114
+  Id: 156387220444510965
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37696,7 +37696,7 @@ Objects {
       Z: -0.305870503
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37711,7 +37711,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37734,7 +37734,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8135526157289315169
+  Id: 8490635303030212471
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37750,7 +37750,7 @@ Objects {
       Z: -0.196403861
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37765,7 +37765,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37788,7 +37788,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6423355660051170681
+  Id: 1736689609894917041
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37804,7 +37804,7 @@ Objects {
       Z: 0.207231477
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37819,7 +37819,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37842,7 +37842,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12661854233902002718
+  Id: 52540408143667677
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37858,7 +37858,7 @@ Objects {
       Z: -0.425538063
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37873,7 +37873,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37896,7 +37896,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15409054531461658270
+  Id: 15331730378158097241
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37912,7 +37912,7 @@ Objects {
       Z: 0.355693609
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37927,7 +37927,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -37950,7 +37950,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13165880962660818648
+  Id: 14362082634734137118
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -37966,7 +37966,7 @@ Objects {
       Z: 0.550608397
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37981,7 +37981,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true
@@ -38004,7 +38004,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4953853942629228654
+  Id: 9108130210627896510
   Name: "Rock Hexagonal"
   Transform {
     Location {
@@ -38021,7 +38021,7 @@ Objects {
       Z: 0.266759455
     }
   }
-  ParentId: 5591194526985829218
+  ParentId: 7951459539784373759
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -38036,7 +38036,7 @@ Objects {
   }
   CoreMesh {
     MeshAsset {
-      Id: 5567872293311379240
+      Id: 5864244724568329871
     }
     Teams {
       IsTeamCollisionEnabled: true

@@ -1,5 +1,5 @@
 Assets {
-  Id: 12362887310330423367
+  Id: 12298461222510567325
   Name: "Resource Pickup"
   PlatformAssetType: 5
   TemplateAsset {

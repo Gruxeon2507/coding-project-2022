@@ -1,5 +1,5 @@
 Assets {
-  Id: 6784741906058009054
+  Id: 3887990540097427692
   Name: "Weapon - Poison Glass"
   PlatformAssetType: 13
   SerializationVersion: 119

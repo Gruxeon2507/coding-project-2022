@@ -1,5 +1,5 @@
 Assets {
-  Id: 9248192055758416929
+  Id: 13989591334675751171
   Name: "Poison Crossbow Projectile Trail"
   PlatformAssetType: 5
   TemplateAsset {

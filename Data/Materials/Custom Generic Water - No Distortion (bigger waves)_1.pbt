@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 3446815682138474649
+    BaseMaterialId: 15982164212058495410
     ParameterOverrides {
       Overrides {
         Name: "u_tiles"
@@ -28,7 +28,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3446815682138474649
+      Id: 15982164212058495410
       Name: "Generic Water - No Distortion"
       PlatformAssetType: 2
       PrimaryAsset {

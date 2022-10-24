@@ -162,7 +162,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 11302073280474298634
+            Id: 10405946367401901280
           }
           DecalBP {
           }
@@ -373,7 +373,7 @@ Assets {
       }
     }
     Assets {
-      Id: 11302073280474298634
+      Id: 10405946367401901280
       Name: "Decal Bullet Damage Stone"
       PlatformAssetType: 14
       PrimaryAsset {

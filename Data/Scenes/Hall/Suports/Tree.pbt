@@ -1,7 +1,7 @@
 Name: "Suports"
-RootId: 13728557858265318600
+RootId: 8222981378140372875
 Objects {
-  Id: 17248983025779883009
+  Id: 7838726328895403192
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -16,7 +16,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -49,6 +49,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 7838726328895403192
+    SubobjectId: 10257027914054506216
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -58,7 +64,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1817887701482931266
+  Id: 16205244236899366243
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -73,7 +79,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -106,6 +112,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 16205244236899366243
+    SubobjectId: 176800772349417267
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -115,7 +127,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 334720736290720021
+  Id: 17999864505667092050
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -130,7 +142,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -163,6 +175,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17999864505667092050
+    SubobjectId: 1971686020160232450
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -172,7 +190,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7013874186136560919
+  Id: 2201094629262449533
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -187,7 +205,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -220,6 +238,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 2201094629262449533
+    SubobjectId: 18166205317846055213
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -229,7 +253,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16598062724570585995
+  Id: 8112574919803432765
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -244,7 +268,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -277,6 +301,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 8112574919803432765
+    SubobjectId: 10521868279240428909
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -286,7 +316,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8190145348100878612
+  Id: 17345434215311194222
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -301,7 +331,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -334,6 +364,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 17345434215311194222
+    SubobjectId: 1308247448257583678
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -343,7 +379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18379315369631706528
+  Id: 15630678895982508890
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -358,7 +394,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -391,6 +427,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 15630678895982508890
+    SubobjectId: 4214202943052224778
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -400,7 +442,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6767491673203536633
+  Id: 1117448156351452050
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -415,7 +457,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -448,6 +490,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 1117448156351452050
+    SubobjectId: 17082559891833205186
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -457,7 +505,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10691776305401491630
+  Id: 3896744228837357259
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -472,7 +520,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -505,6 +553,12 @@ Objects {
       BoundsScale: 1
     }
   }
+  InstanceHistory {
+    SelfId: 3896744228837357259
+    SubobjectId: 15313519257515758747
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
+  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -514,7 +568,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5244002601524839246
+  Id: 17074653040834799001
   Name: "Craftsman Part - Stair Balust"
   Transform {
     Location {
@@ -529,7 +583,7 @@ Objects {
       Z: 5.81224489
     }
   }
-  ParentId: 13728557858265318600
+  ParentId: 8222981378140372875
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_Detail1:id"
@@ -561,6 +615,12 @@ Objects {
       }
       BoundsScale: 1
     }
+  }
+  InstanceHistory {
+    SelfId: 17074653040834799001
+    SubobjectId: 1037467157471135689
+    InstanceId: 11615876700945025179
+    TemplateId: 5002747279758225321
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"

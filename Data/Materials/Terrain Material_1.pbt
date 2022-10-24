@@ -1,27 +1,15 @@
 Assets {
-  Id: 16870649281245976079
+  Id: 11141670759261770403
   Name: "Terrain Material_1"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 5688129188844801236
+    BaseMaterialId: 16534192203714498813
     ParameterOverrides {
-      Overrides {
-        Name: "cmp:Material2"
-        AssetReference {
-          Id: 12981869340125904360
-        }
-      }
-      Overrides {
-        Name: "cmp:Material2_Sides"
-        AssetReference {
-          Id: 12981869340125904360
-        }
-      }
       Overrides {
         Name: "cmp:Material1"
         AssetReference {
-          Id: 16338273248158085722
+          Id: 1523214900353875295
         }
       }
       Overrides {
@@ -31,40 +19,24 @@ Assets {
         }
       }
       Overrides {
-        Name: "material1_scale"
-        Float: 1
-      }
-      Overrides {
         Name: "material1side_scale"
-        Float: 0.1
+        Float: 0.00991
       }
       Overrides {
-        Name: "cmp:Material3"
+        Name: "cmp:Material2"
         AssetReference {
-          Id: 472645526508216342
+          Id: 1523214900353875295
         }
       }
       Overrides {
-        Name: "cmp:Material3_Sides"
+        Name: "cmp:Material2_Sides"
         AssetReference {
-          Id: 12267531694233229701
-        }
-      }
-      Overrides {
-        Name: "cmp:Material4"
-        AssetReference {
-          Id: 2228459669765029763
-        }
-      }
-      Overrides {
-        Name: "cmp:Material4_Sides"
-        AssetReference {
-          Id: 11652341043099888422
+          Id: 1523214900353875295
         }
       }
     }
     Assets {
-      Id: 5688129188844801236
+      Id: 16534192203714498813
       Name: "Terrain Composite Triplanar Complex Blend"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -73,30 +45,12 @@ Assets {
       }
     }
     Assets {
-      Id: 12981869340125904360
-      Name: "Rocks River Bed 01"
+      Id: 1523214900353875295
+      Name: "Snow 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "puddle_river_bed_001"
-      }
-    }
-    Assets {
-      Id: 12981869340125904360
-      Name: "Rocks River Bed 01"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "puddle_river_bed_001"
-      }
-    }
-    Assets {
-      Id: 16338273248158085722
-      Name: "Grass Basic"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "mi_grass_001_uv"
+        AssetId: "mi_snow_001_uv"
       }
     }
     Assets {
@@ -109,39 +63,21 @@ Assets {
       }
     }
     Assets {
-      Id: 472645526508216342
-      Name: "Dirt 01"
+      Id: 1523214900353875295
+      Name: "Snow 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "dirt_001"
+        AssetId: "mi_snow_001_uv"
       }
     }
     Assets {
-      Id: 12267531694233229701
-      Name: "Grass and Soil"
+      Id: 1523214900353875295
+      Name: "Snow 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
-        AssetId: "mi_grass_003_uv"
-      }
-    }
-    Assets {
-      Id: 2228459669765029763
-      Name: "Rocky Ground 01"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "rocky_001"
-      }
-    }
-    Assets {
-      Id: 11652341043099888422
-      Name: "Cliff 02"
-      PlatformAssetType: 2
-      PrimaryAsset {
-        AssetType: "MaterialAssetRef"
-        AssetId: "cliff_002"
+        AssetId: "mi_snow_001_uv"
       }
     }
   }

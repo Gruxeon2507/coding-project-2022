@@ -1,5 +1,5 @@
 Assets {
-  Id: 12376691664535912346
+  Id: 5436452027701127584
   Name: "Generic Staff Blast Impact FX"
   PlatformAssetType: 5
   TemplateAsset {

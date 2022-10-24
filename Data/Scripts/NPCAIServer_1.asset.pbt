@@ -1,6 +1,6 @@
 Assets {
-  Id: 11167712057991735847
-  Name: "NPCAIServer"
+  Id: 13645484765276120961
+  Name: "NPCAIServer_1"
   PlatformAssetType: 3
   TextAsset {
     CustomParameters {
@@ -13,7 +13,7 @@ Assets {
       Overrides {
         Name: "cs:NPCManager"
         AssetReference {
-          Id: 14514580809588361711
+          Id: 1116760160694603255
         }
       }
       Overrides {
@@ -39,17 +39,6 @@ Assets {
       Overrides {
         Name: "cs:AttackComponent"
         ObjectReference {
-        }
-      }
-      Overrides {
-        Name: "cs:HomingTarget"
-        ObjectReference {
-        }
-      }
-      Overrides {
-        Name: "cs:EngageEffect"
-        AssetReference {
-          Id: 841534158063459245
         }
       }
       Overrides {

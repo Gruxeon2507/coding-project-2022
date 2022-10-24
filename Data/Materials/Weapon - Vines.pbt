@@ -4,7 +4,7 @@ Assets {
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 7903226198415776080
+    BaseMaterialId: 7302015501822567448
     ParameterOverrides {
       Overrides {
         Name: "SSS"
@@ -26,7 +26,7 @@ Assets {
       }
     }
     Assets {
-      Id: 7903226198415776080
+      Id: 7302015501822567448
       Name: "Jungle Vine (tileable)"
       PlatformAssetType: 2
       PrimaryAsset {

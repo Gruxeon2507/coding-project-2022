@@ -1,7 +1,7 @@
 Name: "Tornados_4"
-RootId: 17671436203195328033
+RootId: 14655076919842840384
 Objects {
-  Id: 8204722318114201198
+  Id: 3583432518812502628
   Name: "Tornado VFX"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17671436203195328033
+  ParentId: 14655076919842840384
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -113,7 +113,7 @@ Objects {
   }
   Blueprint {
     BlueprintAsset {
-      Id: 15004758038195365583
+      Id: 14664694296490447970
     }
     TeamSettings {
     }

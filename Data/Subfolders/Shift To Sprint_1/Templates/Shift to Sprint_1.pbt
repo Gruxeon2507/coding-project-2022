@@ -1,5 +1,5 @@
 Assets {
-  Id: 4826135004069299154
+  Id: 14760950712555473415
   Name: "Shift to Sprint"
   PlatformAssetType: 5
   TemplateAsset {
@@ -126,7 +126,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11566603933722309386
+            Id: 13514625154759764084
           }
         }
         NetworkRelevanceDistance {
@@ -197,7 +197,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 5446301290966744725
+            Id: 9856218935147571960
           }
         }
         NetworkRelevanceDistance {

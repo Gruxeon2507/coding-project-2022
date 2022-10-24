@@ -1,5 +1,5 @@
 Assets {
-  Id: 11475235953462660340
+  Id: 10135386307265142396
   Name: "Icy Blade Impact Player Effect"
   PlatformAssetType: 5
   TemplateAsset {

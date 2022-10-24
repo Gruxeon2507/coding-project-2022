@@ -1,5 +1,5 @@
 Assets {
-  Id: 32149845205756334
+  Id: 8773479929862922523
   Name: "TeleporterClient"
   PlatformAssetType: 3
   TextAsset {

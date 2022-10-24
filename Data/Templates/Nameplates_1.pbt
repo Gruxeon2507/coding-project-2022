@@ -1,6 +1,6 @@
 Assets {
-  Id: 4824506872599784455
-  Name: "Nameplates"
+  Id: 10200322433996959803
+  Name: "Nameplates_1"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
@@ -15,7 +15,7 @@ Assets {
             Z: 1
           }
         }
-        ParentId: 16915371242198793778
+        ParentId: 14256649674182269152
         ChildIds: 12710326895889515650
         UnregisteredParameters {
           Overrides {
@@ -28,15 +28,11 @@ Assets {
           }
           Overrides {
             Name: "cs:ShowOnSelf"
-            Bool: false
+            Bool: true
           }
           Overrides {
             Name: "cs:ShowOnTeammates"
             Bool: true
-          }
-          Overrides {
-            Name: "cs:Offset"
-            Float: 200
           }
           Overrides {
             Name: "cs:MaxDistanceOnTeammates"
@@ -48,7 +44,7 @@ Assets {
           }
           Overrides {
             Name: "cs:MaxDistanceOnEnemies"
-            Float: 4000
+            Float: 2000
           }
           Overrides {
             Name: "cs:ShowOnDeadPlayers"
@@ -56,7 +52,7 @@ Assets {
           }
           Overrides {
             Name: "cs:Scale"
-            Float: 3.5
+            Float: 1
           }
           Overrides {
             Name: "cs:ShowNumbers"
@@ -71,18 +67,25 @@ Assets {
             Float: 0.4
           }
           Overrides {
+            Name: "cs:ShowSegments"
+            Bool: false
+          }
+          Overrides {
+            Name: "cs:SegmentSize"
+            Float: 20
+          }
+          Overrides {
             Name: "cs:FriendlyNameColor"
             Color {
-              R: 1
-              G: 1
-              B: 1
+              G: 0.0762913
+              B: 0.72
               A: 1
             }
           }
           Overrides {
             Name: "cs:EnemyNameColor"
             Color {
-              R: 0.789999962
+              R: 0.450000048
               A: 1
             }
           }
@@ -98,25 +101,24 @@ Assets {
           Overrides {
             Name: "cs:BackgroundColor"
             Color {
-              R: 0.03
-              G: 0.03
-              B: 0.03
+              R: 0.334000021
+              G: 0.334000021
+              B: 0.334000021
               A: 1
             }
           }
           Overrides {
             Name: "cs:FriendlyHealthColor"
             Color {
-              G: 0.399999976
-              B: 0.0105960844
+              G: 0.0762913
+              B: 0.72
               A: 1
             }
           }
           Overrides {
             Name: "cs:EnemyHealthColor"
             Color {
-              G: 0.399999976
-              B: 0.0105960844
+              R: 1
               A: 1
             }
           }
@@ -124,16 +126,15 @@ Assets {
             Name: "cs:DamageChangeColor"
             Color {
               R: 0.590000033
-              G: 0.19927153
+              G: 0.152384102
               A: 1
             }
           }
           Overrides {
             Name: "cs:HealChangeColor"
             Color {
-              R: 1
-              G: 0.901456952
-              B: 0.0699999928
+              R: 0.0670196861
+              G: 0.919999957
               A: 1
             }
           }
@@ -322,6 +323,12 @@ Assets {
               Id: 5049470299132475441
             }
           }
+          Overrides {
+            Name: "cs:SegmentSeparatorTemplate"
+            AssetReference {
+              Id: 621782261612844046
+            }
+          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -334,7 +341,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 14356659775762742967
+            Id: 14278482860986951316
           }
         }
         NetworkRelevanceDistance {

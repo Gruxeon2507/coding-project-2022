@@ -8,7 +8,7 @@ Assets {
   }
 }
 Assets {
-  Id: 14128379670143283462
+  Id: 12827527876417252929
   Name: "Ambient Occlusion Recolor Post Process"
   PlatformAssetType: 20
   PrimaryAsset {
@@ -23,6 +23,15 @@ Assets {
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "CORESKY_Skylight"
+  }
+}
+Assets {
+  Id: 10151547298258526858
+  Name: "Bloom Post Process"
+  PlatformAssetType: 6
+  PrimaryAsset {
+    AssetType: "BlueprintAssetRef"
+    AssetId: "fxbp_post_process_bloom"
   }
 }
 Assets {
@@ -41,14 +50,5 @@ Assets {
   PrimaryAsset {
     AssetType: "BlueprintAssetRef"
     AssetId: "fxbp_ppm_sketchline_simple"
-  }
-}
-Assets {
-  Id: 4343127784576134200
-  Name: "Bloom Post Process"
-  PlatformAssetType: 20
-  PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_post_process_bloom"
   }
 }

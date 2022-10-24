@@ -1,6 +1,6 @@
 Assets {
   Id: 251468455081318876
-  Name: "Fantasy Gem Green"
+  Name: "Fantasy Tree"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
@@ -9,9 +9,8 @@ Assets {
       Overrides {
         Name: "color"
         Color {
-          R: 0.13
-          G: 1
-          B: 0.619735122
+          G: 0.384452611
+          B: 0.40200007
           A: 1
         }
       }

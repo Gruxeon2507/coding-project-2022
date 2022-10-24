@@ -1,5 +1,5 @@
 Assets {
-  Id: 9634326322241428061
+  Id: 18178932771135785884
   Name: "Crossbow Impact Surface Aligned"
   PlatformAssetType: 5
   TemplateAsset {

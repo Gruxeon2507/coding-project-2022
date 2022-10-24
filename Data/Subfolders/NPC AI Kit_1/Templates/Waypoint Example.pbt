@@ -1,5 +1,5 @@
 Assets {
-  Id: 2430395478773736643
+  Id: 13024227186894725381
   Name: "Waypoint Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -68,7 +68,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6234333487907868432
+            Id: 1499627341105329536
           }
         }
         NetworkRelevanceDistance {
@@ -102,7 +102,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 6662320149321212024
+            Id: 4999912482635587837
           }
         }
         NetworkRelevanceDistance {
@@ -189,7 +189,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9217575145008434579
+            Id: 5739212458735223309
           }
         }
         NetworkRelevanceDistance {
@@ -236,7 +236,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 13512407236943685312
+            Id: 4952460891166928570
           }
         }
         NetworkRelevanceDistance {
@@ -301,7 +301,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 7994012217686946809
+              Id: 13136156548447436214
             }
           }
         }
@@ -346,19 +346,19 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 3388683492922268264
+              Id: 630220106411540750
             }
           }
           Overrides {
             Name: "cs:RPGSkeletonUnarmed"
             AssetReference {
-              Id: 16995319372293260249
+              Id: 17126239262396633245
             }
           }
           Overrides {
             Name: "cs:RPGSkeletonUnarmed_1"
             AssetReference {
-              Id: 16995319372293260249
+              Id: 17126239262396633245
             }
           }
         }
@@ -403,7 +403,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 7239446399066206551
+              Id: 2894627331021453562
             }
           }
         }
@@ -503,7 +503,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9302300828412564430
+            Id: 15502658681703412464
           }
         }
         NetworkRelevanceDistance {
@@ -625,7 +625,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9302300828412564430
+            Id: 15502658681703412464
           }
         }
         NetworkRelevanceDistance {
@@ -748,7 +748,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9302300828412564430
+            Id: 15502658681703412464
           }
         }
         NetworkRelevanceDistance {

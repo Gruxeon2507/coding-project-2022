@@ -14,11 +14,11 @@ Objects {
       Z: 1
     }
   }
-  ChildIds: 14465705016064259753
-  ChildIds: 4953961174145778141
-  ChildIds: 3383442786090366646
-  ChildIds: 10363231036204020364
-  ChildIds: 13300405992558927161
+  ChildIds: 14834367447100320855
+  ChildIds: 11560871426476592131
+  ChildIds: 7479016866980198107
+  ChildIds: 8390567608735832519
+  ChildIds: 3140871961908620243
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -38,7 +38,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13300405992558927161
+  Id: 3140871961908620243
   Name: "Duc"
   Transform {
     Location {
@@ -74,7 +74,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10363231036204020364
+  Id: 8390567608735832519
   Name: "Duong"
   Transform {
     Location {
@@ -110,7 +110,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3383442786090366646
+  Id: 7479016866980198107
   Name: "Huy"
   Transform {
     Location {
@@ -146,7 +146,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4953961174145778141
+  Id: 11560871426476592131
   Name: "Main"
   Transform {
     Location {
@@ -182,7 +182,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14465705016064259753
+  Id: 14834367447100320855
   Name: "Hieu"
   Transform {
     Location {

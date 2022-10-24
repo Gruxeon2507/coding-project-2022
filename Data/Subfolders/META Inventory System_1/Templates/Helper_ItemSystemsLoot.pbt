@@ -1,5 +1,5 @@
 Assets {
-  Id: 17380942700631426572
+  Id: 12887010797518740475
   Name: "Helper_ItemSystemsLoot"
   PlatformAssetType: 5
   TemplateAsset {
@@ -113,7 +113,7 @@ Assets {
           Overrides {
             Name: "cs:ItemThemes"
             AssetReference {
-              Id: 5067970770605010657
+              Id: 6249648848540573463
             }
           }
           Overrides {
@@ -134,7 +134,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4213243020992921409
+            Id: 12171990145097593514
           }
         }
         NetworkRelevanceDistance {
@@ -207,37 +207,37 @@ Assets {
           Overrides {
             Name: "cs:IndicatorCommon"
             AssetReference {
-              Id: 14300698348558420435
+              Id: 6773399988938613270
             }
           }
           Overrides {
             Name: "cs:IndicatorUncommon"
             AssetReference {
-              Id: 14300698348558420435
+              Id: 6773399988938613270
             }
           }
           Overrides {
             Name: "cs:IndicatorEpic"
             AssetReference {
-              Id: 3727371148863486965
+              Id: 1454720051520452580
             }
           }
           Overrides {
             Name: "cs:IndicatorRare"
             AssetReference {
-              Id: 237212886875518481
+              Id: 5541146353865919248
             }
           }
           Overrides {
             Name: "cs:IndicatorLegendary"
             AssetReference {
-              Id: 2807846850045585896
+              Id: 16497724720976616315
             }
           }
           Overrides {
             Name: "cs:ItemThemes"
             AssetReference {
-              Id: 5067970770605010657
+              Id: 6249648848540573463
             }
           }
           Overrides {
@@ -258,7 +258,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4213243020992921409
+            Id: 12171990145097593514
           }
         }
         NetworkRelevanceDistance {

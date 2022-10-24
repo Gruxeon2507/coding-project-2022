@@ -1,5 +1,5 @@
 Assets {
-  Id: 17212779964163218283
+  Id: 15341610764720391099
   Name: "MOBA Example"
   PlatformAssetType: 5
   TemplateAsset {
@@ -69,7 +69,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 11080848432216748597
+            Id: 15324937701443637392
           }
         }
         NetworkRelevanceDistance {
@@ -195,7 +195,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9663007347248346926
+            Id: 508037586842104814
           }
         }
         NetworkRelevanceDistance {
@@ -239,7 +239,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4959444837335832117
+            Id: 14240644503757069279
           }
         }
         NetworkRelevanceDistance {
@@ -307,7 +307,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 895819043908487660
+              Id: 17222893123803525837
             }
           }
         }
@@ -353,7 +353,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 895819043908487660
+              Id: 17222893123803525837
             }
           }
         }
@@ -399,7 +399,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 895819043908487660
+              Id: 17222893123803525837
             }
           }
         }
@@ -445,7 +445,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 895819043908487660
+              Id: 17222893123803525837
             }
           }
         }
@@ -491,7 +491,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 895819043908487660
+              Id: 17222893123803525837
             }
           }
         }
@@ -585,7 +585,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2948591876258934504
+            Id: 16249944735567028020
           }
         }
         NetworkRelevanceDistance {
@@ -707,7 +707,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2948591876258934504
+            Id: 16249944735567028020
           }
         }
         NetworkRelevanceDistance {
@@ -831,7 +831,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2948591876258934504
+            Id: 16249944735567028020
           }
         }
         NetworkRelevanceDistance {
@@ -954,7 +954,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2948591876258934504
+            Id: 16249944735567028020
           }
         }
         NetworkRelevanceDistance {
@@ -1124,7 +1124,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9663007347248346926
+            Id: 508037586842104814
           }
         }
         NetworkRelevanceDistance {
@@ -1168,7 +1168,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4959444837335832117
+            Id: 14240644503757069279
           }
         }
         NetworkRelevanceDistance {
@@ -1236,7 +1236,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 2861371390118616363
+              Id: 6129264662053172073
             }
           }
         }
@@ -1282,7 +1282,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 2861371390118616363
+              Id: 6129264662053172073
             }
           }
         }
@@ -1328,7 +1328,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 2861371390118616363
+              Id: 6129264662053172073
             }
           }
         }
@@ -1374,7 +1374,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 2861371390118616363
+              Id: 6129264662053172073
             }
           }
         }
@@ -1420,7 +1420,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 2861371390118616363
+              Id: 6129264662053172073
             }
           }
         }
@@ -1514,7 +1514,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2948591876258934504
+            Id: 16249944735567028020
           }
         }
         NetworkRelevanceDistance {
@@ -1636,7 +1636,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2948591876258934504
+            Id: 16249944735567028020
           }
         }
         NetworkRelevanceDistance {
@@ -1760,7 +1760,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2948591876258934504
+            Id: 16249944735567028020
           }
         }
         NetworkRelevanceDistance {
@@ -1883,7 +1883,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 2948591876258934504
+            Id: 16249944735567028020
           }
         }
         NetworkRelevanceDistance {
@@ -2287,7 +2287,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9663007347248346926
+            Id: 508037586842104814
           }
         }
         NetworkRelevanceDistance {
@@ -2331,7 +2331,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4959444837335832117
+            Id: 14240644503757069279
           }
         }
         NetworkRelevanceDistance {
@@ -2391,7 +2391,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 2060370311114633625
+              Id: 11350391345931332535
             }
           }
         }
@@ -2553,7 +2553,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 9663007347248346926
+            Id: 508037586842104814
           }
         }
         NetworkRelevanceDistance {
@@ -2597,7 +2597,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 4959444837335832117
+            Id: 14240644503757069279
           }
         }
         NetworkRelevanceDistance {
@@ -2657,7 +2657,7 @@ Assets {
           Overrides {
             Name: "cs:DevMinion"
             AssetReference {
-              Id: 2060370311114633625
+              Id: 11350391345931332535
             }
           }
         }

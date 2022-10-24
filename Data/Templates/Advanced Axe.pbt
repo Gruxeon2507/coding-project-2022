@@ -784,8 +784,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "Advanced_Axe"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119

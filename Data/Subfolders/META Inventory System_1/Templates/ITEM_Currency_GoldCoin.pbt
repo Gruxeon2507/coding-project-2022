@@ -1,5 +1,5 @@
 Assets {
-  Id: 4690172663334892236
+  Id: 15843363775232977206
   Name: "ITEM_Currency_GoldCoin"
   PlatformAssetType: 5
   TemplateAsset {

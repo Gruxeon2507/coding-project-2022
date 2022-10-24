@@ -1,5 +1,5 @@
 Assets {
-  Id: 18124150019145579488
+  Id: 8168796177685851393
   Name: "Crossbow Impact Projectile Aligned"
   PlatformAssetType: 5
   TemplateAsset {

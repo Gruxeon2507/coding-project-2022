@@ -1,5 +1,5 @@
 Assets {
-  Id: 3194930412626622494
+  Id: 6542170114427865587
   Name: "EquipmentAbilityChainServer"
   PlatformAssetType: 3
   TextAsset {

@@ -240,7 +240,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6970563607933101105
+            Id: 10359658120642030439
           }
           AudioBP {
             AutoPlay: true
@@ -277,7 +277,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6970563607933101105
+      Id: 10359658120642030439
       Name: "Explosion Creation & Construction Kit 01 SFX"
       PlatformAssetType: 10
       PrimaryAsset {

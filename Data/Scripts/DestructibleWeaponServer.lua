@@ -14,12 +14,13 @@
 local MODULE = require( script:GetCustomProperty("ModuleManager") )
 function COMBAT() return MODULE.Get("standardcombo.Combat.Wrap") end
 
+local CombatStats = require(script:GetCustomProperty("CombatStats"))
+
 
 local WEAPON = script.parent
 
 local DAMAGE_TO_PLAYERS = script:GetCustomProperty("DamageToPlayers")
 local DAMAGE_TO_OBJECTS = script:GetCustomProperty("DamageToObjects")
-
 
 function OnTargetImpact(theWeapon, impactData)
 	local amount = DAMAGE_TO_OBJECTS
@@ -27,13 +28,9 @@ function OnTargetImpact(theWeapon, impactData)
 		amount = DAMAGE_TO_PLAYERS
 	end
 	
-	local dmg = Damage.New(amount)
-	dmg:SetHitResult(impactData:GetHitResult())
-	dmg.reason = DamageReason.COMBAT
-	dmg.sourcePlayer = theWeapon.owner
-	dmg.sourceAbility = theWeapon:GetAbilities()[1]
-	
-	COMBAT().ApplyDamage(impactData.targetObject, dmg, dmg.sourcePlayer)
+	local dmg = CombatStats:GetAttackDamage(theWeapon.owner)
+
+	COMBAT().ApplyDamage({object = impactData.targetObject, damage = dmg, source = theWeapon.owner})
 end
 
 WEAPON.targetImpactedEvent:Connect(OnTargetImpact)

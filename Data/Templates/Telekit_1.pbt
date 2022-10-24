@@ -127,7 +127,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 6677237403455816226
+            Id: 6950558847410687192
           }
           TeamSettings {
           }
@@ -298,7 +298,7 @@ Assets {
       }
     }
     Assets {
-      Id: 6677237403455816226
+      Id: 6950558847410687192
       Name: "Portal VFX"
       PlatformAssetType: 6
       PrimaryAsset {

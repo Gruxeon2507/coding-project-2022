@@ -127,7 +127,7 @@ Assets {
         }
         Blueprint {
           BlueprintAsset {
-            Id: 3697271826593255962
+            Id: 6391999908224949722
           }
           TeamSettings {
           }
@@ -1147,7 +1147,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 2160476303725884379
+            Id: 1451865961421626587
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1170,7 +1170,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3697271826593255962
+      Id: 6391999908224949722
       Name: "Fire and Flame Burning Loop Set 01 SFX"
       PlatformAssetType: 10
       PrimaryAsset {
@@ -1188,7 +1188,7 @@ Assets {
       }
     }
     Assets {
-      Id: 2160476303725884379
+      Id: 1451865961421626587
       Name: "Chandelier"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1197,8 +1197,8 @@ Assets {
       }
     }
     PrimaryAssetId {
-      AssetType: "TemplateAssetRef"
-      AssetId: "tm_fan_chandelier_001_lit_01"
+      AssetType: "None"
+      AssetId: "None"
     }
   }
   SerializationVersion: 119
