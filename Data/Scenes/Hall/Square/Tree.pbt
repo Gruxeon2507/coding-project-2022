@@ -123,6 +123,14 @@ Objects {
             Z: 1
           }
         }
+        Overrides {
+          Name: "cs:CostResource"
+          String: "GoldCoin"
+        }
+        Overrides {
+          Name: "cs:CostAmount"
+          Int: 0
+        }
       }
     }
     TemplateAsset {

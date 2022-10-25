@@ -26,7 +26,7 @@ Objects {
       value {
         Overrides {
           Name: "Label"
-          String: "Stand near them and press <F> to travel\r\nSome portal will need some "
+          String: "Stand near them and press <F> to travel\r\n"
         }
       }
     }
