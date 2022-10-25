@@ -25,7 +25,7 @@ Assets {
     }
     Assets {
       Id: 5999785692152177603
-      Name: "Bark Redwood 01"
+      Name: "Bark Redwood Advanced 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"

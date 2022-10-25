@@ -639,7 +639,7 @@ Assets {
 }
 Assets {
   Id: 7801872286401568736
-  Name: "Bark Pine 01"
+  Name: "Bark Pine Advanced 01"
   PlatformAssetType: 2
   PrimaryAsset {
     AssetType: "MaterialAssetRef"

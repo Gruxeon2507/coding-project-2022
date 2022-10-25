@@ -46474,7 +46474,7 @@ Assets {
     }
     Assets {
       Id: 15419921641479462539
-      Name: "Bark Dead 01"
+      Name: "Bark Dead Advanced 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"
@@ -46636,7 +46636,7 @@ Assets {
     }
     Assets {
       Id: 11433692867640371962
-      Name: "Bark Oak 01"
+      Name: "Bark Oak Advanced 01"
       PlatformAssetType: 2
       PrimaryAsset {
         AssetType: "MaterialAssetRef"

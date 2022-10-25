@@ -1,6 +1,394 @@
 Name: "Guild Building"
 RootId: 4135858497510590639
 Objects {
+  Id: 11816541363130420852
+  Name: "Panneau text"
+  Transform {
+    Location {
+      X: -4136.56885
+      Y: 9710.82
+      Z: 2703.11206
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4135858497510590639
+  ChildIds: 13022252623312009153
+  ChildIds: 8634154320772969336
+  ChildIds: 4041673926708606498
+  ChildIds: 11882942008548569474
+  ChildIds: 12546948426524402021
+  ChildIds: 10587618722410030836
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 10587618722410030836
+  Name: "World Text"
+  Transform {
+    Location {
+      Z: 143.841553
+    }
+    Rotation {
+      Yaw: -179.999985
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11816541363130420852
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Text {
+    Text: "                                        Chapter 2\r\nForest of illusions, once destroyed by the Rune Wars, now \r\nrestored to its original state, lost Runes waiting to be claimed\r\nby adventurers. According to legend, the Runes would be the \r\nones to choose their masters. Only qualified adventurers could \r\nsee the aura of the Rune. To ordinary people, this is just a myth.\r\nBut for those who have received the Old Language, \r\nthey become the main characters in the very stories that people\r\n consider to be magical.\r\n"
+    FontAsset {
+    }
+    Color {
+      R: 1
+      G: 1
+      B: 1
+      A: 1
+    }
+    HorizontalSize: 1
+    VerticalSize: 1
+    HorizontalAlignment {
+      Value: "mc:ecoretexthorizontalalign:left"
+    }
+    VerticalAlignment {
+      Value: "mc:ecoretextverticalalign:center"
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12546948426524402021
+  Name: "Large Wood Board 8m"
+  Transform {
+    Location {
+      X: 50.5996094
+      Y: 626.508789
+      Z: 260.7854
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 0.797566652
+      Y: 1.41861498
+      Z: 1.41861498
+    }
+  }
+  ParentId: 11816541363130420852
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5985548767639516699
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 725365412107610098
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 11882942008548569474
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: 14.4660645
+      Y: 634.21875
+      Z: -136.184326
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 0.538079798
+      Y: 0.766117334
+      Z: 0.766117334
+    }
+  }
+  ParentId: 11816541363130420852
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5985548767639516699
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2132385347902568908
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 4041673926708606498
+  Name: "Whitebox Floor 01 4m x 4m"
+  Transform {
+    Location {
+      X: 11.2744141
+      Y: -16.265625
+      Z: 268.326416
+    }
+    Rotation {
+      Yaw: 89.9999619
+      Roll: -89.9999695
+    }
+    Scale {
+      X: 1.58565187
+      Y: 0.652390659
+      Z: 0.326797575
+    }
+  }
+  ParentId: 11816541363130420852
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 7693510740092307811
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 5985548767639516699
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13042368172556113913
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 8634154320772969336
+  Name: "Large Wood Board 8m"
+  Transform {
+    Location {
+      X: 49.5632324
+      Y: 626.509766
+      Z: -3.97680664
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 0.797566652
+      Y: 1.41861498
+      Z: 1.41861498
+    }
+  }
+  ParentId: 11816541363130420852
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5985548767639516699
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 725365412107610098
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 13022252623312009153
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: 14.467041
+      Y: -20.9248047
+      Z: -136.184326
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 0.538079798
+      Y: 0.766117334
+      Z: 0.766117334
+    }
+  }
+  ParentId: 11816541363130420852
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2132385347902568908
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 2066051778856051132
   Name: "Magic Swirl Element Volume"
   Transform {
@@ -470,9 +858,16 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5613465317746471278
+  Id: 17824068420606756989
   Name: "Panneau text"
   Transform {
+    Location {
+      X: -2985.0127
+      Y: 9089.29199
+      Z: 2703.11206
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -480,118 +875,30 @@ Objects {
     }
   }
   ParentId: 4135858497510590639
+  ChildIds: 7539209435203385443
+  ChildIds: 14581420433600940580
+  ChildIds: 4961469396295642968
+  ChildIds: 14095853837176400612
+  ChildIds: 4666237713809820814
+  ChildIds: 14746057990070951426
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 766269168373146463
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 152.535889
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 932853264729430947
-      value {
-        Overrides {
-          Name: "Text"
-          String: "Bienvenue dans Dungeon Master , ici vous avez acces "
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 9643694879856872342
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 132.440186
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11515768082413720348
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 112.201416
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11655739992207796957
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 173.282959
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12122598144019623911
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 69.5092773
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16652800226347528483
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 195.819336
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17877952022748135562
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Panneau text"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2985.0127
-            Y: 9089.29199
-            Z: 2703.11206
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7934732742606995046
-    }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 17824068420606756989
+    SubobjectId: 17877952022748135562
+    InstanceId: 5613465317746471278
+    TemplateId: 7934732742606995046
+    WasRoot: true
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -599,16 +906,14 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 753803614766140100
-  Name: "Event Text"
+  Id: 14746057990070951426
+  Name: "World Text"
   Transform {
     Location {
-      X: -2995.85205
-      Y: 9260.01465
-      Z: 2949.07422
+      Z: 170.844727
     }
     Rotation {
-      Yaw: -179.999985
+      Yaw: -179.999954
     }
     Scale {
       X: 1
@@ -616,7 +921,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 4135858497510590639
+  ParentId: 17824068420606756989
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -627,12 +932,13 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Text {
-    Text: "Event nouvel An \303\240 venir"
+    Text: "\r\n                                           Chapter I\r\nWelcome adventure to the Hall of Heroes, this is the cradle of\r\ntraining great warriors.\r\nUsually this place is only open to selected Heroes, but, the \r\nappointed time is the great page,\r\nin order to replenish the manpower for the JS adventure team,\r\nthis place has recruited more troops than usual, as well as\r\nunlocking courses. adventure rank-based training.\r\n"
     FontAsset {
     }
     Color {
-      R: 0.86
-      G: 0.803046465
+      R: 1
+      G: 1
+      B: 1
       A: 1
     }
     HorizontalSize: 1
@@ -643,6 +949,332 @@ Objects {
     VerticalAlignment {
       Value: "mc:ecoretextverticalalign:center"
     }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 4666237713809820814
+  Name: "Large Wood Board 8m"
+  Transform {
+    Location {
+      X: 50.5996094
+      Y: 626.508789
+      Z: 260.7854
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 0.797566652
+      Y: 1.41861498
+      Z: 1.41861498
+    }
+  }
+  ParentId: 17824068420606756989
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5985548767639516699
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3189005529281241184
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 4666237713809820814
+    SubobjectId: 5728929556472874105
+    InstanceId: 5613465317746471278
+    TemplateId: 7934732742606995046
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 14095853837176400612
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: 14.4660645
+      Y: 634.21875
+      Z: -136.184326
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 0.538079798
+      Y: 0.766117334
+      Z: 0.766117334
+    }
+  }
+  ParentId: 17824068420606756989
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5985548767639516699
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9740100601051791580
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 14095853837176400612
+    SubobjectId: 14762369736303895059
+    InstanceId: 5613465317746471278
+    TemplateId: 7934732742606995046
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 4961469396295642968
+  Name: "Whitebox Floor 01 4m x 4m"
+  Transform {
+    Location {
+      X: 11.2744141
+      Y: -16.265625
+      Z: 268.326416
+    }
+    Rotation {
+      Yaw: 89.9999619
+      Roll: -89.9999695
+    }
+    Scale {
+      X: 1.58565187
+      Y: 0.652390659
+      Z: 0.326797575
+    }
+  }
+  ParentId: 17824068420606756989
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Building_Floor:id"
+      AssetReference {
+        Id: 7693510740092307811
+      }
+    }
+    Overrides {
+      Name: "ma:Building_Ceiling:id"
+      AssetReference {
+        Id: 5985548767639516699
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3295989886935928008
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 4961469396295642968
+    SubobjectId: 5447771493503821743
+    InstanceId: 5613465317746471278
+    TemplateId: 7934732742606995046
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 14581420433600940580
+  Name: "Large Wood Board 8m"
+  Transform {
+    Location {
+      X: 49.5632324
+      Y: 626.509766
+      Z: -3.97680664
+    }
+    Rotation {
+      Yaw: -90
+    }
+    Scale {
+      X: 0.797566652
+      Y: 1.41861498
+      Z: 1.41861498
+    }
+  }
+  ParentId: 17824068420606756989
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 5985548767639516699
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3189005529281241184
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 14581420433600940580
+    SubobjectId: 14203066584537170643
+    InstanceId: 5613465317746471278
+    TemplateId: 7934732742606995046
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 7539209435203385443
+  Name: "Large Round Wood Beam 8m"
+  Transform {
+    Location {
+      X: 14.467041
+      Y: -20.9248047
+      Z: -136.184326
+    }
+    Rotation {
+      Pitch: 90
+      Roll: 90.0000076
+    }
+    Scale {
+      X: 0.538079798
+      Y: 0.766117334
+      Z: 0.766117334
+    }
+  }
+  ParentId: 17824068420606756989
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 9740100601051791580
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7539209435203385443
+    SubobjectId: 7485077582102474900
+    InstanceId: 5613465317746471278
+    TemplateId: 7934732742606995046
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -675,7 +1307,6 @@ Objects {
   ChildIds: 4457278942962388705
   ChildIds: 9126678352148926779
   ChildIds: 16479247621856166077
-  ChildIds: 125480518624958248
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -701,64 +1332,12 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 125480518624958248
-  Name: "World Text"
-  Transform {
-    Location {
-      X: -7.62939453e-06
-      Y: 68.7397385
-      Z: 156.148926
-    }
-    Rotation {
-      Yaw: -179.999939
-    }
-    Scale {
-      X: 1.5
-      Y: 1.5
-      Z: 1.5
-    }
-  }
-  ParentId: 9962364958122854930
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Text {
-    Text: "-Fullstrike"
-    FontAsset {
-    }
-    Color {
-      R: 1
-      G: 1
-      B: 1
-      A: 1
-    }
-    HorizontalSize: 1
-    VerticalSize: 1
-    HorizontalAlignment {
-      Value: "mc:ecoretexthorizontalalign:left"
-    }
-    VerticalAlignment {
-      Value: "mc:ecoretextverticalalign:center"
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 16479247621856166077
   Name: "World Text"
   Transform {
     Location {
-      X: -7.62939453e-06
-      Y: 68.7397385
+      X: -2.28881836e-05
+      Y: 126.436035
       Z: 185.790771
     }
     Rotation {
@@ -781,7 +1360,7 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Text {
-    Text: "-Novaeclipse"
+    Text: "Welcome To The J-Terra"
     FontAsset {
     }
     Color {
@@ -809,7 +1388,8 @@ Objects {
   Name: "World Text"
   Transform {
     Location {
-      Y: 129.934799
+      X: -1.52587891e-05
+      Y: 70.1127853
       Z: 233.4375
     }
     Rotation {
@@ -832,7 +1412,7 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Text {
-    Text: "Liste des Admins"
+    Text: "CODING PROJECT 2022"
     FontAsset {
     }
     Color {
@@ -997,8 +1577,8 @@ Objects {
   Name: "Whitebox Floor 01 4m x 4m"
   Transform {
     Location {
-      X: 11.2744141
-      Y: -16.265625
+      X: 11.2744179
+      Y: -20.5820274
       Z: 268.326416
     }
     Rotation {
@@ -1177,641 +1757,6 @@ Objects {
     SelfId: 1565571405739883020
     SubobjectId: 7485077582102474900
     InstanceId: 2942902900123914369
-    TemplateId: 7934732742606995046
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 3275364498766878797
-  Name: "Panneau text"
-  Transform {
-    Location {
-      X: -4136.56885
-      Y: 9710.82
-      Z: 2703.11206
-    }
-    Rotation {
-      Yaw: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4135858497510590639
-  ChildIds: 12866509720893581395
-  ChildIds: 1185640507032918548
-  ChildIds: 11454078010245169000
-  ChildIds: 1851306016144308948
-  ChildIds: 11163982678611500222
-  ChildIds: 15680822616565678948
-  ChildIds: 15143670105031012968
-  ChildIds: 15491062451153651347
-  ChildIds: 5759238689304343660
-  ChildIds: 9584979497803884141
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 3275364498766878797
-    SubobjectId: 17877952022748135562
-    InstanceId: 15676424230737498124
-    TemplateId: 7934732742606995046
-    WasRoot: true
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 9584979497803884141
-  Name: "World Text"
-  Transform {
-    Location {
-      Z: 130.584717
-    }
-    Rotation {
-      Yaw: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3275364498766878797
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Text {
-    Text: " friends or even randoms, the key to succeed it is teamwork."
-    FontAsset {
-    }
-    Color {
-      R: 1
-      G: 1
-      B: 1
-      A: 1
-    }
-    HorizontalSize: 1
-    VerticalSize: 1
-    HorizontalAlignment {
-      Value: "mc:ecoretexthorizontalalign:left"
-    }
-    VerticalAlignment {
-      Value: "mc:ecoretextverticalalign:center"
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 5759238689304343660
-  Name: "World Text"
-  Transform {
-    Location {
-      Z: 152.416992
-    }
-    Rotation {
-      Yaw: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3275364498766878797
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Text {
-    Text: "adequate equipment, luckily you can team up with your "
-    FontAsset {
-    }
-    Color {
-      R: 1
-      G: 1
-      B: 1
-      A: 1
-    }
-    HorizontalSize: 1
-    VerticalSize: 1
-    HorizontalAlignment {
-      Value: "mc:ecoretexthorizontalalign:left"
-    }
-    VerticalAlignment {
-      Value: "mc:ecoretextverticalalign:center"
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 15491062451153651347
-  Name: "World Text"
-  Transform {
-    Location {
-      Z: 174.837158
-    }
-    Rotation {
-      Yaw: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3275364498766878797
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Text {
-    Text: "access certain dungeons you need to level up and have "
-    FontAsset {
-    }
-    Color {
-      R: 1
-      G: 1
-      B: 1
-      A: 1
-    }
-    HorizontalSize: 1
-    VerticalSize: 1
-    HorizontalAlignment {
-      Value: "mc:ecoretexthorizontalalign:left"
-    }
-    VerticalAlignment {
-      Value: "mc:ecoretextverticalalign:center"
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 15143670105031012968
-  Name: "World Text"
-  Transform {
-    Location {
-      Z: 196.909424
-    }
-    Rotation {
-      Yaw: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3275364498766878797
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Text {
-    Text: " several dungeons each with their own particularities but to "
-    FontAsset {
-    }
-    Color {
-      R: 1
-      G: 1
-      B: 1
-      A: 1
-    }
-    HorizontalSize: 1
-    VerticalSize: 1
-    HorizontalAlignment {
-      Value: "mc:ecoretexthorizontalalign:left"
-    }
-    VerticalAlignment {
-      Value: "mc:ecoretextverticalalign:center"
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 15680822616565678948
-  Name: "World Text"
-  Transform {
-    Location {
-      Z: 217.294434
-    }
-    Rotation {
-      Yaw: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3275364498766878797
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Text {
-    Text: "Welcome to Dungeon Master, here you have access to "
-    FontAsset {
-    }
-    Color {
-      R: 1
-      G: 1
-      B: 1
-      A: 1
-    }
-    HorizontalSize: 1
-    VerticalSize: 1
-    HorizontalAlignment {
-      Value: "mc:ecoretexthorizontalalign:left"
-    }
-    VerticalAlignment {
-      Value: "mc:ecoretextverticalalign:center"
-    }
-  }
-  InstanceHistory {
-    SelfId: 15680822616565678948
-    SubobjectId: 932853264729430947
-    InstanceId: 15676424230737498124
-    TemplateId: 7934732742606995046
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 11163982678611500222
-  Name: "Large Wood Board 8m"
-  Transform {
-    Location {
-      X: 50.5996094
-      Y: 626.508789
-      Z: 260.7854
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 0.797566652
-      Y: 1.41861498
-      Z: 1.41861498
-    }
-  }
-  ParentId: 3275364498766878797
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 5985548767639516699
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 725365412107610098
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 11163982678611500222
-    SubobjectId: 5728929556472874105
-    InstanceId: 15676424230737498124
-    TemplateId: 7934732742606995046
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 1851306016144308948
-  Name: "Large Round Wood Beam 8m"
-  Transform {
-    Location {
-      X: 14.4660645
-      Y: 634.21875
-      Z: -136.184326
-    }
-    Rotation {
-      Pitch: 90
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 0.538079798
-      Y: 0.766117334
-      Z: 0.766117334
-    }
-  }
-  ParentId: 3275364498766878797
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 5985548767639516699
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2132385347902568908
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 1851306016144308948
-    SubobjectId: 14762369736303895059
-    InstanceId: 15676424230737498124
-    TemplateId: 7934732742606995046
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 11454078010245169000
-  Name: "Whitebox Floor 01 4m x 4m"
-  Transform {
-    Location {
-      X: 11.2744141
-      Y: -16.265625
-      Z: 268.326416
-    }
-    Rotation {
-      Yaw: 89.9999619
-      Roll: -89.9999695
-    }
-    Scale {
-      X: 1.58565187
-      Y: 0.652390659
-      Z: 0.326797575
-    }
-  }
-  ParentId: 3275364498766878797
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Building_Floor:id"
-      AssetReference {
-        Id: 7693510740092307811
-      }
-    }
-    Overrides {
-      Name: "ma:Building_Ceiling:id"
-      AssetReference {
-        Id: 5985548767639516699
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 13042368172556113913
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 11454078010245169000
-    SubobjectId: 5447771493503821743
-    InstanceId: 15676424230737498124
-    TemplateId: 7934732742606995046
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 1185640507032918548
-  Name: "Large Wood Board 8m"
-  Transform {
-    Location {
-      X: 49.5632324
-      Y: 626.509766
-      Z: -3.97680664
-    }
-    Rotation {
-      Yaw: -90
-    }
-    Scale {
-      X: 0.797566652
-      Y: 1.41861498
-      Z: 1.41861498
-    }
-  }
-  ParentId: 3275364498766878797
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 5985548767639516699
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 725365412107610098
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 1185640507032918548
-    SubobjectId: 14203066584537170643
-    InstanceId: 15676424230737498124
-    TemplateId: 7934732742606995046
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 12866509720893581395
-  Name: "Large Round Wood Beam 8m"
-  Transform {
-    Location {
-      X: 14.467041
-      Y: -20.9248047
-      Z: -136.184326
-    }
-    Rotation {
-      Pitch: 90
-      Roll: 90.0000076
-    }
-    Scale {
-      X: 0.538079798
-      Y: 0.766117334
-      Z: 0.766117334
-    }
-  }
-  ParentId: 3275364498766878797
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceon"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2132385347902568908
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-      BoundsScale: 1
-    }
-  }
-  InstanceHistory {
-    SelfId: 12866509720893581395
-    SubobjectId: 7485077582102474900
-    InstanceId: 15676424230737498124
     TemplateId: 7934732742606995046
   }
   Relevance {
