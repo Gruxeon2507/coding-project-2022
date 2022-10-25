@@ -1,7 +1,7 @@
 Name: "Decals_1"
-RootId: 16894297811567395306
+RootId: 3659437879669678706
 Objects {
-  Id: 4303687493066829977
+  Id: 15440719299437625727
   Name: "Decal Stone Cracks Variants 01"
   Transform {
     Location {
@@ -19,7 +19,7 @@ Objects {
       Z: 0.258400589
     }
   }
-  ParentId: 16894297811567395306
+  ParentId: 3659437879669678706
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -69,7 +69,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5398121905422196771
+  Id: 6050781707985319357
   Name: "Decal Stone Cracks Variants 01"
   Transform {
     Location {
@@ -88,7 +88,7 @@ Objects {
       Z: 0.171806872
     }
   }
-  ParentId: 16894297811567395306
+  ParentId: 3659437879669678706
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -138,7 +138,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14911271995837106246
+  Id: 10800888408758606798
   Name: "Scorch Mark Decal"
   Transform {
     Location {
@@ -157,7 +157,7 @@ Objects {
       Z: 0.348151863
     }
   }
-  ParentId: 16894297811567395306
+  ParentId: 3659437879669678706
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -242,7 +242,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10821210864977637727
+  Id: 13604397599802184329
   Name: "Scorch Mark Decal"
   Transform {
     Location {
@@ -261,7 +261,7 @@ Objects {
       Z: 0.348151863
     }
   }
-  ParentId: 16894297811567395306
+  ParentId: 3659437879669678706
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -346,7 +346,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9254890979776474648
+  Id: 18184147691293351544
   Name: "Scorch Mark Decal"
   Transform {
     Location {
@@ -365,7 +365,7 @@ Objects {
       Z: 0.348151863
     }
   }
-  ParentId: 16894297811567395306
+  ParentId: 3659437879669678706
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -450,7 +450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9931760490926003216
+  Id: 5075366732620375048
   Name: "Scorch Mark Decal"
   Transform {
     Location {
@@ -469,7 +469,7 @@ Objects {
       Z: 0.348151863
     }
   }
-  ParentId: 16894297811567395306
+  ParentId: 3659437879669678706
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -554,7 +554,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 462545407723590165
+  Id: 3438635811838592007
   Name: "Scorch Mark Decal"
   Transform {
     Location {
@@ -573,7 +573,7 @@ Objects {
       Z: 0.348151863
     }
   }
-  ParentId: 16894297811567395306
+  ParentId: 3659437879669678706
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"

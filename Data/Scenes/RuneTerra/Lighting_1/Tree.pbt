@@ -1,7 +1,7 @@
 Name: "Lighting_1"
-RootId: 5774682530086134706
+RootId: 12445366581546534234
 Objects {
-  Id: 17827540885092241649
+  Id: 389014267572860149
   Name: "Spotlight"
   Transform {
     Location {
@@ -20,7 +20,7 @@ Objects {
       Z: 3.42487192
     }
   }
-  ParentId: 5774682530086134706
+  ParentId: 12445366581546534234
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -74,7 +74,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10729822035243641527
+  Id: 16957038413638153023
   Name: "Spotlight"
   Transform {
     Location {
@@ -93,7 +93,7 @@ Objects {
       Z: 3.42487192
     }
   }
-  ParentId: 5774682530086134706
+  ParentId: 12445366581546534234
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -147,7 +147,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12511517372047793211
+  Id: 6936390150133313192
   Name: "Area Light"
   Transform {
     Location {
@@ -165,7 +165,7 @@ Objects {
       Z: 3.42487192
     }
   }
-  ParentId: 5774682530086134706
+  ParentId: 12445366581546534234
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
