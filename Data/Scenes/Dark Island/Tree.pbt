@@ -193,9 +193,9 @@ Objects {
   Name: "TranferToRuneTerra"
   Transform {
     Location {
-      X: -1477.25085
-      Y: 2047.20569
-      Z: 250.37207
+      X: 2850
+      Y: 2000.00012
+      Z: 300
     }
     Rotation {
     }
@@ -207,6 +207,23 @@ Objects {
   }
   ParentId: 4781671109827199097
   ChildIds: 1861151110674135019
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 17436694173372392815
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 1
+        G: 1
+        B: 1
+        A: 1
+      }
+    }
+  }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -261,7 +278,7 @@ Objects {
     }
   }
   ParentId: 7163184087107416741
-  ChildIds: 4077662731194656007
+  ChildIds: 13258435251600557008
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceon"
   }
@@ -276,7 +293,7 @@ Objects {
   }
   Trigger {
     Interactable: true
-    InteractionLabel: "teleport_runtera"
+    InteractionLabel: "Teleport To Hall"
     TeamSettings {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
@@ -295,13 +312,10 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4077662731194656007
-  Name: "teleport_runtera"
+  Id: 13258435251600557008
+  Name: "RuneTerra -> Hall"
   Transform {
     Location {
-      X: 3625.47803
-      Y: -12285.3818
-      Z: -2662.7312
     }
     Rotation {
     }
@@ -326,7 +340,7 @@ Objects {
   }
   Script {
     ScriptAsset {
-      Id: 11651530398992215939
+      Id: 2222668899784021718
     }
   }
   NetworkRelevanceDistance {
@@ -592,6 +606,7 @@ Objects {
   PlayerSpawnPoint {
     TeamInt: 1
     PlayerScaleMultiplier: 1
+    SpawnKey: "Dark Spawn"
     SpawnEffectsTemplate {
       Id: 841534158063459245
     }

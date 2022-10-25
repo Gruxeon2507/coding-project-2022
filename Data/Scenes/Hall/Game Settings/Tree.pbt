@@ -4751,6 +4751,10 @@ Objects {
         Value: "mc:erespawnmode:roundrobin"
       }
       StartSpawned: true
+      SpawnMode {
+        Value: "mc:espawnmode:random"
+      }
+      RespawnKey: "Respawn"
     }
   }
   NetworkRelevanceDistance {

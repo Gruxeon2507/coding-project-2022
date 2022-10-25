@@ -32,6 +32,7 @@ Objects {
   PlayerSpawnPoint {
     TeamInt: 1
     PlayerScaleMultiplier: 1
+    SpawnKey: "Surima Spawn"
     SpawnEffectsTemplate {
     }
   }

@@ -1,3 +1,3 @@
 LeaderboardConfigs {
 }
-MainScene: "NewScene"
+MainScene: "Hall"
