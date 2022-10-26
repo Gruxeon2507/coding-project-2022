@@ -266,7 +266,7 @@ Assets {
           Overrides {
             Name: "cs:MoveToLocationPoint"
             ObjectReference {
-              SelfId: 18223780977974028401
+              SelfId: 1434644240523220262
             }
           }
           Overrides {
@@ -339,7 +339,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 17713538497256559866
+            Id: 15104704190817301101
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -440,7 +440,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 17713538497256559866
+            Id: 15104704190817301101
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1177,7 +1177,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 3339082094755467308
+            Id: 10782112515531017680
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1221,7 +1221,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 15153513534399946376
             }
           }
         }
@@ -1239,7 +1239,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 18309743513733465427
+            Id: 16356403605396995610
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1284,7 +1284,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 14652545573389172725
+              Id: 15153513534399946376
             }
           }
         }
@@ -1302,7 +1302,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 18309743513733465427
+            Id: 16356403605396995610
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -1696,7 +1696,7 @@ Assets {
       }
     }
     Assets {
-      Id: 17713538497256559866
+      Id: 15104704190817301101
       Name: "Fantasy Castle Stairs 01 - 150cm Corner 02"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1759,7 +1759,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3339082094755467308
+      Id: 10782112515531017680
       Name: "Pipe - Quarter Thin"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1777,7 +1777,7 @@ Assets {
       }
     }
     Assets {
-      Id: 18309743513733465427
+      Id: 16356403605396995610
       Name: "Sphere - Half Quarter Thin"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -1786,7 +1786,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14652545573389172725
+      Id: 15153513534399946376
       Name: "Stone Basic"
       PlatformAssetType: 2
       PrimaryAsset {
@@ -1808,9 +1808,5 @@ Assets {
       AssetId: "None"
     }
   }
-  Marketplace {
-    Description: "A simple Alcove I assembled as a starting spawn point in my game."
-  }
   SerializationVersion: 119
-  DirectlyPublished: true
 }

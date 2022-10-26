@@ -1,7 +1,7 @@
 Name: "Location"
-RootId: 13446592848834251070
+RootId: 1031080343980185180
 Objects {
-  Id: 7650408496188348231
+  Id: 8642216768679564148
   Name: "Location:Tutorial"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -61,7 +61,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 708870567745606603
+  Id: 468034807151169889
   Name: "Location: D3"
   Transform {
     Location {
@@ -78,7 +78,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -121,12 +121,12 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9381239289960222167
+  Id: 8239828015613038466
   Name: "Location:D2back"
   Transform {
     Location {
-      X: -2795
-      Y: 16265
+      X: -3648.41626
+      Y: 9326.44336
       Z: 2750
     }
     Rotation {
@@ -137,7 +137,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -180,7 +180,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 618814583227513139
+  Id: 17456772574468510042
   Name: "Location:D2"
   Transform {
     Location {
@@ -197,7 +197,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -240,7 +240,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1423425053162603826
+  Id: 1241123246951831162
   Name: "Location:BossD3back"
   Transform {
     Location {
@@ -257,7 +257,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -300,7 +300,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4321003105584016193
+  Id: 15117215427860896109
   Name: "Location: Treasure"
   Transform {
     Location {
@@ -317,7 +317,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -360,13 +360,13 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5299070532579260195
+  Id: 4696975830961822367
   Name: "Location:TreasoureBack"
   Transform {
     Location {
-      X: -2459.93091
-      Y: 15975.3994
-      Z: 2735.85986
+      X: -3390.88
+      Y: 9363.41113
+      Z: 2709.88184
     }
     Rotation {
       Yaw: 89.9999542
@@ -377,7 +377,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -420,12 +420,12 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6122843554734063035
+  Id: 7176139623436570837
   Name: "Location:D1Back"
   Transform {
     Location {
-      X: -2455
-      Y: 15975
+      X: -3385.94897
+      Y: 9235.93164
       Z: 2680
     }
     Rotation {
@@ -436,7 +436,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -479,7 +479,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2129836190211873520
+  Id: 8373611660966376508
   Name: "Location:BossD1"
   Transform {
     Location {
@@ -495,7 +495,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -538,7 +538,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1721365213351025740
+  Id: 16445277771250813069
   Name: "Location:D1frontBossRoom"
   Transform {
     Location {
@@ -554,7 +554,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -597,7 +597,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3051282484715593248
+  Id: 7734996056281123256
   Name: "Location:SpecialD1"
   Transform {
     Location {
@@ -613,7 +613,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -656,7 +656,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2086588462345600238
+  Id: 7840011143171156373
   Name: "Location:D1"
   Transform {
     Location {
@@ -673,7 +673,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -716,7 +716,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15514647550927418704
+  Id: 11947264958117418646
   Name: "Location:SpecialD1back"
   Transform {
     Location {
@@ -733,7 +733,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -776,7 +776,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10525643552085682935
+  Id: 12357425061804250867
   Name: "Location:SpecialD2"
   Transform {
     Location {
@@ -792,7 +792,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -835,7 +835,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18338687992213883312
+  Id: 2483163516315035642
   Name: "Location:BossD2backGuild"
   Transform {
     Location {
@@ -852,7 +852,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -895,7 +895,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11168369850854553525
+  Id: 2807042740383668346
   Name: "Location:BossD2"
   Transform {
     Location {
@@ -912,7 +912,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -955,7 +955,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7309752272472649868
+  Id: 10603574149040681177
   Name: "Location: BossD2backGuild"
   Transform {
     Location {
@@ -972,7 +972,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1015,12 +1015,12 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10486486592593298764
+  Id: 9156578916905100055
   Name: "Location:D3back"
   Transform {
     Location {
-      X: -4067.20508
-      Y: 16941.3242
+      X: -3481.47217
+      Y: 9262.10449
       Z: 2685.2229
     }
     Rotation {
@@ -1031,7 +1031,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1074,7 +1074,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4944701722222482457
+  Id: 5362695053092628140
   Name: "Location:TutorialBackGuild"
   Transform {
     Location {
@@ -1091,7 +1091,7 @@ Objects {
       Z: 1.10226846
     }
   }
-  ParentId: 13446592848834251070
+  ParentId: 1031080343980185180
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

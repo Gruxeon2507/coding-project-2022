@@ -2574,5 +2574,9 @@ Assets {
       AssetId: "None"
     }
   }
+  Marketplace {
+    Description: "made for my  project"
+  }
   SerializationVersion: 119
+  DirectlyPublished: true
 }

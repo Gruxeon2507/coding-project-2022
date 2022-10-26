@@ -60,9 +60,8 @@ Objects {
   Name: "NavMesh 2.0"
   Transform {
     Location {
-      X: 3566.27686
-      Y: 7904.34473
-      Z: -2595.02783
+      Y: 17410
+      Z: 285
     }
     Rotation {
     }
@@ -2185,19 +2184,6 @@ Objects {
   ParentId: 2654916338316290302
   TemplateInstance {
     ParameterOverrideMap {
-      key: 8398027654936564824
-      value {
-        Overrides {
-          Name: "UIX"
-          Float: -43.2669678
-        }
-        Overrides {
-          Name: "UIY"
-          Float: -86.5474243
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 12698535283932223295
       value {
         Overrides {
@@ -2234,9 +2220,6 @@ Objects {
   Name: "Third Person Camera Settings"
   Transform {
     Location {
-      X: -3642.74756
-      Y: 9302.84766
-      Z: 2984.27319
     }
     Rotation {
     }
@@ -2490,55 +2473,6 @@ Objects {
     }
     TemplateAsset {
       Id: 7646593255349821538
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 1553158290928957206
-  Name: "Loot Drop Factory"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2654916338316290302
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15821373674062278737
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Loot Drop Factory"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 8103032393308906111
     }
   }
   NetworkRelevanceDistance {
@@ -4728,6 +4662,51 @@ Objects {
   Script {
     ScriptAsset {
       Id: 13451820863796807922
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 3432427007554611280
+  Name: "Respawn Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2654916338316290302
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Settings {
+    RespawnSettings {
+      RespawnDelay: 4
+      RespawnMode_v2 {
+        Value: "mc:erespawnmode:roundrobin"
+      }
+      StartSpawned: true
+      SpawnMode {
+        Value: "mc:espawnmode:random"
+      }
+      SpawnKey: "Hall Spawn"
+      RespawnKey: "Hall Spawn"
     }
   }
   NetworkRelevanceDistance {

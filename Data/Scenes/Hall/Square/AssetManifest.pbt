@@ -35,6 +35,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16875518062024034743
+  Name: "Wedge - Corner-Aligned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_002"
+  }
+}
+Assets {
   Id: 16572118038922470237
   Name: "Torch Metal"
   PlatformAssetType: 1
@@ -197,6 +206,15 @@ Assets {
   }
 }
 Assets {
+  Id: 12095835209017042614
+  Name: "Cube"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_002"
+  }
+}
+Assets {
   Id: 12037622918791899186
   Name: "Chain Tile 01"
   PlatformAssetType: 1
@@ -224,15 +242,6 @@ Assets {
   }
 }
 Assets {
-  Id: 11493405264835290361
-  Name: "Fantasy Chest Base 03"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_chest_003_ref"
-  }
-}
-Assets {
   Id: 11157561899387492125
   Name: "Wooden Bucket"
   PlatformAssetType: 1
@@ -248,6 +257,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_broken_02"
+  }
+}
+Assets {
+  Id: 10782112515531017680
+  Name: "Pipe - Quarter Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_quarter-pipe_002"
   }
 }
 Assets {
@@ -278,12 +296,12 @@ Assets {
   }
 }
 Assets {
-  Id: 9927175959700879828
-  Name: "Fantasy Chest Lid 03"
+  Id: 9656981056490715848
+  Name: "Cabinet Door - Small"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_chest_lid_003_ref"
+    AssetId: "sm_urb_cabinet_door_002"
   }
 }
 Assets {
@@ -404,15 +422,6 @@ Assets {
   }
 }
 Assets {
-  Id: 3533190463953898497
-  Name: "Fantasy Chest Treasure Pile 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_fantasy_chest_treasure_pile_001_ref"
-  }
-}
-Assets {
   Id: 3531482966842715424
   Name: "Bricks Chunky Stone 01"
   PlatformAssetType: 2
@@ -527,5 +536,14 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_fan_cas_wall_curve_001_door_01"
+  }
+}
+Assets {
+  Id: 132672053610873933
+  Name: "Plastic Matte"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "plastic_matte_001"
   }
 }

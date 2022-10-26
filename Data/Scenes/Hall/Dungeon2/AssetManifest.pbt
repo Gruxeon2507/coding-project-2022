@@ -206,6 +206,15 @@ Assets {
   }
 }
 Assets {
+  Id: 15469475911527753827
+  Name: "Stone Arch (doorway) 001"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_stone_doorway_001"
+  }
+}
+Assets {
   Id: 15288970234502648924
   Name: "Rock Pile 002"
   PlatformAssetType: 1

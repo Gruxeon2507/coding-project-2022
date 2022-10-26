@@ -37,8 +37,6 @@ Objects {
       SpawnMode {
         Value: "mc:espawnmode:random"
       }
-      SpawnKey: "Mystic Spawn"
-      RespawnKey: "Mystic Spawn"
     }
   }
   IsReplicationEnabledByDefault: true

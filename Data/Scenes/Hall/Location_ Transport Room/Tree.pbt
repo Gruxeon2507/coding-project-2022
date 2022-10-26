@@ -1,7 +1,7 @@
 Name: "Location_ Transport Room"
-RootId: 14487312234585150353
+RootId: 8195024341631865137
 Objects {
-  Id: 18223780977974028401
+  Id: 1434644240523220262
   Name: "Location:EnchanceTransportRoom"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 14487312234585150353
+  ParentId: 8195024341631865137
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

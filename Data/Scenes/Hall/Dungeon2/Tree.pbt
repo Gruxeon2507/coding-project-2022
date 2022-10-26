@@ -96283,6 +96283,107 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
+  Id: 8785393460737656081
+  Name: "portal custom"
+  Transform {
+    Location {
+      X: -22726.2227
+      Y: 12243.8125
+      Z: 4632.479
+    }
+    Rotation {
+      Yaw: 89.9999924
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  ChildIds: 12658775057011774069
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 8785393460737656081
+    SubobjectId: 4969496786648088180
+    InstanceId: 5752358298806177329
+    TemplateId: 1882174699652033589
+    WasRoot: true
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12658775057011774069
+  Name: "Stone Arch (doorway) 001"
+  Transform {
+    Location {
+      Z: -11.1772461
+    }
+    Rotation {
+      Yaw: 89.9999771
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8785393460737656081
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 15469475911527753827
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 12658775057011774069
+    SubobjectId: 10570457301260921104
+    InstanceId: 5752358298806177329
+    TemplateId: 1882174699652033589
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 3448482730982409636
   Name: "World Text"
   Transform {

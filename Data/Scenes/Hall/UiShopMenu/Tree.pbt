@@ -1,2 +1,0 @@
-Name: "UiShopMenu"
-RootId: 15907778049470732578

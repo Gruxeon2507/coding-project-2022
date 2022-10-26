@@ -1,7 +1,7 @@
 Name: "Portal"
-RootId: 10471498732422705144
+RootId: 7033923643758714011
 Objects {
-  Id: 175064152296900221
+  Id: 12368301672284049205
   Name: "Portal D3 back"
   Transform {
     Location {
@@ -17,8 +17,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 8366641016788362681
+  ParentId: 7033923643758714011
+  ChildIds: 15425055230103937596
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37,7 +37,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8366641016788362681
+  Id: 15425055230103937596
   Name: "Portal VFX"
   Transform {
     Location {
@@ -53,8 +53,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 175064152296900221
-  ChildIds: 4984550038643631789
+  ParentId: 12368301672284049205
+  ChildIds: 14710053340786292820
   UnregisteredParameters {
     Overrides {
       Name: "bp:Edge Distance"
@@ -124,7 +124,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4984550038643631789
+  Id: 14710053340786292820
   Name: "Trigger"
   Transform {
     Location {
@@ -140,8 +140,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 8366641016788362681
-  ChildIds: 4979050488292905208
+  ParentId: 15425055230103937596
+  ChildIds: 9106140113636486732
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -170,7 +170,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4979050488292905208
+  Id: 9106140113636486732
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -186,12 +186,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 4984550038643631789
+  ParentId: 14710053340786292820
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 10486486592593298764
+        SelfId: 9156578916905100055
       }
     }
     Overrides {
@@ -229,7 +229,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4257892307638622625
+  Id: 2365472498194362409
   Name: "Portal BossD2 back guild"
   Transform {
     Location {
@@ -246,8 +246,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 6596290925195127495
+  ParentId: 7033923643758714011
+  ChildIds: 15577574970769519942
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -266,7 +266,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6596290925195127495
+  Id: 15577574970769519942
   Name: "Portal VFX"
   Transform {
     Location {
@@ -282,8 +282,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 4257892307638622625
-  ChildIds: 13815951858750660284
+  ParentId: 2365472498194362409
+  ChildIds: 4734068484451045063
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -356,7 +356,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13815951858750660284
+  Id: 4734068484451045063
   Name: "Trigger"
   Transform {
     Location {
@@ -372,8 +372,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 6596290925195127495
-  ChildIds: 14565224440980405838
+  ParentId: 15577574970769519942
+  ChildIds: 13981951822763945652
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -402,7 +402,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14565224440980405838
+  Id: 13981951822763945652
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -418,12 +418,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 13815951858750660284
+  ParentId: 4734068484451045063
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 7309752272472649868
+        SelfId: 10603574149040681177
       }
     }
     Overrides {
@@ -461,7 +461,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13309041479693870546
+  Id: 16766669039312225607
   Name: "Portal to BossD2"
   Transform {
     Location {
@@ -478,8 +478,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 11265845432509150533
+  ParentId: 7033923643758714011
+  ChildIds: 5349089367517950192
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -498,7 +498,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11265845432509150533
+  Id: 5349089367517950192
   Name: "Portal VFX"
   Transform {
     Location {
@@ -514,8 +514,8 @@ Objects {
       Z: 1.5
     }
   }
-  ParentId: 13309041479693870546
-  ChildIds: 13119718203929469849
+  ParentId: 16766669039312225607
+  ChildIds: 6598479382219078
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -588,7 +588,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13119718203929469849
+  Id: 6598479382219078
   Name: "Trigger"
   Transform {
     Location {
@@ -604,8 +604,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 11265845432509150533
-  ChildIds: 12853255255799031628
+  ParentId: 5349089367517950192
+  ChildIds: 6260638993337328020
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -634,7 +634,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12853255255799031628
+  Id: 6260638993337328020
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -650,12 +650,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 13119718203929469849
+  ParentId: 6598479382219078
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 11168369850854553525
+        SelfId: 2807042740383668346
       }
     }
     Overrides {
@@ -693,7 +693,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9608387695671590363
+  Id: 10579884780817332343
   Name: "Portal SpecialD2 back"
   Transform {
     Location {
@@ -710,8 +710,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 10314822454697757109
+  ParentId: 7033923643758714011
+  ChildIds: 7001256448358970907
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -730,7 +730,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10314822454697757109
+  Id: 7001256448358970907
   Name: "Portal VFX"
   Transform {
     Location {
@@ -746,8 +746,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9608387695671590363
-  ChildIds: 83530491969520103
+  ParentId: 10579884780817332343
+  ChildIds: 15548578494076934694
   UnregisteredParameters {
     Overrides {
       Name: "bp:Portal Shape"
@@ -821,7 +821,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 83530491969520103
+  Id: 15548578494076934694
   Name: "Trigger"
   Transform {
     Location {
@@ -837,8 +837,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 10314822454697757109
-  ChildIds: 4050772698443598100
+  ParentId: 7001256448358970907
+  ChildIds: 6685174958020035803
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -867,7 +867,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4050772698443598100
+  Id: 6685174958020035803
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -883,12 +883,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 83530491969520103
+  ParentId: 15548578494076934694
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 18338687992213883312
+        SelfId: 2483163516315035642
       }
     }
     Overrides {
@@ -926,7 +926,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15080203003074232325
+  Id: 488766551311008729
   Name: "Portal To The Underworld"
   Transform {
     Location {
@@ -943,11 +943,11 @@ Objects {
       Z: 0.601232171
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 14938049199125296806
-  ChildIds: 12551289098081438701
-  ChildIds: 15528163892960434610
-  ChildIds: 3845609588780477289
+  ParentId: 7033923643758714011
+  ChildIds: 9826402545768712615
+  ChildIds: 10769175558055195617
+  ChildIds: 10882313701438829269
+  ChildIds: 18050628682350006653
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -966,7 +966,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3845609588780477289
+  Id: 18050628682350006653
   Name: "Fire and Flame Burning Loop Set 01 SFX"
   Transform {
     Location {
@@ -982,7 +982,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15080203003074232325
+  ParentId: 488766551311008729
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1015,7 +1015,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15528163892960434610
+  Id: 10882313701438829269
   Name: "Portal Back"
   Transform {
     Location {
@@ -1032,7 +1032,7 @@ Objects {
       Z: 2.23867226
     }
   }
-  ParentId: 15080203003074232325
+  ParentId: 488766551311008729
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1066,7 +1066,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12551289098081438701
+  Id: 10769175558055195617
   Name: "Skulls"
   Transform {
     Location {
@@ -1082,14 +1082,14 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15080203003074232325
-  ChildIds: 6598453614750113131
-  ChildIds: 16137787674393530846
-  ChildIds: 9168976978772145389
-  ChildIds: 8141582719487153618
-  ChildIds: 3655046097917155569
-  ChildIds: 2238364328565416019
-  ChildIds: 13174124906073357607
+  ParentId: 488766551311008729
+  ChildIds: 11413911810503004895
+  ChildIds: 3724259705608062901
+  ChildIds: 4185417023585810835
+  ChildIds: 12427289765193064346
+  ChildIds: 11695520623234851912
+  ChildIds: 15180261816717389569
+  ChildIds: 1579808848297646885
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1108,7 +1108,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13174124906073357607
+  Id: 1579808848297646885
   Name: "Skull on fire"
   Transform {
     Location {
@@ -1123,11 +1123,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12551289098081438701
-  ChildIds: 9760719214676358299
-  ChildIds: 13179520640877770947
-  ChildIds: 3105444486761440781
-  ChildIds: 12522219329145796486
+  ParentId: 10769175558055195617
+  ChildIds: 17193872129579363371
+  ChildIds: 8667132252431927246
+  ChildIds: 12242978350843123600
+  ChildIds: 14202124459704597271
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1146,7 +1146,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12522219329145796486
+  Id: 14202124459704597271
   Name: "Fire Volume VFX"
   Transform {
     Location {
@@ -1162,7 +1162,7 @@ Objects {
       Z: 0.162060648
     }
   }
-  ParentId: 13174124906073357607
+  ParentId: 1579808848297646885
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1200,7 +1200,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3105444486761440781
+  Id: 12242978350843123600
   Name: "Lense"
   Transform {
     Location {
@@ -1219,7 +1219,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 13174124906073357607
+  ParentId: 1579808848297646885
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1268,7 +1268,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13179520640877770947
+  Id: 8667132252431927246
   Name: "Lense"
   Transform {
     Location {
@@ -1287,7 +1287,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 13174124906073357607
+  ParentId: 1579808848297646885
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1336,7 +1336,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9760719214676358299
+  Id: 17193872129579363371
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -1352,7 +1352,7 @@ Objects {
       Z: 4.75000143
     }
   }
-  ParentId: 13174124906073357607
+  ParentId: 1579808848297646885
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1386,7 +1386,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2238364328565416019
+  Id: 15180261816717389569
   Name: "Skull on fire"
   Transform {
     Location {
@@ -1401,11 +1401,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12551289098081438701
-  ChildIds: 1385603231111344588
-  ChildIds: 4439713041887008140
-  ChildIds: 4636810958991503120
-  ChildIds: 12440181848632197634
+  ParentId: 10769175558055195617
+  ChildIds: 2795582383415654599
+  ChildIds: 2320961267537457720
+  ChildIds: 5058210212294796741
+  ChildIds: 1924485484694105357
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1424,7 +1424,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12440181848632197634
+  Id: 1924485484694105357
   Name: "Fire Volume VFX"
   Transform {
     Location {
@@ -1440,7 +1440,7 @@ Objects {
       Z: 0.162060648
     }
   }
-  ParentId: 2238364328565416019
+  ParentId: 15180261816717389569
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1478,7 +1478,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4636810958991503120
+  Id: 5058210212294796741
   Name: "Lense"
   Transform {
     Location {
@@ -1497,7 +1497,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 2238364328565416019
+  ParentId: 15180261816717389569
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1546,7 +1546,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4439713041887008140
+  Id: 2320961267537457720
   Name: "Lense"
   Transform {
     Location {
@@ -1565,7 +1565,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 2238364328565416019
+  ParentId: 15180261816717389569
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1614,7 +1614,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1385603231111344588
+  Id: 2795582383415654599
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -1630,7 +1630,7 @@ Objects {
       Z: 4.75000143
     }
   }
-  ParentId: 2238364328565416019
+  ParentId: 15180261816717389569
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1664,7 +1664,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3655046097917155569
+  Id: 11695520623234851912
   Name: "Skull on fire"
   Transform {
     Location {
@@ -1679,11 +1679,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12551289098081438701
-  ChildIds: 11470395596881011770
-  ChildIds: 9004277021867668937
-  ChildIds: 16766796650655721561
-  ChildIds: 11521438119426409882
+  ParentId: 10769175558055195617
+  ChildIds: 735797528378191931
+  ChildIds: 5500875263024155059
+  ChildIds: 5332609635736772549
+  ChildIds: 4349742622476050657
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1702,7 +1702,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11521438119426409882
+  Id: 4349742622476050657
   Name: "Fire Volume VFX"
   Transform {
     Location {
@@ -1718,7 +1718,7 @@ Objects {
       Z: 0.162060648
     }
   }
-  ParentId: 3655046097917155569
+  ParentId: 11695520623234851912
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -1756,7 +1756,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16766796650655721561
+  Id: 5332609635736772549
   Name: "Lense"
   Transform {
     Location {
@@ -1775,7 +1775,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 3655046097917155569
+  ParentId: 11695520623234851912
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1824,7 +1824,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9004277021867668937
+  Id: 5500875263024155059
   Name: "Lense"
   Transform {
     Location {
@@ -1843,7 +1843,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 3655046097917155569
+  ParentId: 11695520623234851912
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1892,7 +1892,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11470395596881011770
+  Id: 735797528378191931
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -1908,7 +1908,7 @@ Objects {
       Z: 4.75000143
     }
   }
-  ParentId: 3655046097917155569
+  ParentId: 11695520623234851912
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1942,7 +1942,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8141582719487153618
+  Id: 12427289765193064346
   Name: "Skull on fire"
   Transform {
     Location {
@@ -1957,11 +1957,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12551289098081438701
-  ChildIds: 7925062481029662115
-  ChildIds: 8267146974751912348
-  ChildIds: 15115309369433008425
-  ChildIds: 5779340830971376605
+  ParentId: 10769175558055195617
+  ChildIds: 13781209792685664274
+  ChildIds: 9620823656412818778
+  ChildIds: 11266642821926457036
+  ChildIds: 16002531570476543841
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1980,7 +1980,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5779340830971376605
+  Id: 16002531570476543841
   Name: "Fire Volume VFX"
   Transform {
     Location {
@@ -1996,7 +1996,7 @@ Objects {
       Z: 0.162060648
     }
   }
-  ParentId: 8141582719487153618
+  ParentId: 12427289765193064346
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2034,7 +2034,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15115309369433008425
+  Id: 11266642821926457036
   Name: "Lense"
   Transform {
     Location {
@@ -2053,7 +2053,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 8141582719487153618
+  ParentId: 12427289765193064346
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2102,7 +2102,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8267146974751912348
+  Id: 9620823656412818778
   Name: "Lense"
   Transform {
     Location {
@@ -2121,7 +2121,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 8141582719487153618
+  ParentId: 12427289765193064346
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2170,7 +2170,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7925062481029662115
+  Id: 13781209792685664274
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -2186,7 +2186,7 @@ Objects {
       Z: 4.75000143
     }
   }
-  ParentId: 8141582719487153618
+  ParentId: 12427289765193064346
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2220,7 +2220,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9168976978772145389
+  Id: 4185417023585810835
   Name: "Skull on fire"
   Transform {
     Location {
@@ -2235,11 +2235,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12551289098081438701
-  ChildIds: 16143428738126016357
-  ChildIds: 435705541240701718
-  ChildIds: 2849756855535263612
-  ChildIds: 11986009769879281552
+  ParentId: 10769175558055195617
+  ChildIds: 5794132836139727971
+  ChildIds: 5495431086155863794
+  ChildIds: 18217231623972597829
+  ChildIds: 16430230867597068911
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2258,7 +2258,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11986009769879281552
+  Id: 16430230867597068911
   Name: "Fire Volume VFX"
   Transform {
     Location {
@@ -2274,7 +2274,7 @@ Objects {
       Z: 0.162060648
     }
   }
-  ParentId: 9168976978772145389
+  ParentId: 4185417023585810835
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2312,7 +2312,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2849756855535263612
+  Id: 18217231623972597829
   Name: "Lense"
   Transform {
     Location {
@@ -2331,7 +2331,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 9168976978772145389
+  ParentId: 4185417023585810835
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2380,7 +2380,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 435705541240701718
+  Id: 5495431086155863794
   Name: "Lense"
   Transform {
     Location {
@@ -2399,7 +2399,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 9168976978772145389
+  ParentId: 4185417023585810835
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2448,7 +2448,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16143428738126016357
+  Id: 5794132836139727971
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -2464,7 +2464,7 @@ Objects {
       Z: 4.75000143
     }
   }
-  ParentId: 9168976978772145389
+  ParentId: 4185417023585810835
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2498,7 +2498,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16137787674393530846
+  Id: 3724259705608062901
   Name: "Skull on fire"
   Transform {
     Location {
@@ -2512,11 +2512,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12551289098081438701
-  ChildIds: 10599856856342842173
-  ChildIds: 14284296486172507707
-  ChildIds: 15476405510778838228
-  ChildIds: 10254658685373767740
+  ParentId: 10769175558055195617
+  ChildIds: 12647142830367358696
+  ChildIds: 14106778780573951048
+  ChildIds: 2500452226772845193
+  ChildIds: 5292420133331872125
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2535,7 +2535,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10254658685373767740
+  Id: 5292420133331872125
   Name: "Fire Volume VFX"
   Transform {
     Location {
@@ -2551,7 +2551,7 @@ Objects {
       Z: 0.162060648
     }
   }
-  ParentId: 16137787674393530846
+  ParentId: 3724259705608062901
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2589,7 +2589,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15476405510778838228
+  Id: 2500452226772845193
   Name: "Lense"
   Transform {
     Location {
@@ -2608,7 +2608,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 16137787674393530846
+  ParentId: 3724259705608062901
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2657,7 +2657,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14284296486172507707
+  Id: 14106778780573951048
   Name: "Lense"
   Transform {
     Location {
@@ -2676,7 +2676,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 16137787674393530846
+  ParentId: 3724259705608062901
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2725,7 +2725,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10599856856342842173
+  Id: 12647142830367358696
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -2741,7 +2741,7 @@ Objects {
       Z: 4.75000143
     }
   }
-  ParentId: 16137787674393530846
+  ParentId: 3724259705608062901
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2775,7 +2775,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6598453614750113131
+  Id: 11413911810503004895
   Name: "Skull on fire"
   Transform {
     Location {
@@ -2789,11 +2789,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12551289098081438701
-  ChildIds: 17852058023120210837
-  ChildIds: 1236871010811406526
-  ChildIds: 15613008917644896213
-  ChildIds: 488835205081316933
+  ParentId: 10769175558055195617
+  ChildIds: 8213193918405892693
+  ChildIds: 2973467722702413981
+  ChildIds: 11230151510726419789
+  ChildIds: 13915706792997790447
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2812,7 +2812,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 488835205081316933
+  Id: 13915706792997790447
   Name: "Fire Volume VFX"
   Transform {
     Location {
@@ -2828,7 +2828,7 @@ Objects {
       Z: 0.162060648
     }
   }
-  ParentId: 6598453614750113131
+  ParentId: 11413911810503004895
   UnregisteredParameters {
     Overrides {
       Name: "bp:color"
@@ -2866,7 +2866,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15613008917644896213
+  Id: 11230151510726419789
   Name: "Lense"
   Transform {
     Location {
@@ -2885,7 +2885,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 6598453614750113131
+  ParentId: 11413911810503004895
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2934,7 +2934,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1236871010811406526
+  Id: 2973467722702413981
   Name: "Lense"
   Transform {
     Location {
@@ -2953,7 +2953,7 @@ Objects {
       Z: 0.350054264
     }
   }
-  ParentId: 6598453614750113131
+  ParentId: 11413911810503004895
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3002,7 +3002,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17852058023120210837
+  Id: 8213193918405892693
   Name: "Bone Human Skull 01"
   Transform {
     Location {
@@ -3018,7 +3018,7 @@ Objects {
       Z: 4.75000143
     }
   }
-  ParentId: 6598453614750113131
+  ParentId: 11413911810503004895
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3052,7 +3052,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14938049199125296806
+  Id: 9826402545768712615
   Name: "Arch Fancy Peaked 2m"
   Transform {
     Location {
@@ -3067,7 +3067,7 @@ Objects {
       Z: 7.75
     }
   }
-  ParentId: 15080203003074232325
+  ParentId: 488766551311008729
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3101,7 +3101,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6758102473376311204
+  Id: 1176696596451405458
   Name: "Portal To SpecialBossD2"
   Transform {
     Location {
@@ -3117,8 +3117,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 15376849120084878957
+  ParentId: 7033923643758714011
+  ChildIds: 8549797752314010754
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3137,7 +3137,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15376849120084878957
+  Id: 8549797752314010754
   Name: "Portal VFX"
   Transform {
     Location {
@@ -3153,8 +3153,8 @@ Objects {
       Z: 0.9
     }
   }
-  ParentId: 6758102473376311204
-  ChildIds: 4600363260687283057
+  ParentId: 1176696596451405458
+  ChildIds: 9842820815323635287
   UnregisteredParameters {
     Overrides {
       Name: "bp:Portal Shape"
@@ -3228,7 +3228,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4600363260687283057
+  Id: 9842820815323635287
   Name: "Trigger"
   Transform {
     Location {
@@ -3244,8 +3244,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 15376849120084878957
-  ChildIds: 10206543924250932155
+  ParentId: 8549797752314010754
+  ChildIds: 15964017267487541027
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3274,7 +3274,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10206543924250932155
+  Id: 15964017267487541027
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -3290,12 +3290,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 4600363260687283057
+  ParentId: 9842820815323635287
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 10525643552085682935
+        SelfId: 12357425061804250867
       }
     }
     Overrides {
@@ -3337,7 +3337,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2404001911772117655
+  Id: 11200173235931460201
   Name: "portal custom"
   Transform {
     Location {
@@ -3354,8 +3354,8 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 7457978836084694715
+  ParentId: 7033923643758714011
+  ChildIds: 12741116641197604528
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3374,7 +3374,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7457978836084694715
+  Id: 12741116641197604528
   Name: "Stone Arch (doorway) 001"
   Transform {
     Location {
@@ -3389,7 +3389,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2404001911772117655
+  ParentId: 11200173235931460201
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3425,7 +3425,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8496559584762168860
+  Id: 6943642294280566070
   Name: "Portal SpecialBossD1 back"
   Transform {
     Location {
@@ -3442,8 +3442,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 6743310459387749521
+  ParentId: 7033923643758714011
+  ChildIds: 4157973813917627295
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3462,7 +3462,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6743310459387749521
+  Id: 4157973813917627295
   Name: "Portal VFX"
   Transform {
     Location {
@@ -3478,8 +3478,8 @@ Objects {
       Z: 1.25
     }
   }
-  ParentId: 8496559584762168860
-  ChildIds: 7974786168812495362
+  ParentId: 6943642294280566070
+  ChildIds: 8579907649771667517
   UnregisteredParameters {
     Overrides {
       Name: "bp:Portal Shape"
@@ -3532,7 +3532,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7974786168812495362
+  Id: 8579907649771667517
   Name: "Trigger"
   Transform {
     Location {
@@ -3548,8 +3548,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 6743310459387749521
-  ChildIds: 5025173459026379560
+  ParentId: 4157973813917627295
+  ChildIds: 10812655958667755715
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3578,7 +3578,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5025173459026379560
+  Id: 10812655958667755715
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -3594,12 +3594,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 7974786168812495362
+  ParentId: 8579907649771667517
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 15514647550927418704
+        SelfId: 11947264958117418646
       }
     }
     Overrides {
@@ -3637,7 +3637,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17953076337820209015
+  Id: 10076857277768452924
   Name: "Portal To SpecialBossD1"
   Transform {
     Location {
@@ -3653,8 +3653,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 13627820587355587652
+  ParentId: 7033923643758714011
+  ChildIds: 3674432240009821979
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3673,7 +3673,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13627820587355587652
+  Id: 3674432240009821979
   Name: "Portal VFX"
   Transform {
     Location {
@@ -3689,8 +3689,8 @@ Objects {
       Z: 0.6
     }
   }
-  ParentId: 17953076337820209015
-  ChildIds: 575291495065692426
+  ParentId: 10076857277768452924
+  ChildIds: 7457470484358566377
   UnregisteredParameters {
     Overrides {
       Name: "bp:Portal Spread"
@@ -3758,7 +3758,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 575291495065692426
+  Id: 7457470484358566377
   Name: "Trigger"
   Transform {
     Location {
@@ -3774,8 +3774,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 13627820587355587652
-  ChildIds: 18212747300830909152
+  ParentId: 3674432240009821979
+  ChildIds: 16128171895841883763
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3804,7 +3804,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18212747300830909152
+  Id: 16128171895841883763
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -3820,12 +3820,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 575291495065692426
+  ParentId: 7457470484358566377
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 3051282484715593248
+        SelfId: 7734996056281123256
       }
     }
     Overrides {
@@ -3867,7 +3867,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13030717401440609362
+  Id: 17476683036971155827
   Name: "portal custom"
   Transform {
     Scale {
@@ -3876,7 +3876,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
+  ParentId: 7033923643758714011
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3922,7 +3922,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9162624279635613565
+  Id: 3199569848979022466
   Name: "Portal purleD1"
   Transform {
     Location {
@@ -3938,8 +3938,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 11234164623069692258
+  ParentId: 7033923643758714011
+  ChildIds: 16148134358789230057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3958,7 +3958,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11234164623069692258
+  Id: 16148134358789230057
   Name: "Portal VFX"
   Transform {
     Location {
@@ -3974,8 +3974,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 9162624279635613565
-  ChildIds: 7527127703185400855
+  ParentId: 3199569848979022466
+  ChildIds: 10985885059164394604
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color A"
@@ -4025,7 +4025,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7527127703185400855
+  Id: 10985885059164394604
   Name: "Trigger"
   Transform {
     Location {
@@ -4041,8 +4041,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 11234164623069692258
-  ChildIds: 15410889928318741602
+  ParentId: 16148134358789230057
+  ChildIds: 14688584012813654391
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4071,7 +4071,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15410889928318741602
+  Id: 14688584012813654391
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -4087,12 +4087,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 7527127703185400855
+  ParentId: 10985885059164394604
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 1721365213351025740
+        SelfId: 16445277771250813069
       }
     }
     Overrides {
@@ -4130,7 +4130,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7917099846836867273
+  Id: 1790636285036349542
   Name: "Portal To BossD1"
   Transform {
     Location {
@@ -4146,8 +4146,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 17737596465035827436
+  ParentId: 7033923643758714011
+  ChildIds: 12494210667600620761
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4166,7 +4166,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17737596465035827436
+  Id: 12494210667600620761
   Name: "Portal VFX"
   Transform {
     Location {
@@ -4182,8 +4182,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 7917099846836867273
-  ChildIds: 2907260602577525039
+  ParentId: 1790636285036349542
+  ChildIds: 9962655299967732839
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4206,7 +4206,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2907260602577525039
+  Id: 9962655299967732839
   Name: "Trigger"
   Transform {
     Location {
@@ -4222,8 +4222,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 17737596465035827436
-  ChildIds: 15327872708673869497
+  ParentId: 12494210667600620761
+  ChildIds: 8114687903012543690
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4252,7 +4252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15327872708673869497
+  Id: 8114687903012543690
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -4268,12 +4268,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 2907260602577525039
+  ParentId: 9962655299967732839
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 2129836190211873520
+        SelfId: 8373611660966376508
       }
     }
     Overrides {
@@ -4311,7 +4311,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15765653159318332810
+  Id: 5651830510153508007
   Name: "Portal To Dungeon 1back"
   Transform {
     Location {
@@ -4327,8 +4327,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 8545114239382980441
+  ParentId: 7033923643758714011
+  ChildIds: 13837205149352640198
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4347,7 +4347,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8545114239382980441
+  Id: 13837205149352640198
   Name: "Portal VFX"
   Transform {
     Location {
@@ -4363,8 +4363,8 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 15765653159318332810
-  ChildIds: 6532460568274045275
+  ParentId: 5651830510153508007
+  ChildIds: 14214645542291466410
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4387,7 +4387,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6532460568274045275
+  Id: 14214645542291466410
   Name: "Trigger"
   Transform {
     Location {
@@ -4403,8 +4403,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 8545114239382980441
-  ChildIds: 16563282970855947166
+  ParentId: 13837205149352640198
+  ChildIds: 14603420130028562033
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4433,7 +4433,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16563282970855947166
+  Id: 14603420130028562033
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -4449,12 +4449,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 6532460568274045275
+  ParentId: 14214645542291466410
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 6122843554734063035
+        SelfId: 7176139623436570837
       }
     }
     Overrides {
@@ -4492,7 +4492,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4208700711530489321
+  Id: 4778839604029979017
   Name: "portal custom"
   Transform {
     Scale {
@@ -4501,7 +4501,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
+  ParentId: 7033923643758714011
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4546,7 +4546,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5295119717004734198
+  Id: 4181671170263372055
   Name: "Portal To TreasureRoom"
   Transform {
     Location {
@@ -4563,8 +4563,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 14003487196881586929
+  ParentId: 7033923643758714011
+  ChildIds: 14480440652793027691
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4583,7 +4583,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14003487196881586929
+  Id: 14480440652793027691
   Name: "Portal VFX"
   Transform {
     Location {
@@ -4599,8 +4599,8 @@ Objects {
       Z: 0.9
     }
   }
-  ParentId: 5295119717004734198
-  ChildIds: 14596033832595437320
+  ParentId: 4181671170263372055
+  ChildIds: 9937703332677422533
   UnregisteredParameters {
     Overrides {
       Name: "bp:Edge Distance"
@@ -4647,7 +4647,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14596033832595437320
+  Id: 9937703332677422533
   Name: "Trigger"
   Transform {
     Location {
@@ -4663,8 +4663,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 14003487196881586929
-  ChildIds: 13323839370580857749
+  ParentId: 14480440652793027691
+  ChildIds: 884457612903561572
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4693,7 +4693,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13323839370580857749
+  Id: 884457612903561572
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -4709,12 +4709,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 14596033832595437320
+  ParentId: 9937703332677422533
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 5299070532579260195
+        SelfId: 4696975830961822367
       }
     }
     Overrides {
@@ -4752,7 +4752,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10805238160681581351
+  Id: 1890649998104871998
   Name: "Portal to Treasoure"
   Transform {
     Location {
@@ -4769,8 +4769,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 1566779128447395023
+  ParentId: 7033923643758714011
+  ChildIds: 6338690428654839469
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4789,7 +4789,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1566779128447395023
+  Id: 6338690428654839469
   Name: "Portal VFX"
   Transform {
     Location {
@@ -4805,8 +4805,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 10805238160681581351
-  ChildIds: 7765640962118455761
+  ParentId: 1890649998104871998
+  ChildIds: 8067818363819015281
   UnregisteredParameters {
     Overrides {
       Name: "bp:Scene Tint Color"
@@ -4849,7 +4849,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7765640962118455761
+  Id: 8067818363819015281
   Name: "Trigger"
   Transform {
     Location {
@@ -4865,8 +4865,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 1566779128447395023
-  ChildIds: 16748956500114078536
+  ParentId: 6338690428654839469
+  ChildIds: 16522039814604682010
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4895,7 +4895,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16748956500114078536
+  Id: 16522039814604682010
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -4911,12 +4911,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 7765640962118455761
+  ParentId: 8067818363819015281
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 4321003105584016193
+        SelfId: 15117215427860896109
       }
     }
     Overrides {
@@ -4958,7 +4958,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8126390680418088336
+  Id: 17039216371708041146
   Name: "Portal BossD3 back"
   Transform {
     Location {
@@ -4975,8 +4975,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 18064189872340570814
+  ParentId: 7033923643758714011
+  ChildIds: 1458316129952825471
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4995,7 +4995,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18064189872340570814
+  Id: 1458316129952825471
   Name: "Portal VFX"
   Transform {
     Location {
@@ -5011,8 +5011,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 8126390680418088336
-  ChildIds: 15182455167885866852
+  ParentId: 17039216371708041146
+  ChildIds: 16383743038875007208
   UnregisteredParameters {
     Overrides {
       Name: "bp:Emissive Boost"
@@ -5069,7 +5069,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15182455167885866852
+  Id: 16383743038875007208
   Name: "Trigger"
   Transform {
     Location {
@@ -5085,8 +5085,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 18064189872340570814
-  ChildIds: 4578931957961003267
+  ParentId: 1458316129952825471
+  ChildIds: 9964385304066088364
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5115,7 +5115,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4578931957961003267
+  Id: 9964385304066088364
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -5131,12 +5131,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 15182455167885866852
+  ParentId: 16383743038875007208
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 1423425053162603826
+        SelfId: 1241123246951831162
       }
     }
     Overrides {
@@ -5174,7 +5174,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8361630202005106338
+  Id: 10225309144969440448
   Name: "Arch Fancy 3m"
   Transform {
     Location {
@@ -5191,7 +5191,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
+  ParentId: 7033923643758714011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5227,7 +5227,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7775913937982987699
+  Id: 2398527721792325455
   Name: "Arch Fancy 3m"
   Transform {
     Location {
@@ -5246,7 +5246,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
+  ParentId: 7033923643758714011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5282,232 +5282,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13924125916315543014
-  Name: "Portal To D2"
-  Transform {
-    Location {
-      X: -2305
-      Y: 16920
-      Z: 1699.19922
-    }
-    Rotation {
-      Yaw: 30.0000057
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10471498732422705144
-  ChildIds: 3539220010031795792
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 3539220010031795792
-  Name: "Portal VFX"
-  Transform {
-    Location {
-      X: -102.689453
-      Y: -86.1341553
-      Z: 272.167664
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.635782838
-      Y: 0.635782838
-      Z: 0.635782838
-    }
-  }
-  ParentId: 13924125916315543014
-  ChildIds: 13257901852367067052
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Color A"
-      Color {
-        R: 0.31
-        G: 1
-        B: 0.328278244
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color B"
-      Color {
-        G: 0.52
-        B: 0.024105968
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color C"
-      Color {
-        G: 0.289999962
-        B: 0.0307285022
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Edge Distance"
-      Float: 2
-    }
-    Overrides {
-      Name: "bp:Scene Tint Color"
-      Color {
-        R: 0.0615893938
-        G: 0.149999976
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 6950558847410687192
-    }
-    TeamSettings {
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 13257901852367067052
-  Name: "Trigger"
-  Transform {
-    Location {
-      X: 6.5514245
-      Y: -19.3516827
-      Z: 2.24644828
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.942900181
-      Y: 7.99977112
-      Z: 8.40461636
-    }
-  }
-  ParentId: 3539220010031795792
-  ChildIds: 10483591278362481091
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-    InteractionTemplate {
-    }
-    BreadcrumbTemplate {
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 10483591278362481091
-  Name: "MovePlayerToLocationTrigger"
-  Transform {
-    Location {
-      X: -387.53833
-      Y: 182.62088
-      Z: -8.04443264
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.217346311
-      Y: 0.217346311
-      Z: 0.0797859
-    }
-  }
-  ParentId: 13257901852367067052
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:MoveToLocationPoint"
-      ObjectReference {
-        SelfId: 618814583227513139
-      }
-    }
-    Overrides {
-      Name: "cs:hideCubeOnLoad"
-      Bool: true
-    }
-    Overrides {
-      Name: "cs:playVfxSfxOnPortalTriggered"
-      Bool: true
-    }
-    Overrides {
-      Name: "cs:SpawnedVFXSFXPortal"
-      AssetReference {
-        Id: 1472354308449291601
-      }
-    }
-    Overrides {
-      Name: "cs:Levelrequirment"
-      Int: 11
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 12333605262420829414
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 3829175482879544679
+  Id: 16330589948741106772
   Name: "Portal D2Back"
   Transform {
     Location {
@@ -5523,8 +5298,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 6317772729065491342
+  ParentId: 7033923643758714011
+  ChildIds: 7332509748018898640
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5543,7 +5318,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6317772729065491342
+  Id: 7332509748018898640
   Name: "Portal VFX"
   Transform {
     Location {
@@ -5559,8 +5334,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 3829175482879544679
-  ChildIds: 16959260554231933372
+  ParentId: 16330589948741106772
+  ChildIds: 7738228471384963414
   UnregisteredParameters {
     Overrides {
       Name: "bp:Edge Distance"
@@ -5613,7 +5388,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16959260554231933372
+  Id: 7738228471384963414
   Name: "Trigger"
   Transform {
     Location {
@@ -5629,8 +5404,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 6317772729065491342
-  ChildIds: 10462564612375883303
+  ParentId: 7332509748018898640
+  ChildIds: 8659621348731298
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5659,7 +5434,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10462564612375883303
+  Id: 8659621348731298
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -5675,12 +5450,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 16959260554231933372
+  ParentId: 7738228471384963414
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 9381239289960222167
+        SelfId: 8239828015613038466
       }
     }
     Overrides {
@@ -5718,232 +5493,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 896109298107712559
-  Name: "Portal to D3"
-  Transform {
-    Location {
-      X: -4159.7373
-      Y: 17200.207
-      Z: 1714.82202
-    }
-    Rotation {
-      Yaw: -47.3979187
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 10471498732422705144
-  ChildIds: 5633319549819090435
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 5633319549819090435
-  Name: "Portal VFX"
-  Transform {
-    Location {
-      X: -102.689453
-      Y: -86.1341553
-      Z: 272.167664
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.635782838
-      Y: 0.635782838
-      Z: 0.635782838
-    }
-  }
-  ParentId: 896109298107712559
-  ChildIds: 18215655655432134629
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:Color A"
-      Color {
-        R: 0.69
-        G: 1
-        B: 0.981523216
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color B"
-      Color {
-        G: 0.840000033
-        B: 0.806622565
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Color C"
-      Color {
-        G: 0.184370622
-        B: 0.480000019
-        A: 1
-      }
-    }
-    Overrides {
-      Name: "bp:Edge Distance"
-      Float: 2
-    }
-    Overrides {
-      Name: "bp:Scene Tint Color"
-      Color {
-        G: 0.0749004483
-        B: 0.87
-        A: 1
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 6950558847410687192
-    }
-    TeamSettings {
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 18215655655432134629
-  Name: "Trigger"
-  Transform {
-    Location {
-      X: 6.5514245
-      Y: -19.3516827
-      Z: 2.24644828
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.942900181
-      Y: 7.99977112
-      Z: 8.40461636
-    }
-  }
-  ParentId: 5633319549819090435
-  ChildIds: 8239141805600686676
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-    InteractionTemplate {
-    }
-    BreadcrumbTemplate {
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 8239141805600686676
-  Name: "MovePlayerToLocationTrigger"
-  Transform {
-    Location {
-      X: -387.53833
-      Y: 182.62088
-      Z: -8.04443264
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.217346311
-      Y: 0.217346311
-      Z: 0.0797859
-    }
-  }
-  ParentId: 18215655655432134629
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:MoveToLocationPoint"
-      ObjectReference {
-        SelfId: 708870567745606603
-      }
-    }
-    Overrides {
-      Name: "cs:hideCubeOnLoad"
-      Bool: true
-    }
-    Overrides {
-      Name: "cs:playVfxSfxOnPortalTriggered"
-      Bool: true
-    }
-    Overrides {
-      Name: "cs:SpawnedVFXSFXPortal"
-      AssetReference {
-        Id: 1472354308449291601
-      }
-    }
-    Overrides {
-      Name: "cs:Levelrequirment"
-      Int: 21
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 12333605262420829414
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 16928337111698612494
+  Id: 7702954921180099483
   Name: "portal custom"
   Transform {
     Scale {
@@ -5952,7 +5502,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
+  ParentId: 7033923643758714011
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5997,60 +5547,476 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6804731672648180415
-  Name: "Portal to Tutorial"
+  Id: 13970047160436576418
+  Name: "portal custom"
   Transform {
+    Location {
+      X: -1355.45435
+      Y: 10799.707
+      Z: 2711.59106
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
+  ParentId: 7033923643758714011
+  ChildIds: 3765061304985693223
+  ChildIds: 1700513438520510406
+  ChildIds: 16178809447873779021
+  ChildIds: 7240701579806541468
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 4969496786648088180
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal to Tutorial"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1350
-            Y: 10850
-            Z: 2650
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1882174699652033589
-    }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
+  Folder {
+    IsGroup: true
+  }
+  InstanceHistory {
+    SelfId: 13970047160436576418
+    SubobjectId: 4969496786648088180
+    InstanceId: 5034020351129461023
+    TemplateId: 1882174699652033589
+    WasRoot: true
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11532127610224630587
+  Id: 7240701579806541468
+  Name: "Fantasy Castle Stairs 01 - 150cm"
+  Transform {
+    Location {
+      X: -200.491455
+      Y: 201.387695
+      Z: -122.791016
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13970047160436576418
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13184115999073471692
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 7240701579806541468
+    SubobjectId: 16236746206341425226
+    InstanceId: 5034020351129461023
+    TemplateId: 1882174699652033589
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 16178809447873779021
+  Name: "Fantasy Castle Stairs 01 - 150cm"
+  Transform {
+    Location {
+      X: 198.455566
+      Y: -207.490234
+      Z: -123.275879
+    }
+    Rotation {
+      Yaw: -179.999954
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13970047160436576418
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 13184115999073471692
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 16178809447873779021
+    SubobjectId: 7326807276149046171
+    InstanceId: 5034020351129461023
+    TemplateId: 1882174699652033589
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 1700513438520510406
+  Name: "Stone Arch (doorway) 001"
+  Transform {
+    Location {
+    }
+    Rotation {
+      Yaw: 89.9999771
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13970047160436576418
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 3640417482330229689
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  InstanceHistory {
+    SelfId: 1700513438520510406
+    SubobjectId: 10570457301260921104
+    InstanceId: 5034020351129461023
+    TemplateId: 1882174699652033589
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 3765061304985693223
+  Name: "Portal To Tutorial Room"
+  Transform {
+    Location {
+      X: -100
+      Y: 100
+      Z: 100
+    }
+    Rotation {
+      Yaw: 89.9999619
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 13970047160436576418
+  ChildIds: 14759423331606171554
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsGroup: true
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 14759423331606171554
+  Name: "Portal VFX"
+  Transform {
+    Location {
+      X: -102.689438
+      Y: -96.0376053
+      Z: 150
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.4
+      Y: 0.4
+      Z: 0.4
+    }
+  }
+  ParentId: 3765061304985693223
+  ChildIds: 9521404867517646129
+  UnregisteredParameters {
+    Overrides {
+      Name: "bp:Portal Shape"
+      Int: 3
+    }
+    Overrides {
+      Name: "bp:Color A"
+      Color {
+        R: 0.24000001
+        G: 0.86410594
+        B: 1
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Color B"
+      Color {
+        R: 0.0531789251
+        B: 0.73
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Color C"
+      Color {
+        R: 0.00894051
+        B: 0.269999981
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Edge Distance"
+      Float: 2
+    }
+    Overrides {
+      Name: "bp:Portal Spread"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Emissive Boost"
+      Float: 10.4906616
+    }
+    Overrides {
+      Name: "bp:Intensity Color Blend"
+      Float: 0.641135395
+    }
+    Overrides {
+      Name: "bp:Color Offset B"
+      Float: 1
+    }
+    Overrides {
+      Name: "bp:Swirl Color"
+      Color {
+        R: 0.0524502657
+        G: 0.99
+        A: 1
+      }
+    }
+    Overrides {
+      Name: "bp:Scene Tint Color"
+      Color {
+        R: 0.0600000024
+        G: 1
+        B: 0.383708596
+        A: 1
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Blueprint {
+    BlueprintAsset {
+      Id: 6950558847410687192
+    }
+    TeamSettings {
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 9521404867517646129
+  Name: "Trigger"
+  Transform {
+    Location {
+      X: 6.55029297
+      Y: -19.3518047
+      Z: -71.2530518
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.942901134
+      Y: 6.70636272
+      Z: 8.40461636
+    }
+  }
+  ParentId: 14759423331606171554
+  ChildIds: 7446301616911160046
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Trigger {
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+    InteractionTemplate {
+    }
+    BreadcrumbTemplate {
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 7446301616911160046
+  Name: "MovePlayerToLocationTrigger"
+  Transform {
+    Location {
+      X: -387.53833
+      Y: 182.62088
+      Z: -8.04443264
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.217346311
+      Y: 0.217346311
+      Z: 0.0797859
+    }
+  }
+  ParentId: 9521404867517646129
+  UnregisteredParameters {
+    Overrides {
+      Name: "cs:MoveToLocationPoint"
+      ObjectReference {
+        SelfId: 8642216768679564148
+      }
+    }
+    Overrides {
+      Name: "cs:hideCubeOnLoad"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:playVfxSfxOnPortalTriggered"
+      Bool: true
+    }
+    Overrides {
+      Name: "cs:SpawnedVFXSFXPortal"
+      AssetReference {
+        Id: 1472354308449291601
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Script {
+    ScriptAsset {
+      Id: 5792750329910035130
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 18065942333762329921
   Name: "Named Location"
   Transform {
     Scale {
@@ -6059,7 +6025,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10471498732422705144
+  ParentId: 7033923643758714011
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6135,7 +6101,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6413837950184931737
+  Id: 10390196680180375750
   Name: "Portal Tutorialback"
   Transform {
     Location {
@@ -6152,8 +6118,8 @@ Objects {
       Z: 0.68
     }
   }
-  ParentId: 10471498732422705144
-  ChildIds: 11265171803289219086
+  ParentId: 7033923643758714011
+  ChildIds: 11069541575818742863
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6172,7 +6138,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11265171803289219086
+  Id: 11069541575818742863
   Name: "Portal VFX"
   Transform {
     Location {
@@ -6188,8 +6154,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 6413837950184931737
-  ChildIds: 17712703079055254542
+  ParentId: 10390196680180375750
+  ChildIds: 12821991328319332064
   UnregisteredParameters {
     Overrides {
       Name: "bp:Portal Shape"
@@ -6271,7 +6237,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17712703079055254542
+  Id: 12821991328319332064
   Name: "Trigger"
   Transform {
     Location {
@@ -6287,8 +6253,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 11265171803289219086
-  ChildIds: 6479676718502229478
+  ParentId: 11069541575818742863
+  ChildIds: 7881182166436848336
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -6317,7 +6283,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6479676718502229478
+  Id: 7881182166436848336
   Name: "MovePlayerToLocationTrigger"
   Transform {
     Location {
@@ -6333,12 +6299,12 @@ Objects {
       Z: 0.0797859
     }
   }
-  ParentId: 17712703079055254542
+  ParentId: 12821991328319332064
   UnregisteredParameters {
     Overrides {
       Name: "cs:MoveToLocationPoint"
       ObjectReference {
-        SelfId: 4944701722222482457
+        SelfId: 5362695053092628140
       }
     }
     Overrides {

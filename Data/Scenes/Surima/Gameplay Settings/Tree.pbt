@@ -1,49 +1,6 @@
 Name: "Gameplay Settings"
 RootId: 3159395483841445025
 Objects {
-  Id: 1690446692159849508
-  Name: "Spawn Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 3159395483841445025
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Settings {
-    RespawnSettings {
-      RespawnDelay: 10
-      RespawnMode_v2 {
-        Value: "mc:erespawnmode:random"
-      }
-      StartSpawned: true
-      SpawnMode {
-        Value: "mc:espawnmode:random"
-      }
-      SpawnKey: "Surima Spawn"
-      RespawnKey: "Surima Spawn"
-    }
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 9684119152211871381
   Name: "Spawn Point"
   Transform {

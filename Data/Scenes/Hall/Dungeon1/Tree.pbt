@@ -33,7 +33,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 8122409013140780800
+            Id: 8182422609617372092
           }
         }
         Overrides {
@@ -196,7 +196,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 8122409013140780800
+            Id: 8182422609617372092
           }
         }
       }
@@ -250,7 +250,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 2894627331021453562
+            Id: 8122409013140780800
           }
         }
         Overrides {
@@ -323,7 +323,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 8182422609617372092
+            Id: 4589995543582709662
           }
         }
         Overrides {
@@ -1646,7 +1646,7 @@ Objects {
       value {
         Overrides {
           Name: "Name"
-          String: "Lava golem Respawner"
+          String: "BossD1 Respawner"
         }
         Overrides {
           Name: "Position"
@@ -1659,7 +1659,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 10839798174269714295
+            Id: 10428923721109173598
           }
         }
         Overrides {
@@ -1727,7 +1727,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 4589995543582709662
+            Id: 8122409013140780800
           }
         }
         Overrides {
@@ -2273,6 +2273,60 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
+  Id: 11239519206075863406
+  Name: "portal custom"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 12981812128937467551
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4969496786648088180
+      value {
+        Overrides {
+          Name: "Name"
+          String: "portal custom"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 11171.415
+            Y: 31120.5273
+            Z: 730.636353
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3
+            Y: 3
+            Z: 3
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1882174699652033589
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 2241406188252253076
   Name: "Dungeon 1"
   Transform {
@@ -2522,6 +2576,7 @@ Objects {
   ChildIds: 4062988277581715979
   ChildIds: 7958479332602549044
   ChildIds: 540245680971099996
+  ChildIds: 5868600584930553879
   ChildIds: 13973808597219863108
   ChildIds: 16931438045300135534
   ChildIds: 17677191302750234018
@@ -3633,6 +3688,61 @@ Objects {
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 5868600584930553879
+  Name: "portal custom"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 2241406188252253076
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 4969496786648088180
+      value {
+        Overrides {
+          Name: "Name"
+          String: "portal custom"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 6979.61182
+            Y: 18987.877
+            Z: 270.287811
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: 89.9999924
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.5
+            Y: 1.5
+            Z: 1.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1882174699652033589
+    }
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

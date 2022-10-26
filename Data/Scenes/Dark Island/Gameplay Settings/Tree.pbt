@@ -175,11 +175,9 @@ Objects {
     RespawnSettings {
       RespawnDelay: 3
       RespawnMode_v2 {
-        Value: "mc:erespawnmode:atclosestspawnpoint"
+        Value: "mc:erespawnmode:roundrobin"
       }
       StartSpawned: true
-      SpawnKey: "Dark Spawn"
-      RespawnKey: "Dark Spawn"
     }
   }
   NetworkRelevanceDistance {
