@@ -6,13 +6,12 @@ Tags: "Adventure"
 ScreenshotPaths: "C:\\Users\\HieuSA\\Pictures\\Nitro\\Planet9_Wallpaper_5000x2813.jpg"
 OwnerId: "36e75c4e9b5a488a8767238a37b3a533"
 SerializationVersion: 4
-PublishedState: Public
 SceneNameToSceneIdMap {
   key: "Dark Island"
   value: "9fd45684484a630771e30a892ed75e2d"
 }
 SceneNameToSceneIdMap {
-  key: "Main"
+  key: "Hall"
   value: "98547fc94b66d45f5db05e85859c3c25"
 }
 SceneNameToSceneIdMap {

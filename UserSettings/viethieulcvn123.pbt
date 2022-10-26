@@ -21743,7 +21743,7 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Dark Island"
+LastSavedScene: "Hall"
 PreviewDetailLevelPerScene {
   key: "Treasure map"
   value: 0

@@ -60,8 +60,9 @@ Objects {
   Name: "NavMesh 2.0"
   Transform {
     Location {
-      Y: 17410
-      Z: 285
+      X: 3566.27686
+      Y: 7904.34473
+      Z: -2595.02783
     }
     Rotation {
     }
