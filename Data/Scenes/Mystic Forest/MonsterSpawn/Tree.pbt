@@ -1,16 +1,12 @@
 Name: "MonsterSpawn"
 RootId: 15302639526177595178
 Objects {
-  Id: 1101519104910393803
-  Name: "ItemRespawner"
+  Id: 6679049405798262581
+  Name: "East Island"
   Transform {
     Location {
-      X: 5020.95
-      Y: 23704.2148
-      Z: 300
     }
     Rotation {
-      Yaw: 74.999939
     }
     Scale {
       X: 1
@@ -19,54 +15,93 @@ Objects {
     }
   }
   ParentId: 15302639526177595178
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 5020.95
-            Y: 19850
-            Z: 4575
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 13136156548447436214
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 74.9998932
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "East Island"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 11640764296972060319
+  Name: "South Island"
+  Transform {
+    Location {
     }
-    TemplateAsset {
-      Id: 2940497379387252247
+    Rotation {
     }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15302639526177595178
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "South Island"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 7615706281826191033
+  Name: "North Island"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 15302639526177595178
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "North Island"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
