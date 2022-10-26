@@ -26,7 +26,6 @@ Objects {
   ChildIds: 5431360534382517102
   ChildIds: 206564349996057401
   ChildIds: 16642656275692172485
-  ChildIds: 11822463042848765575
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -44,81 +43,6 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 11822463042848765575
-  Name: "Garden Arch"
-  Transform {
-    Location {
-      X: 6880.5459
-      Y: 6038.75195
-      Z: -1056.44
-    }
-    Rotation {
-      Yaw: -179.999985
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 4961558167223471889
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Garden Arch"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3172.79956
-            Y: 12844.4775
-            Z: 2550.0752
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -179.999969
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 8540399167545882156
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -59.9999466
-            Y: 99.9999542
-            Z: 200.000244
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 12735806616331484030
-    }
-  }
 }
 Objects {
   Id: 16642656275692172485
