@@ -2184,6 +2184,19 @@ Objects {
   ParentId: 2654916338316290302
   TemplateInstance {
     ParameterOverrideMap {
+      key: 8398027654936564824
+      value {
+        Overrides {
+          Name: "UIX"
+          Float: -43.2669678
+        }
+        Overrides {
+          Name: "UIY"
+          Float: -86.5474243
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 12698535283932223295
       value {
         Overrides {
@@ -2220,6 +2233,9 @@ Objects {
   Name: "Third Person Camera Settings"
   Transform {
     Location {
+      X: -3642.74756
+      Y: 9302.84766
+      Z: 2984.27319
     }
     Rotation {
     }
@@ -4711,50 +4727,6 @@ Objects {
   Script {
     ScriptAsset {
       Id: 13451820863796807922
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 3432427007554611280
-  Name: "Respawn Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2654916338316290302
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Settings {
-    RespawnSettings {
-      RespawnDelay: 4
-      RespawnMode_v2 {
-        Value: "mc:erespawnmode:roundrobin"
-      }
-      StartSpawned: true
-      SpawnMode {
-        Value: "mc:espawnmode:random"
-      }
-      RespawnKey: "Respawn"
     }
   }
   NetworkRelevanceDistance {

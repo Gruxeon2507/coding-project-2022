@@ -206,15 +206,6 @@ Assets {
   }
 }
 Assets {
-  Id: 15469475911527753827
-  Name: "Stone Arch (doorway) 001"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_stone_doorway_001"
-  }
-}
-Assets {
   Id: 15288970234502648924
   Name: "Rock Pile 002"
   PlatformAssetType: 1
@@ -764,15 +755,6 @@ Assets {
   }
 }
 Assets {
-  Id: 5512335830567327151
-  Name: "Arch Fancy Peaked 2m"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_arch_fancy_ogive_2m_001"
-  }
-}
-Assets {
   Id: 5435766273000784011
   Name: "Stone Block Standard Broken"
   PlatformAssetType: 1
@@ -932,15 +914,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_fantasy_block_03"
-  }
-}
-Assets {
-  Id: 2494920176024075778
-  Name: "Fire Volume VFX"
-  PlatformAssetType: 8
-  PrimaryAsset {
-    AssetType: "VfxBlueprintAssetRef"
-    AssetId: "fxbp_fire_volume_vfx"
   }
 }
 Assets {

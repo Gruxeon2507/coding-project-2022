@@ -33,7 +33,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 16800843519277985123
+            Id: 8122409013140780800
           }
         }
         Overrides {
@@ -120,6 +120,12 @@ Objects {
             Z: 1
           }
         }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 8122409013140780800
+          }
+        }
       }
     }
     TemplateAsset {
@@ -187,6 +193,12 @@ Objects {
             Z: 1
           }
         }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 8122409013140780800
+          }
+        }
       }
     }
     TemplateAsset {
@@ -238,7 +250,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 13136156548447436214
+            Id: 2894627331021453562
           }
         }
         Overrides {
@@ -311,7 +323,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 13136156548447436214
+            Id: 8182422609617372092
           }
         }
         Overrides {
@@ -1715,7 +1727,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 16800843519277985123
+            Id: 4589995543582709662
           }
         }
         Overrides {
@@ -1775,7 +1787,7 @@ Objects {
         Overrides {
           Name: "cs:Item"
           AssetReference {
-            Id: 16800843519277985123
+            Id: 4589995543582709662
           }
         }
         Overrides {
@@ -2261,60 +2273,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11239519206075863406
-  Name: "portal custom"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12981812128937467551
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 4969496786648088180
-      value {
-        Overrides {
-          Name: "Name"
-          String: "portal custom"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 11171.415
-            Y: 31120.5273
-            Z: 730.636353
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 3
-            Y: 3
-            Z: 3
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1882174699652033589
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 2241406188252253076
   Name: "Dungeon 1"
   Transform {
@@ -2331,7 +2289,6 @@ Objects {
   ParentId: 12981812128937467551
   ChildIds: 5093704450024565055
   ChildIds: 8469442677572513294
-  ChildIds: 17594667253671441044
   ChildIds: 13584083123856148914
   ChildIds: 1960760185222813778
   ChildIds: 5774085447816236061
@@ -2362,7 +2319,6 @@ Objects {
   ChildIds: 15357301315829054528
   ChildIds: 1383337902721742436
   ChildIds: 8307885848333489382
-  ChildIds: 7659138032669145419
   ChildIds: 1550802859389151815
   ChildIds: 10976542854252160244
   ChildIds: 8681181117170105176
@@ -2497,7 +2453,6 @@ Objects {
   ChildIds: 10137586912393174487
   ChildIds: 2878598111776400441
   ChildIds: 4849875536477788839
-  ChildIds: 8988992843159629930
   ChildIds: 3379314164182179030
   ChildIds: 1597574574771394929
   ChildIds: 14031776857768356203
@@ -2567,8 +2522,6 @@ Objects {
   ChildIds: 4062988277581715979
   ChildIds: 7958479332602549044
   ChildIds: 540245680971099996
-  ChildIds: 5868600584930553879
-  ChildIds: 8320525676919393000
   ChildIds: 13973808597219863108
   ChildIds: 16931438045300135534
   ChildIds: 17677191302750234018
@@ -2582,11 +2535,9 @@ Objects {
   ChildIds: 514455295937566000
   ChildIds: 14530320147337018589
   ChildIds: 8211087854642294525
-  ChildIds: 10486288775436183022
   ChildIds: 14669885992178374788
   ChildIds: 5498177999315545592
   ChildIds: 9047088964046128622
-  ChildIds: 5713742765834413692
   ChildIds: 613310638388547562
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -2697,123 +2648,6 @@ Objects {
   Script {
     ScriptAsset {
       Id: 1459020209313470362
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 5713742765834413692
-  Name: "Portal To A Location"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2241406188252253076
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5063355568464640327
-      value {
-        Overrides {
-          Name: "bp:Portal Shape"
-          Int: 3
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.25
-            Y: 1.25
-            Z: 1.25
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -102.68943
-            Y: -86.1338
-            Z: 572.17749
-          }
-        }
-        Overrides {
-          Name: "bp:Edge Distance"
-          Float: 2
-        }
-        Overrides {
-          Name: "bp:Emissive Boost"
-          Float: 2.82271242
-        }
-        Overrides {
-          Name: "bp:Swirl Color"
-          Color {
-            R: 0.76
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Scene Tint Color"
-          Color {
-            R: 1
-            G: 0.0600000024
-            B: 0.0600000024
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11788075628528633600
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -12227.9199
-            Y: 4458.7085
-            Z: -383.661499
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12614167284714683440
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal To A Location"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 11081.4209
-            Y: 31208.9082
-            Z: 845.920654
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6514586947070373637
     }
   }
   NetworkRelevanceDistance {
@@ -3074,104 +2908,6 @@ Objects {
     }
     TemplateAsset {
       Id: 5984235938909643820
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 10486288775436183022
-  Name: "Portal To A Location"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2241406188252253076
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5063355568464640327
-      value {
-        Overrides {
-          Name: "bp:Intensity Color Blend"
-          Float: 1
-        }
-        Overrides {
-          Name: "bp:Emissive Boost"
-          Float: 5
-        }
-        Overrides {
-          Name: "bp:Edge Distance"
-          Float: 2
-        }
-        Overrides {
-          Name: "bp:Scene Tint Color"
-          Color {
-            R: 0.61
-            G: 0.266622543
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11788075628528633600
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2025
-            Y: 4015
-            Z: -2195
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 90
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12614167284714683440
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal To A Location"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2085
-            Y: 16080
-            Z: 2600
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6514586947070373637
     }
   }
   NetworkRelevanceDistance {
@@ -3897,201 +3633,6 @@ Objects {
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 8320525676919393000
-  Name: "Portal with a level requirment"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2241406188252253076
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 445723530489233301
-      value {
-        Overrides {
-          Name: "bp:Portal Spread"
-          Float: 1
-        }
-        Overrides {
-          Name: "bp:Portal Shape"
-          Int: 3
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -102.689453
-            Y: -94.5390625
-            Z: 247.471832
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.6
-            Y: 0.6
-            Z: 0.6
-          }
-        }
-        Overrides {
-          Name: "bp:Edge Distance"
-          Float: 2
-        }
-        Overrides {
-          Name: "bp:Color A"
-          Color {
-            R: 1
-            G: 0.93576169
-            B: 0.0299999714
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Color B"
-          Color {
-            R: 1
-            G: 0.348742187
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Scene Tint Color"
-          Color {
-            R: 0.89
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Swirl Color"
-          Color {
-            R: 0.940000057
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7453794010186421427
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 4077.93408
-            Y: 8047.06641
-            Z: 536.081543
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 9512013600621765734
-      value {
-        Overrides {
-          Name: "cs:Levelrequirment"
-          Int: 21
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10136980042403097158
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal with a level requirment"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 7044.33057
-            Y: 19084.0039
-            Z: 374.30661
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6104064973760938206
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 5868600584930553879
-  Name: "portal custom"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2241406188252253076
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 4969496786648088180
-      value {
-        Overrides {
-          Name: "Name"
-          String: "portal custom"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 6979.61182
-            Y: 18987.877
-            Z: 270.287811
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.5
-            Y: 1.5
-            Z: 1.5
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1882174699652033589
-    }
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -7976,103 +7517,6 @@ Objects {
     }
     VerticalAlignment {
       Value: "mc:ecoretextverticalalign:center"
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 8988992843159629930
-  Name: "Portal To A Location"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2241406188252253076
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5063355568464640327
-      value {
-        Overrides {
-          Name: "bp:Color A"
-          Color {
-            R: 0.988742471
-            G: 0.149999976
-            B: 1
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Color B"
-          Color {
-            R: 0.61
-            B: 0.496887386
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Color C"
-          Color {
-            R: 0.160529837
-            B: 0.24000001
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11788075628528633600
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 9645
-            Y: -3825
-            Z: -185
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12614167284714683440
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal To A Location"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -10985
-            Y: 25535
-            Z: 630
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6514586947070373637
     }
   }
   NetworkRelevanceDistance {
@@ -15531,73 +14975,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7659138032669145419
-  Name: "Portal To A Location"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2241406188252253076
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11788075628528633600
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 8080
-            Y: 7200
-            Z: 1470
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12614167284714683440
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal To A Location"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -4620
-            Y: 21750
-            Z: 160
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6514586947070373637
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 8307885848333489382
   Name: "Arch Fancy Peaked 6m"
   Transform {
@@ -17293,107 +16670,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17594667253671441044
-  Name: "Portal To A Location"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 2241406188252253076
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5063355568464640327
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -705
-            Y: -86.1347656
-            Z: 200
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.5
-            Y: 0.5
-            Z: 0.5
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7030298691915880781
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 10
-            Y: -19.3515625
-            Z: 2.24646
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11788075628528633600
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2805
-            Y: -4225
-            Z: 2380
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12614167284714683440
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal To A Location"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 350
-            Y: 20200
-            Z: 300
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6514586947070373637
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 8469442677572513294
   Name: "Stone Arch (doorway) 001"
   Transform {
@@ -18330,109 +17606,6 @@ Objects {
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 10764891804138240378
-  Name: "Portal To A Location"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12981812128937467551
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 5063355568464640327
-      value {
-        Overrides {
-          Name: "bp:Edge Distance"
-          Float: 2
-        }
-        Overrides {
-          Name: "bp:Portal Shape"
-          Int: 4
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.9
-            Y: 0.9
-            Z: 0.9
-          }
-        }
-        Overrides {
-          Name: "bp:Scene Tint Color"
-          Color {
-            R: 0.99
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Swirl Color"
-          Color {
-            R: 0.99
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11788075628528633600
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -11174.5254
-            Y: 5806.64551
-            Z: -4517.98535
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12614167284714683440
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal To A Location"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3346.72144
-            Y: 27149.9219
-            Z: 7253.84521
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6514586947070373637
-    }
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -20369,106 +19542,6 @@ Objects {
     }
     VerticalAlignment {
       Value: "mc:ecoretextverticalalign:center"
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 3420351052079455268
-  Name: "Portal with a level requirment"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 12981812128937467551
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 445723530489233301
-      value {
-        Overrides {
-          Name: "bp:Scene Tint Color"
-          Color {
-            R: 1
-            G: 0.858675838
-            B: 0.0299999714
-            A: 1
-          }
-        }
-        Overrides {
-          Name: "bp:Swirl Color"
-          Color {
-            R: 1
-            G: 0.858675838
-            B: 0.0299999714
-            A: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7453794010186421427
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 6469.49
-            Y: -10827.918
-            Z: 7490.17139
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 9512013600621765734
-      value {
-        Overrides {
-          Name: "cs:Levelrequirment"
-          Int: 25
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 10136980042403097158
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Portal with a level requirment"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -7398.62891
-            Y: 21315.8086
-            Z: -110.336487
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 89.9999924
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6104064973760938206
     }
   }
   NetworkRelevanceDistance {

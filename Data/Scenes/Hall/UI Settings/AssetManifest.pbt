@@ -26,15 +26,6 @@ Assets {
   }
 }
 Assets {
-  Id: 9280352553061099023
-  Name: "Fantasy Craft Gem 005"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "UI_Fantasy_Crafting_Gem_005"
-  }
-}
-Assets {
   Id: 6307521169272183388
   Name: "UI Gradient Circular 001"
   PlatformAssetType: 9
@@ -50,15 +41,6 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "UI_Fantasy_Shape_003"
-  }
-}
-Assets {
-  Id: 4552358607982218655
-  Name: "Fantasy Coins 007"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "UI_Fantasy_Equip_Coins_007"
   }
 }
 Assets {
@@ -86,14 +68,5 @@ Assets {
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "BackgroundFlat_020"
-  }
-}
-Assets {
-  Id: 1171359949742123545
-  Name: "Fantasy Key 003"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "UI_Fantasy_Equip_Key_003"
   }
 }
