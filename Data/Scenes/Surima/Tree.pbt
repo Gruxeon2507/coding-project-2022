@@ -22,6 +22,9 @@ Objects {
   ChildIds: 4622417034103665885
   ChildIds: 9377698408006360845
   ChildIds: 15880387856131786137
+  ChildIds: 7289479630024342203
+  ChildIds: 5321057940901840710
+  ChildIds: 12450110856566679828
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -37,6 +40,208 @@ Objects {
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12450110856566679828
+  Name: "ItemRespawner"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Anubis Respawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 16072.4727
+            Y: 4081.30811
+            Z: 11763.8389
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 1892793120148773077
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 300
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 15.3713608
+            Yaw: -173.400208
+            Roll: -6.42825317
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7915183334013193095
+    }
+  }
+}
+Objects {
+  Id: 5321057940901840710
+  Name: "Pyramid"
+  Transform {
+    Location {
+      X: 5268.24
+      Y: 4026.62134
+      Z: 10653.3584
+    }
+    Rotation {
+    }
+    Scale {
+      X: 0.00277830451
+      Y: 0.00277830451
+      Z: 0.00277830451
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3838168023959158149
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Pyramid"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 5268.24
+            Y: 4026.62134
+            Z: 10653.3584
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.00277830451
+            Y: 0.00277830451
+            Z: 0.00277830451
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9391269666765269059
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 9.59033203
+            Y: -14.4807129
+            Z: 42.8984375
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.96462417
+            Y: 4.2790904
+            Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12392267030614326165
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 757.473572
+            Y: -71.4415359
+            Z: 23077.1094
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17324655881917875461
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2.5
+            Y: 2.5440135
+            Z: 2.5
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1972691087421372834
+    }
+  }
+}
+Objects {
+  Id: 7289479630024342203
+  Name: "Spawn Settings"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Settings {
+    RespawnSettings {
+      RespawnDelay: 10
+      RespawnMode_v2 {
+        Value: "mc:erespawnmode:random"
+      }
+      StartSpawned: true
+      SpawnMode {
+        Value: "mc:espawnmode:random"
+      }
+      SpawnKey: "Surima Spawn"
+      RespawnKey: "Surima Spawn"
+    }
   }
   IsReplicationEnabledByDefault: true
 }
