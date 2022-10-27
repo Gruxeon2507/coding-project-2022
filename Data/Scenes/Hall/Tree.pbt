@@ -27,7 +27,9 @@ Objects {
   ChildIds: 206564349996057401
   ChildIds: 16642656275692172485
   ChildIds: 8700713520672683534
-  ChildIds: 12620218000563231213
+  ChildIds: 1081592017699778693
+  ChildIds: 4120821393559706557
+  ChildIds: 9410808133795207708
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -47,13 +49,16 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12620218000563231213
+  Id: 9410808133795207708
   Name: "Searchable Loots Examples"
   Transform {
     Location {
-      X: -4626.55176
-      Y: 1083.1178
-      Z: 7371.47168
+      X: -4256.78027
+      Y: 2980.05566
+      Z: 7432.28662
+    }
+    Rotation {
+      Yaw: -11.5266724
     }
     Scale {
       X: 1
@@ -76,16 +81,110 @@ Objects {
     FilePartitionName: "Searchable Loots Examples"
   }
   InstanceHistory {
-    SelfId: 12620218000563231213
+    SelfId: 9410808133795207708
     SubobjectId: 1521527601147161279
-    InstanceId: 12239643948946655266
-    TemplateId: 3597617290518795516
+    InstanceId: 12568544508008228201
+    TemplateId: 6095997471803002987
     WasRoot: true
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 4120821393559706557
+  Name: "RPG Skeleton - BossD1"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 9913815135764235794
+      value {
+        Overrides {
+          Name: "Name"
+          String: "RPG Skeleton - BossD1"
+        }
+        Overrides {
+          Name: "cs:LootId"
+          String: "Rare"
+        }
+        Overrides {
+          Name: "cs:RewardResourceAmount"
+          Int: 1000
+        }
+        Overrides {
+          Name: "cs:MoveSpeed"
+          Float: 800
+        }
+        Overrides {
+          Name: "cs:VisionHalfAngle"
+          Float: 100
+        }
+        Overrides {
+          Name: "cs:SearchDuration"
+          Float: 2
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9927192082764146384
+      value {
+        Overrides {
+          Name: "cs:DamageToPlayers"
+          Int: 80
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 10428923721109173598
+    }
+  }
+}
+Objects {
+  Id: 1081592017699778693
+  Name: "Healing Buff"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 13496431957739731259
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Healing Buff"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 2688.46606
+            Y: 19972.0625
+            Z: 290
+          }
+        }
+        Overrides {
+          Name: "cs:HealAmount"
+          Int: 10
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1649023624935374462
+    }
+  }
 }
 Objects {
   Id: 8700713520672683534
@@ -103,14 +202,6 @@ Objects {
     ParameterOverrideMap {
       key: 3640699521244397623
       value {
-        Overrides {
-          Name: "cs:killDelay"
-          Float: 2
-        }
-        Overrides {
-          Name: "cs:openMouthDelay"
-          Float: 50
-        }
       }
     }
     ParameterOverrideMap {

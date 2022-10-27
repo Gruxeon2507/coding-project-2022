@@ -25,7 +25,7 @@ local function kill()
     local objects = trigger:GetOverlappingObjects()
 			for _, obj in pairs(objects) do
                 if Object.IsValid(obj) and obj:IsA("Player") then
-					obj:ApplyDamage(Damage.New(500))
+					obj:ApplyDamage(Damage.New(5000))
 				end
             end
     Task.Spawn(OpenMouth,openMouthDelay)

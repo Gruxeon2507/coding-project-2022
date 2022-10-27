@@ -1,12 +1,13 @@
 Name: "Searchable Loots Examples"
-RootId: 12620218000563231213
+RootId: 9410808133795207708
 Objects {
-  Id: 17336352222005735696
+  Id: 15936819841298805473
   Name: "Searchable Chest ( Equipment )"
   Transform {
     Location {
-      X: 186.258789
-      Y: 2449.65918
+      X: -203.510742
+      Y: 530.546326
+      Z: 3.05175781e-05
     }
     Rotation {
       Yaw: 177.026505
@@ -17,10 +18,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12620218000563231213
-  ChildIds: 6979471853406608457
-  ChildIds: 15929903932286321562
-  ChildIds: 328221974870294487
+  ParentId: 9410808133795207708
+  ChildIds: 5576016956363169720
+  ChildIds: 17343237314091008107
+  ChildIds: 2968990833097407526
   UnregisteredParameters {
     Overrides {
       Name: "cs:ID"
@@ -57,19 +58,19 @@ Objects {
     Overrides {
       Name: "cs:SFX_OpenSound"
       AssetReference {
-        Id: 10388550197055959836
+        Id: 11708020722686618969
       }
     }
     Overrides {
       Name: "cs:SFX_SearchingSound"
       AssetReference {
-        Id: 10674190578600945796
+        Id: 12740667064161455627
       }
     }
     Overrides {
       Name: "cs:SFX_ClosedSound"
       AssetReference {
-        Id: 5417647104543419748
+        Id: 6560713642625261417
       }
     }
     Overrides {
@@ -114,10 +115,10 @@ Objects {
     IsGroup: true
   }
   InstanceHistory {
-    SelfId: 17336352222005735696
+    SelfId: 15936819841298805473
     SubobjectId: 5381397333263991362
-    InstanceId: 12239643948946655266
-    TemplateId: 3597617290518795516
+    InstanceId: 12568544508008228201
+    TemplateId: 6095997471803002987
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -125,7 +126,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 328221974870294487
+  Id: 2968990833097407526
   Name: "ClientContext"
   Transform {
     Location {
@@ -138,9 +139,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17336352222005735696
-  ChildIds: 17412182698149923761
-  ChildIds: 3516739904970295950
+  ParentId: 15936819841298805473
+  ChildIds: 15859868787258574912
+  ChildIds: 2121218534175771007
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -159,10 +160,10 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 328221974870294487
+    SelfId: 2968990833097407526
     SubobjectId: 13742624341861141637
-    InstanceId: 12239643948946655266
-    TemplateId: 3597617290518795516
+    InstanceId: 12568544508008228201
+    TemplateId: 6095997471803002987
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -170,7 +171,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3516739904970295950
+  Id: 2121218534175771007
   Name: "Lid"
   Transform {
     Location {
@@ -186,7 +187,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 328221974870294487
+  ParentId: 2968990833097407526
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -232,10 +233,10 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 3516739904970295950
+    SelfId: 2121218534175771007
     SubobjectId: 10012751485188307420
-    InstanceId: 12239643948946655266
-    TemplateId: 3597617290518795516
+    InstanceId: 12568544508008228201
+    TemplateId: 6095997471803002987
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
@@ -246,7 +247,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17412182698149923761
+  Id: 15859868787258574912
   Name: "Base"
   Transform {
     Location {
@@ -259,7 +260,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 328221974870294487
+  ParentId: 2968990833097407526
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -305,10 +306,10 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 17412182698149923761
+    SelfId: 15859868787258574912
     SubobjectId: 5448783578369767651
-    InstanceId: 12239643948946655266
-    TemplateId: 3597617290518795516
+    InstanceId: 12568544508008228201
+    TemplateId: 6095997471803002987
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
@@ -319,7 +320,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15929903932286321562
+  Id: 17343237314091008107
   Name: "Collider"
   Transform {
     Location {
@@ -335,7 +336,7 @@ Objects {
       Z: 1.25443637
     }
   }
-  ParentId: 17336352222005735696
+  ParentId: 15936819841298805473
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -361,10 +362,10 @@ Objects {
     }
   }
   InstanceHistory {
-    SelfId: 15929903932286321562
+    SelfId: 17343237314091008107
     SubobjectId: 7434294112441708744
-    InstanceId: 12239643948946655266
-    TemplateId: 3597617290518795516
+    InstanceId: 12568544508008228201
+    TemplateId: 6095997471803002987
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
@@ -375,7 +376,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6979471853406608457
+  Id: 5576016956363169720
   Name: "ItemSystems_StashInstance"
   Transform {
     Location {
@@ -388,7 +389,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17336352222005735696
+  ParentId: 15936819841298805473
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -400,14 +401,14 @@ Objects {
   }
   Script {
     ScriptAsset {
-      Id: 15614866659679918329
+      Id: 4584899375074360654
     }
   }
   InstanceHistory {
-    SelfId: 6979471853406608457
+    SelfId: 5576016956363169720
     SubobjectId: 15773180985588887323
-    InstanceId: 12239643948946655266
-    TemplateId: 3597617290518795516
+    InstanceId: 12568544508008228201
+    TemplateId: 6095997471803002987
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
