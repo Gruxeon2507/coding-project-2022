@@ -210,54 +210,6 @@ Objects {
   }
 }
 Objects {
-  Id: 13328015147530069885
-  Name: "ItemSystems"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 16244736191806629322
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12698535283932223295
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemSystems"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 5161351700167245992
-    }
-  }
-}
-Objects {
   Id: 282324709822603159
   Name: "Third Person Camera Settings"
   Transform {

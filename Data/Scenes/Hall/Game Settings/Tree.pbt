@@ -1,9 +1,13 @@
 Name: "Game Settings"
 RootId: 2654916338316290302
 Objects {
-  Id: 11151363493615806587
+  Id: 1374427797123258901
   Name: "ItemSystems"
   Transform {
+    Location {
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -11,38 +15,25 @@ Objects {
     }
   }
   ParentId: 2654916338316290302
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 12698535283932223295
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemSystems"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 5161351700167245992
-    }
+  UnregisteredParameters {
   }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "ItemSystems"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 2525131231839804843
