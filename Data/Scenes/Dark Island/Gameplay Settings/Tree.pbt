@@ -1,8 +1,8 @@
 Name: "Gameplay Settings"
 RootId: 6601080186756597219
 Objects {
-  Id: 17590970030529546651
-  Name: "Third Person Camera Settings"
+  Id: 2818278020797259615
+  Name: "Scroll First-Third Person Camera"
   Transform {
     Scale {
       X: 1
@@ -11,66 +11,28 @@ Objects {
     }
   }
   ParentId: 6601080186756597219
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
   TemplateInstance {
     ParameterOverrideMap {
-      key: 6230487291917958532
+      key: 11236660332132768160
       value {
         Overrides {
           Name: "Name"
-          String: "Third Person Camera Settings"
+          String: "Scroll First-Third Person Camera"
         }
         Overrides {
-          Name: "Position"
+          Name: "Scale"
           Vector {
-            Y: -51.9023438
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11592647923584693331
-      value {
-        Overrides {
-          Name: "PlayerJumpMaxCount"
-          Int: 2
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12377164915522451180
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: 500
+            X: 1
+            Y: 1
+            Z: 1
           }
         }
       }
     }
     TemplateAsset {
-      Id: 13544716362116832690
+      Id: 7312892898850206422
     }
   }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 3895255415850210119

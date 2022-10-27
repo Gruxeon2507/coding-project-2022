@@ -20,6 +20,8 @@ Objects {
   ChildIds: 13610095578206237612
   ChildIds: 6307349831569756261
   ChildIds: 4622417034103665885
+  ChildIds: 9377698408006360845
+  ChildIds: 15880387856131786137
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -37,6 +39,74 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 15880387856131786137
+  Name: "Boss Room"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16180179019100832044
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Boss Room"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -37011.4219
+            Y: -34690.9766
+            Z: 397.114441
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 4832949269986957183
+    }
+  }
+}
+Objects {
+  Id: 9377698408006360845
+  Name: "Boss area 1"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 16763970475491846137
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Boss area 1"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -80978.6328
+            Y: 10195.3652
+            Z: 2591.67285
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 7109092231189748349
+    }
+  }
 }
 Objects {
   Id: 4622417034103665885

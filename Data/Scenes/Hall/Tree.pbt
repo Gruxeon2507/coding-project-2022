@@ -26,6 +26,8 @@ Objects {
   ChildIds: 5431360534382517102
   ChildIds: 206564349996057401
   ChildIds: 16642656275692172485
+  ChildIds: 8700713520672683534
+  ChildIds: 12620218000563231213
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -43,6 +45,95 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12620218000563231213
+  Name: "Searchable Loots Examples"
+  Transform {
+    Location {
+      X: -4626.55176
+      Y: 1083.1178
+      Z: 7371.47168
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Searchable Loots Examples"
+  }
+  InstanceHistory {
+    SelfId: 12620218000563231213
+    SubobjectId: 1521527601147161279
+    InstanceId: 12239643948946655266
+    TemplateId: 3597617290518795516
+    WasRoot: true
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 8700713520672683534
+  Name: "Fountain trap"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3640699521244397623
+      value {
+        Overrides {
+          Name: "cs:killDelay"
+          Float: 2
+        }
+        Overrides {
+          Name: "cs:openMouthDelay"
+          Float: 50
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17430992974453784283
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Fountain trap"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -4338.51953
+            Y: 1524.71545
+            Z: 7155.13232
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 3909280331747145706
+    }
+  }
 }
 Objects {
   Id: 16642656275692172485

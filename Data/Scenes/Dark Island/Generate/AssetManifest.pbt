@@ -557,15 +557,6 @@ Assets {
   }
 }
 Assets {
-  Id: 3795518170939547228
-  Name: "Laser Beam VFX"
-  PlatformAssetType: 8
-  PrimaryAsset {
-    AssetType: "VfxBlueprintAssetRef"
-    AssetId: "fxbp_Laser_Beam"
-  }
-}
-Assets {
   Id: 3078636257640080132
   Name: "Fantasy Castle Pillar 01 Base"
   PlatformAssetType: 1
