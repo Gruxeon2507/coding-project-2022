@@ -30,6 +30,7 @@ Objects {
   ChildIds: 1081592017699778693
   ChildIds: 4120821393559706557
   ChildIds: 9410808133795207708
+  ChildIds: 14488654001109491261
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -42,6 +43,45 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 14488654001109491261
+  Name: "NewFolder"
+  Transform {
+    Location {
+      X: 950
+      Y: 1350
+    }
+    Rotation {
+      Yaw: 24.999979
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "NewFolder"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
