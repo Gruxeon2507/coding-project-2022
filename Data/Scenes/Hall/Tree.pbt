@@ -24,13 +24,13 @@ Objects {
   ChildIds: 10840886533551413562
   ChildIds: 16153467121590742472
   ChildIds: 5431360534382517102
-  ChildIds: 206564349996057401
   ChildIds: 16642656275692172485
   ChildIds: 8700713520672683534
   ChildIds: 1081592017699778693
   ChildIds: 4120821393559706557
   ChildIds: 9410808133795207708
   ChildIds: 14488654001109491261
+  ChildIds: 3421255492574707662
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -43,6 +43,45 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 3421255492574707662
+  Name: "Duong"
+  Transform {
+    Location {
+      X: 950
+      Y: 1350
+    }
+    Rotation {
+      Yaw: 24.999958
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Duong"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -297,42 +336,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "PortalArea"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 206564349996057401
-  Name: "Duong"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Duong"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
