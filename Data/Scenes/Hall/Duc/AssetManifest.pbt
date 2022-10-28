@@ -1,4 +1,13 @@
 Assets {
+  Id: 16724935313886726302
+  Name: "Icon Compass"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Compass"
+  }
+}
+Assets {
   Id: 16297775656311339734
   Name: "Quill"
   PlatformAssetType: 9
@@ -35,12 +44,30 @@ Assets {
   }
 }
 Assets {
+  Id: 11322228234877568471
+  Name: "Icon Gear"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Gear"
+  }
+}
+Assets {
   Id: 10094548057280535066
   Name: "BG Flat 002"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "BackgroundNoOutline_019"
+  }
+}
+Assets {
+  Id: 10035539167917478972
+  Name: "Icon Crown"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Crown"
   }
 }
 Assets {
@@ -80,12 +107,30 @@ Assets {
   }
 }
 Assets {
+  Id: 4287328446020231269
+  Name: "Icon Map"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Map"
+  }
+}
+Assets {
   Id: 3606501235120887662
   Name: "Book"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "UI_Fantasy_Icon_Book"
+  }
+}
+Assets {
+  Id: 1861862136289545245
+  Name: "Icon Journal"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Journal"
   }
 }
 Assets {

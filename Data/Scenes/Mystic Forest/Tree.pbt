@@ -223,11 +223,11 @@ Objects {
       value {
         Overrides {
           Name: "UIX"
-          Float: 75.9736786
+          Float: 125
         }
         Overrides {
           Name: "UIY"
-          Float: 8.21411133
+          Float: -100
         }
       }
     }

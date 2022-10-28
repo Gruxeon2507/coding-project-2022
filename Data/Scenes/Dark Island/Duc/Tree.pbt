@@ -583,7 +583,7 @@ Objects {
       }
     }
     Text {
-      Label: "The Dark Island was a peace and beautiful land before the great war. Due to the heavily damage it had taken, all of its creature are now forever changed into monster and worse still, each year the black magic of the island extends its grasp to reap more souls across the dimention."
+      Label: "The Dark Island was a peaceful and beautiful land before the great war. Due to the heavy damage, it had taken, all of its creatures are now forever changed into a monster and worse still, each year the black magic of the island extends its grasp to reap more souls across the dimension."
       Color {
         R: 0.670588255
         G: 0.478431404

@@ -162,7 +162,6 @@ ObjectSettings {
   ObjectStates {
     key: 118322909788132463
     value {
-      IsHidden: true
     }
   }
   ObjectStates {
@@ -5939,7 +5938,6 @@ ObjectSettings {
   ObjectStates {
     key: 5114493832106288829
     value {
-      IsHidden: true
     }
   }
   ObjectStates {
@@ -6145,7 +6143,6 @@ ObjectSettings {
   ObjectStates {
     key: 5328257066584396560
     value {
-      IsHidden: true
     }
   }
   ObjectStates {
@@ -11124,7 +11121,6 @@ ObjectSettings {
   ObjectStates {
     key: 9603075392881457535
     value {
-      IsHidden: true
     }
   }
   ObjectStates {
@@ -13451,6 +13447,7 @@ ObjectSettings {
   ObjectStates {
     key: 11530085740997821242
     value {
+      IsHidden: true
     }
   }
   ObjectStates {
@@ -21377,4 +21374,4 @@ ObjectSettings {
     }
   }
 }
-LastSavedScene: "Surima"
+LastSavedScene: "Hall"

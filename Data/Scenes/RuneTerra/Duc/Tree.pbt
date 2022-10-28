@@ -3494,7 +3494,7 @@ Objects {
       }
     }
     Text {
-      Label: "Used to be the largest continent, after the great war, RuneTerra is now lost in the void. Regards the result of the war, RuneTerra\'s nature beauty is remain unchanged.  Fused with magic, this place attract all kinds of magical creature, even monster. RuneTerra itself is also contains some unopened portals lead to others dimention, waiting to be discorver"
+      Label: "Used to be the largest continent, after the great war, RuneTerra is now lost in the void. Regards the result of the war, RuneTerra\'s natural beauty remains unchanged.  Fused with magic, this place attracts all kinds of magical creatures, even monsters. RuneTerra itself also contains some unopened portals that lead to other dimensions, waiting to be discovered"
       Color {
         R: 0.670588255
         G: 0.478431404

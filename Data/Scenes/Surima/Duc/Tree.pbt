@@ -583,7 +583,7 @@ Objects {
       }
     }
     Text {
-      Label: "To protect people from the war, a great mage had cased the ultimate spell, bringing his castle and all of the people inside it to others dimention.\r\nBut it was to late...\r\nThe spell failed, turned every thing into sand and the mage in to a monster. Shurima now be come a deserts remain out of time and space. \r\n"
+      Label: "To protect people from the war, a great mage had cased the ultimate spell, bringing his tower and all of the people inside it to others\' dimensions.\r\nBut it was too late...\r\nThe spell failed, turning everything into the sand and the mage into a monster. Shurima now becomes a desert that remains out of time and space. \r\n"
       Color {
         R: 0.670588255
         G: 0.478431404
