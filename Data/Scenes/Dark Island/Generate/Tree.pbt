@@ -34069,6 +34069,50 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 290668749808434205
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 660236650445020375
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 922770523766487763
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1114773672212783409
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 1118639286488537704
       value {
         Overrides {
@@ -34085,6 +34129,116 @@ Objects {
             Pitch: 2.87270236
             Yaw: 72.5461121
             Roll: 17.748085
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1427199086878976857
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2447570175189536290
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2503037561204374977
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2918303162186587420
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 2922704564336842558
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 3845776948272150886
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4209414913977498675
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4346770023126948030
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4600794217656724039
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4783045092907849928
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
           }
         }
       }
@@ -34119,6 +34273,72 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 5579831429840180635
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5610096896335195655
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 5877009007782595695
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6090549796868430664
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6184933379122515733
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6756234597620342422
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 7259106373187684933
       value {
         Overrides {
@@ -34135,6 +34355,28 @@ Objects {
             Pitch: -1.07080078
             Yaw: 16.398695
             Roll: -86.4190063
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7283864267086591991
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7307049766955057242
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
           }
         }
       }
@@ -34159,6 +34401,28 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 7617681986604937466
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8042509066463420336
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 8204566575606577770
       value {
         Overrides {
@@ -34177,6 +34441,39 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 8289812262263442479
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8347840067159316596
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8821238321046351500
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 9721363648175716772
       value {
         Overrides {
@@ -34184,6 +34481,17 @@ Objects {
           Vector {
             X: -350
             Y: -350
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9825418845258676081
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
           }
         }
       }
@@ -34258,6 +34566,17 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 12286427634966914071
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 12985870103947190732
       value {
         Overrides {
@@ -34327,6 +34646,61 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 15759575547857910675
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15801582590791231297
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16258324136942334772
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16369145904770892175
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16575190928296179598
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 16615098548433290650
       value {
         Overrides {
@@ -34356,6 +34730,17 @@ Objects {
       }
     }
     ParameterOverrideMap {
+      key: 17495747957394588895
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 17724225518867420105
       value {
         Overrides {
@@ -34372,6 +34757,17 @@ Objects {
             Pitch: 28.3564434
             Yaw: -130.179321
             Roll: -80.4414062
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17852095519974556964
+      value {
+        Overrides {
+          Name: "ma:Building_Floor:id"
+          AssetReference {
+            Id: 3115427632251012821
           }
         }
       }

@@ -1,7 +1,7 @@
 Name: "-- Equipment --"
-RootId: 12685446960453468856
+RootId: 17487105852344761059
 Objects {
-  Id: 5942503916291628937
+  Id: 15419442731524779669
   Name: "* Dungeon Crawler *"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12685446960453468856
+  ParentId: 17487105852344761059
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34,7 +34,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18357384600560164167
+  Id: 2035715652628818744
   Name: "-- Shields --"
   Transform {
     Location {
@@ -47,7 +47,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12685446960453468856
+  ParentId: 17487105852344761059
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -67,7 +67,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10393473549751312236
+  Id: 17701505991434675347
   Name: "-- Melee Weapons --"
   Transform {
     Location {
@@ -80,7 +80,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12685446960453468856
+  ParentId: 17487105852344761059
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

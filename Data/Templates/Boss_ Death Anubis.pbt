@@ -1,6 +1,6 @@
 Assets {
   Id: 1892793120148773077
-  Name: "Boss_ Death Anubis"
+  Name: "Boss: Death Anubis"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
@@ -395,25 +395,25 @@ Assets {
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 15345760362089961606
+              Id: 15662948829922360829
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 10862837515260375752
+              Id: 17781403111787821145
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 15326138280825228434
+              Id: 12897119914687294132
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 14782481216819325752
+              Id: 9776041208980853643
             }
           }
           Overrides {
@@ -522,7 +522,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17019659739809639584
+            Id: 10139874742750257724
           }
         }
         NetworkRelevanceDistance {
@@ -684,7 +684,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 17300920816602569018
+            Id: 10698112594478474623
           }
         }
         NetworkRelevanceDistance {
@@ -717,13 +717,13 @@ Assets {
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 7577485333701035703
+              Id: 15503153441454274761
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 7577485333701035703
+              Id: 15503153441454274761
             }
           }
         }
@@ -940,7 +940,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15363891159604951712
+            Id: 7004240717618911521
           }
         }
         NetworkRelevanceDistance {
@@ -974,7 +974,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 12939632419092942108
+            Id: 1840420569007498734
           }
         }
         NetworkRelevanceDistance {
@@ -1003,7 +1003,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 1328464424770808511
+              Id: 11406659342996741468
             }
           }
           Overrides {
@@ -4949,7 +4949,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 3300185404184952750
+            Id: 9988166118882305613
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -5278,7 +5278,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 3300185404184952750
+            Id: 9988166118882305613
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -5404,7 +5404,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7502134511358725775
+            Id: 1671780312738070962
           }
         }
         NetworkRelevanceDistance {
@@ -5543,7 +5543,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7502134511358725775
+            Id: 1671780312738070962
           }
         }
         NetworkRelevanceDistance {
@@ -5882,7 +5882,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7502134511358725775
+            Id: 1671780312738070962
           }
         }
         NetworkRelevanceDistance {
@@ -6158,7 +6158,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7502134511358725775
+            Id: 1671780312738070962
           }
         }
         NetworkRelevanceDistance {
@@ -6187,7 +6187,7 @@ Assets {
           Overrides {
             Name: "ma:Nature_Grass:id"
             AssetReference {
-              Id: 8849773590821764357
+              Id: 1993740885778141426
             }
           }
           Overrides {
@@ -6296,7 +6296,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 7502134511358725775
+            Id: 1671780312738070962
           }
         }
         NetworkRelevanceDistance {
@@ -6470,7 +6470,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 4153857341395961456
+              Id: 3589246928627959370
             }
           }
           Overrides {
@@ -6908,7 +6908,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 3300185404184952750
+            Id: 9988166118882305613
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -7237,7 +7237,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 3300185404184952750
+            Id: 9988166118882305613
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -7437,7 +7437,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4153857341395961456
+              Id: 3589246928627959370
             }
           }
           Overrides {
@@ -8158,7 +8158,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 5322534200820657119
+              Id: 6339867041818921293
             }
           }
           Overrides {
@@ -8224,7 +8224,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 4153857341395961456
+              Id: 3589246928627959370
             }
           }
           Overrides {
@@ -8298,7 +8298,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 5322534200820657119
+              Id: 6339867041818921293
             }
           }
         }
@@ -8618,13 +8618,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 5322534200820657119
+              Id: 6339867041818921293
             }
           }
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 4153857341395961456
+              Id: 3589246928627959370
             }
           }
           Overrides {
@@ -8769,7 +8769,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 16297802823572691961
+            Id: 15404069753719454998
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -8864,7 +8864,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 5322534200820657119
+              Id: 6339867041818921293
             }
           }
           Overrides {
@@ -8876,7 +8876,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 4153857341395961456
+              Id: 3589246928627959370
             }
           }
         }
@@ -8987,7 +8987,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 5322534200820657119
+              Id: 6339867041818921293
             }
           }
           Overrides {
@@ -8999,7 +8999,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 4153857341395961456
+              Id: 3589246928627959370
             }
           }
         }
@@ -9116,7 +9116,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_Trim:id"
             AssetReference {
-              Id: 4153857341395961456
+              Id: 3589246928627959370
             }
           }
           Overrides {
@@ -9247,7 +9247,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 5322534200820657119
+              Id: 6339867041818921293
             }
           }
           Overrides {
@@ -9627,13 +9627,13 @@ Assets {
           Overrides {
             Name: "ma:Shared_Detail1:id"
             AssetReference {
-              Id: 5322534200820657119
+              Id: 6339867041818921293
             }
           }
           Overrides {
             Name: "ma:Shared_Detail2:id"
             AssetReference {
-              Id: 5322534200820657119
+              Id: 6339867041818921293
             }
           }
         }
@@ -9716,7 +9716,7 @@ Assets {
         }
         CoreMesh {
           MeshAsset {
-            Id: 18030254883136858068
+            Id: 7672894170880533820
           }
           Teams {
             IsTeamCollisionEnabled: true
@@ -9922,7 +9922,7 @@ Assets {
       }
     }
     Assets {
-      Id: 3300185404184952750
+      Id: 9988166118882305613
       Name: "Text 05: S"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -10111,7 +10111,7 @@ Assets {
       }
     }
     Assets {
-      Id: 16297802823572691961
+      Id: 15404069753719454998
       Name: "Long Banner Manticore"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -10183,7 +10183,7 @@ Assets {
       }
     }
     Assets {
-      Id: 18030254883136858068
+      Id: 7672894170880533820
       Name: "Sphere"
       PlatformAssetType: 1
       PrimaryAsset {
@@ -10196,5 +10196,9 @@ Assets {
       AssetId: "None"
     }
   }
+  Marketplace {
+    Description: "Anubis"
+  }
   SerializationVersion: 119
+  DirectlyPublished: true
 }

@@ -7,7 +7,7 @@ Assets {
       RootId: 7088584679911714417
       Objects {
         Id: 7088584679911714417
-        Name: "Beastbone Shaman"
+        Name: "Beastbone Caster"
         Transform {
           Scale {
             X: 1
@@ -110,11 +110,11 @@ Assets {
           }
           Overrides {
             Name: "cs:RewardResourceAmount"
-            Int: 1
+            Int: 600
           }
           Overrides {
             Name: "cs:LootId"
-            String: "Common"
+            String: "Rare"
           }
           Overrides {
             Name: "cs:CurrentState:isrep"

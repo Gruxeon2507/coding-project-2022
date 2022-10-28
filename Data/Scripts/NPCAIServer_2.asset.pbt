@@ -7,13 +7,13 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 9770511928359673738
+          Id: 12585006214364298772
         }
       }
       Overrides {
         Name: "cs:NPCManager"
         AssetReference {
-          Id: 14514580809588361711
+          Id: 12216504172904354212
         }
       }
       Overrides {

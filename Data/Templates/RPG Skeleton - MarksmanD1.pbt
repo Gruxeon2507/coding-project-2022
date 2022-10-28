@@ -7,7 +7,7 @@ Assets {
       RootId: 16661545407737424176
       Objects {
         Id: 16661545407737424176
-        Name: "RPG Skeleton - Marksman"
+        Name: "RPG Skeleton - MarksmanD1"
         Transform {
           Scale {
             X: 1
@@ -110,7 +110,7 @@ Assets {
           }
           Overrides {
             Name: "cs:RewardResourceAmount"
-            Int: 200
+            Int: 60
           }
           Overrides {
             Name: "cs:LootId"

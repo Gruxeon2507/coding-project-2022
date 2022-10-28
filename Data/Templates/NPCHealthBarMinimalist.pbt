@@ -83,7 +83,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15636749404113921442
+            Id: 953542048012402927
           }
         }
         NetworkRelevanceDistance {
@@ -149,7 +149,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 7893944204674572055
+              Id: 12872237946194312782
             }
           }
           Overrides {
@@ -211,7 +211,7 @@ Assets {
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 2256245945730534220
+              Id: 16702075834518107447
             }
           }
         }

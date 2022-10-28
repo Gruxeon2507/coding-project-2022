@@ -21,6 +21,7 @@ Objects {
   ChildIds: 17682580009891475567
   ChildIds: 5032451024295903398
   ChildIds: 11392084264657883933
+  ChildIds: 15018382623508781556
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -38,6 +39,67 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 15018382623508781556
+  Name: "Kill Block"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2069003900465479689
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1000
+            Y: 1000
+            Z: 1
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -22261.5449
+            Y: 23944.7852
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7516743524451742948
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Kill Block"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 22047.418
+            Y: -24171.5176
+            Z: -46.7825623
+          }
+        }
+        Overrides {
+          Name: "Visible"
+          Enum {
+            Value: "mc:evisibilitysetting:forceoff"
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 16106135967160019817
+    }
+  }
 }
 Objects {
   Id: 11392084264657883933

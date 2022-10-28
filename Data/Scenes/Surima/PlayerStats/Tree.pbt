@@ -1,7 +1,7 @@
 Name: "PlayerStats"
-RootId: 11992849682540265977
+RootId: 8114474668218385724
 Objects {
-  Id: 14302951660490125954
+  Id: 4566053630991564447
   Name: "PlayerStats_Combat"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11992849682540265977
+  ParentId: 8114474668218385724
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -35,7 +35,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1824116899245362465
+  Id: 13520753930031711588
   Name: "Client"
   Transform {
     Location {
@@ -48,8 +48,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11992849682540265977
-  ChildIds: 2262678786848360865
+  ParentId: 8114474668218385724
+  ChildIds: 17874391468416878731
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -73,7 +73,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2262678786848360865
+  Id: 17874391468416878731
   Name: "PlayerStats_LevelUpFXSpawner"
   Transform {
     Location {
@@ -86,7 +86,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1824116899245362465
+  ParentId: 13520753930031711588
   UnregisteredParameters {
     Overrides {
       Name: "cs:VFX_LocalPlayer"
@@ -121,7 +121,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 225851209835279867
+  Id: 13817182680332833863
   Name: "StatSheetComponentSpawner"
   Transform {
     Location {
@@ -134,7 +134,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11992849682540265977
+  ParentId: 8114474668218385724
   UnregisteredParameters {
     Overrides {
       Name: "cs:ComponentTemplate"
@@ -163,7 +163,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8592321201073763329
+  Id: 12737571016474937496
   Name: "Stats"
   Transform {
     Location {
@@ -176,7 +176,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11992849682540265977
+  ParentId: 8114474668218385724
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

@@ -1,7 +1,7 @@
 Name: "StarterItems"
-RootId: 17176398982798120288
+RootId: 4882374297006944902
 Objects {
-  Id: 3928635299272649867
+  Id: 4708418266552055752
   Name: "Ki\341\272\277m Doran"
   Transform {
     Location {
@@ -14,12 +14,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17176398982798120288
+  ParentId: 4882374297006944902
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 9642027803274760641
+        SelfId: 11521136808700678724
       }
     }
     Overrides {
@@ -57,7 +57,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1824615556714238794
+  Id: 16209194387395134624
   Name: "Xu"
   Transform {
     Location {
@@ -70,12 +70,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17176398982798120288
+  ParentId: 4882374297006944902
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 9528418477061311823
+        SelfId: 13373890571663310807
       }
     }
     Overrides {

@@ -12,13 +12,13 @@ Assets {
       Overrides {
         Name: "cs:DamageFX"
         AssetReference {
-          Id: 7577485333701035703
+          Id: 15503153441454274761
         }
       }
       Overrides {
         Name: "cs:DestroyFX"
         AssetReference {
-          Id: 7577485333701035703
+          Id: 15503153441454274761
         }
       }
       Overrides {

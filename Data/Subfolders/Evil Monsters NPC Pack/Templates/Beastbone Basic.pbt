@@ -34,15 +34,15 @@ Assets {
           }
           Overrides {
             Name: "cs:CurrentHealth"
-            Float: 300
+            Float: 2000
           }
           Overrides {
             Name: "cs:MoveSpeed"
-            Float: 400
+            Float: 800
           }
           Overrides {
             Name: "cs:TurnSpeed"
-            Float: 3
+            Float: 2
           }
           Overrides {
             Name: "cs:LogicalPeriod"
@@ -54,15 +54,15 @@ Assets {
           }
           Overrides {
             Name: "cs:VisionHalfAngle"
-            Float: 85
+            Float: 150
           }
           Overrides {
             Name: "cs:VisionRadius"
-            Float: 2500
+            Float: 5000
           }
           Overrides {
             Name: "cs:HearingRadius"
-            Float: 1000
+            Float: 5000
           }
           Overrides {
             Name: "cs:SearchBonusVision"
@@ -70,11 +70,11 @@ Assets {
           }
           Overrides {
             Name: "cs:SearchDuration"
-            Float: 6
+            Float: 2
           }
           Overrides {
             Name: "cs:PossibilityRadius"
-            Float: 800
+            Float: 1500
           }
           Overrides {
             Name: "cs:ChaseRadius"
@@ -90,7 +90,7 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackCast"
-            Float: 0.5
+            Float: 1
           }
           Overrides {
             Name: "cs:AttackRecovery"
@@ -98,7 +98,7 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackCooldown"
-            Float: 1.5
+            Float: 1
           }
           Overrides {
             Name: "cs:IsPushable"
@@ -110,11 +110,11 @@ Assets {
           }
           Overrides {
             Name: "cs:RewardResourceAmount"
-            Int: 1
+            Int: 600
           }
           Overrides {
             Name: "cs:LootId"
-            String: "Common"
+            String: "Rare"
           }
           Overrides {
             Name: "cs:CurrentState:isrep"

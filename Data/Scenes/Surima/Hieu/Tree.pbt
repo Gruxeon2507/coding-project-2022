@@ -95,66 +95,6 @@ Objects {
   }
 }
 Objects {
-  Id: 12450110856566679828
-  Name: "ItemRespawner"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 18006927550639156088
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Anubis Respawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 16072.4727
-            Y: 4081.30811
-            Z: 11763.8389
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 1892793120148773077
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 300
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: 15.3713608
-            Yaw: -173.400208
-            Roll: -6.42825747
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7915183334013193095
-    }
-  }
-}
-Objects {
   Id: 8789388463125368708
   Name: "Pyramid"
   Transform {

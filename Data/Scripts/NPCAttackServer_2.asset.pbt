@@ -7,13 +7,13 @@ Assets {
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 9770511928359673738
+          Id: 12585006214364298772
         }
       }
       Overrides {
         Name: "cs:DestructibleManager"
         AssetReference {
-          Id: 15509149705577194088
+          Id: 14748562672227233249
         }
       }
       Overrides {

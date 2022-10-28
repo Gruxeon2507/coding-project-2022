@@ -1,10 +1,10 @@
 Assets {
   Id: 12070069281250474210
-  Name: "Gold Flat_1"
+  Name: "Gold Flat"
   PlatformAssetType: 13
   SerializationVersion: 119
   CustomMaterialAsset {
-    BaseMaterialId: 14629909211943041809
+    BaseMaterialId: 16936758083076105215
     ParameterOverrides {
       Overrides {
         Name: "material_scale"
@@ -21,7 +21,7 @@ Assets {
       }
     }
     Assets {
-      Id: 14629909211943041809
+      Id: 16936758083076105215
       Name: "Metal Gold 01"
       PlatformAssetType: 2
       PrimaryAsset {

@@ -20,6 +20,7 @@ Objects {
   ChildIds: 13610095578206237612
   ChildIds: 6307349831569756261
   ChildIds: 4622417034103665885
+  ChildIds: 12607551118247108630
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -37,6 +38,54 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12607551118247108630
+  Name: "ItemRespawner_2"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner_2"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 15943.5498
+            Y: 4095.05176
+            Z: 11716.5713
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 1892793120148773077
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -8.76565552
+            Yaw: 145.633789
+            Roll: 6.80585575
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17800793337168911360
+    }
+  }
 }
 Objects {
   Id: 4622417034103665885
@@ -246,6 +295,7 @@ Objects {
   ChildIds: 17178985769858496003
   ChildIds: 857757742199698415
   ChildIds: 2294129142264210619
+  ChildIds: 16457995961461082094
   ChildIds: 16395123677865338472
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -295,6 +345,41 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "UI Settings"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 16457995961461082094
+  Name: "ItemSystems"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5171401545723156788
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "ItemSystems"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

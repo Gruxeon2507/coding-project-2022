@@ -7,7 +7,7 @@ Assets {
       RootId: 8517770000738367020
       Objects {
         Id: 8517770000738367020
-        Name: "Blackskull Boss - Infernal Lord"
+        Name: "Necro Boss - Infernal Lord"
         Transform {
           Scale {
             X: 1
@@ -34,11 +34,11 @@ Assets {
           }
           Overrides {
             Name: "cs:CurrentHealth"
-            Float: 5000
+            Float: 10000
           }
           Overrides {
             Name: "cs:MoveSpeed"
-            Float: 400
+            Float: 800
           }
           Overrides {
             Name: "cs:TurnSpeed"
@@ -54,15 +54,15 @@ Assets {
           }
           Overrides {
             Name: "cs:VisionHalfAngle"
-            Float: 85
+            Float: 120
           }
           Overrides {
             Name: "cs:VisionRadius"
-            Float: 2500
+            Float: 5000
           }
           Overrides {
             Name: "cs:HearingRadius"
-            Float: 1000
+            Float: 5000
           }
           Overrides {
             Name: "cs:SearchBonusVision"
@@ -70,11 +70,11 @@ Assets {
           }
           Overrides {
             Name: "cs:SearchDuration"
-            Float: 6
+            Float: 2
           }
           Overrides {
             Name: "cs:PossibilityRadius"
-            Float: 800
+            Float: 2000
           }
           Overrides {
             Name: "cs:ChaseRadius"
@@ -82,7 +82,7 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackRange"
-            Float: 1000
+            Float: 1500
           }
           Overrides {
             Name: "cs:AttackMinAngle"
@@ -90,15 +90,15 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackCast"
-            Float: 0.5
+            Float: 0.4
           }
           Overrides {
             Name: "cs:AttackRecovery"
-            Float: 1
+            Float: 0.4
           }
           Overrides {
             Name: "cs:AttackCooldown"
-            Float: 1.5
+            Float: 0.4
           }
           Overrides {
             Name: "cs:IsPushable"
@@ -110,11 +110,11 @@ Assets {
           }
           Overrides {
             Name: "cs:RewardResourceAmount"
-            Int: 1
+            Int: 3000
           }
           Overrides {
             Name: "cs:LootId"
-            String: "Common"
+            String: "Legendary"
           }
           Overrides {
             Name: "cs:CurrentState:isrep"
@@ -9234,7 +9234,7 @@ Assets {
           }
           Overrides {
             Name: "cs:DamageToPlayers"
-            Int: 15
+            Int: 200
           }
           Overrides {
             Name: "cs:DamageToNPCs"

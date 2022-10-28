@@ -34,11 +34,11 @@ Assets {
           }
           Overrides {
             Name: "cs:CurrentHealth"
-            Float: 1000
+            Float: 1500
           }
           Overrides {
             Name: "cs:MoveSpeed"
-            Float: 400
+            Float: 700
           }
           Overrides {
             Name: "cs:TurnSpeed"
@@ -54,15 +54,15 @@ Assets {
           }
           Overrides {
             Name: "cs:VisionHalfAngle"
-            Float: 85
+            Float: 120
           }
           Overrides {
             Name: "cs:VisionRadius"
-            Float: 2500
+            Float: 5000
           }
           Overrides {
             Name: "cs:HearingRadius"
-            Float: 1000
+            Float: 5000
           }
           Overrides {
             Name: "cs:SearchBonusVision"
@@ -70,11 +70,11 @@ Assets {
           }
           Overrides {
             Name: "cs:SearchDuration"
-            Float: 6
+            Float: 2
           }
           Overrides {
             Name: "cs:PossibilityRadius"
-            Float: 800
+            Float: 1500
           }
           Overrides {
             Name: "cs:ChaseRadius"
@@ -82,7 +82,7 @@ Assets {
           }
           Overrides {
             Name: "cs:AttackRange"
-            Float: 1300
+            Float: 1500
           }
           Overrides {
             Name: "cs:AttackMinAngle"
@@ -391,7 +391,7 @@ Assets {
           }
           Overrides {
             Name: "cs:DamageToPlayers"
-            Int: 10
+            Int: 80
           }
           Overrides {
             Name: "cs:DamageToNPCs"

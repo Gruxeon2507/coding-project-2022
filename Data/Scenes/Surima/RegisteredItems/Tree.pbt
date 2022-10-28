@@ -1,7 +1,7 @@
 Name: "RegisteredItems"
-RootId: 10812347524763915122
+RootId: 6592921317097146311
 Objects {
-  Id: 10044985344045555930
+  Id: 3415075910832466070
   Name: "-- Consumables --"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10812347524763915122
+  ParentId: 6592921317097146311
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34,7 +34,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12146617282871554747
+  Id: 5951373022629376724
   Name: "-- Backpacks --"
   Transform {
     Location {
@@ -47,7 +47,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10812347524763915122
+  ParentId: 6592921317097146311
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -67,7 +67,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6151557362200515708
+  Id: 283927175714164204
   Name: "-- Armor --"
   Transform {
     Location {
@@ -80,7 +80,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10812347524763915122
+  ParentId: 6592921317097146311
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -100,7 +100,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9528418477061311823
+  Id: 13373890571663310807
   Name: "Xu"
   Transform {
     Location {
@@ -113,7 +113,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10812347524763915122
+  ParentId: 6592921317097146311
   UnregisteredParameters {
     Overrides {
       Name: "cs:Name"
@@ -203,7 +203,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 244008779791113258
+  Id: 10070060653086846567
   Name: "-- Resources --"
   Transform {
     Location {
@@ -216,7 +216,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10812347524763915122
+  ParentId: 6592921317097146311
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -236,7 +236,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12685446960453468856
+  Id: 17487105852344761059
   Name: "-- Equipment --"
   Transform {
     Location {
@@ -249,7 +249,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10812347524763915122
+  ParentId: 6592921317097146311
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

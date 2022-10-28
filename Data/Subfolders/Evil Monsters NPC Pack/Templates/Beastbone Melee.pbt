@@ -110,11 +110,11 @@ Assets {
           }
           Overrides {
             Name: "cs:RewardResourceAmount"
-            Int: 1
+            Int: 600
           }
           Overrides {
             Name: "cs:LootId"
-            String: "Common"
+            String: "Rare"
           }
           Overrides {
             Name: "cs:CurrentState:isrep"

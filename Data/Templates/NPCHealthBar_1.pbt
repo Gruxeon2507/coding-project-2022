@@ -1,6 +1,6 @@
 Assets {
   Id: 8745957895977630595
-  Name: "NPCHealthBar_1"
+  Name: "NPCHealthBar"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
@@ -83,7 +83,7 @@ Assets {
         }
         Script {
           ScriptAsset {
-            Id: 15636749404113921442
+            Id: 953542048012402927
           }
         }
         NetworkRelevanceDistance {
