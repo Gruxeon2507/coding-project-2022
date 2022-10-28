@@ -14,14 +14,12 @@ Objects {
       Z: 1
     }
   }
-  ChildIds: 9269902264036932853
-  ChildIds: 14023309473328195810
-  ChildIds: 2094222769770282534
-  ChildIds: 436475903195733854
-  ChildIds: 17682580009891475567
-  ChildIds: 5032451024295903398
-  ChildIds: 11392084264657883933
-  ChildIds: 15018382623508781556
+  ChildIds: 14834367447100320855
+  ChildIds: 11560871426476592131
+  ChildIds: 7479016866980198107
+  ChildIds: 8390567608735832519
+  ChildIds: 6890506665158664812
+  ChildIds: 7739323330675796381
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -41,203 +39,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15018382623508781556
-  Name: "Kill Block"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  WantsNetworking: true
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 2069003900465479689
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1000
-            Y: 1000
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -22261.5449
-            Y: 23944.7852
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7516743524451742948
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kill Block"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 22047.418
-            Y: -24171.5176
-            Z: -46.7825623
-          }
-        }
-        Overrides {
-          Name: "Visible"
-          Enum {
-            Value: "mc:evisibilitysetting:forceoff"
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 16106135967160019817
-    }
-  }
-}
-Objects {
-  Id: 11392084264657883933
-  Name: "ItemRespawner_2"
-  Transform {
-    Location {
-      X: 599.060669
-      Y: -34419.4375
-      Z: 2293.24731
-    }
-    Rotation {
-      Yaw: -158.865417
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Stone raptor boss respawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 599.060669
-            Y: -34419.4375
-            Z: 2293.24731
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 17476013349964512381
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -158.865417
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 400
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17800793337168911360
-    }
-  }
-}
-Objects {
-  Id: 5032451024295903398
-  Name: "3DG Lore Point"
-  Transform {
-    Location {
-      X: 3282.28345
-      Y: -1136.11157
-      Z: 198.726929
-    }
-    Rotation {
-      Yaw: 65.5432892
-    }
-    Scale {
-      X: 0.784274638
-      Y: 0.784274638
-      Z: 0.784274638
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 11023060853214570059
-      value {
-        Overrides {
-          Name: "Name"
-          String: "3DG Lore Point"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3282.28345
-            Y: -1136.11157
-            Z: 198.726929
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 65.5433121
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.784274638
-            Y: 0.784274638
-            Z: 0.784274638
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 13024348747081748225
-      value {
-        Overrides {
-          Name: "UIX"
-          Float: 125
-        }
-        Overrides {
-          Name: "UIY"
-          Float: -100
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6193755849663314734
-    }
-  }
-}
-Objects {
-  Id: 17682580009891475567
+  Id: 7739323330675796381
   Name: "Duc"
   Transform {
     Location {
@@ -273,7 +75,155 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 436475903195733854
+  Id: 6890506665158664812
+  Name: "Cube"
+  Transform {
+    Location {
+      X: 1000
+      Y: -2950
+      Z: 250
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  ChildIds: 5232772062970448733
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 17436694173372392815
+      }
+    }
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 5232772062970448733
+  Name: "Trigger"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 6890506665158664812
+  ChildIds: 12750090971860218696
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Trigger {
+    Interactable: true
+    InteractionLabel: "Teleport to RuneTerra"
+    TeamSettings {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    TriggerShape_v2 {
+      Value: "mc:etriggershape:box"
+    }
+    InteractionTemplate {
+    }
+    BreadcrumbTemplate {
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12750090971860218696
+  Name: "teleport_runtera"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5232772062970448733
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Script {
+    ScriptAsset {
+      Id: 11651530398992215939
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 8390567608735832519
   Name: "Duong"
   Transform {
     Location {
@@ -309,7 +259,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2094222769770282534
+  Id: 7479016866980198107
   Name: "Huy"
   Transform {
     Location {
@@ -345,7 +295,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14023309473328195810
+  Id: 11560871426476592131
   Name: "Main"
   Transform {
     Location {
@@ -381,7 +331,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9269902264036932853
+  Id: 14834367447100320855
   Name: "Hieu"
   Transform {
     Location {

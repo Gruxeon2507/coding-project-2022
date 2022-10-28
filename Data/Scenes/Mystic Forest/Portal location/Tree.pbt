@@ -1,7 +1,7 @@
 Name: "Portal location"
-RootId: 6844006848767216651
+RootId: 12446457858408014653
 Objects {
-  Id: 1776438382192454661
+  Id: 1759295242684979804
   Name: "Square_location"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1.620983
     }
   }
-  ParentId: 6844006848767216651
+  ParentId: 12446457858408014653
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

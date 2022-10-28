@@ -1,7 +1,7 @@
 Name: "Map"
-RootId: 11586847198791847050
+RootId: 13469333614242049639
 Objects {
-  Id: 7898016521919896116
+  Id: 7356824681383753860
   Name: "Square"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37,7 +37,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16862627021413128415
+  Id: 426763751848510340
   Name: "Hexa 5x5 island"
   Transform {
     Location {
@@ -53,7 +53,7 @@ Objects {
       Z: 1.90956593
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 2380545108607715664
@@ -238,7 +238,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16350102099049446667
+  Id: 10497805739356090408
   Name: "Hexa 5x5 island"
   Transform {
     Location {
@@ -254,7 +254,7 @@ Objects {
       Z: 1.90956593
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 13989131265584342012
@@ -292,7 +292,7 @@ Objects {
   }
 }
 Objects {
-  Id: 11492610146486002415
+  Id: 4075936938476634385
   Name: "FloatingIsland2"
   Transform {
     Location {
@@ -308,7 +308,7 @@ Objects {
       Z: 5.50000048
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 13142298404932429029
@@ -346,7 +346,7 @@ Objects {
   }
 }
 Objects {
-  Id: 16902076780821154987
+  Id: 2450098968597887887
   Name: "FoliageFloatingWall_ENV"
   Transform {
     Location {
@@ -363,7 +363,7 @@ Objects {
       Z: 2.5
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 5983149521507847760
@@ -415,7 +415,7 @@ Objects {
   }
 }
 Objects {
-  Id: 14233590033374800398
+  Id: 2205341447508960984
   Name: "FloatingIsland2"
   Transform {
     Location {
@@ -431,10 +431,10 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 11586847198791847050
-  ChildIds: 12623657774841119993
-  ChildIds: 15209024201603157308
-  ChildIds: 12309092718634609518
+  ParentId: 13469333614242049639
+  ChildIds: 14834729004728885417
+  ChildIds: 7177479190299464992
+  ChildIds: 3920462804852414562
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -453,7 +453,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12309092718634609518
+  Id: 3920462804852414562
   Name: "Vines"
   Transform {
     Location {
@@ -469,26 +469,26 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14233590033374800398
-  ChildIds: 9138249090194775848
-  ChildIds: 16204996839984425200
-  ChildIds: 14641023387119126206
-  ChildIds: 15022914507309645720
-  ChildIds: 2325669962283239354
-  ChildIds: 11567676569573218270
-  ChildIds: 1578583407921010977
-  ChildIds: 992406560906594859
-  ChildIds: 15290217227194864905
-  ChildIds: 8011243592949799615
-  ChildIds: 13965167464523199928
-  ChildIds: 18070656966309090153
-  ChildIds: 12395100071293677722
-  ChildIds: 13369591204417959415
-  ChildIds: 8661569364433610776
-  ChildIds: 16081636426513732402
-  ChildIds: 7772109070567457906
-  ChildIds: 18387339943277730566
-  ChildIds: 13814974901784752551
+  ParentId: 2205341447508960984
+  ChildIds: 17731198850236921861
+  ChildIds: 8043576680837495688
+  ChildIds: 9706694238613302741
+  ChildIds: 3256544892366606791
+  ChildIds: 10813955978655587079
+  ChildIds: 13196799930736582534
+  ChildIds: 9924890015938234559
+  ChildIds: 8026447870106456997
+  ChildIds: 9559476925061028882
+  ChildIds: 11157654484455352498
+  ChildIds: 8412716504628073475
+  ChildIds: 10322745804373961880
+  ChildIds: 4754973867935456557
+  ChildIds: 11972970424026849911
+  ChildIds: 13793561325124366018
+  ChildIds: 330041960290829821
+  ChildIds: 13066420512336398966
+  ChildIds: 2886361317657900332
+  ChildIds: 12901117591780512140
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -510,7 +510,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13814974901784752551
+  Id: 12901117591780512140
   Name: "Group"
   Transform {
     Location {
@@ -527,10 +527,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 14719700749196162261
-  ChildIds: 16033610668925792023
-  ChildIds: 12418953979852015252
+  ParentId: 3920462804852414562
+  ChildIds: 12113292237745004132
+  ChildIds: 12443876846191751517
+  ChildIds: 5133930987264535669
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -552,7 +552,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12418953979852015252
+  Id: 5133930987264535669
   Name: "Cube"
   Transform {
     Location {
@@ -568,7 +568,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 13814974901784752551
+  ParentId: 12901117591780512140
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -618,7 +618,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16033610668925792023
+  Id: 12443876846191751517
   Name: "Cube"
   Transform {
     Location {
@@ -633,7 +633,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 13814974901784752551
+  ParentId: 12901117591780512140
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -683,7 +683,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14719700749196162261
+  Id: 12113292237745004132
   Name: "Cube"
   Transform {
     Location {
@@ -699,7 +699,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 13814974901784752551
+  ParentId: 12901117591780512140
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -749,7 +749,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18387339943277730566
+  Id: 2886361317657900332
   Name: "Group"
   Transform {
     Location {
@@ -766,10 +766,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 8782551074106934315
-  ChildIds: 13896820445626960077
-  ChildIds: 9926769320402669811
+  ParentId: 3920462804852414562
+  ChildIds: 1839496599035268139
+  ChildIds: 17818342517439666236
+  ChildIds: 12444886601744046764
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -791,7 +791,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9926769320402669811
+  Id: 12444886601744046764
   Name: "Cube"
   Transform {
     Location {
@@ -807,7 +807,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 18387339943277730566
+  ParentId: 2886361317657900332
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -857,7 +857,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13896820445626960077
+  Id: 17818342517439666236
   Name: "Cube"
   Transform {
     Location {
@@ -872,7 +872,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 18387339943277730566
+  ParentId: 2886361317657900332
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -922,7 +922,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8782551074106934315
+  Id: 1839496599035268139
   Name: "Cube"
   Transform {
     Location {
@@ -938,7 +938,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 18387339943277730566
+  ParentId: 2886361317657900332
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -988,7 +988,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7772109070567457906
+  Id: 13066420512336398966
   Name: "Group"
   Transform {
     Location {
@@ -1005,9 +1005,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 1696174668379094393
-  ChildIds: 1994107525781542505
+  ParentId: 3920462804852414562
+  ChildIds: 3878244595994481621
+  ChildIds: 8359022627043814179
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1029,7 +1029,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1994107525781542505
+  Id: 8359022627043814179
   Name: "Cube"
   Transform {
     Location {
@@ -1044,7 +1044,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 7772109070567457906
+  ParentId: 13066420512336398966
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1094,7 +1094,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1696174668379094393
+  Id: 3878244595994481621
   Name: "Cube"
   Transform {
     Location {
@@ -1110,7 +1110,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 7772109070567457906
+  ParentId: 13066420512336398966
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1160,7 +1160,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16081636426513732402
+  Id: 330041960290829821
   Name: "Group"
   Transform {
     Location {
@@ -1177,9 +1177,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 14171299686831684624
-  ChildIds: 4444300715486043946
+  ParentId: 3920462804852414562
+  ChildIds: 7253292451953890077
+  ChildIds: 14230310535148161912
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1201,7 +1201,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4444300715486043946
+  Id: 14230310535148161912
   Name: "Cube"
   Transform {
     Location {
@@ -1216,7 +1216,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 16081636426513732402
+  ParentId: 330041960290829821
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1266,7 +1266,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14171299686831684624
+  Id: 7253292451953890077
   Name: "Cube"
   Transform {
     Location {
@@ -1282,7 +1282,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 16081636426513732402
+  ParentId: 330041960290829821
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1332,7 +1332,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8661569364433610776
+  Id: 13793561325124366018
   Name: "Group"
   Transform {
     Location {
@@ -1349,9 +1349,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 14446530746676977747
-  ChildIds: 4228034237077606311
+  ParentId: 3920462804852414562
+  ChildIds: 10505949091507264532
+  ChildIds: 16118882474818263710
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1373,7 +1373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4228034237077606311
+  Id: 16118882474818263710
   Name: "Cube"
   Transform {
     Location {
@@ -1388,7 +1388,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 8661569364433610776
+  ParentId: 13793561325124366018
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1438,7 +1438,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14446530746676977747
+  Id: 10505949091507264532
   Name: "Cube"
   Transform {
     Location {
@@ -1454,7 +1454,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 8661569364433610776
+  ParentId: 13793561325124366018
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1504,7 +1504,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13369591204417959415
+  Id: 11972970424026849911
   Name: "Group"
   Transform {
     Location {
@@ -1521,9 +1521,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 12767882673216043852
-  ChildIds: 9638200545638158409
+  ParentId: 3920462804852414562
+  ChildIds: 11526254955156526092
+  ChildIds: 10410720171719749773
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1545,7 +1545,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9638200545638158409
+  Id: 10410720171719749773
   Name: "Cube"
   Transform {
     Location {
@@ -1560,7 +1560,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 13369591204417959415
+  ParentId: 11972970424026849911
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1610,7 +1610,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12767882673216043852
+  Id: 11526254955156526092
   Name: "Cube"
   Transform {
     Location {
@@ -1626,7 +1626,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 13369591204417959415
+  ParentId: 11972970424026849911
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1676,7 +1676,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12395100071293677722
+  Id: 4754973867935456557
   Name: "Group"
   Transform {
     Location {
@@ -1693,9 +1693,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 11544425515183648183
-  ChildIds: 16596681249312287346
+  ParentId: 3920462804852414562
+  ChildIds: 8629231757938990763
+  ChildIds: 2455763681734792549
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1717,7 +1717,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16596681249312287346
+  Id: 2455763681734792549
   Name: "Cube"
   Transform {
     Location {
@@ -1732,7 +1732,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 12395100071293677722
+  ParentId: 4754973867935456557
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1782,7 +1782,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11544425515183648183
+  Id: 8629231757938990763
   Name: "Cube"
   Transform {
     Location {
@@ -1798,7 +1798,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 12395100071293677722
+  ParentId: 4754973867935456557
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1848,7 +1848,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18070656966309090153
+  Id: 10322745804373961880
   Name: "Group"
   Transform {
     Location {
@@ -1865,9 +1865,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 5240699624896012729
-  ChildIds: 7264076802829030154
+  ParentId: 3920462804852414562
+  ChildIds: 5681265491951736357
+  ChildIds: 8589083146725927835
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1889,7 +1889,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7264076802829030154
+  Id: 8589083146725927835
   Name: "Cube"
   Transform {
     Location {
@@ -1904,7 +1904,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 18070656966309090153
+  ParentId: 10322745804373961880
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1954,7 +1954,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5240699624896012729
+  Id: 5681265491951736357
   Name: "Cube"
   Transform {
     Location {
@@ -1970,7 +1970,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 18070656966309090153
+  ParentId: 10322745804373961880
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2020,7 +2020,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13965167464523199928
+  Id: 8412716504628073475
   Name: "Group"
   Transform {
     Location {
@@ -2037,9 +2037,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 10020999144449427898
-  ChildIds: 14219632119396892274
+  ParentId: 3920462804852414562
+  ChildIds: 2752906614740499055
+  ChildIds: 12659898487658554148
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2061,7 +2061,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14219632119396892274
+  Id: 12659898487658554148
   Name: "Cube"
   Transform {
     Location {
@@ -2076,7 +2076,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 13965167464523199928
+  ParentId: 8412716504628073475
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2126,7 +2126,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10020999144449427898
+  Id: 2752906614740499055
   Name: "Cube"
   Transform {
     Location {
@@ -2142,7 +2142,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 13965167464523199928
+  ParentId: 8412716504628073475
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2192,7 +2192,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8011243592949799615
+  Id: 11157654484455352498
   Name: "Group"
   Transform {
     Location {
@@ -2209,9 +2209,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 16823438354627495192
-  ChildIds: 12601741019333044337
+  ParentId: 3920462804852414562
+  ChildIds: 14690266603683757815
+  ChildIds: 9700854858485192903
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2233,7 +2233,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12601741019333044337
+  Id: 9700854858485192903
   Name: "Cube"
   Transform {
     Location {
@@ -2248,7 +2248,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 8011243592949799615
+  ParentId: 11157654484455352498
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2298,7 +2298,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16823438354627495192
+  Id: 14690266603683757815
   Name: "Cube"
   Transform {
     Location {
@@ -2314,7 +2314,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 8011243592949799615
+  ParentId: 11157654484455352498
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2364,7 +2364,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15290217227194864905
+  Id: 9559476925061028882
   Name: "Group"
   Transform {
     Location {
@@ -2381,9 +2381,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 16513011154705426123
-  ChildIds: 2834891050361864017
+  ParentId: 3920462804852414562
+  ChildIds: 1775485658941345700
+  ChildIds: 9015692998034684614
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2405,7 +2405,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2834891050361864017
+  Id: 9015692998034684614
   Name: "Cube"
   Transform {
     Location {
@@ -2420,7 +2420,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 15290217227194864905
+  ParentId: 9559476925061028882
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2470,7 +2470,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16513011154705426123
+  Id: 1775485658941345700
   Name: "Cube"
   Transform {
     Location {
@@ -2486,7 +2486,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 15290217227194864905
+  ParentId: 9559476925061028882
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2536,7 +2536,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 992406560906594859
+  Id: 8026447870106456997
   Name: "Group"
   Transform {
     Location {
@@ -2553,9 +2553,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 3159751306778458817
-  ChildIds: 585207016969093201
+  ParentId: 3920462804852414562
+  ChildIds: 8075335942273231679
+  ChildIds: 4364780040546699167
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2577,7 +2577,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 585207016969093201
+  Id: 4364780040546699167
   Name: "Cube"
   Transform {
     Location {
@@ -2592,7 +2592,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 992406560906594859
+  ParentId: 8026447870106456997
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2642,7 +2642,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3159751306778458817
+  Id: 8075335942273231679
   Name: "Cube"
   Transform {
     Location {
@@ -2658,7 +2658,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 992406560906594859
+  ParentId: 8026447870106456997
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2708,7 +2708,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1578583407921010977
+  Id: 9924890015938234559
   Name: "Group"
   Transform {
     Location {
@@ -2725,9 +2725,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 3854724576449258470
-  ChildIds: 3890649122690725326
+  ParentId: 3920462804852414562
+  ChildIds: 18272840686432389036
+  ChildIds: 11606685781962026216
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2749,7 +2749,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3890649122690725326
+  Id: 11606685781962026216
   Name: "Cube"
   Transform {
     Location {
@@ -2764,7 +2764,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 1578583407921010977
+  ParentId: 9924890015938234559
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2814,7 +2814,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3854724576449258470
+  Id: 18272840686432389036
   Name: "Cube"
   Transform {
     Location {
@@ -2830,7 +2830,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 1578583407921010977
+  ParentId: 9924890015938234559
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2880,7 +2880,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11567676569573218270
+  Id: 13196799930736582534
   Name: "Group"
   Transform {
     Location {
@@ -2896,9 +2896,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 2920747629848874515
-  ChildIds: 11097744466246053475
+  ParentId: 3920462804852414562
+  ChildIds: 4632994096048345363
+  ChildIds: 3538558820118322061
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -2920,7 +2920,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11097744466246053475
+  Id: 3538558820118322061
   Name: "Cube"
   Transform {
     Location {
@@ -2935,7 +2935,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 11567676569573218270
+  ParentId: 13196799930736582534
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2985,7 +2985,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2920747629848874515
+  Id: 4632994096048345363
   Name: "Cube"
   Transform {
     Location {
@@ -3001,7 +3001,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 11567676569573218270
+  ParentId: 13196799930736582534
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3051,7 +3051,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2325669962283239354
+  Id: 10813955978655587079
   Name: "Group"
   Transform {
     Location {
@@ -3067,9 +3067,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 17048950784851579381
-  ChildIds: 4755035882788834360
+  ParentId: 3920462804852414562
+  ChildIds: 2922799268020814275
+  ChildIds: 14120957007343498749
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3091,7 +3091,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4755035882788834360
+  Id: 14120957007343498749
   Name: "Cube"
   Transform {
     Location {
@@ -3106,7 +3106,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 2325669962283239354
+  ParentId: 10813955978655587079
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3156,7 +3156,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17048950784851579381
+  Id: 2922799268020814275
   Name: "Cube"
   Transform {
     Location {
@@ -3172,7 +3172,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 2325669962283239354
+  ParentId: 10813955978655587079
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3222,7 +3222,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15022914507309645720
+  Id: 3256544892366606791
   Name: "Group"
   Transform {
     Location {
@@ -3238,10 +3238,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 2434956457130482143
-  ChildIds: 15002353043577456120
-  ChildIds: 5948874723074400507
+  ParentId: 3920462804852414562
+  ChildIds: 15588051479277342428
+  ChildIds: 5377549929872194288
+  ChildIds: 3287452668318404395
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3263,7 +3263,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5948874723074400507
+  Id: 3287452668318404395
   Name: "Cube"
   Transform {
     Location {
@@ -3279,7 +3279,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 15022914507309645720
+  ParentId: 3256544892366606791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3329,7 +3329,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15002353043577456120
+  Id: 5377549929872194288
   Name: "Cube"
   Transform {
     Location {
@@ -3344,7 +3344,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 15022914507309645720
+  ParentId: 3256544892366606791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3394,7 +3394,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2434956457130482143
+  Id: 15588051479277342428
   Name: "Cube"
   Transform {
     Location {
@@ -3410,7 +3410,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 15022914507309645720
+  ParentId: 3256544892366606791
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3460,7 +3460,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14641023387119126206
+  Id: 9706694238613302741
   Name: "Group"
   Transform {
     Location {
@@ -3477,9 +3477,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 10600078965000340865
-  ChildIds: 15338763314303461041
+  ParentId: 3920462804852414562
+  ChildIds: 11454194572523017447
+  ChildIds: 15043073677455923473
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3501,7 +3501,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15338763314303461041
+  Id: 15043073677455923473
   Name: "Cube"
   Transform {
     Location {
@@ -3516,7 +3516,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 14641023387119126206
+  ParentId: 9706694238613302741
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3566,7 +3566,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10600078965000340865
+  Id: 11454194572523017447
   Name: "Cube"
   Transform {
     Location {
@@ -3582,7 +3582,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 14641023387119126206
+  ParentId: 9706694238613302741
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3632,7 +3632,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16204996839984425200
+  Id: 8043576680837495688
   Name: "Group"
   Transform {
     Location {
@@ -3649,9 +3649,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 10539220593845438261
-  ChildIds: 11861389644648225460
+  ParentId: 3920462804852414562
+  ChildIds: 17904696247506845450
+  ChildIds: 1876526241007252187
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3673,7 +3673,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11861389644648225460
+  Id: 1876526241007252187
   Name: "Cube"
   Transform {
     Location {
@@ -3688,7 +3688,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 16204996839984425200
+  ParentId: 8043576680837495688
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3738,7 +3738,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10539220593845438261
+  Id: 17904696247506845450
   Name: "Cube"
   Transform {
     Location {
@@ -3754,7 +3754,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 16204996839984425200
+  ParentId: 8043576680837495688
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3804,7 +3804,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9138249090194775848
+  Id: 17731198850236921861
   Name: "Group"
   Transform {
     Location {
@@ -3820,9 +3820,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12309092718634609518
-  ChildIds: 16224920381648506957
-  ChildIds: 7593106477303817627
+  ParentId: 3920462804852414562
+  ChildIds: 55875750027133374
+  ChildIds: 9359241208402836010
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -3844,7 +3844,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7593106477303817627
+  Id: 9359241208402836010
   Name: "Cube"
   Transform {
     Location {
@@ -3859,7 +3859,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 9138249090194775848
+  ParentId: 17731198850236921861
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3909,7 +3909,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16224920381648506957
+  Id: 55875750027133374
   Name: "Cube"
   Transform {
     Location {
@@ -3925,7 +3925,7 @@ Objects {
       Z: 5.70694733
     }
   }
-  ParentId: 9138249090194775848
+  ParentId: 17731198850236921861
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3975,7 +3975,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15209024201603157308
+  Id: 7177479190299464992
   Name: "RingofDirt"
   Transform {
     Location {
@@ -3991,7 +3991,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14233590033374800398
+  ParentId: 2205341447508960984
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -4011,7 +4011,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12623657774841119993
+  Id: 14834729004728885417
   Name: "Dirt"
   Transform {
     Location {
@@ -4026,7 +4026,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14233590033374800398
+  ParentId: 2205341447508960984
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -4046,7 +4046,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9382681187041913709
+  Id: 18007781896044659517
   Name: "FloatingIsland2"
   Transform {
     Location {
@@ -4062,7 +4062,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 13142298404932429029
@@ -4100,7 +4100,7 @@ Objects {
   }
 }
 Objects {
-  Id: 13390062465494205995
+  Id: 8733938457194277125
   Name: "FloatingIsland2"
   Transform {
     Location {
@@ -4115,7 +4115,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 13142298404932429029
@@ -4152,7 +4152,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5747008867025508598
+  Id: 4832599091649157971
   Name: "FloatingIsland2"
   Transform {
     Location {
@@ -4168,7 +4168,7 @@ Objects {
       Z: 2
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 13142298404932429029
@@ -4206,7 +4206,7 @@ Objects {
   }
 }
 Objects {
-  Id: 5848059359478048698
+  Id: 2610687903539351751
   Name: "Core Royale Mystery Forest"
   Transform {
     Location {
@@ -4222,7 +4222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 511938191199109600
@@ -4246,48 +4246,6 @@ Objects {
       }
     }
     ParameterOverrideMap {
-      key: 1095178340668307512
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3576.34863
-            Y: -2551.32373
-            Z: -661.806274
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -33.2570801
-            Yaw: 53.4998703
-            Roll: -14.2948914
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 1157418275854796042
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -27390.0703
-            Y: 37393.8633
-            Z: 2168.53027
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Pitch: -29.7131958
-            Yaw: -29.2064209
-            Roll: -28.065918
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 2173128744396594928
       value {
         Overrides {
@@ -4304,19 +4262,6 @@ Objects {
             X: 35.5
             Y: 10.0000076
             Z: 10.0775661
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 2175394326866848766
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -25461.5312
-            Y: -10248.2734
-            Z: -880.606445
           }
         }
       }
@@ -4447,19 +4392,6 @@ Objects {
       }
     }
     ParameterOverrideMap {
-      key: 6430417825513041371
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -21915.7207
-            Y: -8130.41406
-            Z: -1542.7832
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 7660763305853937938
       value {
         Overrides {
@@ -4574,19 +4506,6 @@ Objects {
       }
     }
     ParameterOverrideMap {
-      key: 14529697214275782062
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 58.5195312
-            Y: 72.5078125
-            Z: -4.40063477
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
       key: 15520550807652934576
       value {
         Overrides {
@@ -4595,32 +4514,6 @@ Objects {
             X: -457.469238
             Y: 4158.02246
             Z: 1989.20154
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15921616204883831452
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -18381.5625
-            Y: -1977.875
-            Z: -3125.10791
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16512699798366355544
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -15855.7119
-            Y: 698.727539
-            Z: -684.296631
           }
         }
       }
@@ -4638,52 +4531,13 @@ Objects {
         }
       }
     }
-    ParameterOverrideMap {
-      key: 17440181349947485058
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3050.24854
-            Y: -1928.99805
-            Z: -1033.14453
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17739061328589325254
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -4067.02563
-            Y: -2683.13281
-            Z: -840.967773
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 18018148776529889386
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -2311.77
-            Y: -8647.43
-            Z: -1325.45483
-          }
-        }
-      }
-    }
     TemplateAsset {
       Id: 181056586796394297
     }
   }
 }
 Objects {
-  Id: 2435787939096467961
+  Id: 10986426416702251537
   Name: "FoliageFloatingWall_ENV"
   Transform {
     Location {
@@ -4699,7 +4553,7 @@ Objects {
       Z: 7.74999905
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 4205397252005326823
@@ -4800,7 +4654,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7396501293121620280
+  Id: 5275785573593692182
   Name: "Hexa 5x5 island"
   Transform {
     Location {
@@ -4816,7 +4670,7 @@ Objects {
       Z: 4.25
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 13989131265584342012
@@ -4854,7 +4708,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1341567657078632437
+  Id: 17193948375793577616
   Name: "Hexa 5x5 island"
   Transform {
     Location {
@@ -4870,7 +4724,7 @@ Objects {
       Z: 5.24999857
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 13989131265584342012
@@ -4908,7 +4762,7 @@ Objects {
   }
 }
 Objects {
-  Id: 2484387046718906355
+  Id: 644905076346754562
   Name: "Hexa 5x5 island"
   Transform {
     Location {
@@ -4924,7 +4778,7 @@ Objects {
       Z: 6.00000048
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 13989131265584342012
@@ -4962,7 +4816,7 @@ Objects {
   }
 }
 Objects {
-  Id: 10433791931246202
+  Id: 10112840151449520473
   Name: "FloatingIsland"
   Transform {
     Location {
@@ -4978,7 +4832,7 @@ Objects {
       Z: 3
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 10593085915237118304
@@ -5016,7 +4870,7 @@ Objects {
   }
 }
 Objects {
-  Id: 7839859735277449837
+  Id: 8055931135782702471
   Name: "Hexa 5x5 island"
   Transform {
     Location {
@@ -5032,7 +4886,7 @@ Objects {
       Z: 1.90956593
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   TemplateInstance {
     ParameterOverrideMap {
       key: 4024903570449626315
@@ -5172,7 +5026,7 @@ Objects {
   }
 }
 Objects {
-  Id: 6100096962298898808
+  Id: 10076057903387134320
   Name: "Core Royale Mystery Forest"
   Transform {
     Location {
@@ -5188,7 +5042,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5239,39 +5093,13 @@ Objects {
         }
       }
     }
-    ParameterOverrideMap {
-      key: 17739061328589325254
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -4067.01758
-            Y: -2683.12891
-            Z: -272.661743
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 18018148776529889386
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1203.74805
-            Y: -9164.05273
-            Z: -334.338379
-          }
-        }
-      }
-    }
     TemplateAsset {
       Id: 10378312381787512870
     }
   }
 }
 Objects {
-  Id: 14612998703307118365
+  Id: 8315726061844125177
   Name: "Prospecting"
   Transform {
     Location {
@@ -5287,30 +5115,75 @@ Objects {
       Z: 1.75
     }
   }
-  ParentId: 11586847198791847050
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+  ParentId: 13469333614242049639
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3129847787743663304
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -42.5418701
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11900482157114581899
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: -28.5714302
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 3.22769094
+            Y: 3.22769094
+            Z: 0.977107227
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15799419178818184349
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Prospecting"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 3141.03271
+            Y: -2208.51953
+            Z: 150
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1.75
+            Y: 1.75
+            Z: 1.75
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 15069709741407121570
+    }
   }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Prospecting"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8711892009214485198
+  Id: 5966885017631312148
   Name: "Default Floor"
   Transform {
     Location {
@@ -5324,7 +5197,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11586847198791847050
+  ParentId: 13469333614242049639
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"

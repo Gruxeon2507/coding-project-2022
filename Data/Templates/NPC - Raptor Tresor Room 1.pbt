@@ -7,7 +7,7 @@ Assets {
       RootId: 4212840905289249936
       Objects {
         Id: 4212840905289249936
-        Name: "NPC - Raptor Tresor Room 1"
+        Name: "NPC - Raptor Dungeon 1"
         Transform {
           Scale {
             X: 1
@@ -225,13 +225,13 @@ Assets {
         }
         WantsNetworking: true
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:forceoff"
+          Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Visible_v2 {
-          Value: "mc:evisibilitysetting:forceoff"
+          Value: "mc:evisibilitysetting:inheritfromparent"
         }
         CameraCollidable {
-          Value: "mc:ecollisionsetting:forceoff"
+          Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Folder {
           IsGroup: true

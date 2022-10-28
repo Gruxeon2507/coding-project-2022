@@ -26,12 +26,30 @@ Assets {
   }
 }
 Assets {
+  Id: 6307521169272183388
+  Name: "UI Gradient Circular 001"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Basic_Shape_001"
+  }
+}
+Assets {
   Id: 4593055330877944043
   Name: "Fantasy Shape 003"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
     AssetId: "UI_Fantasy_Shape_003"
+  }
+}
+Assets {
+  Id: 3839559777521525990
+  Name: "UI Basic Corners 001"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "UI_Basic_Corners_001"
   }
 }
 Assets {

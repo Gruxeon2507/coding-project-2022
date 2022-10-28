@@ -23,9 +23,5 @@ Assets {
       VirtualFolderPath: "Dependecies"
       PlatformAssetType: 5
     }
-    Folders {
-      VirtualFolderPath: "Evil Monsters NPCs"
-      PlatformAssetType: 5
-    }
   }
 }

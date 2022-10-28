@@ -1,7 +1,7 @@
 Name: "Portal"
-RootId: 18080460952752219033
+RootId: 17207419436831548202
 Objects {
-  Id: 13442298932779583178
+  Id: 5248674163340367937
   Name: "Portal Stand"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 0.5
     }
   }
-  ParentId: 18080460952752219033
+  ParentId: 17207419436831548202
   TemplateInstance {
     ParameterOverrideMap {
       key: 4634161856962455781
@@ -68,7 +68,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1764603523781747706
+  Id: 7679817400382779057
   Name: "SkullPortal"
   Transform {
     Location {
@@ -84,7 +84,7 @@ Objects {
       Z: 1.5
     }
   }
-  ParentId: 18080460952752219033
+  ParentId: 17207419436831548202
   TemplateInstance {
     ParameterOverrideMap {
       key: 5318157011607424253
@@ -122,7 +122,67 @@ Objects {
   }
 }
 Objects {
-  Id: 11067881900951413944
+  Id: 4176296157216157731
+  Name: "Rock Portal"
+  Transform {
+    Location {
+      X: -1200
+      Y: -1950
+      Z: 600
+    }
+    Rotation {
+      Pitch: 90
+      Yaw: -0.105505243
+      Roll: -0.105499268
+    }
+    Scale {
+      X: 0.621743083
+      Y: 0.621743083
+      Z: 0.621743083
+    }
+  }
+  ParentId: 17207419436831548202
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 13384650677538986668
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Rock Portal"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1200
+            Y: -1950
+            Z: 600
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: 90
+            Yaw: 0.0527528822
+            Roll: 0.0527529
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 0.621743083
+            Y: 0.621743083
+            Z: 0.621743083
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 13944030514107255980
+    }
+  }
+}
+Objects {
+  Id: 15676408864659854091
   Name: "Portal_to_Square"
   Transform {
     Location {
@@ -141,8 +201,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18080460952752219033
-  ChildIds: 12475393420600375876
+  ParentId: 17207419436831548202
+  ChildIds: 2397206326753792969
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -162,7 +222,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12475393420600375876
+  Id: 2397206326753792969
   Name: "Portal VFX"
   Transform {
     Location {
@@ -178,8 +238,8 @@ Objects {
       Z: 0.635782838
     }
   }
-  ParentId: 11067881900951413944
-  ChildIds: 4544184849627831220
+  ParentId: 15676408864659854091
+  ChildIds: 11197641419873595383
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color A"
@@ -283,7 +343,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4544184849627831220
+  Id: 11197641419873595383
   Name: "Trigger"
   Transform {
     Location {
@@ -299,8 +359,8 @@ Objects {
       Z: 8.40461636
     }
   }
-  ParentId: 12475393420600375876
-  ChildIds: 2821444388172324994
+  ParentId: 2397206326753792969
+  ChildIds: 6628301519441895236
   WantsNetworking: true
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -330,7 +390,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2821444388172324994
+  Id: 6628301519441895236
   Name: "Teleporting"
   Transform {
     Location {
@@ -343,12 +403,12 @@ Objects {
       Z: 0.187142879
     }
   }
-  ParentId: 4544184849627831220
+  ParentId: 11197641419873595383
   UnregisteredParameters {
     Overrides {
       Name: "cs:Targetlocation"
       ObjectReference {
-        SelfId: 1776438382192454661
+        SelfId: 1759295242684979804
       }
     }
     Overrides {

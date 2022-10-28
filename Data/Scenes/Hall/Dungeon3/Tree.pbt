@@ -1,1358 +1,6 @@
 Name: "Dungeon3"
 RootId: 8469237133150624531
 Objects {
-  Id: 11686420647578171079
-  Name: "NPC Camp - Player Proximity"
-  Transform {
-    Location {
-      X: 36004.4609
-      Y: 3034.55957
-      Z: 4567.87598
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3199644718790969714
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 30.1618061
-            Y: 32.6506195
-            Z: 7.78056765
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1.28125
-            Z: -48.4868164
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 6595767621556427337
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 30.2228012
-            Y: 35.1537895
-            Z: 8.40357399
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -107.046875
-            Z: 28.5834961
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7433820655640328381
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -46.9570312
-            Z: 247.287109
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12286036808450393068
-      value {
-        Overrides {
-          Name: "cs:RespawnCooldown"
-          Float: 5
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -123.390625
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15875901479348693684
-      value {
-        Overrides {
-          Name: "cs:NPC"
-          AssetReference {
-            Id: 3501704382791415843
-          }
-        }
-        Overrides {
-          Name: "cs:NPC2"
-          AssetReference {
-            Id: 3501704382791415843
-          }
-        }
-        Overrides {
-          Name: "cs:NPC3"
-          AssetReference {
-            Id: 3501704382791415843
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 336.082031
-            Y: 36.6298828
-            Z: -233.788086
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16778591679197383915
-      value {
-        Overrides {
-          Name: "cs:Team"
-          Int: 2
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -74.65625
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - Player Proximity"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 36004.4609
-            Y: 3034.55957
-            Z: 4567.87598
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17510640320964350980
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 757301649519885047
-  Name: "NPC Camp - Player Proximity"
-  Transform {
-    Location {
-      X: 36229.6758
-      Y: 3736.37
-      Z: 4664.31055
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3199644718790969714
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 30.1618061
-            Y: 32.6506195
-            Z: 7.78056765
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -94.9360352
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 6595767621556427337
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 30.2228012
-            Y: 35.1537895
-            Z: 8.40357399
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -94.7104492
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7433820655640328381
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -378.867188
-            Z: 233.183105
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12286036808450393068
-      value {
-        Overrides {
-          Name: "cs:RespawnCooldown"
-          Float: 5
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15875901479348693684
-      value {
-        Overrides {
-          Name: "cs:NPC"
-          AssetReference {
-            Id: 3501704382791415843
-          }
-        }
-        Overrides {
-          Name: "cs:NPC2"
-          AssetReference {
-            Id: 4650634806266245036
-          }
-        }
-        Overrides {
-          Name: "cs:NPC3"
-          AssetReference {
-            Id: 9324200356009886433
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 494.40625
-            Z: -301.025879
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16778591679197383915
-      value {
-        Overrides {
-          Name: "cs:Team"
-          Int: 2
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - Player Proximity"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 36229.6758
-            Y: 3736.37
-            Z: 4664.31055
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17510640320964350980
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 1462816111050647776
-  Name: "Kill Block"
-  Transform {
-    Location {
-      X: 34817.5781
-      Y: -747.082031
-      Z: 3092.36255
-    }
-    Rotation {
-    }
-    Scale {
-      X: 350
-      Y: 350
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  WantsNetworking: true
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 7516743524451742948
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Kill Block"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 34817.5781
-            Y: -747.082031
-            Z: 3092.36255
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 350
-            Y: 350
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "Visible"
-          Enum {
-            Value: "mc:evisibilitysetting:forceoff"
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 12737532306152952473
-    }
-  }
-}
-Objects {
-  Id: 17473762513118802646
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 39823.3477
-      Y: -4548.50928
-      Z: 3906.48047
-    }
-    Rotation {
-      Yaw: -40.6544189
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 39823.3477
-            Y: -4548.50928
-            Z: 3906.48047
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -40.6544189
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 5915201018903698047
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 42336.6
-      Y: -4855.90527
-      Z: 3643.35107
-    }
-    Rotation {
-      Yaw: -174.724869
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 42336.6
-            Y: -4855.90527
-            Z: 3643.35107
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -174.724869
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 1707801937983853271
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 42884.6836
-      Y: -5418.11182
-      Z: 3654.56641
-    }
-    Rotation {
-      Yaw: 156.558853
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 42884.6836
-            Y: -5418.11182
-            Z: 3654.56641
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 156.558853
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 13681912559195753235
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 39716.9297
-      Y: -8340.57715
-      Z: 6499.30908
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 39716.9297
-            Y: -8340.57715
-            Z: 6499.30908
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 13256735075349123561
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 40173.1055
-      Y: -8790.61523
-      Z: 6584.35254
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 40173.1055
-            Y: -8790.61523
-            Z: 6584.35254
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 16950573515570902103
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 38364.8555
-      Y: -6175.71631
-      Z: 4294.4043
-    }
-    Rotation {
-      Yaw: 130.996185
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 38364.8555
-            Y: -6175.71631
-            Z: 4294.4043
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 130.996185
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 879176431864027427
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 38311.8398
-      Y: -7611.37207
-      Z: 4288.70947
-    }
-    Rotation {
-      Yaw: 117.847534
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 38311.8398
-            Y: -7611.37207
-            Z: 4288.70947
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 117.847534
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 1117597211772856645
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 37244.9453
-      Y: -6709.27539
-      Z: 4298.60742
-    }
-    Rotation {
-      Yaw: 90.0427094
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 37244.9453
-            Y: -6709.27539
-            Z: 4298.60742
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 90.0427094
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 17010258187658450818
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 36788.8359
-      Y: -6034.99805
-      Z: 4291.17529
-    }
-    Rotation {
-      Yaw: 51.2415771
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 36788.8359
-            Y: -6034.99805
-            Z: 4291.17529
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 51.2416191
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 1562017842950588182
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 43027.6641
-      Y: -3300.98486
-      Z: 6471.61719
-    }
-    Rotation {
-      Yaw: 136.520386
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 43027.6641
-            Y: -3300.98486
-            Z: 6471.61719
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 136.520386
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 12798935648784486356
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 41719.2
-      Y: -2682.91943
-      Z: 6462.89551
-    }
-    Rotation {
-      Yaw: 149.084991
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 41719.2
-            Y: -2682.91943
-            Z: 6462.89551
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 149.08493
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 10498938411729381731
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 39778.6758
-      Y: -2943.77441
-      Z: 6467.30957
-    }
-    Rotation {
-      Yaw: -88.506218
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 39778.6758
-            Y: -2943.77441
-            Z: 6467.30957
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -88.506218
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 12041834733170224957
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 40551.5039
-      Y: -3871.65552
-      Z: 6472.46777
-    }
-    Rotation {
-      Yaw: -98.2602539
-      Roll: -3.41922069
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 40551.5039
-            Y: -3871.65552
-            Z: 6472.46777
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -98.2602539
-            Roll: -3.41922212
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 12791063903316878295
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 39774.2383
-      Y: -4155.87598
-      Z: 6469.63965
-    }
-    Rotation {
-      Yaw: 164.596863
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 39774.2383
-            Y: -4155.87598
-            Z: 6469.63965
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 164.596832
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 17067221136861149870
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 41525.7305
-      Y: -4579.19531
-      Z: 3880.25171
-    }
-    Rotation {
-      Yaw: 144.549423
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 41525.7305
-            Y: -4579.19531
-            Z: 3880.25171
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 144.549423
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 6659024714049999233
-  Name: "NPC Camp - D3"
-  Transform {
-    Location {
-      X: 35575.5547
-      Y: 4843.24805
-      Z: 4664.31055
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - D3"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 35575.5547
-            Y: 4843.24805
-            Z: 4664.31055
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18286669540940465339
-    }
-  }
-}
-Objects {
-  Id: 10286018275072743002
-  Name: "ItemRespawner_2"
-  Transform {
-    Location {
-      X: 43397.5547
-      Y: 8248.23926
-      Z: 4142.66602
-    }
-    Rotation {
-      Yaw: -87.667
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 8469237133150624531
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "BossD3 Respawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 43397.5547
-            Y: 8248.23926
-            Z: 4142.66602
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 4534727601945742160
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -87.667
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 300
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17800793337168911360
-    }
-  }
-}
-Objects {
   Id: 8803606109767971768
   Name: "Audio Trigger Zone 2.0"
   Transform {
@@ -3702,6 +2350,150 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
+  Id: 7455696811743733734
+  Name: "NPC Camp - Player Proximity"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8469237133150624531
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3199644718790969714
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 30.1618061
+            Y: 32.6506195
+            Z: 7.78056765
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 289.503906
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6595767621556427337
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 30.2228012
+            Y: 35.1537895
+            Z: 8.40357399
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 311.432129
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7433820655640328381
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 240.763672
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12286036808450393068
+      value {
+        Overrides {
+          Name: "cs:RespawnCooldown"
+          Float: 5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15875901479348693684
+      value {
+        Overrides {
+          Name: "cs:NPC"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+        Overrides {
+          Name: "cs:NPC2"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+        Overrides {
+          Name: "cs:NPC3"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16778591679197383915
+      value {
+        Overrides {
+          Name: "cs:Team"
+          Int: 2
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17935972594711828497
+      value {
+        Overrides {
+          Name: "Name"
+          String: "NPC Camp - Player Proximity"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 35970.1289
+            Y: 3728.05908
+            Z: 4567.87598
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17510640320964350980
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 4334874237767862735
   Name: "Sky Nighttime 01"
   Transform {
@@ -4033,6 +2825,158 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
+  Id: 16892250912742679219
+  Name: "NPC Camp - Player Proximity"
+  Transform {
+    Location {
+      X: 35970.1289
+      Y: 3728.05908
+      Z: 4567.87598
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8469237133150624531
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3199644718790969714
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 30.1618061
+            Y: 32.6506195
+            Z: 7.78056765
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 289.503906
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6595767621556427337
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 30.2228012
+            Y: 35.1537895
+            Z: 8.40357399
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 311.432129
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7433820655640328381
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1064.29297
+            Z: 247.287109
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12286036808450393068
+      value {
+        Overrides {
+          Name: "cs:RespawnCooldown"
+          Float: 5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15875901479348693684
+      value {
+        Overrides {
+          Name: "cs:NPC"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+        Overrides {
+          Name: "cs:NPC2"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+        Overrides {
+          Name: "cs:NPC3"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16778591679197383915
+      value {
+        Overrides {
+          Name: "cs:Team"
+          Int: 2
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17935972594711828497
+      value {
+        Overrides {
+          Name: "Name"
+          String: "NPC Camp - Player Proximity"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 36004.4609
+            Y: 3728.05908
+            Z: 4567.87598
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17510640320964350980
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 8269880712206765909
   Name: "Healing Zone 2.0"
   Transform {
@@ -4088,7 +3032,7 @@ Objects {
         }
         Overrides {
           Name: "cs:HealthChange"
-          Float: 50
+          Float: -400
         }
         Overrides {
           Name: "Rotation"
@@ -5658,6 +4602,135 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
+  Id: 13173050834590731039
+  Name: "NPC Camp - Player Proximity"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8469237133150624531
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3199644718790969714
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 43.2597504
+            Y: 43.2358398
+            Z: 5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6595767621556427337
+      value {
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 63.9747505
+            Y: 62.1703186
+            Z: 5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7433820655640328381
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 101.652344
+            Y: 586.900391
+            Z: 121.652832
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12286036808450393068
+      value {
+        Overrides {
+          Name: "cs:RespawnCooldown"
+          Float: 30
+        }
+        Overrides {
+          Name: "cs:DespawnDelay"
+          Float: 2
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15875901479348693684
+      value {
+        Overrides {
+          Name: "cs:NPC"
+          AssetReference {
+            Id: 16063043183402051391
+          }
+        }
+        Overrides {
+          Name: "cs:NPC2"
+          AssetReference {
+            Id: 16063043183402051391
+          }
+        }
+        Overrides {
+          Name: "cs:NPC3"
+          AssetReference {
+            Id: 16063043183402051391
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17935972594711828497
+      value {
+        Overrides {
+          Name: "Name"
+          String: "NPC Camp - Player Proximity"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 42927.6406
+            Y: 8642.21
+            Z: 4135.98828
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17510640320964350980
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 6072484339464686549
   Name: "Healing Zone 2.0"
   Transform {
@@ -5689,7 +4762,7 @@ Objects {
         }
         Overrides {
           Name: "cs:HealthChange"
-          Float: 50
+          Float: -400
         }
         Overrides {
           Name: "cs:ChangeRate"
@@ -5712,6 +4785,319 @@ Objects {
     }
     TemplateAsset {
       Id: 13733285254401400859
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 3761963828635250775
+  Name: "NPC Camp - Player Proximity"
+  Transform {
+    Location {
+      X: 36342.7617
+      Y: -6751.32129
+      Z: 4204.60498
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8469237133150624531
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3199644718790969714
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1013.05859
+            Y: 609.404785
+            Z: 150
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 33.308033
+            Y: 46.1727829
+            Z: 5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6595767621556427337
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 626
+            Z: 150
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 30.5258675
+            Y: 56.0428658
+            Z: 5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7433820655640328381
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 347.675781
+            Y: -249.600586
+            Z: 56.1240234
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12286036808450393068
+      value {
+        Overrides {
+          Name: "cs:DespawnDelay"
+          Float: 2
+        }
+        Overrides {
+          Name: "cs:RespawnCooldown"
+          Float: 5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15875901479348693684
+      value {
+        Overrides {
+          Name: "cs:NPC"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+        Overrides {
+          Name: "cs:NPC2"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+        Overrides {
+          Name: "cs:NPC3"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16778591679197383915
+      value {
+        Overrides {
+          Name: "cs:Team"
+          Int: 2
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17935972594711828497
+      value {
+        Overrides {
+          Name: "Name"
+          String: "NPC Camp - Player Proximity"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 37275.5469
+            Y: -7505.89893
+            Z: 4289.75098
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17510640320964350980
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 6596177312746356645
+  Name: "NPC Camp - Player Proximity"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 8469237133150624531
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3199644718790969714
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1013.05859
+            Y: 609.404785
+            Z: 150
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 33.308033
+            Y: 46.1727829
+            Z: 5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 6595767621556427337
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 626
+            Z: 150
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 30.5258675
+            Y: 56.0428658
+            Z: 5
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 7433820655640328381
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 347.675781
+            Y: 374.55127
+            Z: 291.891113
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12286036808450393068
+      value {
+        Overrides {
+          Name: "cs:DespawnDelay"
+          Float: 2
+        }
+        Overrides {
+          Name: "cs:RespawnCooldown"
+          Float: 5
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 15875901479348693684
+      value {
+        Overrides {
+          Name: "cs:NPC"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+        Overrides {
+          Name: "cs:NPC2"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+        Overrides {
+          Name: "cs:NPC3"
+          AssetReference {
+            Id: 2398304169142995571
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16778591679197383915
+      value {
+        Overrides {
+          Name: "cs:Team"
+          Int: 2
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 17935972594711828497
+      value {
+        Overrides {
+          Name: "Name"
+          String: "NPC Camp - Player Proximity"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 36342.7617
+            Y: -6751.32129
+            Z: 4204.60498
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17510640320964350980
     }
   }
   NetworkRelevanceDistance {

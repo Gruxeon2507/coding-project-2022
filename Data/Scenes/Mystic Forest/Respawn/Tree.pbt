@@ -1,7 +1,7 @@
 Name: "Respawn"
-RootId: 16340585931478611522
+RootId: 2649096030690196079
 Objects {
-  Id: 16985907421944996806
+  Id: 11773894072314720125
   Name: "Spawn Settings"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16340585931478611522
+  ParentId: 2649096030690196079
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37,8 +37,6 @@ Objects {
       SpawnMode {
         Value: "mc:espawnmode:random"
       }
-      SpawnKey: "Mystic Spawn"
-      RespawnKey: "Mystic Spawn"
     }
   }
   IsReplicationEnabledByDefault: true

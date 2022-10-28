@@ -1,7 +1,7 @@
 Name: "MonsterSpawn"
-RootId: 2731593311470106731
+RootId: 15302639526177595178
 Objects {
-  Id: 13352636720015353108
+  Id: 6679049405798262581
   Name: "East Island"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2731593311470106731
+  ParentId: 15302639526177595178
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -37,7 +37,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6062306604876569137
+  Id: 11640764296972060319
   Name: "South Island"
   Transform {
     Location {
@@ -50,7 +50,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2731593311470106731
+  ParentId: 15302639526177595178
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -73,7 +73,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2356232175327620503
+  Id: 7615706281826191033
   Name: "North Island"
   Transform {
     Location {
@@ -86,7 +86,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2731593311470106731
+  ParentId: 15302639526177595178
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

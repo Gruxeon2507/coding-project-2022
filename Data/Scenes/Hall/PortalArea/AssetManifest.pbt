@@ -17,15 +17,6 @@ Assets {
   }
 }
 Assets {
-  Id: 18205316927619177531
-  Name: "Decal Military Posters 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_mil_posters_002_ref"
-  }
-}
-Assets {
   Id: 18102622832171630331
   Name: "Wall End Fancy 6m"
   PlatformAssetType: 1
@@ -41,15 +32,6 @@ Assets {
   PrimaryAsset {
     AssetType: "AnimatedMeshAssetRef"
     AssetId: "npc_human_guy_fantasy_001_ref"
-  }
-}
-Assets {
-  Id: 18018580779335498022
-  Name: "Craftsman Part - Wall 01"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_urb_sub_craftsman_part_wall_001"
   }
 }
 Assets {
@@ -386,15 +368,6 @@ Assets {
   }
 }
 Assets {
-  Id: 12294192387583835135
-  Name: "Decal Stains Round 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_stain_round_001"
-  }
-}
-Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
@@ -419,15 +392,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "F5_Text_003"
-  }
-}
-Assets {
-  Id: 11855491363854403465
-  Name: "Pirata One"
-  PlatformAssetType: 28
-  PrimaryAsset {
-    AssetType: "FontAssetRef"
-    AssetId: "PirataOneRegular_ref"
   }
 }
 Assets {
@@ -512,15 +476,6 @@ Assets {
   }
 }
 Assets {
-  Id: 10850769815684373087
-  Name: "Plane 1m - Two Sided"
-  PlatformAssetType: 1
-  PrimaryAsset {
-    AssetType: "StaticMeshAssetRef"
-    AssetId: "sm_plane_1m_002"
-  }
-}
-Assets {
   Id: 10408117657473855830
   Name: "Text 03: S"
   PlatformAssetType: 1
@@ -545,15 +500,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "F6_Text_002"
-  }
-}
-Assets {
-  Id: 10184847056121543272
-  Name: "Basic Material"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_basic_pbr_material_001"
   }
 }
 Assets {
@@ -917,15 +863,6 @@ Assets {
   }
 }
 Assets {
-  Id: 2565198747368244920
-  Name: "Sci-fi Frame 009"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "UI_Scifi_Frame_009"
-  }
-}
-Assets {
   Id: 2386449820373438262
   Name: "Kelp Tile 01"
   PlatformAssetType: 1
@@ -1067,15 +1004,6 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_weap_fan_guard_mace_001"
-  }
-}
-Assets {
-  Id: 196176571301539896
-  Name: "Decal Stains Round 01"
-  PlatformAssetType: 14
-  PrimaryAsset {
-    AssetType: "DecalBlueprintAssetRef"
-    AssetId: "bp_decal_stain_round_001"
   }
 }
 Assets {
