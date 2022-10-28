@@ -1505,7 +1505,7 @@ Assets {
             }
           }
           Text {
-            Label: "WELCOME TO J-TERRA"
+            Label: "Potion on a Carpet"
             Color {
               R: 0.839215755
               G: 0.839215755
@@ -1906,7 +1906,7 @@ Assets {
               B: 1
               A: 1
             }
-            GameId: "df9ec8/imagehall"
+            GameId: "860204/tutorialimagepatch"
             ScreenshotIndex: 1
           }
           AnchorLayout {
@@ -2026,7 +2026,7 @@ Assets {
             }
           }
           Text {
-            Label: "J-Terra is a fantasy rpg game made by THC Team for JS\'s Coding Project 2022"
+            Label: "We offer you this potion to drink! It is very tasty and satisfying."
             Color {
               R: 0.670588255
               G: 0.478431404
@@ -2086,17 +2086,17 @@ Assets {
           Value: "mc:ecollisionsetting:inheritfromparent"
         }
         Control {
-          Width: 525
+          Width: 500
           Height: 100
-          UIX: 250
-          UIY: 150
+          UIX: 270
+          UIY: 200
           RenderTransformPivot {
             Anchor {
               Value: "mc:euianchor:middlecenter"
             }
           }
           Text {
-            Label: "Use your W,A,S,D keys to move and Mouse to look around.\r\nSpace to Jump\r\nShift to Run\r\nF to interact with object in game"
+            Label: "Use your W,A,S,D keys to move and Mouse to look around."
             Color {
               R: 0.590000033
               G: 1
@@ -2838,7 +2838,7 @@ Assets {
             }
           }
           Text {
-            Label: "The Hall"
+            Label: "Green Book of Something"
             Color {
               R: 0.839215755
               G: 0.839215755
@@ -3239,8 +3239,8 @@ Assets {
               B: 1
               A: 1
             }
-            GameId: "df9ec8/imagehall"
-            ScreenshotIndex: 1
+            GameId: "860204/tutorialimagepatch"
+            ScreenshotIndex: 2
           }
           AnchorLayout {
             SelfAnchor {
@@ -3359,7 +3359,7 @@ Assets {
             }
           }
           Text {
-            Label: "You are standing at the hall, where you addventure begin"
+            Label: "The book of Knowledge will lead you to the light! At least that is what it says."
             Color {
               R: 0.670588255
               G: 0.478431404
@@ -3429,7 +3429,7 @@ Assets {
             }
           }
           Text {
-            Label: "In here, you can find shop, store you item to prepare for you journey"
+            Label: "Use your Space key to jump"
             Color {
               R: 0.590000033
               G: 1
@@ -4171,7 +4171,7 @@ Assets {
             }
           }
           Text {
-            Label: "Inventory"
+            Label: "A Throne"
             Color {
               R: 0.839215755
               G: 0.839215755
@@ -4572,8 +4572,8 @@ Assets {
               B: 1
               A: 1
             }
-            GameId: "df9ec8/imagehall"
-            ScreenshotIndex: 2
+            GameId: "860204/tutorialimagepatch"
+            ScreenshotIndex: 4
           }
           AnchorLayout {
             SelfAnchor {
@@ -4692,7 +4692,7 @@ Assets {
             }
           }
           Text {
-            Label: "Extremely useful to store, manage and upgrade your item"
+            Label: "Calm down, it\'s just a chair for now."
             Color {
               R: 0.670588255
               G: 0.478431404
@@ -4762,7 +4762,7 @@ Assets {
             }
           }
           Text {
-            Label: "-Press <I> to open your inventory\r\n-Press <U> to open upgrade window\r\nYou can upgrade your equipment with magical stone when you play"
+            Label: "Use the <F> key to activate interactable objects in the world"
             Color {
               R: 0.590000033
               G: 1
@@ -5504,7 +5504,7 @@ Assets {
             }
           }
           Text {
-            Label: "Portal"
+            Label: "Fleur-de-lis Shield"
             Color {
               R: 0.839215755
               G: 0.839215755
@@ -6025,7 +6025,7 @@ Assets {
             }
           }
           Text {
-            Label: "Portal can be seen around every map, using them to travel between different dimention"
+            Label: "Could not spell it. Confuses the enemy. Blocks most attacks."
             Color {
               R: 0.670588255
               G: 0.478431404
@@ -6095,7 +6095,7 @@ Assets {
             }
           }
           Text {
-            Label: "Stand near them and press <F> to travel\r\n"
+            Label: "Use the <G> key to ride mounts"
             Color {
               R: 0.590000033
               G: 1

@@ -1,7 +1,7 @@
 Name: "PlayerStats"
-RootId: 363098884167294721
+RootId: 2569720051931697232
 Objects {
-  Id: 15247508064769813341
+  Id: 17652187484630557014
   Name: "PlayerStats_Combat"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 363098884167294721
+  ParentId: 2569720051931697232
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -35,7 +35,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17588674961266210844
+  Id: 7715428672347457949
   Name: "Client"
   Transform {
     Location {
@@ -48,8 +48,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 363098884167294721
-  ChildIds: 283036895644177121
+  ParentId: 2569720051931697232
+  ChildIds: 14913204261934831388
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceoff"
   }
@@ -73,7 +73,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 283036895644177121
+  Id: 14913204261934831388
   Name: "PlayerStats_LevelUpFXSpawner"
   Transform {
     Location {
@@ -86,7 +86,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17588674961266210844
+  ParentId: 7715428672347457949
   UnregisteredParameters {
     Overrides {
       Name: "cs:VFX_LocalPlayer"
@@ -121,7 +121,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2555939525985050290
+  Id: 17503563371965544803
   Name: "StatSheetComponentSpawner"
   Transform {
     Location {
@@ -134,7 +134,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 363098884167294721
+  ParentId: 2569720051931697232
   UnregisteredParameters {
     Overrides {
       Name: "cs:ComponentTemplate"
@@ -163,7 +163,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4130254571014061834
+  Id: 12727131995465610205
   Name: "Stats"
   Transform {
     Location {
@@ -176,7 +176,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 363098884167294721
+  ParentId: 2569720051931697232
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

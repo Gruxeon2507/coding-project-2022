@@ -1,7 +1,7 @@
 Name: "North Island"
-RootId: 7615706281826191033
+RootId: 2356232175327620503
 Objects {
-  Id: 11020489418128546409
+  Id: 14058532484690291836
   Name: "ItemRespawner"
   Transform {
     Location {
@@ -18,7 +18,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7615706281826191033
+  ParentId: 2356232175327620503
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -74,7 +74,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4006091434757576995
+  Id: 6613896430173941589
   Name: "ItemRespawner"
   Transform {
     Location {
@@ -91,7 +91,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7615706281826191033
+  ParentId: 2356232175327620503
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -147,7 +147,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17306947478959254805
+  Id: 13963769949905909145
   Name: "ItemRespawner"
   Transform {
     Location {
@@ -164,7 +164,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7615706281826191033
+  ParentId: 2356232175327620503
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -220,7 +220,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12305446239623569970
+  Id: 3535642213899796683
   Name: "ItemRespawner"
   Transform {
     Location {
@@ -237,7 +237,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7615706281826191033
+  ParentId: 2356232175327620503
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -293,7 +293,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1552467908793789135
+  Id: 2583428115598522005
   Name: "ItemRespawner"
   Transform {
     Location {
@@ -310,7 +310,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7615706281826191033
+  ParentId: 2356232175327620503
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -366,7 +366,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1101519104910393803
+  Id: 9153058280423244322
   Name: "ItemRespawner"
   Transform {
     Location {
@@ -383,7 +383,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7615706281826191033
+  ParentId: 2356232175327620503
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

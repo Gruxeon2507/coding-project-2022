@@ -1,7 +1,7 @@
 Name: "Prospecting_Example_Map"
-RootId: 14945639428550747259
+RootId: 4197853975867591020
 Objects {
-  Id: 16452852848584649836
+  Id: 4657248365985176834
   Name: "GI"
   Transform {
     Location {
@@ -14,20 +14,20 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14945639428550747259
-  ChildIds: 10741440543920978809
-  ChildIds: 7845491754293429440
-  ChildIds: 1911092194437815992
-  ChildIds: 8272845451178691942
-  ChildIds: 13214641629418256488
-  ChildIds: 554473227825943944
-  ChildIds: 12168687905378125048
-  ChildIds: 1316677838219010835
-  ChildIds: 5583066456277416594
-  ChildIds: 2181967300721939715
-  ChildIds: 5465864935849630872
-  ChildIds: 14780966434430195135
-  ChildIds: 13894987620335329423
+  ParentId: 4197853975867591020
+  ChildIds: 4725494009119514860
+  ChildIds: 14726803224429620946
+  ChildIds: 1707327901542021811
+  ChildIds: 8169992531085018764
+  ChildIds: 16913235296933800784
+  ChildIds: 13406136415202484493
+  ChildIds: 5302554753708815327
+  ChildIds: 9000778311921590997
+  ChildIds: 2756769109636667515
+  ChildIds: 17965266814797122839
+  ChildIds: 15360870074282023131
+  ChildIds: 12893152628551146575
+  ChildIds: 15827985953107123091
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -43,19 +43,13 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 16452852848584649836
-    SubobjectId: 9941999126676637863
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13894987620335329423
+  Id: 15827985953107123091
   Name: "Area Light"
   Transform {
     Location {
@@ -74,7 +68,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -114,12 +108,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 13894987620335329423
-    SubobjectId: 12500229388223038532
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -129,7 +117,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14780966434430195135
+  Id: 12893152628551146575
   Name: "Area Light"
   Transform {
     Location {
@@ -148,7 +136,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -188,12 +176,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 14780966434430195135
-    SubobjectId: 11569148559761109364
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -203,7 +185,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5465864935849630872
+  Id: 15360870074282023131
   Name: "Area Light"
   Transform {
     Location {
@@ -222,7 +204,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -262,12 +244,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 5465864935849630872
-    SubobjectId: 2771951046425311315
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -277,7 +253,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2181967300721939715
+  Id: 17965266814797122839
   Name: "Area Light"
   Transform {
     Location {
@@ -296,7 +272,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -336,12 +312,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 2181967300721939715
-    SubobjectId: 8352684491896779208
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -351,7 +321,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5583066456277416594
+  Id: 2756769109636667515
   Name: "Area Light"
   Transform {
     Location {
@@ -370,7 +340,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -410,12 +380,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 5583066456277416594
-    SubobjectId: 2366180521739230809
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -425,7 +389,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1316677838219010835
+  Id: 9000778311921590997
   Name: "Area Light"
   Transform {
     Location {
@@ -444,7 +408,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -484,12 +448,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 1316677838219010835
-    SubobjectId: 9216777707240228824
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -499,7 +457,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12168687905378125048
+  Id: 5302554753708815327
   Name: "Area Light"
   Transform {
     Location {
@@ -518,7 +476,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -557,12 +515,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 12168687905378125048
-    SubobjectId: 14227584617430425651
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -572,7 +524,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 554473227825943944
+  Id: 13406136415202484493
   Name: "Area Light"
   Transform {
     Location {
@@ -591,7 +543,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -630,12 +582,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 554473227825943944
-    SubobjectId: 7646188096293237059
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -645,7 +591,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13214641629418256488
+  Id: 16913235296933800784
   Name: "Area Light"
   Transform {
     Location {
@@ -664,7 +610,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -703,12 +649,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 13214641629418256488
-    SubobjectId: 15766683885229251747
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -718,7 +658,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8272845451178691942
+  Id: 8169992531085018764
   Name: "Area Light"
   Transform {
     Location {
@@ -737,7 +677,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -776,12 +716,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 8272845451178691942
-    SubobjectId: 2261467691859650989
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -791,7 +725,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1911092194437815992
+  Id: 1707327901542021811
   Name: "Area Light"
   Transform {
     Location {
@@ -810,7 +744,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -849,12 +783,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 1911092194437815992
-    SubobjectId: 8586330121313172083
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -864,7 +792,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7845491754293429440
+  Id: 14726803224429620946
   Name: "Area Light"
   Transform {
     Location {
@@ -883,7 +811,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -922,12 +850,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 7845491754293429440
-    SubobjectId: 93903617119870987
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -937,7 +859,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10741440543920978809
+  Id: 4725494009119514860
   Name: "Area Light"
   Transform {
     Location {
@@ -954,7 +876,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16452852848584649836
+  ParentId: 4657248365985176834
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -993,12 +915,6 @@ Objects {
     ShadowBias: 0.4
     ShadowSlopeBias: 0.6
   }
-  InstanceHistory {
-    SelfId: 10741440543920978809
-    SubobjectId: 17923225609157484466
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1008,7 +924,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10474728383285118528
+  Id: 8692238261431499167
   Name: "ProspectingSpots"
   Transform {
     Location {
@@ -1022,67 +938,67 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14945639428550747259
-  ChildIds: 13145101352908015356
-  ChildIds: 7452264268062839979
-  ChildIds: 4975168356484489813
-  ChildIds: 13481678233794420579
-  ChildIds: 4161765931605134945
-  ChildIds: 2768045098141572241
-  ChildIds: 2299845906710355142
-  ChildIds: 18283776569334235873
-  ChildIds: 2501653835599930312
-  ChildIds: 5986067328122587601
-  ChildIds: 17590332362425518242
-  ChildIds: 8070856536013603057
-  ChildIds: 11711948654857545122
-  ChildIds: 18144566689883020218
-  ChildIds: 8393250279130870740
-  ChildIds: 9495956020190614456
-  ChildIds: 12650145446403242181
-  ChildIds: 12202103694688182840
-  ChildIds: 1513201288480985462
-  ChildIds: 17669109659095552842
-  ChildIds: 11040556468520690508
-  ChildIds: 463379612338757791
-  ChildIds: 16530372764465186316
-  ChildIds: 5290947318241639867
-  ChildIds: 16409875195531394456
-  ChildIds: 7017144218226655883
-  ChildIds: 13988473103385795746
-  ChildIds: 384724263738220155
-  ChildIds: 18157147814086252220
-  ChildIds: 10685866628781877122
-  ChildIds: 16589087828814280279
-  ChildIds: 10033489794623477532
-  ChildIds: 6556044920016920968
-  ChildIds: 17350116294457442169
-  ChildIds: 2512362700159998124
-  ChildIds: 11916550538434280837
-  ChildIds: 17267219113640314837
-  ChildIds: 2573223454306051504
-  ChildIds: 1748336071359233029
-  ChildIds: 3849924876806145004
-  ChildIds: 2675883650005677933
-  ChildIds: 16670130429191786261
-  ChildIds: 4179829061701611478
-  ChildIds: 3067773538986471046
-  ChildIds: 16040599633786748091
-  ChildIds: 12625888154895208009
-  ChildIds: 17065032297467126459
-  ChildIds: 17304508137502124413
-  ChildIds: 4461879654727584054
-  ChildIds: 9478288059687281791
-  ChildIds: 13124150786898641709
-  ChildIds: 8641202224991497889
-  ChildIds: 5443239050682873820
-  ChildIds: 18357080028653640976
-  ChildIds: 12869727844027090526
-  ChildIds: 4873735123797700052
-  ChildIds: 15172399876966926010
-  ChildIds: 9870769790158925961
-  ChildIds: 5867584261976267491
-  ChildIds: 1785312731509508608
+  ParentId: 4197853975867591020
+  ChildIds: 13054535084405661469
+  ChildIds: 11808799442142328485
+  ChildIds: 1807673358691176098
+  ChildIds: 13365587143225808728
+  ChildIds: 5073030401617953613
+  ChildIds: 5172262201845387796
+  ChildIds: 8070402179467885851
+  ChildIds: 2278882297444647392
+  ChildIds: 706688307525393598
+  ChildIds: 2446507876620725778
+  ChildIds: 10945997648992808251
+  ChildIds: 14550386444146350984
+  ChildIds: 8317066725303204318
+  ChildIds: 12081033054956587325
+  ChildIds: 382876111309179636
+  ChildIds: 8129435909539605581
+  ChildIds: 18304319880355592172
+  ChildIds: 12516044650781287527
+  ChildIds: 6468508760044060192
+  ChildIds: 16046010790675657001
+  ChildIds: 18295257313376332030
+  ChildIds: 2237613396129271344
+  ChildIds: 17133775210437385462
+  ChildIds: 15944359529676598483
+  ChildIds: 10372891199556469123
+  ChildIds: 6526344827917110347
+  ChildIds: 937018914783534782
+  ChildIds: 10968488866040418497
+  ChildIds: 15598867273761321709
+  ChildIds: 7356001450171916139
+  ChildIds: 15292498153261236980
+  ChildIds: 15971553110357319104
+  ChildIds: 11159748076785985004
+  ChildIds: 15953663183691365136
+  ChildIds: 5730283282884959054
+  ChildIds: 331587845355293121
+  ChildIds: 7844278378867148732
+  ChildIds: 5708418115919237482
+  ChildIds: 8336577479432639613
+  ChildIds: 10600417602635594194
+  ChildIds: 2467672180743540296
+  ChildIds: 10596874650377025168
+  ChildIds: 3861017188192236109
+  ChildIds: 10432746251719047354
+  ChildIds: 13032139151756032212
+  ChildIds: 3174536365642128044
+  ChildIds: 416091958315115019
+  ChildIds: 3552439444157111153
+  ChildIds: 4204791876578653142
+  ChildIds: 17265873336656741853
+  ChildIds: 4322372095502592125
+  ChildIds: 6452149777132348402
+  ChildIds: 12205822199348719391
+  ChildIds: 17626575909311159193
+  ChildIds: 8951469140815988596
+  ChildIds: 1675489482802485119
+  ChildIds: 12136647930585845888
+  ChildIds: 4826200437832390339
+  ChildIds: 18117161502666769369
+  ChildIds: 14272136528398840336
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -1098,19 +1014,13 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 10474728383285118528
-    SubobjectId: 18226314046579024523
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1785312731509508608
+  Id: 14272136528398840336
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1127,7 +1037,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1173,12 +1083,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1785312731509508608
-    SubobjectId: 8461104269481488075
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1188,7 +1092,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5867584261976267491
+  Id: 18117161502666769369
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1205,7 +1109,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1251,12 +1155,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5867584261976267491
-    SubobjectId: 4377654097040637480
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1266,7 +1164,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9870769790158925961
+  Id: 4826200437832390339
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1283,7 +1181,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1329,12 +1227,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9870769790158925961
-    SubobjectId: 16524077752546169922
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1344,7 +1236,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15172399876966926010
+  Id: 12136647930585845888
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1361,7 +1253,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1407,12 +1299,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15172399876966926010
-    SubobjectId: 13772681336113078897
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1422,7 +1308,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4873735123797700052
+  Id: 1675489482802485119
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1439,7 +1325,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1485,12 +1371,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4873735123797700052
-    SubobjectId: 3319058078202661151
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1500,7 +1380,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12869727844027090526
+  Id: 8951469140815988596
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1517,7 +1397,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1563,12 +1443,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12869727844027090526
-    SubobjectId: 16084360538227155605
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1578,7 +1452,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18357080028653640976
+  Id: 17626575909311159193
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1595,7 +1469,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1641,12 +1515,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18357080028653640976
-    SubobjectId: 10622908501446769115
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1656,7 +1524,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5443239050682873820
+  Id: 12205822199348719391
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1673,7 +1541,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1719,12 +1587,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5443239050682873820
-    SubobjectId: 2749184698098635543
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1734,7 +1596,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8641202224991497889
+  Id: 6452149777132348402
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1751,7 +1613,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1797,12 +1659,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8641202224991497889
-    SubobjectId: 1893449571938962026
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1812,7 +1668,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13124150786898641709
+  Id: 4322372095502592125
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1829,7 +1685,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1875,12 +1731,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13124150786898641709
-    SubobjectId: 15820877632845031398
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1890,7 +1740,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9478288059687281791
+  Id: 17265873336656741853
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1907,7 +1757,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1953,12 +1803,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9478288059687281791
-    SubobjectId: 17160105723931902132
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -1968,7 +1812,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4461879654727584054
+  Id: 4204791876578653142
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -1985,7 +1829,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2031,12 +1875,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4461879654727584054
-    SubobjectId: 5784471431533555197
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2046,7 +1884,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17304508137502124413
+  Id: 3552439444157111153
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2063,7 +1901,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2109,12 +1947,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17304508137502124413
-    SubobjectId: 11351502694151671222
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2124,7 +1956,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17065032297467126459
+  Id: 416091958315115019
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2141,7 +1973,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2187,12 +2019,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17065032297467126459
-    SubobjectId: 9331029123256010352
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2202,7 +2028,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12625888154895208009
+  Id: 3174536365642128044
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2219,7 +2045,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2265,12 +2091,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12625888154895208009
-    SubobjectId: 14021253308873714306
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2280,7 +2100,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16040599633786748091
+  Id: 13032139151756032212
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2297,7 +2117,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2343,12 +2163,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16040599633786748091
-    SubobjectId: 12913787811470628976
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2358,7 +2172,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3067773538986471046
+  Id: 10432746251719047354
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2375,7 +2189,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2421,12 +2235,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3067773538986471046
-    SubobjectId: 5134031277376588365
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2436,7 +2244,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4179829061701611478
+  Id: 3861017188192236109
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2453,7 +2261,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2499,12 +2307,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4179829061701611478
-    SubobjectId: 6317681232443558685
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2514,7 +2316,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16670130429191786261
+  Id: 10596874650377025168
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2531,7 +2333,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2577,12 +2379,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16670130429191786261
-    SubobjectId: 10013022273768745950
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2592,7 +2388,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2675883650005677933
+  Id: 2467672180743540296
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2609,7 +2405,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2655,12 +2451,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2675883650005677933
-    SubobjectId: 5228665946959926182
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2670,7 +2460,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3849924876806145004
+  Id: 10600417602635594194
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2687,7 +2477,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2733,12 +2523,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3849924876806145004
-    SubobjectId: 6395388266050168615
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2748,7 +2532,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1748336071359233029
+  Id: 8336577479432639613
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2765,7 +2549,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2811,12 +2595,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1748336071359233029
-    SubobjectId: 8497733522461104334
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2826,7 +2604,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2573223454306051504
+  Id: 5708418115919237482
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2843,7 +2621,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2889,12 +2667,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2573223454306051504
-    SubobjectId: 5627451008003785083
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2904,7 +2676,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17267219113640314837
+  Id: 7844278378867148732
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2921,7 +2693,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2967,12 +2739,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17267219113640314837
-    SubobjectId: 9370910782624801566
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -2982,7 +2748,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11916550538434280837
+  Id: 331587845355293121
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -2999,7 +2765,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3045,12 +2811,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11916550538434280837
-    SubobjectId: 14469294203197856078
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3060,7 +2820,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2512362700159998124
+  Id: 5730283282884959054
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3077,7 +2837,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3123,12 +2883,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2512362700159998124
-    SubobjectId: 5724322971277671527
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3138,7 +2892,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17350116294457442169
+  Id: 15953663183691365136
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3155,7 +2909,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3201,12 +2955,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17350116294457442169
-    SubobjectId: 11343066770744105906
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3216,7 +2964,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6556044920016920968
+  Id: 11159748076785985004
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3233,7 +2981,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3279,12 +3027,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6556044920016920968
-    SubobjectId: 3987539343722644803
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3294,7 +3036,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10033489794623477532
+  Id: 15971553110357319104
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3311,7 +3053,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3357,12 +3099,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10033489794623477532
-    SubobjectId: 16614702853665944535
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3372,7 +3108,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16589087828814280279
+  Id: 15292498153261236980
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3389,7 +3125,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3435,12 +3171,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16589087828814280279
-    SubobjectId: 10057965707982557852
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3450,7 +3180,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10685866628781877122
+  Id: 7356001450171916139
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3467,7 +3197,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3513,12 +3243,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10685866628781877122
-    SubobjectId: 18007228509849240393
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3528,7 +3252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18157147814086252220
+  Id: 15598867273761321709
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3545,7 +3269,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3591,12 +3315,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18157147814086252220
-    SubobjectId: 10832969395537998455
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3606,7 +3324,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 384724263738220155
+  Id: 10968488866040418497
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3623,7 +3341,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3669,12 +3387,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 384724263738220155
-    SubobjectId: 7564786597203311280
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3684,7 +3396,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13988473103385795746
+  Id: 937018914783534782
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3701,7 +3413,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3747,12 +3459,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13988473103385795746
-    SubobjectId: 12649590822179567721
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3762,7 +3468,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7017144218226655883
+  Id: 6526344827917110347
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3779,7 +3485,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3825,12 +3531,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7017144218226655883
-    SubobjectId: 922308310192973376
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3840,7 +3540,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16409875195531394456
+  Id: 10372891199556469123
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3856,7 +3556,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3902,12 +3602,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16409875195531394456
-    SubobjectId: 10238585712253540691
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3917,7 +3611,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5290947318241639867
+  Id: 15944359529676598483
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -3936,7 +3630,7 @@ Objects {
       Z: 4.5695529
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3982,12 +3676,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5290947318241639867
-    SubobjectId: 2648236929476090224
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -3997,7 +3685,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16530372764465186316
+  Id: 17133775210437385462
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -4014,7 +3702,7 @@ Objects {
       Z: 1.56529295
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4060,12 +3748,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16530372764465186316
-    SubobjectId: 9856967312729055943
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4075,7 +3757,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 463379612338757791
+  Id: 2237613396129271344
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -4094,7 +3776,7 @@ Objects {
       Z: 4.5695529
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4140,12 +3822,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 463379612338757791
-    SubobjectId: 7765072946229101652
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4155,7 +3831,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11040556468520690508
+  Id: 18295257313376332030
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -4174,7 +3850,7 @@ Objects {
       Z: 4.5695529
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4220,12 +3896,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11040556468520690508
-    SubobjectId: 17625605037570279303
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4235,7 +3905,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17669109659095552842
+  Id: 16046010790675657001
   Name: "Rock 02"
   Transform {
     Location {
@@ -4254,7 +3924,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4291,12 +3961,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17669109659095552842
-    SubobjectId: 10995569722232616833
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4306,7 +3970,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1513201288480985462
+  Id: 6468508760044060192
   Name: "Rock 02"
   Transform {
     Location {
@@ -4325,7 +3989,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4362,12 +4026,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1513201288480985462
-    SubobjectId: 8742240542738740669
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4377,7 +4035,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12202103694688182840
+  Id: 12516044650781287527
   Name: "Rock 02"
   Transform {
     Location {
@@ -4396,7 +4054,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4433,12 +4091,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12202103694688182840
-    SubobjectId: 14194151201426736883
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4448,7 +4100,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12650145446403242181
+  Id: 18304319880355592172
   Name: "Rock 02"
   Transform {
     Location {
@@ -4467,7 +4119,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4504,12 +4156,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12650145446403242181
-    SubobjectId: 13989039968287497230
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4519,7 +4165,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9495956020190614456
+  Id: 8129435909539605581
   Name: "Rock 02"
   Transform {
     Location {
@@ -4538,7 +4184,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4575,12 +4221,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9495956020190614456
-    SubobjectId: 17178202638866904947
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4590,7 +4230,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8393250279130870740
+  Id: 382876111309179636
   Name: "Rock 02"
   Transform {
     Location {
@@ -4609,7 +4249,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4646,12 +4286,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8393250279130870740
-    SubobjectId: 1862103556663564063
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4661,7 +4295,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18144566689883020218
+  Id: 12081033054956587325
   Name: "Rock 02"
   Transform {
     Location {
@@ -4680,7 +4314,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4717,12 +4351,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18144566689883020218
-    SubobjectId: 10836547718533070705
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4732,7 +4360,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11711948654857545122
+  Id: 8317066725303204318
   Name: "Rock 02"
   Transform {
     Location {
@@ -4751,7 +4379,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4788,12 +4416,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11711948654857545122
-    SubobjectId: 14926168068605509993
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4803,7 +4425,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8070856536013603057
+  Id: 14550386444146350984
   Name: "Rock 02"
   Transform {
     Location {
@@ -4822,7 +4444,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4859,12 +4481,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8070856536013603057
-    SubobjectId: 2138124310506398778
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4874,7 +4490,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17590332362425518242
+  Id: 10945997648992808251
   Name: "Rock 02"
   Transform {
     Location {
@@ -4893,7 +4509,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -4930,12 +4546,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17590332362425518242
-    SubobjectId: 11074421781380541545
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -4945,7 +4555,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5986067328122587601
+  Id: 2446507876620725778
   Name: "Rock 02"
   Transform {
     Location {
@@ -4964,7 +4574,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5001,12 +4611,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5986067328122587601
-    SubobjectId: 4521505713334709530
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5016,7 +4620,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2501653835599930312
+  Id: 706688307525393598
   Name: "Rock 02"
   Transform {
     Location {
@@ -5035,7 +4639,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5072,12 +4676,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2501653835599930312
-    SubobjectId: 5700146531312207619
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5087,7 +4685,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18283776569334235873
+  Id: 2278882297444647392
   Name: "Rock 02"
   Transform {
     Location {
@@ -5106,7 +4704,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5143,12 +4741,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18283776569334235873
-    SubobjectId: 10380885181419513386
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5158,7 +4750,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2299845906710355142
+  Id: 8070402179467885851
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -5177,7 +4769,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5223,12 +4815,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2299845906710355142
-    SubobjectId: 8234801491772979213
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5238,7 +4824,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2768045098141572241
+  Id: 5172262201845387796
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -5255,7 +4841,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5301,12 +4887,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2768045098141572241
-    SubobjectId: 5460411828676474970
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5316,7 +4896,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4161765931605134945
+  Id: 5073030401617953613
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -5333,7 +4913,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5379,12 +4959,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4161765931605134945
-    SubobjectId: 6083454805026728618
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5394,7 +4968,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13481678233794420579
+  Id: 13365587143225808728
   Name: "Rock 02"
   Transform {
     Location {
@@ -5413,7 +4987,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5459,12 +5033,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13481678233794420579
-    SubobjectId: 15471517379511057320
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5474,7 +5042,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4975168356484489813
+  Id: 1807673358691176098
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -5492,7 +5060,7 @@ Objects {
       Z: 3.86198
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5538,12 +5106,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4975168356484489813
-    SubobjectId: 2929042608328197790
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5553,7 +5115,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7452264268062839979
+  Id: 11808799442142328485
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -5567,7 +5129,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5613,12 +5175,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7452264268062839979
-    SubobjectId: 776474180691406944
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5628,7 +5184,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13145101352908015356
+  Id: 13054535084405661469
   Name: "Rock 02"
   Transform {
     Location {
@@ -5647,7 +5203,7 @@ Objects {
       Z: 0.730162144
     }
   }
-  ParentId: 10474728383285118528
+  ParentId: 8692238261431499167
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5693,12 +5249,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13145101352908015356
-    SubobjectId: 15835111425773249079
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5708,7 +5258,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13722668890962172352
+  Id: 6091560854759653822
   Name: "ProspectingSpots"
   Transform {
     Location {
@@ -5722,64 +5272,64 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14945639428550747259
-  ChildIds: 1004580604179016974
-  ChildIds: 2426998300535288578
-  ChildIds: 5841228208649260934
-  ChildIds: 4290415062614289368
-  ChildIds: 6851424470574959839
-  ChildIds: 2779398584065016626
-  ChildIds: 9257128029871129092
-  ChildIds: 8951306922966531878
-  ChildIds: 14259003406668868894
-  ChildIds: 7179889112711440635
-  ChildIds: 15259514375441455015
-  ChildIds: 11936011039788610519
-  ChildIds: 1116436426133422695
-  ChildIds: 3809490734652326943
-  ChildIds: 16140808967615331402
-  ChildIds: 15664442243945745294
-  ChildIds: 4953826046606150645
-  ChildIds: 4273903224543278421
-  ChildIds: 18217761217635194093
-  ChildIds: 11243609273575877126
-  ChildIds: 6841676552925255187
-  ChildIds: 6430013465789687908
-  ChildIds: 15534965518534808947
-  ChildIds: 1228257173433687367
-  ChildIds: 10145351968427820554
-  ChildIds: 3818680220576426321
-  ChildIds: 13925572584741945796
-  ChildIds: 7268872258353605229
-  ChildIds: 14720009759182769893
-  ChildIds: 12949819138798200594
-  ChildIds: 5392380865415020374
-  ChildIds: 3573763846386263972
-  ChildIds: 15650672745952525917
-  ChildIds: 9803056962637456924
-  ChildIds: 7075342859312212109
-  ChildIds: 7676850430949672147
-  ChildIds: 3954178581527904774
-  ChildIds: 16260065962479828223
-  ChildIds: 9165891036501734750
-  ChildIds: 2381699407089727113
-  ChildIds: 983175081377919765
-  ChildIds: 4483692329038755509
-  ChildIds: 13677417099197835776
-  ChildIds: 16681539640947530417
-  ChildIds: 16630333121839698577
-  ChildIds: 7998735204496370725
-  ChildIds: 985448415119135419
-  ChildIds: 4770060553754618054
-  ChildIds: 15944018549070601732
-  ChildIds: 15818873519961786637
-  ChildIds: 8006104019124375803
-  ChildIds: 15859363142524536711
-  ChildIds: 12287630416082588199
-  ChildIds: 15164619966766414623
-  ChildIds: 15999543774373290996
-  ChildIds: 2769707722517004899
-  ChildIds: 15507227751513687371
+  ParentId: 4197853975867591020
+  ChildIds: 8989915486664544690
+  ChildIds: 7872632860723627993
+  ChildIds: 17157900294753633236
+  ChildIds: 17457397625572155209
+  ChildIds: 16220354833858508489
+  ChildIds: 6396933695456912912
+  ChildIds: 3739637159046928113
+  ChildIds: 12113399606369872824
+  ChildIds: 17963831128607451409
+  ChildIds: 16121734609511259871
+  ChildIds: 12107319447935040911
+  ChildIds: 15635767648830742710
+  ChildIds: 6489786279298082148
+  ChildIds: 3460556477217007640
+  ChildIds: 2930439028854175406
+  ChildIds: 8097051945609369115
+  ChildIds: 2594701861558788331
+  ChildIds: 14658871037350303832
+  ChildIds: 4002603729638284386
+  ChildIds: 5834201257115127941
+  ChildIds: 9271002378505755382
+  ChildIds: 11346120283200782334
+  ChildIds: 4868108390560110788
+  ChildIds: 15453980463663733526
+  ChildIds: 7776463713910786341
+  ChildIds: 10626236691855418765
+  ChildIds: 17755802210965904119
+  ChildIds: 15512562929647959322
+  ChildIds: 18261210353920948872
+  ChildIds: 4535172693939130775
+  ChildIds: 14016657377797536264
+  ChildIds: 14327380663925871255
+  ChildIds: 10726275558660327
+  ChildIds: 14547791361167605928
+  ChildIds: 16176663343687504732
+  ChildIds: 13039301811396231241
+  ChildIds: 12477230471409077145
+  ChildIds: 16625771795925240953
+  ChildIds: 11395996502561405401
+  ChildIds: 1178580006427147485
+  ChildIds: 15664711652799948790
+  ChildIds: 10815645163054256171
+  ChildIds: 492857794515243334
+  ChildIds: 10321782336340152729
+  ChildIds: 14332016759781277744
+  ChildIds: 14381440305012416749
+  ChildIds: 15509295371959145488
+  ChildIds: 12153946503761134271
+  ChildIds: 10628172908051171555
+  ChildIds: 2485619776420938684
+  ChildIds: 18239170362812970783
+  ChildIds: 3477424849252019270
+  ChildIds: 4793740052232975596
+  ChildIds: 2045839281083540336
+  ChildIds: 10088677171188170219
+  ChildIds: 7624114464623612874
+  ChildIds: 8452282177476163113
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -5795,19 +5345,13 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 13722668890962172352
-    SubobjectId: 15266608313236585739
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15507227751513687371
+  Id: 8452282177476163113
   Name: "Rock 02"
   Transform {
     Location {
@@ -5826,7 +5370,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5863,12 +5407,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15507227751513687371
-    SubobjectId: 13446033815578009984
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5878,7 +5416,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2769707722517004899
+  Id: 7624114464623612874
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -5895,7 +5433,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -5932,12 +5470,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2769707722517004899
-    SubobjectId: 5459118691460261544
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -5947,7 +5479,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15999543774373290996
+  Id: 10088677171188170219
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -5964,7 +5496,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6001,12 +5533,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15999543774373290996
-    SubobjectId: 12944640220173846335
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6016,7 +5542,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15164619966766414623
+  Id: 2045839281083540336
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6035,7 +5561,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6072,12 +5598,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15164619966766414623
-    SubobjectId: 13825725928120983508
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6087,7 +5607,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12287630416082588199
+  Id: 4793740052232975596
   Name: "Rock 02"
   Transform {
     Location {
@@ -6106,7 +5626,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6143,12 +5663,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12287630416082588199
-    SubobjectId: 14351629765130335980
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6158,7 +5672,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15859363142524536711
+  Id: 3477424849252019270
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6175,7 +5689,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6212,12 +5726,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15859363142524536711
-    SubobjectId: 12806710363831558988
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6227,7 +5735,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8006104019124375803
+  Id: 18239170362812970783
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6244,7 +5752,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6281,12 +5789,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8006104019124375803
-    SubobjectId: 195397332166718512
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6296,7 +5798,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15818873519961786637
+  Id: 2485619776420938684
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6315,7 +5817,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6352,12 +5854,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15818873519961786637
-    SubobjectId: 13126506782006488518
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6367,7 +5863,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15944018549070601732
+  Id: 10628172908051171555
   Name: "Rock 02"
   Transform {
     Location {
@@ -6386,7 +5882,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6423,12 +5919,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15944018549070601732
-    SubobjectId: 12747963883523734223
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6438,7 +5928,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4770060553754618054
+  Id: 12153946503761134271
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6455,7 +5945,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6492,12 +5982,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4770060553754618054
-    SubobjectId: 3431739847516277773
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6507,7 +5991,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 985448415119135419
+  Id: 15509295371959145488
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6524,7 +6008,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6561,12 +6045,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 985448415119135419
-    SubobjectId: 6917619074663102064
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6576,7 +6054,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7998735204496370725
+  Id: 14381440305012416749
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6595,7 +6073,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6632,12 +6110,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7998735204496370725
-    SubobjectId: 192637406737697006
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6647,7 +6119,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16630333121839698577
+  Id: 14332016759781277744
   Name: "Rock 02"
   Transform {
     Location {
@@ -6666,7 +6138,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6703,12 +6175,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16630333121839698577
-    SubobjectId: 10045166980208293466
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6718,7 +6184,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16681539640947530417
+  Id: 10321782336340152729
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6735,7 +6201,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6772,12 +6238,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16681539640947530417
-    SubobjectId: 9956876115721141882
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6787,7 +6247,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13677417099197835776
+  Id: 492857794515243334
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6804,7 +6264,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6841,12 +6301,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13677417099197835776
-    SubobjectId: 15015748395156180683
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6856,7 +6310,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4483692329038755509
+  Id: 10815645163054256171
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -6875,7 +6329,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6912,12 +6366,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4483692329038755509
-    SubobjectId: 6022460126350856830
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6927,7 +6375,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 983175081377919765
+  Id: 15664711652799948790
   Name: "Rock 02"
   Transform {
     Location {
@@ -6946,7 +6394,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -6983,12 +6431,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 983175081377919765
-    SubobjectId: 6920244265011156958
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -6998,7 +6440,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2381699407089727113
+  Id: 1178580006427147485
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7015,7 +6457,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7052,12 +6494,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2381699407089727113
-    SubobjectId: 5521460441520280130
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7067,7 +6503,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9165891036501734750
+  Id: 11395996502561405401
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7084,7 +6520,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7121,12 +6557,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9165891036501734750
-    SubobjectId: 1341682004839109013
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7136,7 +6566,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16260065962479828223
+  Id: 16625771795925240953
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7155,7 +6585,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7192,12 +6622,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16260065962479828223
-    SubobjectId: 10090893508314454068
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7207,7 +6631,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3954178581527904774
+  Id: 12477230471409077145
   Name: "Rock 02"
   Transform {
     Location {
@@ -7226,7 +6650,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7263,12 +6687,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3954178581527904774
-    SubobjectId: 6578991051834042061
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7278,7 +6696,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7676850430949672147
+  Id: 13039301811396231241
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7295,7 +6713,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7332,12 +6750,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7676850430949672147
-    SubobjectId: 514803655143596056
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7347,7 +6759,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7075342859312212109
+  Id: 16176663343687504732
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7364,7 +6776,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7401,12 +6813,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7075342859312212109
-    SubobjectId: 1125336001024216134
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7416,7 +6822,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9803056962637456924
+  Id: 14547791361167605928
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7435,7 +6841,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7472,12 +6878,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9803056962637456924
-    SubobjectId: 16547950882257076951
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7487,7 +6887,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15650672745952525917
+  Id: 10726275558660327
   Name: "Rock 02"
   Transform {
     Location {
@@ -7506,7 +6906,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7543,12 +6943,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15650672745952525917
-    SubobjectId: 13015136877743987350
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7558,7 +6952,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3573763846386263972
+  Id: 14327380663925871255
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7575,7 +6969,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7612,12 +7006,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3573763846386263972
-    SubobjectId: 6644457282985509743
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7627,7 +7015,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5392380865415020374
+  Id: 14016657377797536264
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7644,7 +7032,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7681,12 +7069,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5392380865415020374
-    SubobjectId: 2844234454724746141
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7696,7 +7078,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12949819138798200594
+  Id: 4535172693939130775
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7715,7 +7097,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7752,12 +7134,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12949819138798200594
-    SubobjectId: 16004572739016344537
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7767,7 +7143,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14720009759182769893
+  Id: 18261210353920948872
   Name: "Rock 02"
   Transform {
     Location {
@@ -7786,7 +7162,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7823,12 +7199,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14720009759182769893
-    SubobjectId: 11667330317860481582
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7838,7 +7208,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7268872258353605229
+  Id: 15512562929647959322
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7855,7 +7225,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7892,12 +7262,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7268872258353605229
-    SubobjectId: 670312006829264550
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7907,7 +7271,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13925572584741945796
+  Id: 17755802210965904119
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7924,7 +7288,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -7961,12 +7325,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13925572584741945796
-    SubobjectId: 12460553644482307343
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -7976,7 +7334,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3818680220576426321
+  Id: 10626236691855418765
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -7995,7 +7353,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8032,12 +7390,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3818680220576426321
-    SubobjectId: 6436761610624421274
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8047,7 +7399,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10145351968427820554
+  Id: 7776463713910786341
   Name: "Rock 02"
   Transform {
     Location {
@@ -8066,7 +7418,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8103,12 +7455,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10145351968427820554
-    SubobjectId: 16241900164998243009
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8118,7 +7464,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1228257173433687367
+  Id: 15453980463663733526
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -8135,7 +7481,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8172,12 +7518,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1228257173433687367
-    SubobjectId: 8982131064746047884
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8187,7 +7527,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15534965518534808947
+  Id: 4868108390560110788
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -8204,7 +7544,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8241,12 +7581,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15534965518534808947
-    SubobjectId: 13419070121521115576
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8256,7 +7590,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6430013465789687908
+  Id: 11346120283200782334
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -8275,7 +7609,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8312,12 +7646,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6430013465789687908
-    SubobjectId: 3789403966173351087
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8327,7 +7655,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6841676552925255187
+  Id: 9271002378505755382
   Name: "Rock 02"
   Transform {
     Location {
@@ -8346,7 +7674,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8383,12 +7711,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6841676552925255187
-    SubobjectId: 3701907672159613656
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8398,7 +7720,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11243609273575877126
+  Id: 5834201257115127941
   Name: "Rock 02"
   Transform {
     Location {
@@ -8417,7 +7739,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8454,12 +7776,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11243609273575877126
-    SubobjectId: 17412049658655559373
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8469,7 +7785,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18217761217635194093
+  Id: 4002603729638284386
   Name: "Rock 02"
   Transform {
     Location {
@@ -8488,7 +7804,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8525,12 +7841,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18217761217635194093
-    SubobjectId: 10484143225318666278
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8540,7 +7850,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4273903224543278421
+  Id: 14658871037350303832
   Name: "Rock 02"
   Transform {
     Location {
@@ -8559,7 +7869,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8596,12 +7906,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4273903224543278421
-    SubobjectId: 6260744208683569566
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8611,7 +7915,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4953826046606150645
+  Id: 2594701861558788331
   Name: "Rock 02"
   Transform {
     Location {
@@ -8630,7 +7934,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8667,12 +7971,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4953826046606150645
-    SubobjectId: 2959660398299508542
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8682,7 +7980,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15664442243945745294
+  Id: 8097051945609369115
   Name: "Rock 02"
   Transform {
     Location {
@@ -8701,7 +7999,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8738,12 +8036,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15664442243945745294
-    SubobjectId: 13028371402106154821
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8753,7 +8045,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16140808967615331402
+  Id: 2930439028854175406
   Name: "Rock 02"
   Transform {
     Location {
@@ -8772,7 +8064,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8809,12 +8101,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16140808967615331402
-    SubobjectId: 12849607309017602177
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8824,7 +8110,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3809490734652326943
+  Id: 3460556477217007640
   Name: "Rock 02"
   Transform {
     Location {
@@ -8843,7 +8129,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8880,12 +8166,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3809490734652326943
-    SubobjectId: 6445586041645523156
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8895,7 +8175,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1116436426133422695
+  Id: 6489786279298082148
   Name: "Rock 02"
   Transform {
     Location {
@@ -8914,7 +8194,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -8951,12 +8231,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1116436426133422695
-    SubobjectId: 7121093687414236844
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -8966,7 +8240,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11936011039788610519
+  Id: 15635767648830742710
   Name: "Rock 02"
   Transform {
     Location {
@@ -8985,7 +8259,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9022,12 +8296,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11936011039788610519
-    SubobjectId: 14413892878656526108
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9037,7 +8305,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15259514375441455015
+  Id: 12107319447935040911
   Name: "Rock 02"
   Transform {
     Location {
@@ -9056,7 +8324,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9093,12 +8361,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15259514375441455015
-    SubobjectId: 13720773169877414764
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9108,7 +8370,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7179889112711440635
+  Id: 16121734609511259871
   Name: "Rock 02"
   Transform {
     Location {
@@ -9127,7 +8389,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9164,12 +8426,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7179889112711440635
-    SubobjectId: 1011413129931476016
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9179,7 +8435,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14259003406668868894
+  Id: 17963831128607451409
   Name: "Rock 02"
   Transform {
     Location {
@@ -9198,7 +8454,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9235,12 +8491,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14259003406668868894
-    SubobjectId: 12128050810520226261
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9250,7 +8500,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8951306922966531878
+  Id: 12113399606369872824
   Name: "Rock 02"
   Transform {
     Location {
@@ -9269,7 +8519,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9306,12 +8556,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8951306922966531878
-    SubobjectId: 1266703095741373421
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9321,7 +8565,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9257128029871129092
+  Id: 3739637159046928113
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -9340,7 +8584,7 @@ Objects {
       Z: 1.68903542
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9377,12 +8621,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9257128029871129092
-    SubobjectId: 17139214865708132047
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9392,7 +8630,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2779398584065016626
+  Id: 6396933695456912912
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -9409,7 +8647,7 @@ Objects {
       Z: 1.69816899
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9446,12 +8684,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2779398584065016626
-    SubobjectId: 5422120303558666233
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9461,7 +8693,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6851424470574959839
+  Id: 16220354833858508489
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -9478,7 +8710,7 @@ Objects {
       Z: 1.05707502
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9515,12 +8747,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6851424470574959839
-    SubobjectId: 3654798332216043540
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9530,7 +8756,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4290415062614289368
+  Id: 17457397625572155209
   Name: "Rock 02"
   Transform {
     Location {
@@ -9549,7 +8775,7 @@ Objects {
       Z: 0.730154335
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9586,12 +8812,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4290415062614289368
-    SubobjectId: 6208150779455033107
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9601,7 +8821,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5841228208649260934
+  Id: 17157900294753633236
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -9616,7 +8836,7 @@ Objects {
       Z: 0.619663596
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9653,12 +8873,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5841228208649260934
-    SubobjectId: 4376764239480662861
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9668,7 +8882,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2426998300535288578
+  Id: 7872632860723627993
   Name: "Rock Pile 002"
   Transform {
     Location {
@@ -9682,7 +8896,7 @@ Objects {
       Z: 0.363875121
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9719,12 +8933,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2426998300535288578
-    SubobjectId: 5477287409475819465
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9734,7 +8942,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1004580604179016974
+  Id: 8989915486664544690
   Name: "Rock 02"
   Transform {
     Location {
@@ -9753,7 +8961,7 @@ Objects {
       Z: 0.730162144
     }
   }
-  ParentId: 13722668890962172352
+  ParentId: 6091560854759653822
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -9790,12 +8998,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1004580604179016974
-    SubobjectId: 6943892318037543365
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9805,7 +9007,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3250472637038325160
+  Id: 3119362868788014686
   Name: "Geo"
   Transform {
     Location {
@@ -9818,87 +9020,87 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14945639428550747259
-  ChildIds: 11179474693392040
-  ChildIds: 2543741666679804318
-  ChildIds: 8233041570446368347
-  ChildIds: 10465267650789126608
-  ChildIds: 2311329633011863332
-  ChildIds: 10301549919390772093
-  ChildIds: 1450202721558122197
-  ChildIds: 16632812210230433103
-  ChildIds: 1374789562009800024
-  ChildIds: 5948238479925950808
-  ChildIds: 14823790723973920941
-  ChildIds: 6278157904350464243
-  ChildIds: 12720708893464869602
-  ChildIds: 14335206395497048001
-  ChildIds: 5097972135856482819
-  ChildIds: 6815979561793554876
-  ChildIds: 6931508520493821895
-  ChildIds: 1867605342319681280
-  ChildIds: 4867476610793971574
-  ChildIds: 9171200687298748556
-  ChildIds: 3005402234789764444
-  ChildIds: 174773984511220517
-  ChildIds: 9951140295631932230
-  ChildIds: 15513186747153076946
-  ChildIds: 13071853751822799008
-  ChildIds: 10881422872839638876
-  ChildIds: 6813688953188669310
-  ChildIds: 14005095887417164452
-  ChildIds: 15467203875762739406
-  ChildIds: 6845386020876511064
-  ChildIds: 15853348121465669081
-  ChildIds: 7781461695362410477
-  ChildIds: 16447306699538035077
-  ChildIds: 13482710805531749330
-  ChildIds: 6559931479497224617
-  ChildIds: 10123506314623908173
-  ChildIds: 9667016665799797740
-  ChildIds: 6027485161021961526
-  ChildIds: 1968110418177894510
-  ChildIds: 10160573319364673500
-  ChildIds: 17649980268179103741
-  ChildIds: 13562388989192927882
-  ChildIds: 9023704851669164722
-  ChildIds: 7751346171622974296
-  ChildIds: 3292186532336321836
-  ChildIds: 11487581140714137436
-  ChildIds: 11736589199763780681
-  ChildIds: 5718624072700439288
-  ChildIds: 767595823850409303
-  ChildIds: 4657082952082167429
-  ChildIds: 238349303690871803
-  ChildIds: 431934837433772787
-  ChildIds: 16784410379166288437
-  ChildIds: 8063990641927527723
-  ChildIds: 10654641905325656362
-  ChildIds: 18173581352847314478
-  ChildIds: 9797863485499396144
-  ChildIds: 4429797558640006563
-  ChildIds: 4799577708644721451
-  ChildIds: 6764935271073254394
-  ChildIds: 6822824421166875462
-  ChildIds: 6931271289798470606
-  ChildIds: 17713395670556212924
-  ChildIds: 8985727883749587618
-  ChildIds: 12378927735262839401
-  ChildIds: 16860100681649996150
-  ChildIds: 7221863221639609566
-  ChildIds: 18084793410734646127
-  ChildIds: 3263581910834131608
-  ChildIds: 125945470918698889
-  ChildIds: 4578746406916431506
-  ChildIds: 409216394934057717
-  ChildIds: 8336423415702845009
-  ChildIds: 6463594832485865167
-  ChildIds: 13623050479469920061
-  ChildIds: 16449613767732526909
-  ChildIds: 4265902776951687413
-  ChildIds: 14972451673756010867
-  ChildIds: 14469407849638754617
-  ChildIds: 17020250498422572307
+  ParentId: 4197853975867591020
+  ChildIds: 3985713828619367842
+  ChildIds: 4437042733311713015
+  ChildIds: 14588922373344399440
+  ChildIds: 9535382220029104650
+  ChildIds: 4655455436988575467
+  ChildIds: 7375303728344371233
+  ChildIds: 7001636306449740990
+  ChildIds: 1096638170135027429
+  ChildIds: 11176365599582314721
+  ChildIds: 11216635762273077448
+  ChildIds: 6481926381677652009
+  ChildIds: 432552300654042077
+  ChildIds: 13044815931585660639
+  ChildIds: 12941940143394535845
+  ChildIds: 11052283897968379532
+  ChildIds: 18325610653893333817
+  ChildIds: 18055605053540720260
+  ChildIds: 9964261222823109745
+  ChildIds: 9670280019462354893
+  ChildIds: 13156240876214898802
+  ChildIds: 9558729571710738160
+  ChildIds: 12328165943172797806
+  ChildIds: 5151274137161085858
+  ChildIds: 9554781151869233249
+  ChildIds: 17026651099695869205
+  ChildIds: 1477683797838022737
+  ChildIds: 10413569046895577214
+  ChildIds: 1033317627460321781
+  ChildIds: 1522833161173516235
+  ChildIds: 10000053605811189494
+  ChildIds: 16279527088948834354
+  ChildIds: 2236156101787281915
+  ChildIds: 8718697755094844097
+  ChildIds: 17151957939098171174
+  ChildIds: 12141244794118034127
+  ChildIds: 8325852615851969304
+  ChildIds: 3055227556659241217
+  ChildIds: 9024172771384196421
+  ChildIds: 5709660439927949868
+  ChildIds: 17738363769926510137
+  ChildIds: 2339206868945848966
+  ChildIds: 12399473608843763206
+  ChildIds: 14232529849278396618
+  ChildIds: 3175910883760220604
+  ChildIds: 1746651626271431423
+  ChildIds: 10639174248387228835
+  ChildIds: 10265008816811878524
+  ChildIds: 17128809253483932790
+  ChildIds: 13672463536962183837
+  ChildIds: 9570307765102636680
+  ChildIds: 5808967434616649094
+  ChildIds: 13686694401506986208
+  ChildIds: 6209727222933548345
+  ChildIds: 18083281980110426675
+  ChildIds: 12927455384778203891
+  ChildIds: 6881627607584763701
+  ChildIds: 2048544545802043333
+  ChildIds: 762974313464381049
+  ChildIds: 4665912242041923945
+  ChildIds: 10921283151790382288
+  ChildIds: 13741330686511232249
+  ChildIds: 17489764740748994729
+  ChildIds: 5399557899292801167
+  ChildIds: 12796433434634400702
+  ChildIds: 10739631067294350027
+  ChildIds: 17488867187326641023
+  ChildIds: 6825294911537537630
+  ChildIds: 7040442542133593162
+  ChildIds: 5495564698527600202
+  ChildIds: 16087764036205742083
+  ChildIds: 7006686947024253982
+  ChildIds: 14642200201444354565
+  ChildIds: 13535569811168765324
+  ChildIds: 1883402123450283990
+  ChildIds: 11890413651187503904
+  ChildIds: 15685646575095676220
+  ChildIds: 5772644659445463514
+  ChildIds: 12688572521514927596
+  ChildIds: 4337710719723814193
+  ChildIds: 12049304130893968679
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -9914,19 +9116,13 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 3250472637038325160
-    SubobjectId: 4663101781430798691
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17020250498422572307
+  Id: 12049304130893968679
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -9945,7 +9141,7 @@ Objects {
       Z: 8.81784439
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -9982,12 +9178,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17020250498422572307
-    SubobjectId: 9338572679416111576
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -9997,7 +9187,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14469407849638754617
+  Id: 4337710719723814193
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10016,7 +9206,7 @@ Objects {
       Z: 8.81784439
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:color"
@@ -10053,12 +9243,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14469407849638754617
-    SubobjectId: 11916801964095053298
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10068,7 +9252,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14972451673756010867
+  Id: 12688572521514927596
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10087,7 +9271,7 @@ Objects {
       Z: 15.8298311
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10116,12 +9300,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14972451673756010867
-    SubobjectId: 11701900499229437368
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10131,7 +9309,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4265902776951687413
+  Id: 5772644659445463514
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10150,7 +9328,7 @@ Objects {
       Z: 13.0377769
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10179,12 +9357,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4265902776951687413
-    SubobjectId: 6241657031592881214
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10194,7 +9366,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16449613767732526909
+  Id: 15685646575095676220
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10213,7 +9385,7 @@ Objects {
       Z: 7.50000525
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10242,12 +9414,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16449613767732526909
-    SubobjectId: 9936508029085490166
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10257,7 +9423,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13623050479469920061
+  Id: 11890413651187503904
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10276,7 +9442,7 @@ Objects {
       Z: 20.894434
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10305,12 +9471,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13623050479469920061
-    SubobjectId: 15034029043242736630
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10320,7 +9480,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6463594832485865167
+  Id: 1883402123450283990
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10339,7 +9499,7 @@ Objects {
       Z: 9.958498
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10368,12 +9528,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6463594832485865167
-    SubobjectId: 3755466319323574788
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10383,7 +9537,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8336423415702845009
+  Id: 13535569811168765324
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10402,7 +9556,7 @@ Objects {
       Z: 9.958498
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10431,12 +9585,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8336423415702845009
-    SubobjectId: 2170094094591726234
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10446,7 +9594,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 409216394934057717
+  Id: 14642200201444354565
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10465,7 +9613,7 @@ Objects {
       Z: 10.7094984
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10494,12 +9642,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 409216394934057717
-    SubobjectId: 7494132569674882622
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10509,7 +9651,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4578746406916431506
+  Id: 7006686947024253982
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10528,7 +9670,7 @@ Objects {
       Z: 8.81784344
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10557,12 +9699,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4578746406916431506
-    SubobjectId: 5919889765661866585
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10572,7 +9708,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 125945470918698889
+  Id: 16087764036205742083
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10591,7 +9727,7 @@ Objects {
       Z: 6.86148357
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -10620,12 +9756,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 125945470918698889
-    SubobjectId: 7787329880773542722
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10635,7 +9765,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3263581910834131608
+  Id: 5495564698527600202
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10654,7 +9784,7 @@ Objects {
       Z: 10.2179327
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10700,12 +9830,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3263581910834131608
-    SubobjectId: 4676926149032400467
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10715,7 +9839,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18084793410734646127
+  Id: 7040442542133593162
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -10734,7 +9858,7 @@ Objects {
       Z: 12.9881172
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10780,12 +9904,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18084793410734646127
-    SubobjectId: 10905257810993252260
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10795,20 +9913,22 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7221863221639609566
+  Id: 6825294911537537630
   Name: "Cube"
   Transform {
     Location {
+      X: 0.000837053638
+      Y: 344.206482
     }
     Rotation {
     }
     Scale {
       X: 170.627502
-      Y: 42.2168083
+      Y: 49.1009521
       Z: 0.265629888
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -10845,12 +9965,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7221863221639609566
-    SubobjectId: 690286247057168405
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10860,7 +9974,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16860100681649996150
+  Id: 17488867187326641023
   Name: "Tree Sakura Hero 01"
   Transform {
     Location {
@@ -10879,7 +9993,7 @@ Objects {
       Z: 1.31231475
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -10922,12 +10036,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16860100681649996150
-    SubobjectId: 9535890370193696189
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -10937,7 +10045,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12378927735262839401
+  Id: 10739631067294350027
   Name: "Tree Sakura Hero 01"
   Transform {
     Location {
@@ -10956,7 +10064,7 @@ Objects {
       Z: 1.31231475
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -10999,12 +10107,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12378927735262839401
-    SubobjectId: 14296567929950824098
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11014,7 +10116,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8985727883749587618
+  Id: 12796433434634400702
   Name: "Tree Sakura Hero 02"
   Transform {
     Location {
@@ -11033,7 +10135,7 @@ Objects {
       Z: 1.09914291
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -11076,12 +10178,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8985727883749587618
-    SubobjectId: 1233671973608889961
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11091,7 +10187,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17713395670556212924
+  Id: 5399557899292801167
   Name: "Tree Sakura Hero 02"
   Transform {
     Location {
@@ -11109,7 +10205,7 @@ Objects {
       Z: 1.09914291
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -11152,12 +10248,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17713395670556212924
-    SubobjectId: 10988724242049571447
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11167,7 +10257,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6931271289798470606
+  Id: 17489764740748994729
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11186,7 +10276,7 @@ Objects {
       Z: 8.17668056
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11215,12 +10305,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6931271289798470606
-    SubobjectId: 981089255334498053
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11230,7 +10314,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6822824421166875462
+  Id: 13741330686511232249
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11246,7 +10330,7 @@ Objects {
       Z: 9.9276228
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11275,12 +10359,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6822824421166875462
-    SubobjectId: 3675745784737064845
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11290,7 +10368,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6764935271073254394
+  Id: 10921283151790382288
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11309,7 +10387,7 @@ Objects {
       Z: 5.22009563
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11338,12 +10416,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6764935271073254394
-    SubobjectId: 3480355829875633969
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11353,7 +10425,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4799577708644721451
+  Id: 4665912242041923945
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11372,7 +10444,7 @@ Objects {
       Z: 8.81784344
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -11401,12 +10473,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4799577708644721451
-    SubobjectId: 3402139142493145056
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11416,7 +10482,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4429797558640006563
+  Id: 762974313464381049
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11435,7 +10501,7 @@ Objects {
       Z: 6.38592815
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11472,12 +10538,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4429797558640006563
-    SubobjectId: 5824447969432580456
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11487,7 +10547,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9797863485499396144
+  Id: 2048544545802043333
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11506,7 +10566,7 @@ Objects {
       Z: 6.38592815
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11543,12 +10603,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9797863485499396144
-    SubobjectId: 16885214450285622523
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11558,7 +10612,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18173581352847314478
+  Id: 6881627607584763701
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11577,7 +10631,7 @@ Objects {
       Z: 6.38592815
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11614,12 +10668,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 18173581352847314478
-    SubobjectId: 10491366274805263077
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11629,7 +10677,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10654641905325656362
+  Id: 12927455384778203891
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11648,7 +10696,7 @@ Objects {
       Z: 6.38592815
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11685,12 +10733,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10654641905325656362
-    SubobjectId: 18334630883527110113
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11700,7 +10742,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8063990641927527723
+  Id: 18083281980110426675
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11719,7 +10761,7 @@ Objects {
       Z: 6.38592815
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11756,12 +10798,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8063990641927527723
-    SubobjectId: 163353596015770080
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11771,7 +10807,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16784410379166288437
+  Id: 6209727222933548345
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11790,7 +10826,7 @@ Objects {
       Z: 6.38592815
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11827,12 +10863,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16784410379166288437
-    SubobjectId: 9602626267445817086
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11842,7 +10872,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 431934837433772787
+  Id: 13686694401506986208
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11861,7 +10891,7 @@ Objects {
       Z: 6.38592815
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11898,12 +10928,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 431934837433772787
-    SubobjectId: 7517597992249740856
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11913,7 +10937,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 238349303690871803
+  Id: 5808967434616649094
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -11932,7 +10956,7 @@ Objects {
       Z: 6.38592815
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -11969,12 +10993,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 238349303690871803
-    SubobjectId: 7990402326467946288
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -11984,7 +11002,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4657082952082167429
+  Id: 9570307765102636680
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12003,7 +11021,7 @@ Objects {
       Z: 6.38592148
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12040,12 +11058,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4657082952082167429
-    SubobjectId: 3246002125708587598
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12055,7 +11067,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 767595823850409303
+  Id: 13672463536962183837
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12074,7 +11086,7 @@ Objects {
       Z: 6.38591909
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12111,12 +11123,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 767595823850409303
-    SubobjectId: 7424845534311623068
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12126,7 +11132,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5718624072700439288
+  Id: 17128809253483932790
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12145,7 +11151,7 @@ Objects {
       Z: 2.54687548
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12174,12 +11180,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5718624072700439288
-    SubobjectId: 2518066014213230131
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12189,7 +11189,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11736589199763780681
+  Id: 10265008816811878524
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12208,7 +11208,7 @@ Objects {
       Z: 2.54687643
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12237,12 +11237,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11736589199763780681
-    SubobjectId: 14937850938717393026
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12252,7 +11246,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11487581140714137436
+  Id: 10639174248387228835
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12271,7 +11265,7 @@ Objects {
       Z: 2.546875
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12300,12 +11294,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11487581140714137436
-    SubobjectId: 17492337016096506775
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12315,7 +11303,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3292186532336321836
+  Id: 1746651626271431423
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12334,7 +11322,7 @@ Objects {
       Z: 2.54687643
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12363,12 +11351,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3292186532336321836
-    SubobjectId: 4619962919316890087
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12378,7 +11360,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7751346171622974296
+  Id: 3175910883760220604
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12397,7 +11379,7 @@ Objects {
       Z: 7.40743256
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12426,12 +11408,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7751346171622974296
-    SubobjectId: 450084806224283539
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12441,7 +11417,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9023704851669164722
+  Id: 14232529849278396618
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12460,7 +11436,7 @@ Objects {
       Z: 10.8677893
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12506,12 +11482,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9023704851669164722
-    SubobjectId: 1195694953763882617
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12521,7 +11491,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13562388989192927882
+  Id: 12399473608843763206
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12540,7 +11510,7 @@ Objects {
       Z: 8.42375
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12586,12 +11556,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13562388989192927882
-    SubobjectId: 15103416274860121665
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12601,7 +11565,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17649980268179103741
+  Id: 2339206868945848966
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12620,7 +11584,7 @@ Objects {
       Z: 8.42375
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12666,12 +11630,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 17649980268179103741
-    SubobjectId: 11050714677223848758
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12681,7 +11639,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10160573319364673500
+  Id: 17738363769926510137
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12700,7 +11658,7 @@ Objects {
       Z: 8.42375
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12746,12 +11704,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10160573319364673500
-    SubobjectId: 16189541674960919319
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12761,7 +11713,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1968110418177894510
+  Id: 5709660439927949868
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12780,7 +11732,7 @@ Objects {
       Z: 8.42375
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -12826,12 +11778,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1968110418177894510
-    SubobjectId: 8574136834724613285
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12841,7 +11787,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6027485161021961526
+  Id: 9024172771384196421
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12860,7 +11806,7 @@ Objects {
       Z: 12.0869713
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12889,12 +11835,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6027485161021961526
-    SubobjectId: 4470025115672875517
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12904,7 +11844,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9667016665799797740
+  Id: 3055227556659241217
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12923,7 +11863,7 @@ Objects {
       Z: 12.0869713
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -12952,12 +11892,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9667016665799797740
-    SubobjectId: 16971095608093855527
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -12967,7 +11901,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10123506314623908173
+  Id: 8325852615851969304
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -12984,7 +11918,7 @@ Objects {
       Z: 12.795845
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13013,12 +11947,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10123506314623908173
-    SubobjectId: 16271715057622293894
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13028,7 +11956,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6559931479497224617
+  Id: 12141244794118034127
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13047,7 +11975,7 @@ Objects {
       Z: 12.795845
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13076,12 +12004,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6559931479497224617
-    SubobjectId: 3937512860710786402
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13091,7 +12013,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13482710805531749330
+  Id: 17151957939098171174
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13107,7 +12029,7 @@ Objects {
       Z: 9.9276228
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13136,12 +12058,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13482710805531749330
-    SubobjectId: 15470256088148676377
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13151,7 +12067,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16447306699538035077
+  Id: 8718697755094844097
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13170,7 +12086,7 @@ Objects {
       Z: 8.81784344
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13199,12 +12115,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16447306699538035077
-    SubobjectId: 9938819529838335310
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13214,7 +12124,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7781461695362410477
+  Id: 2236156101787281915
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13231,7 +12141,7 @@ Objects {
       Z: 8.81784344
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13260,12 +12170,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 7781461695362410477
-    SubobjectId: 454894170080133926
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13275,7 +12179,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15853348121465669081
+  Id: 16279527088948834354
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13294,7 +12198,7 @@ Objects {
       Z: 9.85312271
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13323,12 +12227,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15853348121465669081
-    SubobjectId: 12803520324829585682
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13338,7 +12236,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6845386020876511064
+  Id: 10000053605811189494
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13357,7 +12255,7 @@ Objects {
       Z: 8.81784344
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13386,12 +12284,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6845386020876511064
-    SubobjectId: 3698272953832801171
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13401,7 +12293,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15467203875762739406
+  Id: 1522833161173516235
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13417,7 +12309,7 @@ Objects {
       Z: 3.74677563
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13446,12 +12338,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15467203875762739406
-    SubobjectId: 13478110403968203781
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13461,7 +12347,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14005095887417164452
+  Id: 1033317627460321781
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13478,7 +12364,7 @@ Objects {
       Z: 12.795845
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13507,12 +12393,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14005095887417164452
-    SubobjectId: 12677999606327387759
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13522,7 +12402,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6813688953188669310
+  Id: 10413569046895577214
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13541,7 +12421,7 @@ Objects {
       Z: 12.795845
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13570,12 +12450,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6813688953188669310
-    SubobjectId: 3684582185420403637
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13585,7 +12459,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10881422872839638876
+  Id: 1477683797838022737
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13601,7 +12475,7 @@ Objects {
       Z: 7.69549
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13630,12 +12504,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10881422872839638876
-    SubobjectId: 18063869429544758167
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13645,7 +12513,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13071853751822799008
+  Id: 17026651099695869205
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13663,7 +12531,7 @@ Objects {
       Z: 8.81784344
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13692,12 +12560,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 13071853751822799008
-    SubobjectId: 15620128668001907819
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13707,7 +12569,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15513186747153076946
+  Id: 9554781151869233249
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13723,7 +12585,7 @@ Objects {
       Z: 8.81784344
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13752,12 +12614,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 15513186747153076946
-    SubobjectId: 13467096447501219353
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13767,7 +12623,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9951140295631932230
+  Id: 5151274137161085858
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13786,7 +12642,7 @@ Objects {
       Z: 13.2836409
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13815,12 +12671,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9951140295631932230
-    SubobjectId: 16696207872028110733
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13830,7 +12680,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 174773984511220517
+  Id: 12328165943172797806
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13849,7 +12699,7 @@ Objects {
       Z: 7.14994097
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13878,12 +12728,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 174773984511220517
-    SubobjectId: 8052922093142163438
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13893,7 +12737,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3005402234789764444
+  Id: 9558729571710738160
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -13909,7 +12753,7 @@ Objects {
       Z: 3.74677563
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -13938,12 +12782,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 3005402234789764444
-    SubobjectId: 4906672419754244503
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -13953,7 +12791,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9171200687298748556
+  Id: 13156240876214898802
   Name: "Tree Sakura Hero 02"
   Transform {
     Location {
@@ -13970,7 +12808,7 @@ Objects {
       Z: 1.09914291
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -14013,12 +12851,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 9171200687298748556
-    SubobjectId: 1363451139544433735
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14028,7 +12860,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4867476610793971574
+  Id: 9670280019462354893
   Name: "Tree Sakura Hero 01"
   Transform {
     Location {
@@ -14045,7 +12877,7 @@ Objects {
       Z: 1.31231475
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Nature_Leaves:id"
@@ -14088,12 +12920,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 4867476610793971574
-    SubobjectId: 3324102691327769533
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14103,7 +12929,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1867605342319681280
+  Id: 9964261222823109745
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14122,7 +12948,7 @@ Objects {
       Z: 8.17668056
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14151,12 +12977,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1867605342319681280
-    SubobjectId: 8378459819110136779
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14166,7 +12986,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6931508520493821895
+  Id: 18055605053540720260
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14185,7 +13005,7 @@ Objects {
       Z: 2.54687643
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14214,12 +13034,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6931508520493821895
-    SubobjectId: 980940015247280908
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14229,7 +13043,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6815979561793554876
+  Id: 18325610653893333817
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14248,7 +13062,7 @@ Objects {
       Z: 8.42375
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14285,12 +13099,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6815979561793554876
-    SubobjectId: 3691382373294828919
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14300,7 +13108,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5097972135856482819
+  Id: 11052283897968379532
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14319,7 +13127,7 @@ Objects {
       Z: 8.42374897
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14356,12 +13164,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5097972135856482819
-    SubobjectId: 3103815071142760136
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14371,7 +13173,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14335206395497048001
+  Id: 12941940143394535845
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14390,7 +13192,7 @@ Objects {
       Z: 10.4737597
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14427,12 +13229,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14335206395497048001
-    SubobjectId: 12348227765141832458
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14442,7 +13238,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12720708893464869602
+  Id: 13044815931585660639
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14461,7 +13257,7 @@ Objects {
       Z: 10.8677893
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14490,12 +13286,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 12720708893464869602
-    SubobjectId: 15934963284294721065
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14505,7 +13295,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6278157904350464243
+  Id: 432552300654042077
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14524,7 +13314,7 @@ Objects {
       Z: 9.29237461
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14561,12 +13351,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 6278157904350464243
-    SubobjectId: 4219075295417314360
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14576,7 +13360,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14823790723973920941
+  Id: 6481926381677652009
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14595,7 +13379,7 @@ Objects {
       Z: 2.54687643
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14624,12 +13408,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 14823790723973920941
-    SubobjectId: 11535401889891179622
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14639,7 +13417,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5948238479925950808
+  Id: 11216635762273077448
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14658,7 +13436,7 @@ Objects {
       Z: 2.546875
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -14687,12 +13465,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 5948238479925950808
-    SubobjectId: 4548977127502699923
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14702,7 +13474,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1374789562009800024
+  Id: 11176365599582314721
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14721,7 +13493,7 @@ Objects {
       Z: 0.561699688
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14758,12 +13530,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1374789562009800024
-    SubobjectId: 9131450854457813395
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14773,7 +13539,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16632812210230433103
+  Id: 1096638170135027429
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14792,7 +13558,7 @@ Objects {
       Z: 0.561699688
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14829,12 +13595,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 16632812210230433103
-    SubobjectId: 10051695091073413508
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14844,7 +13604,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1450202721558122197
+  Id: 7001636306449740990
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14863,7 +13623,7 @@ Objects {
       Z: 0.561699688
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14900,12 +13660,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 1450202721558122197
-    SubobjectId: 8758782505573788190
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14915,7 +13669,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10301549919390772093
+  Id: 7375303728344371233
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -14934,7 +13688,7 @@ Objects {
       Z: 0.561699688
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -14971,12 +13725,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10301549919390772093
-    SubobjectId: 16382724263957417910
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -14986,7 +13734,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2311329633011863332
+  Id: 4655455436988575467
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -15005,7 +13753,7 @@ Objects {
       Z: 0.561699688
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15042,12 +13790,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2311329633011863332
-    SubobjectId: 5601963327793589231
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15057,7 +13799,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10465267650789126608
+  Id: 9535382220029104650
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -15076,7 +13818,7 @@ Objects {
       Z: 0.561699688
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15113,12 +13855,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 10465267650789126608
-    SubobjectId: 18199411691883287835
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15128,7 +13864,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8233041570446368347
+  Id: 14588922373344399440
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -15147,7 +13883,7 @@ Objects {
       Z: 0.561699152
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15184,12 +13920,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 8233041570446368347
-    SubobjectId: 2300484304685087376
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15199,7 +13929,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2543741666679804318
+  Id: 4437042733311713015
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -15218,7 +13948,7 @@ Objects {
       Z: 2.51116872
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -15255,12 +13985,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 2543741666679804318
-    SubobjectId: 5683677321025303893
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15270,7 +13994,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11179474693392040
+  Id: 3985713828619367842
   Name: "Rock Flat 02"
   Transform {
     Location {
@@ -15289,7 +14013,7 @@ Objects {
       Z: 2.54687548
     }
   }
-  ParentId: 3250472637038325160
+  ParentId: 3119362868788014686
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15318,12 +14042,6 @@ Objects {
       BoundsScale: 1
     }
   }
-  InstanceHistory {
-    SelfId: 11179474693392040
-    SubobjectId: 7893370152602264163
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
   }
@@ -15333,7 +14051,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 119258085841523334
+  Id: 13255895650917566057
   Name: "Decals"
   Transform {
     Location {
@@ -15346,75 +14064,75 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14945639428550747259
-  ChildIds: 5323507623778211703
-  ChildIds: 1812019715268891649
-  ChildIds: 1490465801571065076
-  ChildIds: 7560107468659193749
-  ChildIds: 11807469008122108453
-  ChildIds: 7690203291135330414
-  ChildIds: 6451300691105770456
-  ChildIds: 10488140862400873134
-  ChildIds: 16452402308207005592
-  ChildIds: 2406639373521007326
-  ChildIds: 6290909135187903125
-  ChildIds: 12374043446313185340
-  ChildIds: 15047402007467537773
-  ChildIds: 5218412969953238489
-  ChildIds: 4305013777086124482
-  ChildIds: 18087289926012238946
-  ChildIds: 4671368250652916081
-  ChildIds: 12617257145082698039
-  ChildIds: 1549103931532573826
-  ChildIds: 15450868565617434776
-  ChildIds: 9474373667242703546
-  ChildIds: 1331614756733781477
-  ChildIds: 6961981308337007481
-  ChildIds: 10678390112520799396
-  ChildIds: 16221900093410351298
-  ChildIds: 16361687391721715819
-  ChildIds: 8963085844597815533
-  ChildIds: 2260521636118810861
-  ChildIds: 14174113251227202962
-  ChildIds: 8676773903194057195
-  ChildIds: 1619217392175329286
-  ChildIds: 10922548464262430235
-  ChildIds: 15905153276252772304
-  ChildIds: 11347603381986710762
-  ChildIds: 17582346008934896970
-  ChildIds: 3103909038363276746
-  ChildIds: 5211883303165298014
-  ChildIds: 16109529945312385358
-  ChildIds: 6684445852619435341
-  ChildIds: 16829085320795329943
-  ChildIds: 5454088299938818504
-  ChildIds: 11662832131183804393
-  ChildIds: 1536755785239178610
-  ChildIds: 11895019934174788785
-  ChildIds: 110646358531462978
-  ChildIds: 4863730995357350031
-  ChildIds: 9673201891654985453
-  ChildIds: 3250677659348518727
-  ChildIds: 7004311486684243846
-  ChildIds: 8097772771242845355
-  ChildIds: 686431081327338352
-  ChildIds: 4706350545606072309
-  ChildIds: 11213511685131578989
-  ChildIds: 9474651548680473169
-  ChildIds: 222639797055232193
-  ChildIds: 2367761730773333107
-  ChildIds: 15434816697219685881
-  ChildIds: 10319402280542707905
-  ChildIds: 4355677208492242301
-  ChildIds: 6606389196876051204
-  ChildIds: 15280148003448038916
-  ChildIds: 17336381985188294502
-  ChildIds: 5098828089957044244
-  ChildIds: 9494671225453033138
-  ChildIds: 17297481425928810839
-  ChildIds: 13830124500682998380
-  ChildIds: 3434241662115810904
-  ChildIds: 6954783756958295828
+  ParentId: 4197853975867591020
+  ChildIds: 13944890184386821132
+  ChildIds: 11626005004021588727
+  ChildIds: 8066736911258605570
+  ChildIds: 3860570762137670251
+  ChildIds: 7572357726470137794
+  ChildIds: 14499485509581683295
+  ChildIds: 11595253101857410205
+  ChildIds: 17771752907826249019
+  ChildIds: 16735434896159499499
+  ChildIds: 6113964888185754281
+  ChildIds: 93548610058815897
+  ChildIds: 1626319848709714021
+  ChildIds: 10803020470995266007
+  ChildIds: 12571369809698667583
+  ChildIds: 8972720326908366365
+  ChildIds: 4844396157004578690
+  ChildIds: 8063823508489086803
+  ChildIds: 10063287059496412894
+  ChildIds: 14523403073028659321
+  ChildIds: 14838591737909684224
+  ChildIds: 10050427241815385533
+  ChildIds: 15263164888885265627
+  ChildIds: 5360091513451400510
+  ChildIds: 5976295367367789868
+  ChildIds: 16223455593287141368
+  ChildIds: 11656781985247605306
+  ChildIds: 13888142363235725522
+  ChildIds: 14799781749254437171
+  ChildIds: 10278309481776330850
+  ChildIds: 16804736127226786164
+  ChildIds: 4499037492738709067
+  ChildIds: 3810415378606686762
+  ChildIds: 14554894345747457865
+  ChildIds: 15006278385839061856
+  ChildIds: 15368523046464876179
+  ChildIds: 16421468694933076710
+  ChildIds: 8202177883597669317
+  ChildIds: 9321550898074200074
+  ChildIds: 16675775005784326281
+  ChildIds: 1060811081765374479
+  ChildIds: 13201369112261515090
+  ChildIds: 9261681311026785084
+  ChildIds: 6778024449254816188
+  ChildIds: 10781579617176363487
+  ChildIds: 304596052851096783
+  ChildIds: 7305476964805652222
+  ChildIds: 18084579329643759354
+  ChildIds: 13846625362199925985
+  ChildIds: 2820169498754311265
+  ChildIds: 5408308069597035417
+  ChildIds: 5391290976678907670
+  ChildIds: 2346128841823473970
+  ChildIds: 8057656368090494939
+  ChildIds: 12640766878810614599
+  ChildIds: 5391660883567084348
+  ChildIds: 14696044856791941157
+  ChildIds: 2681717540510594772
+  ChildIds: 17065142793825768003
+  ChildIds: 12369706933305643917
+  ChildIds: 11439409704314253383
+  ChildIds: 10242673323542126085
+  ChildIds: 5047545212174384110
+  ChildIds: 559426279215650854
+  ChildIds: 2385303471458672043
+  ChildIds: 5732965447972732506
+  ChildIds: 10139542578163852058
+  ChildIds: 15279732952542534164
+  ChildIds: 4011041829425658017
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -15430,19 +14148,13 @@ Objects {
   Folder {
     IsGroup: true
   }
-  InstanceHistory {
-    SelfId: 119258085841523334
-    SubobjectId: 7785287113058694733
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6954783756958295828
+  Id: 4011041829425658017
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15461,7 +14173,7 @@ Objects {
       Z: 4.81653738
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -15497,12 +14209,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 6954783756958295828
-    SubobjectId: 948305705994060767
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -15512,7 +14218,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3434241662115810904
+  Id: 15279732952542534164
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15531,7 +14237,7 @@ Objects {
       Z: 4.11013222
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -15561,12 +14267,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 3434241662115810904
-    SubobjectId: 4757408013162506899
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -15576,7 +14276,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13830124500682998380
+  Id: 10139542578163852058
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15595,7 +14295,7 @@ Objects {
       Z: 4.11013222
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -15625,12 +14325,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 13830124500682998380
-    SubobjectId: 15151003102003619495
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -15640,7 +14334,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17297481425928810839
+  Id: 5732965447972732506
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15659,7 +14353,7 @@ Objects {
       Z: 4.11013222
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -15689,12 +14383,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 17297481425928810839
-    SubobjectId: 11358546980981708188
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -15704,7 +14392,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9494671225453033138
+  Id: 2385303471458672043
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15723,7 +14411,7 @@ Objects {
       Z: 4.11013222
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -15753,12 +14441,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 9494671225453033138
-    SubobjectId: 17180824478262186617
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -15768,7 +14450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5098828089957044244
+  Id: 559426279215650854
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15787,7 +14469,7 @@ Objects {
       Z: 4.11013222
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -15817,12 +14499,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 5098828089957044244
-    SubobjectId: 3129993887201572063
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -15832,7 +14508,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17336381985188294502
+  Id: 5047545212174384110
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15851,7 +14527,7 @@ Objects {
       Z: 4.11013222
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -15881,12 +14557,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 17336381985188294502
-    SubobjectId: 11329480415083121581
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -15896,7 +14566,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15280148003448038916
+  Id: 10242673323542126085
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15915,7 +14585,7 @@ Objects {
       Z: 4.11013269
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -15945,12 +14615,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 15280148003448038916
-    SubobjectId: 13375876022345220815
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -15960,7 +14624,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6606389196876051204
+  Id: 11439409704314253383
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -15979,7 +14643,7 @@ Objects {
       Z: 3.73464155
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16009,12 +14673,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 6606389196876051204
-    SubobjectId: 3892181009296332751
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16024,7 +14682,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4355677208492242301
+  Id: 12369706933305643917
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16043,7 +14701,7 @@ Objects {
       Z: 3.73464155
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16073,12 +14731,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 4355677208492242301
-    SubobjectId: 5899483108810854838
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16088,7 +14740,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10319402280542707905
+  Id: 17065142793825768003
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16107,7 +14759,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16137,12 +14789,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 10319402280542707905
-    SubobjectId: 16327998680722162698
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16152,7 +14798,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15434816697219685881
+  Id: 2681717540510594772
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16171,7 +14817,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16201,12 +14847,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 15434816697219685881
-    SubobjectId: 13519289290372905266
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16216,7 +14856,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2367761730773333107
+  Id: 14696044856791941157
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16235,7 +14875,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16265,12 +14905,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 2367761730773333107
-    SubobjectId: 5581841506456916152
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16280,7 +14914,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 222639797055232193
+  Id: 5391660883567084348
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16299,7 +14933,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16329,12 +14963,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 222639797055232193
-    SubobjectId: 7979160616683240458
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16344,7 +14972,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9474651548680473169
+  Id: 12640766878810614599
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16363,7 +14991,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16393,12 +15021,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 9474651548680473169
-    SubobjectId: 17208795801805074074
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16408,7 +15030,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11213511685131578989
+  Id: 8057656368090494939
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16427,7 +15049,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16457,12 +15079,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 11213511685131578989
-    SubobjectId: 17740576744518372006
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16472,7 +15088,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4706350545606072309
+  Id: 2346128841823473970
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16491,7 +15107,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16521,12 +15137,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 4706350545606072309
-    SubobjectId: 3241752923389539134
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16536,7 +15146,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 686431081327338352
+  Id: 5391290976678907670
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16555,7 +15165,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16585,12 +15195,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 686431081327338352
-    SubobjectId: 7218114165220231099
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16600,7 +15204,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8097772771242845355
+  Id: 5408308069597035417
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16619,7 +15223,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16649,12 +15253,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 8097772771242845355
-    SubobjectId: 2147166537925378144
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16664,7 +15262,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7004311486684243846
+  Id: 2820169498754311265
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16683,7 +15281,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16715,12 +15313,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 7004311486684243846
-    SubobjectId: 907763219784254285
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16730,7 +15322,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3250677659348518727
+  Id: 13846625362199925985
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -16749,7 +15341,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -16781,12 +15373,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 3250677659348518727
-    SubobjectId: 4661770846730396556
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16796,7 +15382,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9673201891654985453
+  Id: 18084579329643759354
   Name: "Decal Vines End 01"
   Transform {
     Location {
@@ -16815,7 +15401,7 @@ Objects {
       Z: 1.74285924
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16837,12 +15423,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 9673201891654985453
-    SubobjectId: 16974990756384866854
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16852,7 +15432,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4863730995357350031
+  Id: 7305476964805652222
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -16870,7 +15450,7 @@ Objects {
       Z: 3.41687655
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16892,12 +15472,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 4863730995357350031
-    SubobjectId: 3373799114011810884
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16907,7 +15481,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 110646358531462978
+  Id: 304596052851096783
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -16926,7 +15500,7 @@ Objects {
       Z: 1.6975975
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -16948,12 +15522,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 110646358531462978
-    SubobjectId: 7792438740887155593
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -16963,7 +15531,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11895019934174788785
+  Id: 10781579617176363487
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -16982,7 +15550,7 @@ Objects {
       Z: 1.69759607
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17004,12 +15572,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 11895019934174788785
-    SubobjectId: 14465223778730956922
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17019,7 +15581,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1536755785239178610
+  Id: 6778024449254816188
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -17036,7 +15598,7 @@ Objects {
       Z: 4.06211
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17058,12 +15620,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 1536755785239178610
-    SubobjectId: 8718672869155031481
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17073,7 +15629,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11662832131183804393
+  Id: 9261681311026785084
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -17091,7 +15647,7 @@ Objects {
       Z: 1.6975956
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17113,12 +15669,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 11662832131183804393
-    SubobjectId: 14733493189644098338
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17128,7 +15678,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5454088299938818504
+  Id: 13201369112261515090
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -17147,7 +15697,7 @@ Objects {
       Z: 1.69759607
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -17169,12 +15719,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 5454088299938818504
-    SubobjectId: 2746498201691409667
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17184,7 +15728,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16829085320795329943
+  Id: 1060811081765374479
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17203,7 +15747,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17235,12 +15779,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 16829085320795329943
-    SubobjectId: 9521100089672102236
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17250,7 +15788,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6684445852619435341
+  Id: 16675775005784326281
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17269,7 +15807,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17301,12 +15839,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 6684445852619435341
-    SubobjectId: 3561988792096229766
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17316,7 +15848,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16109529945312385358
+  Id: 9321550898074200074
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17335,7 +15867,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17367,12 +15899,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 16109529945312385358
-    SubobjectId: 12843661248356400517
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17382,7 +15908,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5211883303165298014
+  Id: 8202177883597669317
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17401,7 +15927,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17433,12 +15959,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 5211883303165298014
-    SubobjectId: 2736220144506397077
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17448,7 +15968,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3103909038363276746
+  Id: 16421468694933076710
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17467,7 +15987,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17499,12 +16019,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 3103909038363276746
-    SubobjectId: 5097539497711833345
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17514,7 +16028,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17582346008934896970
+  Id: 15368523046464876179
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17533,7 +16047,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17565,12 +16079,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 17582346008934896970
-    SubobjectId: 11073330532530336129
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17580,7 +16088,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11347603381986710762
+  Id: 15006278385839061856
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17599,7 +16107,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17631,12 +16139,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 11347603381986710762
-    SubobjectId: 17354512167066513441
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17646,7 +16148,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15905153276252772304
+  Id: 14554894345747457865
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17663,7 +16165,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17695,12 +16197,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 15905153276252772304
-    SubobjectId: 12760704747297092379
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17710,7 +16206,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10922548464262430235
+  Id: 3810415378606686762
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17727,7 +16223,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17759,12 +16255,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 10922548464262430235
-    SubobjectId: 18030717513494354640
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17774,7 +16264,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1619217392175329286
+  Id: 4499037492738709067
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17791,7 +16281,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17823,12 +16313,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 1619217392175329286
-    SubobjectId: 8923258529097831629
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17838,7 +16322,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8676773903194057195
+  Id: 16804736127226786164
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17855,7 +16339,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17887,12 +16371,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 8676773903194057195
-    SubobjectId: 1569295690891627808
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17902,7 +16380,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14174113251227202962
+  Id: 10278309481776330850
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17921,7 +16399,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -17953,12 +16431,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 14174113251227202962
-    SubobjectId: 12184987003542737241
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -17968,7 +16440,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2260521636118810861
+  Id: 14799781749254437171
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -17987,7 +16459,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18019,12 +16491,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 2260521636118810861
-    SubobjectId: 8283150553938474022
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18034,7 +16500,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8963085844597815533
+  Id: 13888142363235725522
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18053,7 +16519,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18085,12 +16551,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 8963085844597815533
-    SubobjectId: 1282983762123217958
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18100,7 +16560,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16361687391721715819
+  Id: 11656781985247605306
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18119,7 +16579,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18151,12 +16611,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 16361687391721715819
-    SubobjectId: 10285436531416505504
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18166,7 +16620,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16221900093410351298
+  Id: 16223455593287141368
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18185,7 +16639,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18217,12 +16671,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 16221900093410351298
-    SubobjectId: 10138326005702392841
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18232,7 +16680,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10678390112520799396
+  Id: 5976295367367789868
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18251,7 +16699,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18283,12 +16731,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 10678390112520799396
-    SubobjectId: 17986276036014235759
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18298,7 +16740,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6961981308337007481
+  Id: 5360091513451400510
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18317,7 +16759,7 @@ Objects {
       Z: 3.73464131
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18349,12 +16791,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 6961981308337007481
-    SubobjectId: 950462812162969522
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18364,7 +16800,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1331614756733781477
+  Id: 15263164888885265627
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18383,7 +16819,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18415,12 +16851,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 1331614756733781477
-    SubobjectId: 9211987047532618030
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18430,7 +16860,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9474373667242703546
+  Id: 10050427241815385533
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18449,7 +16879,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18481,12 +16911,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 9474373667242703546
-    SubobjectId: 17210199617492721265
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18496,7 +16920,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15450868565617434776
+  Id: 14838591737909684224
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18513,7 +16937,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18545,12 +16969,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 15450868565617434776
-    SubobjectId: 13529331014627165267
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18560,7 +16978,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1549103931532573826
+  Id: 14523403073028659321
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18577,7 +16995,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18609,12 +17027,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 1549103931532573826
-    SubobjectId: 8706249899950184521
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18624,7 +17036,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12617257145082698039
+  Id: 10063287059496412894
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18641,7 +17053,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18673,12 +17085,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 12617257145082698039
-    SubobjectId: 14030073481929866748
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18688,7 +17094,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4671368250652916081
+  Id: 8063823508489086803
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18705,7 +17111,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18737,12 +17143,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 4671368250652916081
-    SubobjectId: 3276752827708546490
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18752,7 +17152,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18087289926012238946
+  Id: 4844396157004578690
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18769,7 +17169,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18801,12 +17201,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 18087289926012238946
-    SubobjectId: 10858077143298119849
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18816,7 +17210,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4305013777086124482
+  Id: 8972720326908366365
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18833,7 +17227,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18865,12 +17259,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 4305013777086124482
-    SubobjectId: 6202352521957537033
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18880,7 +17268,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5218412969953238489
+  Id: 12571369809698667583
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18897,7 +17285,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18929,12 +17317,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 5218412969953238489
-    SubobjectId: 2722095072584530194
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -18944,7 +17326,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15047402007467537773
+  Id: 10803020470995266007
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -18961,7 +17343,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -18993,12 +17375,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 15047402007467537773
-    SubobjectId: 13654432070787486118
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19008,7 +17384,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12374043446313185340
+  Id: 1626319848709714021
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -19025,7 +17401,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   UnregisteredParameters {
     Overrides {
       Name: "bp:Color"
@@ -19057,12 +17433,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 12374043446313185340
-    SubobjectId: 14273098047269901559
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19072,7 +17442,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6290909135187903125
+  Id: 93548610058815897
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -19090,7 +17460,7 @@ Objects {
       Z: 3.41687655
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19112,12 +17482,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 6290909135187903125
-    SubobjectId: 4242559617278010974
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19127,7 +17491,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2406639373521007326
+  Id: 6113964888185754281
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -19145,7 +17509,7 @@ Objects {
       Z: 1.6975975
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19167,12 +17531,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 2406639373521007326
-    SubobjectId: 5533600383749281301
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19182,7 +17540,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16452402308207005592
+  Id: 16735434896159499499
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -19200,7 +17558,7 @@ Objects {
       Z: 1.69759607
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19222,12 +17580,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 16452402308207005592
-    SubobjectId: 9943940565749574483
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19237,7 +17589,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10488140862400873134
+  Id: 17771752907826249019
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -19255,7 +17607,7 @@ Objects {
       Z: 1.69759607
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19277,12 +17629,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 10488140862400873134
-    SubobjectId: 18167531285446043237
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19292,7 +17638,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6451300691105770456
+  Id: 11595253101857410205
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -19310,7 +17656,7 @@ Objects {
       Z: 1.6975956
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19332,12 +17678,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 6451300691105770456
-    SubobjectId: 3759039168579112723
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19347,7 +17687,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7690203291135330414
+  Id: 14499485509581683295
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -19364,7 +17704,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19386,12 +17726,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 7690203291135330414
-    SubobjectId: 510106185119968421
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19401,7 +17735,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11807469008122108453
+  Id: 7572357726470137794
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -19418,7 +17752,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19440,12 +17774,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 11807469008122108453
-    SubobjectId: 14875912354350644974
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19455,7 +17783,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7560107468659193749
+  Id: 3860570762137670251
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -19472,7 +17800,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19494,12 +17822,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 7560107468659193749
-    SubobjectId: 380466523100287838
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19509,7 +17831,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1490465801571065076
+  Id: 8066736911258605570
   Name: "Decal Vines Tile 01"
   Transform {
     Location {
@@ -19526,7 +17848,7 @@ Objects {
       Z: 4.06211
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19548,12 +17870,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 1490465801571065076
-    SubobjectId: 8719645381570705471
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19563,7 +17879,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1812019715268891649
+  Id: 11626005004021588727
   Name: "Decal Vines End 01"
   Transform {
     Location {
@@ -19582,7 +17898,7 @@ Objects {
       Z: 1.74285924
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19604,12 +17920,6 @@ Objects {
     DecalBP {
     }
   }
-  InstanceHistory {
-    SelfId: 1812019715268891649
-    SubobjectId: 8397176657021776074
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   Relevance {
     Value: "mc:eproxyrelevance:high"
   }
@@ -19619,7 +17929,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5323507623778211703
+  Id: 13944890184386821132
   Name: "Decal Moss Patch"
   Transform {
     Location {
@@ -19636,7 +17946,7 @@ Objects {
       Z: 3.73463917
     }
   }
-  ParentId: 119258085841523334
+  ParentId: 13255895650917566057
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -19657,12 +17967,6 @@ Objects {
     }
     DecalBP {
     }
-  }
-  InstanceHistory {
-    SelfId: 5323507623778211703
-    SubobjectId: 2615940489681384380
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
   }
   Relevance {
     Value: "mc:eproxyrelevance:high"

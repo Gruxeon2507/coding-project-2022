@@ -1,7 +1,7 @@
 Name: "Legendary"
-RootId: 3470874503221578374
+RootId: 13526842903900563781
 Objects {
-  Id: 10216830459959387204
+  Id: 8410372781186347157
   Name: "R\306\260\306\241ng Si\303\252u To Kh\341\273\225ng L\341\273\223"
   Transform {
     Location {
@@ -14,12 +14,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3470874503221578374
+  ParentId: 13526842903900563781
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 11988495694826670059
+        SelfId: 3058777450615050801
       }
     }
     Overrides {
@@ -53,7 +53,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6946968391054787699
+  Id: 15618693865948352166
   Name: "M\305\251 Ionia"
   Transform {
     Location {
@@ -66,12 +66,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3470874503221578374
+  ParentId: 13526842903900563781
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 16271380563696599558
+        SelfId: 8460929806716177630
       }
     }
     Overrides {
@@ -105,7 +105,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15190783711403795505
+  Id: 12369254239995733404
   Name: "B\303\271a \304\220\341\272\247u L\303\242u"
   Transform {
     Location {
@@ -118,12 +118,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3470874503221578374
+  ParentId: 13526842903900563781
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 12298720573814028720
+        SelfId: 12783258737994058642
       }
     }
     Overrides {
@@ -157,7 +157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1951778751759745720
+  Id: 679485366362556090
   Name: "Coins"
   Transform {
     Location {
@@ -170,12 +170,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3470874503221578374
+  ParentId: 13526842903900563781
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 14672661501618845118
+        SelfId: 5612763040909349973
       }
     }
     Overrides {

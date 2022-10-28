@@ -1,7 +1,7 @@
 Name: "Prospecting"
-RootId: 13181901907449659478
+RootId: 14612998703307118365
 Objects {
-  Id: 14945639428550747259
+  Id: 4197853975867591020
   Name: "Prospecting_Example_Map"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13181901907449659478
+  ParentId: 14612998703307118365
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -31,19 +31,13 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "Prospecting_Example_Map"
   }
-  InstanceHistory {
-    SelfId: 14945639428550747259
-    SubobjectId: 11728717198316896432
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7558771181565894769
+  Id: 7201668652176093857
   Name: "ProspectingSpots"
   Transform {
     Location {
@@ -56,7 +50,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13181901907449659478
+  ParentId: 14612998703307118365
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -72,12 +66,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "ProspectingSpots"
-  }
-  InstanceHistory {
-    SelfId: 7558771181565894769
-    SubobjectId: 381525785088263354
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

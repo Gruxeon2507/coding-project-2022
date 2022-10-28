@@ -1,7 +1,7 @@
 Name: "ProspectingSpots"
-RootId: 7558771181565894769
+RootId: 7201668652176093857
 Objects {
-  Id: 16266096281666875205
+  Id: 10245169522939415468
   Name: "BlueSapphire"
   Transform {
     Location {
@@ -17,7 +17,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7558771181565894769
+  ParentId: 7201668652176093857
   UnregisteredParameters {
     Overrides {
       Name: "cs:MaxPlacementRadius"
@@ -90,19 +90,13 @@ Objects {
     IsFilePartition: true
     FilePartitionName: "BlueSapphire"
   }
-  InstanceHistory {
-    SelfId: 16266096281666875205
-    SubobjectId: 10093021531315178382
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
-  }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8282838321434480892
+  Id: 2365394642092897942
   Name: "RedRuby"
   Transform {
     Location {
@@ -118,7 +112,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7558771181565894769
+  ParentId: 7201668652176093857
   UnregisteredParameters {
     Overrides {
       Name: "cs:MaxPlacementRadius"
@@ -190,12 +184,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "RedRuby"
-  }
-  InstanceHistory {
-    SelfId: 8282838321434480892
-    SubobjectId: 2260763482817246263
-    InstanceId: 8315726061844125177
-    TemplateId: 15069709741407121570
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

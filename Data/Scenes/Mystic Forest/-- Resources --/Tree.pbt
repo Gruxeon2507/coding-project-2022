@@ -1,7 +1,7 @@
 Name: "-- Resources --"
-RootId: 9001281003070057709
+RootId: 4818366723119234212
 Objects {
-  Id: 9066947148691568406
+  Id: 18350785427594289436
   Name: "-- Currency --"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9001281003070057709
+  ParentId: 4818366723119234212
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34,7 +34,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4385519630199513702
+  Id: 5731002864040212662
   Name: "Ng\341\273\215c C\306\260\341\273\235ng H\303\263a"
   Transform {
     Location {
@@ -47,7 +47,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9001281003070057709
+  ParentId: 4818366723119234212
   UnregisteredParameters {
     Overrides {
       Name: "cs:Name"
@@ -137,7 +137,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2819815236517620442
+  Id: 15039010589176977196
   Name: "\304\220\303\241 C\306\260\341\273\235ng H\303\263a"
   Transform {
     Location {
@@ -150,7 +150,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9001281003070057709
+  ParentId: 4818366723119234212
   UnregisteredParameters {
     Overrides {
       Name: "cs:Name"
@@ -240,7 +240,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3190638371376748018
+  Id: 15518628944117301273
   Name: "M\341\273\231c"
   Transform {
     Location {
@@ -253,7 +253,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9001281003070057709
+  ParentId: 4818366723119234212
   UnregisteredParameters {
     Overrides {
       Name: "cs:Name"
@@ -343,7 +343,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9169501126817299335
+  Id: 9900134158292045285
   Name: "Kim"
   Transform {
     Location {
@@ -356,7 +356,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9001281003070057709
+  ParentId: 4818366723119234212
   UnregisteredParameters {
     Overrides {
       Name: "cs:Name"

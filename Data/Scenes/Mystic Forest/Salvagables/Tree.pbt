@@ -1,7 +1,7 @@
 Name: "Salvagables"
-RootId: 13280614780053564011
+RootId: 11925219385139398502
 Objects {
-  Id: 3012274157349700073
+  Id: 53472276313153465
   Name: "PoisonStaff"
   Transform {
     Location {
@@ -14,8 +14,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 2630985966960122581
+  ParentId: 11925219385139398502
+  ChildIds: 11089208489163271839
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -46,7 +46,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2630985966960122581
+  Id: 11089208489163271839
   Name: "Material Shard"
   Transform {
     Location {
@@ -59,7 +59,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3012274157349700073
+  ParentId: 53472276313153465
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -98,7 +98,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15366869969847958379
+  Id: 14604081743169430108
   Name: "BasicStaff"
   Transform {
     Location {
@@ -111,8 +111,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 15798297949778413992
+  ParentId: 11925219385139398502
+  ChildIds: 17672530336889426214
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -143,7 +143,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15798297949778413992
+  Id: 17672530336889426214
   Name: "Material Shard"
   Transform {
     Location {
@@ -156,7 +156,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15366869969847958379
+  ParentId: 14604081743169430108
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -195,7 +195,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16459592601141169044
+  Id: 1057425340913536149
   Name: "PoisonCrossbow"
   Transform {
     Location {
@@ -208,8 +208,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 9215197946845400560
+  ParentId: 11925219385139398502
+  ChildIds: 7419636914489191912
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -240,7 +240,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9215197946845400560
+  Id: 7419636914489191912
   Name: "Material Shard"
   Transform {
     Location {
@@ -253,7 +253,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16459592601141169044
+  ParentId: 1057425340913536149
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -292,7 +292,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16034286462980559929
+  Id: 2267644356266010215
   Name: "BasicCrossbow"
   Transform {
     Location {
@@ -305,8 +305,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 14507826634640294902
+  ParentId: 11925219385139398502
+  ChildIds: 9151972409610857673
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -337,7 +337,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14507826634640294902
+  Id: 9151972409610857673
   Name: "Material Shard"
   Transform {
     Location {
@@ -350,7 +350,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16034286462980559929
+  ParentId: 2267644356266010215
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -389,7 +389,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8655810011963967580
+  Id: 16885065359799208409
   Name: "ExampleSuperSword"
   Transform {
     Location {
@@ -402,8 +402,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 13509171231774228948
+  ParentId: 11925219385139398502
+  ChildIds: 17887940149190564134
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -434,7 +434,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13509171231774228948
+  Id: 17887940149190564134
   Name: "Material Shard"
   Transform {
     Location {
@@ -447,7 +447,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 8655810011963967580
+  ParentId: 16885065359799208409
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -486,7 +486,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16487827835391595577
+  Id: 1931661481593308763
   Name: "ExampleSword"
   Transform {
     Location {
@@ -499,8 +499,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 15830581106421379499
+  ParentId: 11925219385139398502
+  ChildIds: 16985081758006823194
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -531,7 +531,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15830581106421379499
+  Id: 16985081758006823194
   Name: "Material Shard"
   Transform {
     Location {
@@ -544,7 +544,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16487827835391595577
+  ParentId: 1931661481593308763
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -583,7 +583,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3511825741005737091
+  Id: 16557072942331801639
   Name: "FierySword"
   Transform {
     Location {
@@ -596,8 +596,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 523490178891678635
+  ParentId: 11925219385139398502
+  ChildIds: 15014158768733889889
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -628,7 +628,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 523490178891678635
+  Id: 15014158768733889889
   Name: "Material Shard"
   Transform {
     Location {
@@ -641,7 +641,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3511825741005737091
+  ParentId: 16557072942331801639
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -680,7 +680,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1956975753546886998
+  Id: 6533817906782367280
   Name: "BasicBlade"
   Transform {
     Location {
@@ -693,8 +693,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 13293698299881146873
+  ParentId: 11925219385139398502
+  ChildIds: 9238036050819090255
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -725,7 +725,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13293698299881146873
+  Id: 9238036050819090255
   Name: "Material Shard"
   Transform {
     Location {
@@ -738,7 +738,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1956975753546886998
+  ParentId: 6533817906782367280
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -777,7 +777,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11582573716218154126
+  Id: 6676032252385290
   Name: "IcyBlade"
   Transform {
     Location {
@@ -790,8 +790,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 8700155190377281045
+  ParentId: 11925219385139398502
+  ChildIds: 18018386483737815853
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -822,7 +822,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8700155190377281045
+  Id: 18018386483737815853
   Name: "Material Shard"
   Transform {
     Location {
@@ -835,7 +835,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 11582573716218154126
+  ParentId: 6676032252385290
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -874,7 +874,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15674083297625715136
+  Id: 7451415035847758041
   Name: "Boots2"
   Transform {
     Location {
@@ -887,8 +887,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 16054301928595375423
+  ParentId: 11925219385139398502
+  ChildIds: 10993041675318308820
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -919,7 +919,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16054301928595375423
+  Id: 10993041675318308820
   Name: "Material Shard"
   Transform {
     Location {
@@ -932,7 +932,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 15674083297625715136
+  ParentId: 7451415035847758041
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -971,7 +971,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13759260339079254
+  Id: 13087450187045121511
   Name: "Boots1"
   Transform {
     Location {
@@ -984,8 +984,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 13316595628862427721
+  ParentId: 11925219385139398502
+  ChildIds: 11971295289035791327
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -1016,7 +1016,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13316595628862427721
+  Id: 11971295289035791327
   Name: "Material Shard"
   Transform {
     Location {
@@ -1029,7 +1029,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13759260339079254
+  ParentId: 13087450187045121511
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1068,7 +1068,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 850155982079403679
+  Id: 493819771073776169
   Name: "Chest2"
   Transform {
     Location {
@@ -1081,8 +1081,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 9754827861266486307
+  ParentId: 11925219385139398502
+  ChildIds: 6634141227242268506
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -1113,7 +1113,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9754827861266486307
+  Id: 6634141227242268506
   Name: "Material Shard"
   Transform {
     Location {
@@ -1126,7 +1126,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 850155982079403679
+  ParentId: 493819771073776169
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1165,7 +1165,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14657696379151706534
+  Id: 11847265830288394739
   Name: "Chest"
   Transform {
     Location {
@@ -1178,8 +1178,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 1172610198771010512
+  ParentId: 11925219385139398502
+  ChildIds: 14741256839651977289
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -1210,7 +1210,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1172610198771010512
+  Id: 14741256839651977289
   Name: "Material Shard"
   Transform {
     Location {
@@ -1223,7 +1223,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14657696379151706534
+  ParentId: 11847265830288394739
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1262,7 +1262,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17443769276557028396
+  Id: 4081235613295939877
   Name: "Helm2"
   Transform {
     Location {
@@ -1275,8 +1275,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 17079005914619730867
+  ParentId: 11925219385139398502
+  ChildIds: 2733318700319660854
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -1307,7 +1307,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17079005914619730867
+  Id: 2733318700319660854
   Name: "Material Shard"
   Transform {
     Location {
@@ -1320,7 +1320,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17443769276557028396
+  ParentId: 4081235613295939877
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1359,7 +1359,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9284443194801952389
+  Id: 11868317187700956229
   Name: "Helm"
   Transform {
     Location {
@@ -1372,8 +1372,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 8514471456694680353
+  ParentId: 11925219385139398502
+  ChildIds: 12343130630755852020
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -1404,7 +1404,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8514471456694680353
+  Id: 12343130630755852020
   Name: "Material Shard"
   Transform {
     Location {
@@ -1417,7 +1417,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9284443194801952389
+  ParentId: 11868317187700956229
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1456,7 +1456,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17471675855256004266
+  Id: 13668911920068913280
   Name: "Trinket"
   Transform {
     Location {
@@ -1469,9 +1469,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 7038450392570182670
-  ChildIds: 6157251651314053120
+  ParentId: 11925219385139398502
+  ChildIds: 12149111766140003822
+  ChildIds: 3056861472804207905
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -1502,7 +1502,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6157251651314053120
+  Id: 3056861472804207905
   Name: "Material Gem"
   Transform {
     Location {
@@ -1515,7 +1515,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17471675855256004266
+  ParentId: 13668911920068913280
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1554,7 +1554,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7038450392570182670
+  Id: 12149111766140003822
   Name: "Material Shard"
   Transform {
     Location {
@@ -1567,7 +1567,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17471675855256004266
+  ParentId: 13668911920068913280
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1606,7 +1606,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2511647735370829903
+  Id: 7950758358509462022
   Name: "Shield"
   Transform {
     Location {
@@ -1619,10 +1619,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 1546990646933671380
-  ChildIds: 1627546547814758875
-  ChildIds: 6060305181165437188
+  ParentId: 11925219385139398502
+  ChildIds: 973855869877364658
+  ChildIds: 9451230420066087081
+  ChildIds: 324636456704142135
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -1653,7 +1653,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6060305181165437188
+  Id: 324636456704142135
   Name: "Material Wood"
   Transform {
     Location {
@@ -1666,7 +1666,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2511647735370829903
+  ParentId: 7950758358509462022
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1705,7 +1705,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1627546547814758875
+  Id: 9451230420066087081
   Name: "Material Metal"
   Transform {
     Location {
@@ -1718,7 +1718,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2511647735370829903
+  ParentId: 7950758358509462022
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1757,7 +1757,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1546990646933671380
+  Id: 973855869877364658
   Name: "Material Shard"
   Transform {
     Location {
@@ -1770,7 +1770,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2511647735370829903
+  ParentId: 7950758358509462022
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1809,7 +1809,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9350159958264900290
+  Id: 2092856405664408699
   Name: "GreatSword"
   Transform {
     Location {
@@ -1822,9 +1822,9 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 16037698979293443138
-  ChildIds: 3602591233011107027
+  ParentId: 11925219385139398502
+  ChildIds: 5616557270088217474
+  ChildIds: 8653048391099174339
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -1855,7 +1855,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3602591233011107027
+  Id: 8653048391099174339
   Name: "Material Gem"
   Transform {
     Location {
@@ -1868,7 +1868,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9350159958264900290
+  ParentId: 2092856405664408699
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1907,7 +1907,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16037698979293443138
+  Id: 5616557270088217474
   Name: "Material Shard"
   Transform {
     Location {
@@ -1920,7 +1920,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9350159958264900290
+  ParentId: 2092856405664408699
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"
@@ -1959,7 +1959,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14086147383015195879
+  Id: 8775900063114473286
   Name: "Sword"
   Transform {
     Location {
@@ -1972,8 +1972,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13280614780053564011
-  ChildIds: 4824803885337623356
+  ParentId: 11925219385139398502
+  ChildIds: 14327012153192830311
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemToSalvage"
@@ -2004,7 +2004,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4824803885337623356
+  Id: 14327012153192830311
   Name: "Shard"
   Transform {
     Location {
@@ -2017,7 +2017,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14086147383015195879
+  ParentId: 8775900063114473286
   UnregisteredParameters {
     Overrides {
       Name: "cs:ItemProduct"

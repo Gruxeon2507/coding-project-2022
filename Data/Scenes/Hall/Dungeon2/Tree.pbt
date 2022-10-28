@@ -1,6 +1,1077 @@
 Name: "Dungeon2"
 RootId: 7182879755221114137
 Objects {
+  Id: 13878046089705727414
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -19125
+      Y: 14055
+      Z: 2570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19125
+            Y: 14055
+            Z: 2570
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 805642516072526383
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12324388230482879416
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -41405.0742
+      Y: -20597.0977
+      Z: 2884.22803
+    }
+    Rotation {
+      Yaw: -45.094738
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -41405.0742
+            Y: -20597.0977
+            Z: 2884.22803
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 14464571924110285760
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -45.0947533
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 14070754720904835497
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -38200.8086
+      Y: -21735.0273
+      Z: 2884.22803
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -38200.8086
+            Y: -21735.0273
+            Z: 2884.22803
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 2410366918128596651
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 10113792642158202238
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -37612.1445
+      Y: -24145.0078
+      Z: 2884.22803
+    }
+    Rotation {
+      Yaw: -32.8847771
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -37612.1445
+            Y: -24145.0078
+            Z: 2884.22803
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 2410366918128596651
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -32.8848114
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 92184701887924311
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -28974.1367
+      Y: 17603.0586
+      Z: 2570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -28974.1367
+            Y: 17603.0586
+            Z: 2570
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 14464571924110285760
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 3528392954794011384
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -29835.6328
+      Y: 14723.5879
+      Z: 2570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -29835.6328
+            Y: 14723.5879
+            Z: 2570
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 805642516072526383
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 1619407048621266648
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -40161.2461
+      Y: 9515.56836
+      Z: -2240
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2.1
+      Y: 2.1
+      Z: 2.1
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -40161.2461
+            Y: 9515.56836
+            Z: -2240
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 14464571924110285760
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2.1
+            Y: 2.1
+            Z: 2.1
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 195559615356836908
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -20710
+      Y: 11495
+      Z: 2570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -20710
+            Y: 11495
+            Z: 2570
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 805642516072526383
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 6582604305318915451
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -23450
+      Y: 14850
+      Z: 2570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -23450
+            Y: 14850
+            Z: 2570
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 2410366918128596651
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 5
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 8719911208455448017
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -24860
+      Y: 12630
+      Z: 2570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -24860
+            Y: 12630
+            Z: 2570
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 2410366918128596651
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 5
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 15578900584812023084
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -24860
+      Y: 18585
+      Z: 2570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -24860
+            Y: 18585
+            Z: 2570
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 805642516072526383
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 5
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 772578499246028475
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -39625
+      Y: 9955
+      Z: -2240
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -39625
+            Y: 9955
+            Z: -2240
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 805642516072526383
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 17856588298551246240
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -38430
+      Y: 8860
+      Z: -2240
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -38430
+            Y: 8860
+            Z: -2240
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 14464571924110285760
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 4609648725017720899
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -19365
+      Y: 16625
+      Z: 2570
+    }
+    Rotation {
+    }
+    Scale {
+      X: 2
+      Y: 2
+      Z: 2
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -19365
+            Y: 16625
+            Z: 2570
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 2410366918128596651
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 2
+            Y: 2
+            Z: 2
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 8536024633508135549
+  Name: "ItemRespawner"
+  Transform {
+    Location {
+      X: -41445.5391
+      Y: -24161.5684
+      Z: 2884.22803
+    }
+    Rotation {
+      Yaw: -14.0336494
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 7182879755221114137
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -41445.5391
+            Y: -24161.5684
+            Z: 2884.22803
+          }
+        }
+        Overrides {
+          Name: "cs:TimeBeforeRespawn"
+          Float: 15
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 805642516072526383
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Yaw: -14.0336895
+          }
+        }
+        Overrides {
+          Name: "Scale"
+          Vector {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 6362920651211512067
+    }
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 2829539051633132485
   Name: "Sky Overcast 01"
   Transform {
@@ -833,77 +1904,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9447324670576873484
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -19365
-      Y: 16625
-      Z: 2570
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -19125
-            Y: 14055
-            Z: 2570
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 5559813656922948904
   Name: "Spawn Mod Decal"
   Transform {
@@ -973,70 +1973,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12299802293218084526
-  Name: "ItemRespawner"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -19365
-            Y: 16625
-            Z: 2570
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 80312900777109269
   Name: "Spawn Mod Decal"
   Transform {
@@ -1091,141 +2027,6 @@ Objects {
     }
     TemplateAsset {
       Id: 10473037234903186326
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 9914561411911724190
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -39625
-      Y: 9955
-      Z: -2240
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -38430
-            Y: 8860
-            Z: -2240
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 30
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 4794705384974331337
-  Name: "ItemRespawner"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -39625
-            Y: 9955
-            Z: -2240
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 30
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
     }
   }
   NetworkRelevanceDistance {
@@ -5991,77 +6792,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9739373259898807277
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -24860
-      Y: 12630
-      Z: 2570
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -24860
-            Y: 18585
-            Z: 2570
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 6661257912952373325
   Name: "Spawn Mod Decal"
   Transform {
@@ -6123,77 +6853,6 @@ Objects {
     }
     TemplateAsset {
       Id: 10473037234903186326
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 4307913702225713560
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -23450
-      Y: 14850
-      Z: 2570
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -24860
-            Y: 12630
-            Z: 2570
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
     }
   }
   NetworkRelevanceDistance {
@@ -6271,77 +6930,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16106698879098384376
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -20710
-      Y: 11495
-      Z: 2570
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -23450
-            Y: 14850
-            Z: 2570
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 15911871071929417362
   Name: "Spawn Mod Decal"
   Transform {
@@ -6403,77 +6991,6 @@ Objects {
     }
     TemplateAsset {
       Id: 10473037234903186326
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 5359037860507024281
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -19125
-      Y: 14055
-      Z: 2570
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -20710
-            Y: 11495
-            Z: 2570
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
     }
   }
   NetworkRelevanceDistance {
@@ -29366,77 +29883,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6501428382498658444
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -39625
-      Y: 9955
-      Z: -2240
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -40161.2461
-            Y: 9515.56836
-            Z: -2240
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 300
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 9746492166792249659
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2.1
-            Y: 2.1
-            Z: 2.1
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 18324662815937645659
   Name: "Ambient Nature Rain Big Drops 01 SFX"
   Transform {
@@ -30294,77 +30740,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7317950543661573707
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -28974.1367
-      Y: 17603.0586
-      Z: 2570
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -29835.6328
-            Y: 14723.5879
-            Z: 2570
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 15442334583948598574
   Name: "Spawn Mod Decal"
   Transform {
@@ -30426,77 +30801,6 @@ Objects {
     }
     TemplateAsset {
       Id: 10473037234903186326
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 971734075373374178
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -24860
-      Y: 18585
-      Z: 2570
-    }
-    Rotation {
-    }
-    Scale {
-      X: 2
-      Y: 2
-      Z: 2
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -28974.1367
-            Y: 17603.0586
-            Z: 2570
-          }
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 5
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2
-            Y: 2
-            Z: 2
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
     }
   }
   NetworkRelevanceDistance {
@@ -31182,142 +31486,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17791098233851074546
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -38200.8086
-      Y: -21735.0273
-      Z: 2884.22803
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -37612.1445
-            Y: -24145.0078
-            Z: 2884.22803
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 30
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -32.884758
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 11799223726558225520
-  Name: "ItemRespawner"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -38200.8086
-            Y: -21735.0273
-            Z: 2884.22803
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 30
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 15437827135893581615
   Name: "Bone Human Scattered 02"
   Transform {
@@ -31994,70 +32162,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3793402177666035715
-  Name: "ItemRespawner"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Boss Dungeon 2 Respawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -40134.0039
-            Y: -24207.0859
-            Z: 2888.57153
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 30
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 18371435510374579958
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.5
-            Y: 1.5
-            Z: 1.5
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 9063958035625158076
   Name: "World Text"
   Transform {
@@ -32160,79 +32264,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16986005042698531083
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -41445.5391
-      Y: -24161.5684
-      Z: 2884.22803
-    }
-    Rotation {
-      Yaw: -14.0336189
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -41405.0742
-            Y: -20597.0977
-            Z: 2884.22803
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 30
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -45.094738
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 11654646078518465573
   Name: "Bone Human Pile Straight 02"
   Transform {
@@ -32279,79 +32310,6 @@ Objects {
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 10960354344358715284
-  Name: "ItemRespawner"
-  Transform {
-    Location {
-      X: -37612.1445
-      Y: -24145.0078
-      Z: 2884.22803
-    }
-    Rotation {
-      Yaw: -32.884758
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 6072001478585378490
-      value {
-        Overrides {
-          Name: "Name"
-          String: "ItemRespawner"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -41445.5391
-            Y: -24161.5684
-            Z: 2884.22803
-          }
-        }
-        Overrides {
-          Name: "cs:TimeBeforeRespawn"
-          Float: 30
-        }
-        Overrides {
-          Name: "cs:Item"
-          AssetReference {
-            Id: 12536638768319939271
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -14.0336189
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 6362920651211512067
-    }
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -95790,185 +95748,6 @@ Objects {
   }
   Relevance {
     Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 11348704185816057045
-  Name: "NPC Camp - Player Proximity"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 7182879755221114137
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3199644718790969714
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 18.901
-            Y: 18.4699554
-            Z: 5
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -43.4934921
-            Y: 165.503906
-            Z: 150
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 6595767621556427337
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 23.0118713
-            Y: 25.3650208
-            Z: 5
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            Y: 433.769531
-            Z: 150
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 7433820655640328381
-      value {
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 12286036808450393068
-      value {
-        Overrides {
-          Name: "cs:DespawnDelay"
-          Float: 2
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15875901479348693684
-      value {
-        Overrides {
-          Name: "cs:NPC"
-          AssetReference {
-            Id: 683388226418661529
-          }
-        }
-        Overrides {
-          Name: "cs:NPC2"
-          AssetReference {
-            Id: 683388226418661529
-          }
-        }
-        Overrides {
-          Name: "cs:NPC3"
-          AssetReference {
-            Id: 683388226418661529
-          }
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -95.4244843
-            Y: 85.7962265
-            Z: 82.2353516
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        Overrides {
-          Name: "Visible"
-          Enum {
-            Value: "mc:evisibilitysetting:forceoff"
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 16778591679197383915
-      value {
-        Overrides {
-          Name: "cs:Team"
-          Int: 2
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 3
-            Y: 3
-            Z: 3
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 17935972594711828497
-      value {
-        Overrides {
-          Name: "Name"
-          String: "NPC Camp - Player Proximity"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -36958.6797
-            Y: 16286.1113
-            Z: 5721.88232
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 3
-            Y: 3
-            Z: 3
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17510640320964350980
-    }
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

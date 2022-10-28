@@ -20,12 +20,12 @@ Assets {
           Overrides {
             Name: "cs:Item"
             AssetReference {
-              Id: 17707070039472534833
+              Id: 7524015587250403768
             }
           }
           Overrides {
             Name: "cs:TimeBeforeRespawn"
-            Float: 30
+            Float: 60
           }
         }
         Collidable_v2 {

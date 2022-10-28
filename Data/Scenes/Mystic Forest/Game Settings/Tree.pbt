@@ -1,7 +1,7 @@
 Name: "Game Settings"
-RootId: 17449583628611248264
+RootId: 13188840338773098062
 Objects {
-  Id: 2370034777505714888
+  Id: 3286250831753284079
   Name: "ItemSystems"
   Transform {
     Location {
@@ -15,7 +15,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -37,7 +37,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16946694351326782119
+  Id: 18325064568471471700
   Name: "Scroll First-Third Person Camera"
   Transform {
     Scale {
@@ -46,7 +46,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   TemplateInstance {
     ParameterOverrideMap {
       key: 11236660332132768160
@@ -84,7 +84,7 @@ Objects {
   }
 }
 Objects {
-  Id: 1198154882001055882
+  Id: 7502301609795437621
   Name: "Shift to Sprint"
   Transform {
     Scale {
@@ -93,7 +93,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -139,7 +139,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7712290653513184004
+  Id: 1215413252614657748
   Name: "Game Master Manager"
   Transform {
     Scale {
@@ -148,7 +148,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   CameraCollidable {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -201,7 +201,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5184667127634397191
+  Id: 9661414917185821765
   Name: "Combat Dependencies"
   Transform {
     Scale {
@@ -210,7 +210,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   TemplateInstance {
     ParameterOverrideMap {
       key: 8014650375856875642
@@ -245,7 +245,7 @@ Objects {
   }
 }
 Objects {
-  Id: 12907665239939516426
+  Id: 4469678394523536411
   Name: "EquipmentPersisterStarterServer"
   Transform {
     Location {
@@ -258,7 +258,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   UnregisteredParameters {
     Overrides {
       Name: "cs:DefaultEquipment"
@@ -291,7 +291,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6713307516524251718
+  Id: 7163503614425300705
   Name: "ResourcePersisterServer"
   Transform {
     Location {
@@ -304,7 +304,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -325,7 +325,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12173080802576052673
+  Id: 17946689985183186902
   Name: "Team Settings"
   Transform {
     Location {
@@ -338,7 +338,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -363,7 +363,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1444497212117193755
+  Id: 105941052969990188
   Name: "Game Settings"
   Transform {
     Location {
@@ -376,7 +376,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17449583628611248264
+  ParentId: 13188840338773098062
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

@@ -1,7 +1,7 @@
 Name: "Epic"
-RootId: 6766389186267428777
+RootId: 5661299948310174644
 Objects {
-  Id: 6704824258543125590
+  Id: 3274559466298859526
   Name: "Cung Xanh"
   Transform {
     Location {
@@ -14,12 +14,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6766389186267428777
+  ParentId: 5661299948310174644
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 16616164595199568798
+        SelfId: 8595695951937206216
       }
     }
     Overrides {
@@ -53,7 +53,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14558063980763427375
+  Id: 7815515567954805827
   Name: "Cu\341\273\231n D\341\273\213ch Chuy\341\273\203n"
   Transform {
     Location {
@@ -66,12 +66,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6766389186267428777
+  ParentId: 5661299948310174644
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 5547115818643164231
+        SelfId: 9286617803717131423
       }
     }
     Overrides {
@@ -105,7 +105,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15585735300426969604
+  Id: 18273352759355663271
   Name: "R\306\260\306\241ng Mini"
   Transform {
     Location {
@@ -118,12 +118,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6766389186267428777
+  ParentId: 5661299948310174644
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 6406299074194343712
+        SelfId: 10125729509660501406
       }
     }
     Overrides {
@@ -157,7 +157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9236939576711708355
+  Id: 9034383513398374636
   Name: "M\305\251 Noxus"
   Transform {
     Location {
@@ -170,12 +170,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6766389186267428777
+  ParentId: 5661299948310174644
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 7927336381642242181
+        SelfId: 2684825625548587274
       }
     }
     Overrides {
@@ -209,7 +209,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2042891115109919
+  Id: 14000281668335620427
   Name: "Ng\341\273\215c C\306\260\341\273\235ng H\303\263a"
   Transform {
     Location {
@@ -222,12 +222,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6766389186267428777
+  ParentId: 5661299948310174644
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 4385519630199513702
+        SelfId: 5731002864040212662
       }
     }
     Overrides {
@@ -269,7 +269,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1645753315612714927
+  Id: 11570739920576202423
   Name: "G\341\272\255y Qu\303\241 Kh\341\273\225"
   Transform {
     Location {
@@ -282,12 +282,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6766389186267428777
+  ParentId: 5661299948310174644
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 12501350147401158359
+        SelfId: 191589640082696801
       }
     }
     Overrides {
@@ -321,7 +321,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7240193106979723171
+  Id: 11379420875576376725
   Name: "Khi\303\252n B\304\203ng"
   Transform {
     Location {
@@ -334,12 +334,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6766389186267428777
+  ParentId: 5661299948310174644
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 14748481626438230771
+        SelfId: 8349482172552116313
       }
     }
     Overrides {
@@ -373,7 +373,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 448138244232523047
+  Id: 727864007861808600
   Name: "Coins"
   Transform {
     Location {
@@ -386,12 +386,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6766389186267428777
+  ParentId: 5661299948310174644
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 14672661501618845118
+        SelfId: 5612763040909349973
       }
     }
     Overrides {

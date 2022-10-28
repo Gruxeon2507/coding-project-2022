@@ -1,7 +1,7 @@
 Name: "UI"
-RootId: 7349172812801385921
+RootId: 14744091249645694011
 Objects {
-  Id: 12535037618953626429
+  Id: 10185831244284042166
   Name: "UI Container"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -61,7 +61,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1946224183121152731
+  Id: 13131894917935961579
   Name: "UI Container"
   Transform {
     Location {
@@ -74,7 +74,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -121,7 +121,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3332994403988696110
+  Id: 5959276997230137084
   Name: "UI Container"
   Transform {
     Location {
@@ -134,7 +134,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -181,7 +181,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 593558325882259539
+  Id: 12668639788404970154
   Name: "UI Container"
   Transform {
     Location {
@@ -194,7 +194,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -241,7 +241,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9491157027924397257
+  Id: 13550736057441281461
   Name: "UI Container"
   Transform {
     Location {
@@ -254,7 +254,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -301,7 +301,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13844185663872931593
+  Id: 607268810026237744
   Name: "UI Container"
   Transform {
     Location {
@@ -314,7 +314,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -361,7 +361,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1691129990057660531
+  Id: 10209531938300597434
   Name: "UI Container"
   Transform {
     Location {
@@ -374,7 +374,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -421,7 +421,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9762216160609055812
+  Id: 15886309495520557429
   Name: "UI Container"
   Transform {
     Location {
@@ -434,7 +434,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -481,7 +481,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16778648473505654450
+  Id: 17599833761823657032
   Name: "UI Container"
   Transform {
     Location {
@@ -494,7 +494,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -541,7 +541,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7247343054039493354
+  Id: 10623680564068667697
   Name: "UI Container"
   Transform {
     Location {
@@ -554,7 +554,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -601,7 +601,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18028908295110398345
+  Id: 15671354234224766984
   Name: "UI Container"
   Transform {
     Location {
@@ -614,7 +614,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -661,7 +661,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9991094000004819724
+  Id: 7233530538960525925
   Name: "UI Container"
   Transform {
     Location {
@@ -674,7 +674,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -721,7 +721,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5891561017742977251
+  Id: 1515993516450095836
   Name: "UI Container"
   Transform {
     Location {
@@ -734,7 +734,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7349172812801385921
+  ParentId: 14744091249645694011
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
