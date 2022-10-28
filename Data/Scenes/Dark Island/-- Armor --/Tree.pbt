@@ -1,7 +1,7 @@
 Name: "-- Armor --"
-RootId: 10046225696788253952
+RootId: 16823502590337369386
 Objects {
-  Id: 6864352651420855425
+  Id: 11663814572820904485
   Name: "-- Chest --"
   Transform {
     Location {
@@ -14,7 +14,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10046225696788253952
+  ParentId: 16823502590337369386
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -34,7 +34,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3052845450417645318
+  Id: 14081644345676656236
   Name: "-- Boots --"
   Transform {
     Location {
@@ -47,7 +47,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10046225696788253952
+  ParentId: 16823502590337369386
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -67,7 +67,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 760745956037222273
+  Id: 16473513660492040239
   Name: "-- Trinkets --"
   Transform {
     Location {
@@ -80,7 +80,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10046225696788253952
+  ParentId: 16823502590337369386
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -100,7 +100,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8344566493185824660
+  Id: 3698918622280070351
   Name: "-- Helms --"
   Transform {
     Location {
@@ -113,7 +113,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10046225696788253952
+  ParentId: 16823502590337369386
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }

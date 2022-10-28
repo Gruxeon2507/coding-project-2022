@@ -5099,7 +5099,7 @@ Objects {
   }
 }
 Objects {
-  Id: 8315726061844125177
+  Id: 13181901907449659478
   Name: "Prospecting"
   Transform {
     Location {
@@ -5116,71 +5116,33 @@ Objects {
     }
   }
   ParentId: 13469333614242049639
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3129847787743663304
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -42.5418701
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 11900482157114581899
-      value {
-        Overrides {
-          Name: "Position"
-          Vector {
-            Z: -28.5714302
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 3.22769094
-            Y: 3.22769094
-            Z: 0.977107227
-          }
-        }
-      }
-    }
-    ParameterOverrideMap {
-      key: 15799419178818184349
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Prospecting"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 3141.03271
-            Y: -2208.51953
-            Z: 150
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1.75
-            Y: 1.75
-            Z: 1.75
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 15069709741407121570
-    }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
   }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Prospecting"
+  }
+  InstanceHistory {
+    SelfId: 13181901907449659478
+    SubobjectId: 15799419178818184349
+    InstanceId: 8315726061844125177
+    TemplateId: 15069709741407121570
+    WasRoot: true
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 5966885017631312148

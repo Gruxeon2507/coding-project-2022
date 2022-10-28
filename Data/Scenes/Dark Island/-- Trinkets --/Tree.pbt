@@ -1,7 +1,7 @@
 Name: "-- Trinkets --"
-RootId: 760745956037222273
+RootId: 16473513660492040239
 Objects {
-  Id: 6330126122935490664
+  Id: 18228251505129726785
   Name: "B\303\240i TF"
   Transform {
     Location {
@@ -14,8 +14,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 760745956037222273
-  ChildIds: 16104283463353825429
+  ParentId: 16473513660492040239
+  ChildIds: 3050668967359165549
   UnregisteredParameters {
     Overrides {
       Name: "cs:Name"
@@ -97,7 +97,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16104283463353825429
+  Id: 3050668967359165549
   Name: "Stats"
   Transform {
     Location {
@@ -113,8 +113,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6330126122935490664
-  ChildIds: 16437900712191251765
+  ParentId: 18228251505129726785
+  ChildIds: 18362488480426035967
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -133,7 +133,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16437900712191251765
+  Id: 18362488480426035967
   Name: "Base"
   Transform {
     Location {
@@ -146,8 +146,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16104283463353825429
-  ChildIds: 11713771688247874452
+  ParentId: 3050668967359165549
+  ChildIds: 13791875028375266614
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -166,7 +166,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11713771688247874452
+  Id: 13791875028375266614
   Name: "CritChance"
   Transform {
     Location {
@@ -179,7 +179,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16437900712191251765
+  ParentId: 18362488480426035967
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"

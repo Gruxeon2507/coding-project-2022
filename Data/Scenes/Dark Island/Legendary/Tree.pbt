@@ -1,7 +1,7 @@
 Name: "Legendary"
-RootId: 14212840729865883948
+RootId: 4479441667824364474
 Objects {
-  Id: 12504286429464557454
+  Id: 5366115254307048240
   Name: "R\306\260\306\241ng Si\303\252u To Kh\341\273\225ng L\341\273\223"
   Transform {
     Location {
@@ -14,12 +14,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14212840729865883948
+  ParentId: 4479441667824364474
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 17956476766677079110
+        SelfId: 64584966109004755
       }
     }
     Overrides {
@@ -53,7 +53,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15268893306407832228
+  Id: 10249835568870794497
   Name: "M\305\251 Ionia"
   Transform {
     Location {
@@ -66,12 +66,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14212840729865883948
+  ParentId: 4479441667824364474
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 531694796127853476
+        SelfId: 6127744862109177968
       }
     }
     Overrides {
@@ -105,7 +105,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 179946343039910759
+  Id: 18169548330711752766
   Name: "B\303\271a \304\220\341\272\247u L\303\242u"
   Transform {
     Location {
@@ -118,12 +118,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14212840729865883948
+  ParentId: 4479441667824364474
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 14384978608431372314
+        SelfId: 2050753461829131444
       }
     }
     Overrides {
@@ -157,7 +157,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15982448386031394827
+  Id: 8099872046625670312
   Name: "Coins"
   Transform {
     Location {
@@ -170,12 +170,12 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14212840729865883948
+  ParentId: 4479441667824364474
   UnregisteredParameters {
     Overrides {
       Name: "cs:Item"
       ObjectReference {
-        SelfId: 7686809865115013133
+        SelfId: 13646038968174201347
       }
     }
     Overrides {

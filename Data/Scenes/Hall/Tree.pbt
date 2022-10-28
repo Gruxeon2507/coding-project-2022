@@ -26,7 +26,6 @@ Objects {
   ChildIds: 5431360534382517102
   ChildIds: 16642656275692172485
   ChildIds: 8700713520672683534
-  ChildIds: 1081592017699778693
   ChildIds: 4120821393559706557
   ChildIds: 9410808133795207708
   ChildIds: 14488654001109491261
@@ -224,44 +223,6 @@ Objects {
     }
     TemplateAsset {
       Id: 10428923721109173598
-    }
-  }
-}
-Objects {
-  Id: 1081592017699778693
-  Name: "Healing Buff"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 13496431957739731259
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Healing Buff"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 2688.46606
-            Y: 19972.0625
-            Z: 290
-          }
-        }
-        Overrides {
-          Name: "cs:HealAmount"
-          Int: 10
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1649023624935374462
     }
   }
 }

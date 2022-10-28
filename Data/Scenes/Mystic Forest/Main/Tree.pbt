@@ -306,60 +306,6 @@ Objects {
   }
 }
 Objects {
-  Id: 6943190765569624036
-  Name: "Mystical Cape"
-  Transform {
-    Location {
-      X: 6750
-      Y: -2250
-      Z: 1000
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.25
-      Y: 0.25
-      Z: 0.25
-    }
-  }
-  ParentId: 11560871426476592131
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15763110854380731051
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Mystical Cape"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 6750
-            Y: -2250
-            Z: 1000
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 0.25
-            Y: 0.25
-            Z: 0.25
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 17860023943552503905
-    }
-  }
-}
-Objects {
   Id: 18314566633314897841
   Name: "Mystical umbrella axe with effects"
   Transform {
@@ -411,60 +357,6 @@ Objects {
     }
     TemplateAsset {
       Id: 3951838335082960506
-    }
-  }
-}
-Objects {
-  Id: 9806322910049917794
-  Name: "WaveManager"
-  Transform {
-    Location {
-      X: -3071.99902
-      Y: -2010.37451
-      Z: -650
-    }
-    Rotation {
-    }
-    Scale {
-      X: 20.25
-      Y: 20.25
-      Z: 20.25
-    }
-  }
-  ParentId: 11560871426476592131
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 10859963069759094350
-      value {
-        Overrides {
-          Name: "Name"
-          String: "WaveManager"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3071.99902
-            Y: -2010.37451
-            Z: -650
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 20.25
-            Y: 20.25
-            Z: 20.25
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 7499874186182878571
     }
   }
 }
@@ -890,9 +782,9 @@ Objects {
   Name: "Spawn Point"
   Transform {
     Location {
-      X: -12425
-      Y: -12950
-      Z: 5116.26318
+      X: -602.488464
+      Y: -2811.01147
+      Z: 218.022614
     }
     Rotation {
     }
@@ -932,44 +824,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4777537847692583233
-  Name: "Gameplay Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 11560871426476592131
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Gameplay Settings"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 13469333614242049639
   Name: "Map"
   Transform {
@@ -999,6 +853,74 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Map"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 17449583628611248264
+  Name: "Game Settings"
+  Transform {
+    Location {
+      Z: -0.000244140625
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11560871426476592131
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Game Settings"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 15013068025431967012
+  Name: "UI Settings"
+  Transform {
+    Location {
+      Z: -0.000244140625
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 11560871426476592131
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "UI Settings"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

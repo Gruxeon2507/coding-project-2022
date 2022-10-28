@@ -1,7 +1,7 @@
 Name: "-- Melee Weapons --"
-RootId: 5725962579156036079
+RootId: 4946933227716984352
 Objects {
-  Id: 6187119328866858185
+  Id: 17957231458222019730
   Name: "Ki\341\272\277m B.F"
   Transform {
     Location {
@@ -14,8 +14,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5725962579156036079
-  ChildIds: 12954659062809379298
+  ParentId: 4946933227716984352
+  ChildIds: 9543315338532233217
   UnregisteredParameters {
     Overrides {
       Name: "cs:Name"
@@ -102,7 +102,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12954659062809379298
+  Id: 9543315338532233217
   Name: "Stats"
   Transform {
     Location {
@@ -118,11 +118,11 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6187119328866858185
-  ChildIds: 3073540310051729869
-  ChildIds: 17643601084363548634
-  ChildIds: 9082929929641411156
-  ChildIds: 2186107721052631273
+  ParentId: 17957231458222019730
+  ChildIds: 15124511885042389409
+  ChildIds: 5899898352149213616
+  ChildIds: 4621002760761222390
+  ChildIds: 1722126409921078254
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -141,7 +141,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2186107721052631273
+  Id: 1722126409921078254
   Name: "Bonus1"
   Transform {
     Location {
@@ -154,8 +154,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12954659062809379298
-  ChildIds: 18269608363846956862
+  ParentId: 9543315338532233217
+  ChildIds: 7586129224698526767
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -174,7 +174,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18269608363846956862
+  Id: 7586129224698526767
   Name: "Haste"
   Transform {
     Location {
@@ -187,7 +187,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 2186107721052631273
+  ParentId: 1722126409921078254
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
@@ -232,7 +232,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9082929929641411156
+  Id: 4621002760761222390
   Name: "Bonus1"
   Transform {
     Location {
@@ -245,8 +245,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12954659062809379298
-  ChildIds: 5057993310728119434
+  ParentId: 9543315338532233217
+  ChildIds: 14564676835061955836
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -265,7 +265,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5057993310728119434
+  Id: 14564676835061955836
   Name: "Haste"
   Transform {
     Location {
@@ -278,7 +278,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 9082929929641411156
+  ParentId: 4621002760761222390
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
@@ -323,7 +323,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17643601084363548634
+  Id: 5899898352149213616
   Name: "Base"
   Transform {
     Location {
@@ -336,8 +336,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12954659062809379298
-  ChildIds: 14822961930521348118
+  ParentId: 9543315338532233217
+  ChildIds: 1145909266574631814
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -356,7 +356,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14822961930521348118
+  Id: 1145909266574631814
   Name: "Attack"
   Transform {
     Location {
@@ -369,7 +369,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17643601084363548634
+  ParentId: 5899898352149213616
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
@@ -414,7 +414,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3073540310051729869
+  Id: 15124511885042389409
   Name: "Base"
   Transform {
     Location {
@@ -427,8 +427,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 12954659062809379298
-  ChildIds: 3357224482432450118
+  ParentId: 9543315338532233217
+  ChildIds: 16183257080100552101
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -447,7 +447,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 3357224482432450118
+  Id: 16183257080100552101
   Name: "CritChance"
   Transform {
     Location {
@@ -460,7 +460,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 3073540310051729869
+  ParentId: 15124511885042389409
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
@@ -505,7 +505,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13228580507844878956
+  Id: 10179539172749350759
   Name: "Ki\341\272\277m Doran"
   Transform {
     Location {
@@ -518,8 +518,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5725962579156036079
-  ChildIds: 5409483307373053409
+  ParentId: 4946933227716984352
+  ChildIds: 4363392561769782160
   UnregisteredParameters {
     Overrides {
       Name: "cs:Name"
@@ -606,7 +606,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5409483307373053409
+  Id: 4363392561769782160
   Name: "Stats"
   Transform {
     Location {
@@ -622,10 +622,10 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13228580507844878956
-  ChildIds: 10313832565006528389
-  ChildIds: 5539499253620272370
-  ChildIds: 13857381260578531601
+  ParentId: 10179539172749350759
+  ChildIds: 2817581339128520859
+  ChildIds: 14168969343846575508
+  ChildIds: 17804298568158649707
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -644,7 +644,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13857381260578531601
+  Id: 17804298568158649707
   Name: "Bonus1"
   Transform {
     Location {
@@ -657,8 +657,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5409483307373053409
-  ChildIds: 6186732829462044961
+  ParentId: 4363392561769782160
+  ChildIds: 8987982455699860659
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -677,7 +677,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6186732829462044961
+  Id: 8987982455699860659
   Name: "Haste"
   Transform {
     Location {
@@ -690,7 +690,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13857381260578531601
+  ParentId: 17804298568158649707
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
@@ -735,7 +735,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5539499253620272370
+  Id: 14168969343846575508
   Name: "Bonus1"
   Transform {
     Location {
@@ -748,8 +748,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5409483307373053409
-  ChildIds: 12637658084005858749
+  ParentId: 4363392561769782160
+  ChildIds: 3509837648351340378
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -768,7 +768,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12637658084005858749
+  Id: 3509837648351340378
   Name: "Magic"
   Transform {
     Location {
@@ -781,7 +781,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5539499253620272370
+  ParentId: 14168969343846575508
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
@@ -826,7 +826,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10313832565006528389
+  Id: 2817581339128520859
   Name: "Base"
   Transform {
     Location {
@@ -839,8 +839,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 5409483307373053409
-  ChildIds: 4422824921590480074
+  ParentId: 4363392561769782160
+  ChildIds: 2048036554708729973
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -859,7 +859,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4422824921590480074
+  Id: 2048036554708729973
   Name: "Attack"
   Transform {
     Location {
@@ -872,7 +872,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10313832565006528389
+  ParentId: 2817581339128520859
   UnregisteredParameters {
     Overrides {
       Name: "cs:Min"
