@@ -5656,7 +5656,7 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Text {
-    Text: "des armes sur des petit boss. "
+    Text: "valueables rewards and equipments"
     FontAsset {
     }
     Color {
@@ -5706,7 +5706,7 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Text {
-    Text: "ennemies, de l\'argent ,de l\'experience, des cl\303\251s ou meme"
+    Text: "Can be found around the world, using to store item or contain"
     FontAsset {
     }
     Color {
@@ -5756,7 +5756,7 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Text {
-    Text: "Il existe diff\303\251rentes r\303\251compense que vous pouvez drop sur"
+    Text: "TREASURE CHESS   "
     FontAsset {
     }
     Color {
