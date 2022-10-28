@@ -660,7 +660,7 @@ Objects {
   Name: "Location:D1"
   Transform {
     Location {
-      X: -60
+      X: 1130.99146
       Y: 20095
       Z: 405
     }

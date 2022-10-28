@@ -1,7 +1,7 @@
 Name: "Foliage"
-RootId: 18276335768224128200
+RootId: 7588892069488114949
 Objects {
-  Id: 11718055012010471469
+  Id: 10850564607294579956
   Name: "FoliageLamps"
   Transform {
     Location {
@@ -17,15 +17,15 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
-  ChildIds: 7882319541573234162
-  ChildIds: 17639357544518821054
-  ChildIds: 1809916345601510298
-  ChildIds: 17740917641151884626
-  ChildIds: 6137440227711628419
-  ChildIds: 7459314680245797207
-  ChildIds: 13606796414037827907
-  ChildIds: 14574283535247077986
+  ParentId: 7588892069488114949
+  ChildIds: 8447881675737768994
+  ChildIds: 4844602121903447527
+  ChildIds: 1845775966835591756
+  ChildIds: 11280923156142598627
+  ChildIds: 17140490212899135011
+  ChildIds: 17009504089895284623
+  ChildIds: 16886595320813879976
+  ChildIds: 2619203539363514814
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -46,7 +46,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14574283535247077986
+  Id: 2619203539363514814
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -62,12 +62,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 11718055012010471469
-  ChildIds: 13046290053641994675
-  ChildIds: 484680649516793422
-  ChildIds: 8684572585186028261
-  ChildIds: 11574629506077781112
-  ChildIds: 9117392859106883246
+  ParentId: 10850564607294579956
+  ChildIds: 597287904882948012
+  ChildIds: 15789814500492182205
+  ChildIds: 3780523487739740416
+  ChildIds: 9936576113445055516
+  ChildIds: 13491950745926509499
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -88,7 +88,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9117392859106883246
+  Id: 13491950745926509499
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -104,7 +104,7 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 14574283535247077986
+  ParentId: 2619203539363514814
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -170,7 +170,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11574629506077781112
+  Id: 9936576113445055516
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -186,7 +186,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 14574283535247077986
+  ParentId: 2619203539363514814
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -242,7 +242,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8684572585186028261
+  Id: 3780523487739740416
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -256,7 +256,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 14574283535247077986
+  ParentId: 2619203539363514814
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -312,7 +312,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 484680649516793422
+  Id: 15789814500492182205
   Name: "Point Light"
   Transform {
     Location {
@@ -327,7 +327,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14574283535247077986
+  ParentId: 2619203539363514814
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -379,7 +379,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13046290053641994675
+  Id: 597287904882948012
   Name: "Spotlight"
   Transform {
     Location {
@@ -394,7 +394,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14574283535247077986
+  ParentId: 2619203539363514814
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -450,7 +450,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13606796414037827907
+  Id: 16886595320813879976
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -466,12 +466,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 11718055012010471469
-  ChildIds: 8064044757871567327
-  ChildIds: 391720576993353168
-  ChildIds: 5454672261209245825
-  ChildIds: 2563006257279224012
-  ChildIds: 9526156237011255566
+  ParentId: 10850564607294579956
+  ChildIds: 8279309364573011446
+  ChildIds: 14062109518009006895
+  ChildIds: 13591357395655630435
+  ChildIds: 200865717012440920
+  ChildIds: 231871739614648878
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -492,7 +492,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9526156237011255566
+  Id: 231871739614648878
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -508,7 +508,7 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 13606796414037827907
+  ParentId: 16886595320813879976
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -574,7 +574,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2563006257279224012
+  Id: 200865717012440920
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -590,7 +590,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 13606796414037827907
+  ParentId: 16886595320813879976
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -646,7 +646,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5454672261209245825
+  Id: 13591357395655630435
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -660,7 +660,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 13606796414037827907
+  ParentId: 16886595320813879976
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -716,7 +716,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 391720576993353168
+  Id: 14062109518009006895
   Name: "Point Light"
   Transform {
     Location {
@@ -731,7 +731,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13606796414037827907
+  ParentId: 16886595320813879976
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -783,7 +783,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8064044757871567327
+  Id: 8279309364573011446
   Name: "Spotlight"
   Transform {
     Location {
@@ -798,7 +798,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 13606796414037827907
+  ParentId: 16886595320813879976
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -854,7 +854,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7459314680245797207
+  Id: 17009504089895284623
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -870,12 +870,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 11718055012010471469
-  ChildIds: 1056995604609767407
-  ChildIds: 5456060497941504536
-  ChildIds: 1033089168616566878
-  ChildIds: 6153891799392576045
-  ChildIds: 17176569487451736243
+  ParentId: 10850564607294579956
+  ChildIds: 3262469288226198324
+  ChildIds: 3987005817574482423
+  ChildIds: 12022768651991832066
+  ChildIds: 2331479472102979510
+  ChildIds: 6482180741008148076
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -896,7 +896,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17176569487451736243
+  Id: 6482180741008148076
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -912,7 +912,7 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 7459314680245797207
+  ParentId: 17009504089895284623
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -978,7 +978,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6153891799392576045
+  Id: 2331479472102979510
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -994,7 +994,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 7459314680245797207
+  ParentId: 17009504089895284623
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1050,7 +1050,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1033089168616566878
+  Id: 12022768651991832066
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1064,7 +1064,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 7459314680245797207
+  ParentId: 17009504089895284623
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1120,7 +1120,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5456060497941504536
+  Id: 3987005817574482423
   Name: "Point Light"
   Transform {
     Location {
@@ -1135,7 +1135,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7459314680245797207
+  ParentId: 17009504089895284623
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1187,7 +1187,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1056995604609767407
+  Id: 3262469288226198324
   Name: "Spotlight"
   Transform {
     Location {
@@ -1202,7 +1202,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7459314680245797207
+  ParentId: 17009504089895284623
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1258,7 +1258,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6137440227711628419
+  Id: 17140490212899135011
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -1274,12 +1274,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 11718055012010471469
-  ChildIds: 4781520414360748619
-  ChildIds: 18046857355053725361
-  ChildIds: 14358151550366151476
-  ChildIds: 2973048046419802173
-  ChildIds: 6187687274182851551
+  ParentId: 10850564607294579956
+  ChildIds: 6684633764408534399
+  ChildIds: 9854385135841861966
+  ChildIds: 8411365272227870434
+  ChildIds: 12910794335719739940
+  ChildIds: 5805720198451294875
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1300,7 +1300,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6187687274182851551
+  Id: 5805720198451294875
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1316,7 +1316,7 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 6137440227711628419
+  ParentId: 17140490212899135011
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1382,7 +1382,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2973048046419802173
+  Id: 12910794335719739940
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1398,7 +1398,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 6137440227711628419
+  ParentId: 17140490212899135011
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1454,7 +1454,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 14358151550366151476
+  Id: 8411365272227870434
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1468,7 +1468,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 6137440227711628419
+  ParentId: 17140490212899135011
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1524,7 +1524,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 18046857355053725361
+  Id: 9854385135841861966
   Name: "Point Light"
   Transform {
     Location {
@@ -1539,7 +1539,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6137440227711628419
+  ParentId: 17140490212899135011
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1591,7 +1591,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4781520414360748619
+  Id: 6684633764408534399
   Name: "Spotlight"
   Transform {
     Location {
@@ -1606,7 +1606,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 6137440227711628419
+  ParentId: 17140490212899135011
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1662,7 +1662,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17740917641151884626
+  Id: 11280923156142598627
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -1678,12 +1678,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 11718055012010471469
-  ChildIds: 13546124644557697461
-  ChildIds: 6513787296014105413
-  ChildIds: 2274660308397879481
-  ChildIds: 2757514596411634488
-  ChildIds: 15142088022274947194
+  ParentId: 10850564607294579956
+  ChildIds: 250528649763893939
+  ChildIds: 13183490182893757648
+  ChildIds: 5708091996163528104
+  ChildIds: 1427935425628655323
+  ChildIds: 3785592010731952944
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1704,7 +1704,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15142088022274947194
+  Id: 3785592010731952944
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1720,7 +1720,7 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 17740917641151884626
+  ParentId: 11280923156142598627
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1786,7 +1786,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2757514596411634488
+  Id: 1427935425628655323
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1802,7 +1802,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 17740917641151884626
+  ParentId: 11280923156142598627
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1858,7 +1858,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2274660308397879481
+  Id: 5708091996163528104
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -1872,7 +1872,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 17740917641151884626
+  ParentId: 11280923156142598627
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -1928,7 +1928,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6513787296014105413
+  Id: 13183490182893757648
   Name: "Point Light"
   Transform {
     Location {
@@ -1943,7 +1943,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17740917641151884626
+  ParentId: 11280923156142598627
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -1995,7 +1995,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13546124644557697461
+  Id: 250528649763893939
   Name: "Spotlight"
   Transform {
     Location {
@@ -2010,7 +2010,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17740917641151884626
+  ParentId: 11280923156142598627
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2066,7 +2066,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1809916345601510298
+  Id: 1845775966835591756
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -2082,12 +2082,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 11718055012010471469
-  ChildIds: 16340947058391014169
-  ChildIds: 5642671686289315240
-  ChildIds: 9425036621974566841
-  ChildIds: 6463393294238413900
-  ChildIds: 16932874007730661040
+  ParentId: 10850564607294579956
+  ChildIds: 9082484281591744508
+  ChildIds: 5441163828831392401
+  ChildIds: 3860889815562326409
+  ChildIds: 11277170904201534825
+  ChildIds: 6542109639519684268
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2108,7 +2108,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16932874007730661040
+  Id: 6542109639519684268
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2124,7 +2124,7 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 1809916345601510298
+  ParentId: 1845775966835591756
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2190,7 +2190,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6463393294238413900
+  Id: 11277170904201534825
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2206,7 +2206,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 1809916345601510298
+  ParentId: 1845775966835591756
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2262,7 +2262,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9425036621974566841
+  Id: 3860889815562326409
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2276,7 +2276,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 1809916345601510298
+  ParentId: 1845775966835591756
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2332,7 +2332,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5642671686289315240
+  Id: 5441163828831392401
   Name: "Point Light"
   Transform {
     Location {
@@ -2347,7 +2347,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1809916345601510298
+  ParentId: 1845775966835591756
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2399,7 +2399,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16340947058391014169
+  Id: 9082484281591744508
   Name: "Spotlight"
   Transform {
     Location {
@@ -2414,7 +2414,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 1809916345601510298
+  ParentId: 1845775966835591756
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2470,7 +2470,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17639357544518821054
+  Id: 4844602121903447527
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -2486,12 +2486,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 11718055012010471469
-  ChildIds: 8655802589752187550
-  ChildIds: 16819338771899774239
-  ChildIds: 16877198479795143774
-  ChildIds: 16788325218875808163
-  ChildIds: 2668679192541098478
+  ParentId: 10850564607294579956
+  ChildIds: 10892158423448609492
+  ChildIds: 10807568689547130180
+  ChildIds: 13268101674776059749
+  ChildIds: 4911558971142473905
+  ChildIds: 13076004894105788274
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2512,7 +2512,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2668679192541098478
+  Id: 13076004894105788274
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2528,7 +2528,7 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 17639357544518821054
+  ParentId: 4844602121903447527
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2594,7 +2594,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16788325218875808163
+  Id: 4911558971142473905
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2610,7 +2610,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 17639357544518821054
+  ParentId: 4844602121903447527
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2666,7 +2666,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16877198479795143774
+  Id: 13268101674776059749
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2680,7 +2680,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 17639357544518821054
+  ParentId: 4844602121903447527
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2736,7 +2736,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16819338771899774239
+  Id: 10807568689547130180
   Name: "Point Light"
   Transform {
     Location {
@@ -2751,7 +2751,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17639357544518821054
+  ParentId: 4844602121903447527
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2803,7 +2803,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8655802589752187550
+  Id: 10892158423448609492
   Name: "Spotlight"
   Transform {
     Location {
@@ -2818,7 +2818,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 17639357544518821054
+  ParentId: 4844602121903447527
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2874,7 +2874,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7882319541573234162
+  Id: 8447881675737768994
   Name: "FoliageLamp"
   Transform {
     Location {
@@ -2890,12 +2890,12 @@ Objects {
       Z: 1.41042447
     }
   }
-  ParentId: 11718055012010471469
-  ChildIds: 16311211727573367465
-  ChildIds: 10243005357636969393
-  ChildIds: 17032987885484520131
-  ChildIds: 13824633753237225521
-  ChildIds: 10043246668768676625
+  ParentId: 10850564607294579956
+  ChildIds: 6290432592245970631
+  ChildIds: 16904274221947838019
+  ChildIds: 10014224140308864537
+  ChildIds: 14871946336909145327
+  ChildIds: 3633042413183723888
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -2916,7 +2916,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10043246668768676625
+  Id: 3633042413183723888
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -2932,7 +2932,7 @@ Objects {
       Z: 0.296251625
     }
   }
-  ParentId: 7882319541573234162
+  ParentId: 8447881675737768994
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -2998,7 +2998,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13824633753237225521
+  Id: 14871946336909145327
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -3014,7 +3014,7 @@ Objects {
       Z: 0.31988579
     }
   }
-  ParentId: 7882319541573234162
+  ParentId: 8447881675737768994
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3070,7 +3070,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17032987885484520131
+  Id: 10014224140308864537
   Name: "Cone - Hollow"
   Transform {
     Location {
@@ -3084,7 +3084,7 @@ Objects {
       Z: 0.50093
     }
   }
-  ParentId: 7882319541573234162
+  ParentId: 8447881675737768994
   UnregisteredParameters {
     Overrides {
       Name: "ma:Shared_BaseMaterial:id"
@@ -3140,7 +3140,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10243005357636969393
+  Id: 16904274221947838019
   Name: "Point Light"
   Transform {
     Location {
@@ -3155,7 +3155,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7882319541573234162
+  ParentId: 8447881675737768994
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3207,7 +3207,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16311211727573367465
+  Id: 6290432592245970631
   Name: "Spotlight"
   Transform {
     Location {
@@ -3222,7 +3222,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 7882319541573234162
+  ParentId: 8447881675737768994
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3278,7 +3278,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4420606783038670360
+  Id: 3238371083476925409
   Name: "Grass Tall"
   Transform {
     Location {
@@ -3294,7 +3294,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3330,7 +3330,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 2034161475762621038
+  Id: 11890614372543821296
   Name: "Grass Short"
   Transform {
     Location {
@@ -3346,7 +3346,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3382,7 +3382,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 8281431465328689627
+  Id: 1206377121349039770
   Name: "Grass Tall"
   Transform {
     Location {
@@ -3398,7 +3398,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3434,7 +3434,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17554730369135517381
+  Id: 2900836004677284455
   Name: "Bush 02"
   Transform {
     Location {
@@ -3450,7 +3450,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3486,7 +3486,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1503013190871316313
+  Id: 16334272774332687712
   Name: "Bush 01"
   Transform {
     Location {
@@ -3502,7 +3502,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3538,7 +3538,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10165458804423467599
+  Id: 11288929186816513535
   Name: "Bush 01"
   Transform {
     Location {
@@ -3554,7 +3554,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3590,7 +3590,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13899838039794543682
+  Id: 4806045465741376076
   Name: "Bush 01"
   Transform {
     Location {
@@ -3606,7 +3606,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3642,7 +3642,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11246026654182952741
+  Id: 11701663172860562411
   Name: "Rock 03"
   Transform {
     Location {
@@ -3658,7 +3658,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3694,7 +3694,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 15356104597857469805
+  Id: 8840502715020200297
   Name: "Rock 01"
   Transform {
     Location {
@@ -3711,7 +3711,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3747,7 +3747,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17117822266994655040
+  Id: 7809504892597044440
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -3764,7 +3764,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3800,7 +3800,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5080552817069344900
+  Id: 10841510101954466593
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -3817,7 +3817,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3853,7 +3853,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16462531858367078637
+  Id: 12880110382175478275
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -3870,7 +3870,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3906,7 +3906,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1397966308667153880
+  Id: 2276768314368735786
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -3923,7 +3923,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -3959,7 +3959,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9197256265278244570
+  Id: 104265564278323884
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -3976,7 +3976,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4012,7 +4012,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 11444463725023918434
+  Id: 2913304262783545477
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4029,7 +4029,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4065,7 +4065,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1340427975164265076
+  Id: 18129809245197899412
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4082,7 +4082,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4118,7 +4118,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 17394393723986414915
+  Id: 7254669708749526125
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4135,7 +4135,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4171,7 +4171,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 4100827518187296849
+  Id: 8718252279950050545
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4188,7 +4188,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4224,7 +4224,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 9716537865812286949
+  Id: 13731792689095361482
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4241,7 +4241,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4277,7 +4277,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 7887587362642330675
+  Id: 8100839745692188056
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4294,7 +4294,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4330,7 +4330,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12024828494428051
+  Id: 9756983892734779080
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4347,7 +4347,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4383,7 +4383,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 1067910465563871332
+  Id: 6954498125380241792
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4400,7 +4400,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4436,7 +4436,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 10653697524481666678
+  Id: 5120247458536925548
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4453,7 +4453,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4489,7 +4489,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12108241416343390438
+  Id: 12315230480385715250
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4506,7 +4506,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4542,7 +4542,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 13605688055591303595
+  Id: 885925969127440652
   Name: "Tree Birch 02"
   Transform {
     Location {
@@ -4558,7 +4558,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -4594,7 +4594,7 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 6635713886553757185
+  Id: 3705170403157256084
   Name: "Tree Birch 01"
   Transform {
     Location {
@@ -4610,7 +4610,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 18276335768224128200
+  ParentId: 7588892069488114949
   UnregisteredParameters {
   }
   Collidable_v2 {

@@ -1153,53 +1153,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 12019205732883290829
-  Name: "Roll For Loot Example"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 14191269925438108840
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 10874906539535955149
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Roll For Loot Example"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -3996.23633
-            Y: 10241.1641
-            Z: 2572.5
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 2.07154322
-            Y: 2.07154322
-            Z: 2.07154322
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11967305869199620299
-    }
-  }
-}
-Objects {
   Id: 9716535400169473470
   Name: "Craftsman Porch Fence Railing 01"
   Transform {

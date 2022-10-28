@@ -20,6 +20,7 @@ Objects {
   ChildIds: 13610095578206237612
   ChildIds: 6307349831569756261
   ChildIds: 4622417034103665885
+  ChildIds: 12607551118247108630
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -37,6 +38,54 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 12607551118247108630
+  Name: "ItemRespawner_2"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 6072001478585378490
+      value {
+        Overrides {
+          Name: "Name"
+          String: "ItemRespawner_2"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 15943.5498
+            Y: 4095.05176
+            Z: 11716.5713
+          }
+        }
+        Overrides {
+          Name: "cs:Item"
+          AssetReference {
+            Id: 1892793120148773077
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+            Pitch: -8.76565552
+            Yaw: 145.633789
+            Roll: 6.80585575
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17800793337168911360
+    }
+  }
 }
 Objects {
   Id: 4622417034103665885
@@ -239,14 +288,15 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  ChildIds: 3159395483841445025
   ChildIds: 18026639948816061019
   ChildIds: 7124824039622566739
   ChildIds: 9040423248238083423
-  ChildIds: 5436304077007485400
   ChildIds: 10566879482753414907
   ChildIds: 17178985769858496003
   ChildIds: 857757742199698415
+  ChildIds: 2294129142264210619
+  ChildIds: 16457995961461082094
+  ChildIds: 16395123677865338472
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -261,6 +311,109 @@ Objects {
   }
   Folder {
     IsGroup: true
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 16395123677865338472
+  Name: "UI Settings"
+  Transform {
+    Location {
+      Z: -0.000244140625
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5171401545723156788
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "UI Settings"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 16457995961461082094
+  Name: "ItemSystems"
+  Transform {
+    Location {
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5171401545723156788
+  UnregisteredParameters {
+  }
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "ItemSystems"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 2294129142264210619
+  Name: "Game Settings"
+  Transform {
+    Location {
+      Z: -0.000244140625
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 5171401545723156788
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Game Settings"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -381,149 +534,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Tornados"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 5436304077007485400
-  Name: "Game Settings"
-  Transform {
-    Location {
-      X: 0.00390625
-      Y: 0.0107421875
-      Z: -0.0009765625
-    }
-    Rotation {
-      Pitch: 6.83018879e-06
-      Yaw: 3.50047158e-05
-      Roll: 2.13443468e-06
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5171401545723156788
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Settings {
-    IsDefault: true
-    GameSettings {
-      RagdollOnDeath: true
-      ChatSettings {
-        ChatMode {
-          Value: "mc:echatmode:teamandall"
-        }
-        ChatPosition {
-          X: 40
-        }
-        ChatSize {
-          X: 450
-          Y: 400
-        }
-        ChatHorizontalAlignment {
-          Value: "mc:ecorehorizontalalign:left"
-        }
-        ChatVerticalAlignment {
-          Value: "mc:ecoreverticalalign:center"
-        }
-      }
-      PhysicsSettings {
-        MinContactOffset: 2
-        MaxContactOffset: 8
-      }
-      RelevanceSettings {
-        key: "decal"
-        value {
-          LowDistance: 4500
-          MediumDistance: 7000
-          HighDistance: 9000
-        }
-      }
-      RelevanceSettings {
-        key: "light"
-        value {
-          LowDistance: 4500
-          MediumDistance: 7000
-          HighDistance: 9000
-        }
-      }
-      RelevanceSettings {
-        key: "mergedmesh"
-        value {
-          LowDistance: 4500
-          MediumDistance: 7000
-          HighDistance: 9000
-        }
-      }
-      RelevanceSettings {
-        key: "mesh"
-        value {
-          LowDistance: 4500
-          MediumDistance: 7000
-          HighDistance: 9000
-        }
-      }
-      RelevanceSettings {
-        key: "vfx"
-        value {
-          LowDistance: 4500
-          MediumDistance: 7000
-          HighDistance: 9000
-        }
-      }
-      VoiceChatSettings {
-        VoiceChatMode {
-          Value: "mc:evoicechatmode:none"
-        }
-        VoiceChannelType {
-          Value: "mc:evoicechanneltype:normal"
-        }
-        AudibleDistance: 6000
-        ConversationalDistance: 1500
-        AudioFadeModel {
-          Value: "mc:evoiceaudiofademodel:inverse"
-        }
-        AudioFadeIntensityByDistance: 1
-        VoiceChatPosition {
-          X: -40
-          Y: 40
-        }
-        VoiceChatHorizontalAlignment {
-          Value: "mc:ecorehorizontalalign:right"
-        }
-        VoiceChatVerticalAlignment {
-          Value: "mc:ecoreverticalalign:top"
-        }
-        VoiceChatEntryHorizontalFlow {
-          Value: "mc:ecorehorizontalflow:righttoleft"
-        }
-        VoiceChatEntryVerticalFlow {
-          Value: "mc:ecoreverticalflow:toptobottom"
-        }
-        IsVoiceChatWidgetVisible: true
-      }
-      PlayerInteractDistance: 500
-      PlayerInteractAngleDeg: 50
-      PlayerStorageMode {
-        Value: "mc:eplayerstoragemode:none"
-      }
-      EnableNetworkedEventsQueuing: true
-    }
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -652,44 +662,6 @@ Objects {
   Folder {
     IsFilePartition: true
     FilePartitionName: "Building"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 3159395483841445025
-  Name: "Gameplay Settings"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 5171401545723156788
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  EditorIndicatorVisibility {
-    Value: "mc:eindicatorvisibility:visiblewhenselected"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "Gameplay Settings"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"

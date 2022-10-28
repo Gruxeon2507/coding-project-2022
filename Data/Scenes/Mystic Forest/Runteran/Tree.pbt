@@ -1,15 +1,16 @@
 Name: "Runteran"
-RootId: 14784000909502167293
+RootId: 10070621900045713476
 Objects {
-  Id: 10172116663648567090
+  Id: 9564143653386289729
   Name: "Cube"
   Transform {
     Location {
-      X: -331.688721
-      Y: -20011.5234
-      Z: 2259.78784
+      X: 3103.86694
+      Y: -1460.56201
+      Z: 509.691895
     }
     Rotation {
+      Yaw: -1.02452823e-05
     }
     Scale {
       X: 1
@@ -17,16 +18,24 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 14784000909502167293
-  ChildIds: 16923921311681543236
+  ParentId: 10070621900045713476
+  ChildIds: 15428550667094332347
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 17436694173372392815
+      }
+    }
+  }
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+    Value: "mc:evisibilitysetting:forceoff"
   }
   CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceoff"
   }
   EditorIndicatorVisibility {
     Value: "mc:eindicatorvisibility:visiblewhenselected"
@@ -56,13 +65,10 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 16923921311681543236
+  Id: 15428550667094332347
   Name: "Trigger"
   Transform {
     Location {
-      X: -50
-      Y: 16.2714844
-      Z: 8.59521484
     }
     Rotation {
     }
@@ -72,8 +78,8 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 10172116663648567090
-  ChildIds: 5997836080125676252
+  ParentId: 9564143653386289729
+  ChildIds: 12488466153263507234
   Collidable_v2 {
     Value: "mc:ecollisionsetting:forceon"
   }
@@ -88,7 +94,6 @@ Objects {
   }
   Trigger {
     Interactable: true
-    InteractionLabel: "tele_Runteran"
     TeamSettings {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
@@ -107,13 +112,10 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 5997836080125676252
-  Name: "tele_mystic_run_1"
+  Id: 12488466153263507234
+  Name: "teleport_runtera"
   Transform {
     Location {
-      X: 50
-      Y: -16.2714844
-      Z: -8.59521484
     }
     Rotation {
     }
@@ -123,7 +125,7 @@ Objects {
       Z: 1
     }
   }
-  ParentId: 16923921311681543236
+  ParentId: 15428550667094332347
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -138,7 +140,7 @@ Objects {
   }
   Script {
     ScriptAsset {
-      Id: 5505998881204037925
+      Id: 11651530398992215939
     }
   }
   NetworkRelevanceDistance {
