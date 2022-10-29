@@ -3,7 +3,6 @@ local MOVE_TO_LOCATION_POINT_OBJ = script:GetCustomProperty("MoveToLocationPoint
 local HIDE_CUBE_ON_LOAD = script:GetCustomProperty("hideCubeOnLoad")
 local SPAWNED_VFX_SFX_FOLDER = script:GetCustomProperty("SpawnedVFXSFXPortal")
 local PLAY_VFX_SFX_ON_PORTAL_TRIGGERED = script:GetCustomProperty("playVfxSfxOnPortalTriggered")
-local Levelrequirment = script:GetCustomProperty("Levelrequirment")
 
 local trigger = script.parent
 local moveToLocationPos = MOVE_TO_LOCATION_POINT_OBJ:GetWorldPosition()
@@ -14,12 +13,9 @@ end
 
 function OnBeginOverlap(whichTrigger, other)
 	if other:IsA("Player") then
-		local Level = other:GetResource("Level")
-		if Level >= Levelrequirment then
-			other:SetWorldPosition(moveToLocationPos)
-			if(PLAY_VFX_SFX_ON_PORTAL_TRIGGERED) then
-				World.SpawnAsset(SPAWNED_VFX_SFX_FOLDER, {position=other:GetWorldPosition()})
-			end
+		other:SetWorldPosition(moveToLocationPos)
+		if(PLAY_VFX_SFX_ON_PORTAL_TRIGGERED) then
+			World.SpawnAsset(SPAWNED_VFX_SFX_FOLDER, {position=other:GetWorldPosition()})
 		end
 	end
 end

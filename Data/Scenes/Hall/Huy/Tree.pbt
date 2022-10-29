@@ -5,9 +5,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -3920.6167
-      Y: 5439.97266
-      Z: 10794.292
+      X: -3951.02
+      Y: 5413.54199
+      Z: 10648.9883
     }
     Rotation {
     }
@@ -68,9 +68,9 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
-      X: -55.2353516
-      Y: 73.6074219
-      Z: 150
+      X: -1.31176758
+      Y: -7.47265625
+      Z: 1.48828125
     }
     Rotation {
       Pitch: -3.05175781e-05
@@ -122,13 +122,15 @@ Objects {
   Name: "Teleport to Dark Island"
   Transform {
     Location {
+      X: 28.8461914
+      Z: -1.18994141
     }
     Rotation {
       Yaw: 1.70754686e-06
     }
     Scale {
       X: 0.666665554
-      Y: 0.333333373
+      Y: 0.333333313
       Z: 0.347826064
     }
   }
@@ -160,9 +162,9 @@ Objects {
   Name: "Cube"
   Transform {
     Location {
-      X: -1790.40381
-      Y: 4688.64111
-      Z: 10730.1592
+      X: -1783.65479
+      Y: 4743.98682
+      Z: 10647.6035
     }
     Rotation {
     }
@@ -223,8 +225,9 @@ Objects {
   Name: "Trigger"
   Transform {
     Location {
-      X: -16.0722656
-      Y: -21.9677734
+      X: -147.273071
+      Y: -30.9951172
+      Z: 92.7675781
     }
     Rotation {
       Yaw: -89.9999695
@@ -275,9 +278,9 @@ Objects {
   Name: "teleport_runtera"
   Transform {
     Location {
-      X: -10.9442368
-      Y: 32.3027153
-      Z: -328.427063
+      X: 42.0282669
+      Y: 23.7005215
+      Z: -16.2000351
     }
     Rotation {
     }

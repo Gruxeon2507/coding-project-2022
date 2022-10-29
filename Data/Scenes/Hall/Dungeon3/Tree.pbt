@@ -1,6 +1,65 @@
 Name: "Dungeon3"
 RootId: 8469237133150624531
 Objects {
+  Id: 15113913699258922203
+  Name: "Location:D3"
+  Transform {
+    Location {
+      X: 28916.1738
+      Y: 5099.73096
+      Z: 4659.16748
+    }
+    Rotation {
+    }
+    Scale {
+      X: 1.620983
+      Y: 1.620983
+      Z: 1.620983
+    }
+  }
+  ParentId: 8469237133150624531
+  UnregisteredParameters {
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:id"
+      AssetReference {
+        Id: 3908766552658389863
+      }
+    }
+  }
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:forceoff"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 12095835209017042614
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    InteractWithTriggers: true
+    StaticMesh {
+      Physics {
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
   Id: 11686420647578171079
   Name: "NPC Camp - Player Proximity"
   Transform {

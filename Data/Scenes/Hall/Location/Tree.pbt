@@ -61,66 +61,6 @@ Objects {
   IsReplicationEnabledByDefault: true
 }
 Objects {
-  Id: 468034807151169889
-  Name: "Location: D3"
-  Transform {
-    Location {
-      X: 29702.2734
-      Y: 5037.52637
-      Z: 4703.37
-    }
-    Rotation {
-      Yaw: -47.3978844
-    }
-    Scale {
-      X: 1.620983
-      Y: 1.620983
-      Z: 1.620983
-    }
-  }
-  ParentId: 1031080343980185180
-  UnregisteredParameters {
-    Overrides {
-      Name: "ma:Shared_BaseMaterial:id"
-      AssetReference {
-        Id: 3908766552658389863
-      }
-    }
-  }
-  WantsNetworking: true
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:forceoff"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    InteractWithTriggers: true
-    StaticMesh {
-      Physics {
-      }
-      BoundsScale: 1
-    }
-  }
-  Relevance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
   Id: 8239828015613038466
   Name: "Location:D2back"
   Transform {

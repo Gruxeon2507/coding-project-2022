@@ -23,9 +23,11 @@ Objects {
   ChildIds: 11392084264657883933
   ChildIds: 15018382623508781556
   ChildIds: 2528425545740175369
-  ChildIds: 3427216944883561273
   ChildIds: 2522779093242179052
   ChildIds: 13462997988077702345
+  ChildIds: 8959529151552166776
+  ChildIds: 2231131238769415023
+  ChildIds: 7883094122256881992
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -43,6 +45,166 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 7883094122256881992
+  Name: "Hidden Chest"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 8809011207532418420
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Hidden Chest"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -25164.6973
+            Y: 12130.8604
+            Z: 576.999817
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 14292268596583113165
+    }
+  }
+}
+Objects {
+  Id: 2231131238769415023
+  Name: "Telekit_true"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7675405604662793345
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Telekit_true"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 7615.89746
+            Y: -19753.6328
+            Z: 1668.94141
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17455717074816238532
+    }
+  }
+}
+Objects {
+  Id: 8959529151552166776
+  Name: "Spike Equipment"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 7959984469711495663
+      value {
+        Overrides {
+          Name: "StaticMesh"
+          AssetReference {
+            Id: 4678801537593034345
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 65.0473633
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 10166202541709412690
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Spike Equipment"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 2266.12524
+            Y: -19379.7695
+            Z: 4750.6709
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 11895193309020837159
+      value {
+        Overrides {
+          Name: "cs:Spike_Planted"
+          AssetReference {
+            Id: 17455717074816238532
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12899869631965925885
+      value {
+        Overrides {
+          Name: "StaticMesh"
+          AssetReference {
+            Id: 13243011116332696511
+          }
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            Z: 120.746582
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 815604117945248214
+    }
+  }
 }
 Objects {
   Id: 13462997988077702345
@@ -66,7 +228,7 @@ Objects {
         Overrides {
           Name: "Position"
           Vector {
-            X: 2485.51147
+            X: 1896.52808
             Y: -19908.6016
             Z: 4750.6709
           }
@@ -117,213 +279,6 @@ Objects {
       Id: 17800793337168911360
     }
   }
-}
-Objects {
-  Id: 3427216944883561273
-  Name: "Portal To A Location"
-  Transform {
-    Location {
-      X: 6496.64795
-      Y: -2246.17676
-      Z: 242.987976
-    }
-    Rotation {
-      Pitch: -86.9770813
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 14323077284295800398
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:forceoff"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsGroup: true
-  }
-  InstanceHistory {
-    SelfId: 3427216944883561273
-    SubobjectId: 12614167284714683440
-    InstanceId: 4124821210947218935
-    TemplateId: 6514586947070373637
-    WasRoot: true
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 14323077284295800398
-  Name: "Portal VFX"
-  Transform {
-    Location {
-      X: -102.689453
-      Y: -86.1341553
-      Z: 272.167664
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.635782838
-      Y: 0.635782838
-      Z: 0.635782838
-    }
-  }
-  ParentId: 3427216944883561273
-  ChildIds: 16217970914320733764
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 6950558847410687192
-    }
-    TeamSettings {
-    }
-  }
-  InstanceHistory {
-    SelfId: 14323077284295800398
-    SubobjectId: 5063355568464640327
-    InstanceId: 4124821210947218935
-    TemplateId: 6514586947070373637
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 16217970914320733764
-  Name: "Trigger"
-  Transform {
-    Location {
-      X: 6.5514245
-      Y: -19.3516827
-      Z: 2.24644828
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.942900181
-      Y: 7.99977112
-      Z: 8.40461636
-    }
-  }
-  ParentId: 14323077284295800398
-  ChildIds: 1725146351926892102
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Trigger {
-    TeamSettings {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    TriggerShape_v2 {
-      Value: "mc:etriggershape:box"
-    }
-    InteractionTemplate {
-    }
-    BreadcrumbTemplate {
-    }
-  }
-  InstanceHistory {
-    SelfId: 16217970914320733764
-    SubobjectId: 7030298691915880781
-    InstanceId: 4124821210947218935
-    TemplateId: 6514586947070373637
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
-}
-Objects {
-  Id: 1725146351926892102
-  Name: "MovePlayerToLocationTrigger"
-  Transform {
-    Location {
-      X: -387.53833
-      Y: 182.62088
-      Z: -8.04443264
-    }
-    Rotation {
-    }
-    Scale {
-      X: 0.217346311
-      Y: 0.217346311
-      Z: 0.0797859
-    }
-  }
-  ParentId: 16217970914320733764
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:MoveToLocationPoint"
-      ObjectReference {
-        SelfId: 2528425545740175369
-      }
-    }
-    Overrides {
-      Name: "cs:hideCubeOnLoad"
-      Bool: true
-    }
-    Overrides {
-      Name: "cs:playVfxSfxOnPortalTriggered"
-      Bool: true
-    }
-    Overrides {
-      Name: "cs:SpawnedVFXSFXPortal"
-      AssetReference {
-        Id: 1472354308449291601
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 5792750329910035130
-    }
-  }
-  InstanceHistory {
-    SelfId: 1725146351926892102
-    SubobjectId: 10912677647860865359
-    InstanceId: 4124821210947218935
-    TemplateId: 6514586947070373637
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 2528425545740175369

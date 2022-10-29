@@ -1,4 +1,13 @@
 Assets {
+  Id: 13243011116332696511
+  Name: "Craftsman Porch Pillar 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_sub_craftsman_porch_001_pillar"
+  }
+}
+Assets {
   Id: 12095835209017042614
   Name: "Cube"
   PlatformAssetType: 1
@@ -8,12 +17,12 @@ Assets {
   }
 }
 Assets {
-  Id: 6950558847410687192
-  Name: "Portal VFX"
-  PlatformAssetType: 6
+  Id: 4678801537593034345
+  Name: "Column Base 02"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_portal"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_column_bottom_002"
   }
 }
 Assets {

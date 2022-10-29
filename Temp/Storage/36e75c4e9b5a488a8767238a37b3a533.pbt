@@ -17,6 +17,23 @@ Entries {
 }
 Entries {
   Key {
+    StringVar: "equipment"
+  }
+  SimpleValue {
+    Table {
+      Entries {
+        Key {
+          StringVar: "right_prop"
+        }
+        SimpleValue {
+          StringVar: "B35B740BE2E9D803"
+        }
+      }
+    }
+  }
+}
+Entries {
+  Key {
     StringVar: "resources"
   }
   SimpleValue {
@@ -42,18 +59,9 @@ Entries {
 }
 Entries {
   Key {
-    StringVar: "equipment"
+    StringVar: "QSinventory"
   }
   SimpleValue {
-    Table {
-      Entries {
-        Key {
-          StringVar: "right_prop"
-        }
-        SimpleValue {
-          StringVar: "B35B740BE2E9D803"
-        }
-      }
-    }
+    StringVar: "P<EMainHand>PCE5A7F5668D169AD|baaa|b|b|#Attack=Saaa&Haste=faaa|<0>;<Bb>PDBDEEF696E0DA936|Yaaa|b|b||<0>;"
   }
 }

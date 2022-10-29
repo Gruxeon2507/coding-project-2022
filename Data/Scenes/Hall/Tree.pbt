@@ -24,7 +24,6 @@ Objects {
   ChildIds: 10840886533551413562
   ChildIds: 16153467121590742472
   ChildIds: 5431360534382517102
-  ChildIds: 16642656275692172485
   ChildIds: 8700713520672683534
   ChildIds: 4120821393559706557
   ChildIds: 9410808133795207708
@@ -33,6 +32,7 @@ Objects {
   ChildIds: 13499855094657798193
   ChildIds: 18326636705095695524
   ChildIds: 16071129039315594082
+  ChildIds: 2543951439085962920
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -45,6 +45,43 @@ Objects {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
   Folder {
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 2543951439085962920
+  Name: "Center Teleport Hall"
+  Transform {
+    Location {
+      X: -1594.1748
+      Y: 2771.99707
+      Z: 9466.62207
+    }
+    Rotation {
+      Yaw: 89.1892853
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Center Teleport Hall"
   }
   NetworkRelevanceDistance {
     Value: "mc:eproxyrelevance:critical"
@@ -6235,43 +6272,6 @@ Objects {
       Id: 3909280331747145706
     }
   }
-}
-Objects {
-  Id: 16642656275692172485
-  Name: "CHPortalArea"
-  Transform {
-    Location {
-      X: -1594.1748
-      Y: 2771.99707
-      Z: 9466.62207
-    }
-    Rotation {
-      Yaw: 89.1892853
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CameraCollidable {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Folder {
-    IsFilePartition: true
-    FilePartitionName: "PortalArea"
-  }
-  NetworkRelevanceDistance {
-    Value: "mc:eproxyrelevance:critical"
-  }
-  IsReplicationEnabledByDefault: true
 }
 Objects {
   Id: 5431360534382517102

@@ -44,6 +44,15 @@ Assets {
   }
 }
 Assets {
+  Id: 10035539167917478972
+  Name: "Icon Crown"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "Icon_Crown"
+  }
+}
+Assets {
   Id: 8618361015811032129
   Name: "Frame Outlined 002"
   PlatformAssetType: 9

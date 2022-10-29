@@ -107,6 +107,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3908766552658389863
+  Name: "Food Watermelon 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_food_generic_watermelon_001_uv1"
+  }
+}
+Assets {
   Id: 3605030238014728915
   Name: "Wood Planks"
   PlatformAssetType: 2

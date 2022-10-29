@@ -21,6 +21,8 @@ Objects {
   ChildIds: 6307349831569756261
   ChildIds: 4622417034103665885
   ChildIds: 12607551118247108630
+  ChildIds: 17000253135229655035
+  ChildIds: 11381016282411069717
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -38,6 +40,117 @@ Objects {
     Value: "mc:eproxyrelevance:critical"
   }
   IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 11381016282411069717
+  Name: "Craftsman Part - Wall 01"
+  Transform {
+    Location {
+      X: 10896.1279
+      Y: 8142.60742
+      Z: 9831.27832
+    }
+    Rotation {
+      Pitch: 19.1446095
+      Yaw: -0.696563721
+      Roll: -89.9224548
+    }
+    Scale {
+      X: 13.0192461
+      Y: 10.1983595
+      Z: 12.968915
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:forceon"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:forceoff"
+  }
+  CameraCollidable {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  EditorIndicatorVisibility {
+    Value: "mc:eindicatorvisibility:visiblewhenselected"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 18018580779335498022
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    StaticMesh {
+      Physics {
+        Mass: 100
+        LinearDamping: 0.01
+      }
+      BoundsScale: 1
+    }
+  }
+  Relevance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  NetworkRelevanceDistance {
+    Value: "mc:eproxyrelevance:critical"
+  }
+  IsReplicationEnabledByDefault: true
+}
+Objects {
+  Id: 17000253135229655035
+  Name: "Boss: Death Anubis"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  WantsNetworking: true
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 2320087412702205791
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Boss: Death Anubis"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+        Overrides {
+          Name: "cs:CurrentHealth"
+          Float: 10000
+        }
+        Overrides {
+          Name: "cs:MoveSpeed"
+          Float: 1100
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 12944914892786027421
+      value {
+        Overrides {
+          Name: "cs:DamageToPlayers"
+          Int: 200
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1892793120148773077
+    }
+  }
 }
 Objects {
   Id: 12607551118247108630
